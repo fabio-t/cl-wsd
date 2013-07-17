@@ -1,0 +1,57 @@
+@relation mission-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {mission,observateur,venue,enlisement,appuyé,cruel,gun,commandement,monter,délégation,voyage,actualisée,troïka,incombe,tâche,schori,fusionner,carnées,commission,lecteur,représentation,professe,dernier,envoi,fenêtre,pis,opération,muas,préservation,revient,normal,enquêter,minurso,barricade,délivrance,sudan,démocratiques,avicenne,chargé,kdom,tort,prévoit-elle,risquées,envoyer,action,missionnaire,acquise,impérieuse,relativiser,honneur,roberto,resurgissent,bannière,réfléchit,africain,revêtira,kabila,petersberg,diplomatie,holbrooke,osce,intervention,équipe,état,neutre,visite,proche-orientaux,vocation,ardue,ex-chancelier,kvm,adjoint,nuage,latrines,émissaire,responsabilité,pagode,suicide,wieck,dépêchées,consacrer,égard,nmd,jénine,facilitateurs,discutables,immobiles,celle-ci,artémis,gage,etc,engagé,arcobaleno,oriental}
+
+@data
+1,day:later:Georg:Kennan:chief:American:embassi:Moscow:foremost:American:expert:USSR:submit:detail:analysi:Soviet:aim:Long:Telegram,?
+2,Although:scale:allianc:Patriot:missil:continu:destroy:incom:Scud:fear:remain:Iraq:replac:convent:warhead:chemic,?
+3,ambassador:expect:end:receiv:ruler:accredit:farewel:present:particular:special:ambassador:high:social:rank:consider:valu,?
+4,Befor:left:compil:inform:detain:alleg:detain:said:miss,?
+5,But:increas:unusu:individu:ambassador:envoy:lead:control:member:clear:subordin:establish:norm,?
+6,Dure:night:insid:Iraq:laser:shine:belli:bomber:kept:target:pilot:weapon:offic:help:electron:compens:aircraft:movement,?
+7,For:minor:member:foreign:ambassador:secretari:import:gold:chain:continu:seventeenth:centuri:common:gift:Europ,?
+8,For:UNESCO:unabl:send:cultur:Iraq:investig:situat:team:expert:line:Juli:year,?
+9,From:British:secretari:embassi:Pari:Madrid:accredit:minist:plenipotentiari:carri:busi:quit:effect:absenc:head,?
+10,Harri:Poat:left:Stirl:split:remain:forc:group:travel:independ:rendezv:Bir:Soltan:mile:Mareth:line,?
+11,Have:recent:return:fact-find:organis:Gulf:Centr:Strateg:Studi:Marlow:attack:Gulf:Report:vocifer:unrepres:minor:effect:sic:believ:way:life:govern:measur:countri:measur,?
+12,said:Egyptian:troop:remain:Gulf:complet:describ:aid:Kuwait:joint:Arab:defenc:agreement,?
+13,think:apart:corpor:plan:strategi:statement:realli:need:vision:futur:compani:vision:work:share,?
+14,soon:learn:theme:angel:popular:paint:produc:indigen:artist:complex:iconograph:programm:church:establish:Spanish:conquest,?
+15,remain:work:complet:Dutch:prison:war:Vermuyden:direct:servic:thanksgiv:held:Eli:Cathedr:year:Vermuyden:employ:earlier:adversari:lord:protector:diplomat:Netherland,?
+16,Informat:avail:export:market:world:practic:support:compani:particip:trade:exhibit:undertak:market:research,?
+17,hard:recognis:India:countri:world:proven:capabl:undertak:orbit:deton:nuclear:devic,?
+18,cours:secret:diplomat:oper:massiv:communic:use:local:telephon:telex:line:direct:radio:contact:foreign:ministri,?
+19,midst:preliminari:discuss:lordship:entrust:suffici:unusu:remain:memori:day:alongsid:obvious:unforgett:occurr:remark:week,?
+20,Just:adopt:Resolut:concern:establish:UNIKOM:Iraq-Kuwait:frontier:Observat:demilitar:zone:came:critic:import:vote:April,?
+21,Lumumba:attempt:appeal:public:radio:turn:away:Ghanaian:troop:act:order:head:Ralph:Bunch,?
+22,Moreov:secretari:attach:legat:embassi:individu:minist:ambassador:remain:post:fair:long:period:valuabl:sourc:inform:local:condit:great:help:new:head:come:strang:countri:knew,?
+23,Nasa:took:deliveri:yesterday:report:commiss:timet:Presid:Bush:vagu:plan:man:Mar:planet,?
+24,Nowher:previous:-odd:page:shown:doubt:account:war:fought:Alli:balanc:previous:version:sanit:romantic:recognit:sentiment:looni:patriot:ignor:bloodthirsti,?
+25,One:sensit:natur:arrog:power:nation:fault:power:nation:suffer:disastr:effect:German:conscious:have:past,?
+26,Peopl:frequent:motiv:occup:prospect:intrins:satisfact:job:altruist:motiv:give:servic:feel:social:duti:sens:motiv:frequent:unconnect:materi:wealth:status:power,?
+27,Present:kind:resid:head:standardis:govern:tradit:glamor:extraordinari:ambassador:duti:length:stay:extrem:variabl,?
+28,Recruit:tricki:pinion:German:plane:crash:dam:flood:German:base:goe:blaze:glori:have:save:British:fleet:like:destruct,?
+29,Russian:foreign:minist:Andrei:Kozyrev:Belgrad:new:Balkan:peac:European:Commun:insist:remain:commit:Vance-Owen:plan,?
+30,She:trodden:distinct:path:guid:The:Bodi:Shop:honest:cosmet:compani:world:shine:exampl:retail:industri:draw:inspir,?
+31,She:wait:month:year:interview:Entri:Clearanc:Officer:British:diplomat:Indian:subcontin:endless:interrog:subject:colour:famili:goat:number:room:hous:live:guest:wed:happen:wed:night,?
+32,Some:church:leader:fear:polit:commit:church:undermin:valu:spiritu:dimens:Christian:faith:threaten:salvat,?
+33,The:Review:cover:continu:need:contribut:collect:secur:valu:Britain:remain:extra-European:commit:potenti:increas:contribut:peacekeep,?
+34,The:busi:ICI:Paint:Europ:win:custom:rang:superior:surfac:coat:system:custom:servic:core:valu:grow:return:net:asset:approach,?
+35,The:raid:Wimbledon:Lendl:explain:suicid:Against:player:feel:confid:move:net,?
+36,The:rumour:German:raider:inspir:best-sel:thriller:The:Eagl:Has:Land:paratroop:dress:Alli:Polish:troop:captur:mythic:Norfolk:villlag:snatch:Winston:Churchil,?
+37,Their:report:comment:head:seen:imperi:chancellor:formal:respons:conduct:German:foreign:polici,?
+38,Then:spring:came:disast:rescu:agonis:pictur:wreck:helicopt:char:bodi:page:newspap:televis:channel,?
+39,There:broad:area:address:natur:institut:compani:sector:charact:vision:extens:clariti:busi,?
+40,What:import:relat:signific:attribut:task:extent:leadership:concern:minutia:institut:administr:vision:school,?
+41,Follow:Commiss:veterinari:inspect:Peru:health:situat:appear:satisfactori:control:veterinari:servic:movement:equida:part:territori:rest:countri:appear:control,?
+42,British:expertis:work:practic:help:modernis:bank:Soviet:republ:follow:fact-find:Liverpool:Ukrainian,?
+43,His:main:life:year:chief:execut:organ:call:Busi:Commun:BitC:cut:unemploy:regener:inner:citi,?
+44,Canada:shall:inform:civilian:crisi:manag:oper:Head:Gener:Secretariat:Council:European:Union:chang:contribut:civilian:crisi:manag:oper,?
+45,Daili:subsist:allow:staff:member:shall:amend:line:payabl:offici:Commun:determin:Council,?
+46,For:ant:verif:seri:similar:individu:transact:relat:routin:expenditur:salari:pension:reimburs:expens:medic:expens:consid:authoris:offic:respons:constitut:singl:oper,?
+47,Member:State:shall:kept:inform:Commiss:meet:Stand:Veterinari:Committe:situat:countri:includ:matter:residu:check:health:plan,?
+48,Nation:author:shall:transfer:oper:control:civilian:crisi:manag:oper:Head:shall:exercis:author:hierarch:structur:command:control,?
+49,This:shall:ground:normal:cours:oper:includ:polic:headquart,?
+50,Without:prejudic:agreement:status:forc:refer:paragraph:Articl:Canada:shall:respons:answer:claim:link:particip:crisi:manag:oper:concern:personnel,?

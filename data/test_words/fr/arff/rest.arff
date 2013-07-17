@@ -1,0 +1,57 @@
+@relation rest-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {pendant,solana,reposer,reste,carolin,sinti,autres,victime,repos,outre,part,filtré,alléguant,monde,plus,obtient,soyez-en,seigneur,adressent,artificiellement,rassurent,apaiser,ailleurs,val,suite,laissées,joignant,casera,reposé,proscription,vingtième,jean-marie,être,nocturne,compte-rendu,plaidoirie,étonnées,éternelle,sape,empêcher,rumeur,attrait,appartiendra,arrêter,attribuer,titford,incombe,repose,identique,main,autrui,jungle,réside,respirez,reposent,chaumière,positionner,gebhardt,appartient,relâcherons,préjugé,toilette,dites,restant,démontrer,échelle,ifor,réfute,karel,hutu,incorrectes,marie,ensemble,demi-solutions,enfermer,fin,oublié,tÜsiad,supprimerons,calmer,entière,rester,monétaire,rangé,tous,impliquées,orientée,collègue,tampere,contre-révolution,appréhension,restantes,renommé,pilier,refusent,pause,relève,pouvez,période,interromps,gouvernant,varient,avis,talonné,rassurés,délester,achève,décentralisés,somme,assurés,hanté,confirmant,ressort,essaient,repartir,appartenir,observance,endormir,globalise,bâtissent,prétexte,parcourus,allergique,revient,appuierai,serbe,cou,propos,approfondir,proprement,incombent,drink,pacifiquement,schmidhuber,insistiez,astre,multimodale,dominical,déclenché,ultérieurs,entrevoit,affligeante,csu,tiens,fondées,finir,serez-vous,niveleur,magasin,croyez,pds,fonde,chee-hwa,avarie,tournée,sachiez,charger,ardent,recherché,empêche,scénario,handicaper,clameur,instruite,avoir,bétancour,cesse,déçoivent,empire,danois,citoyen,isole,demeure,parlerai,offrent-ils,pse,chargés,enterrées,rassurer,halte,inacceptables,sillage,compétents,tranquilliser,close,ressourcer,interpelle,resttime,laisse,cimente,bank,dévolues,décider,déconsidérer,emploi,imaginez-vous,retombe,match,appuyer,finaliser,coiffeur,rassurantes,avilissent,inapplicable,collégial,inconsciemment,uruguay,désorganisation,taire,assoupir,salafranca,résolue,wenra,enzymes,construire,section,rassuré,mère,épaule,demeurant,bénisse,pah,enterré,assigne,manquerai,cepcm,comporté,rôle,rassurée,notifiée,dépassait,remets,aloi,ambassadeur,sein,généralité,demeurer,enterrée,catalogue,maintenue,littérature,devions,nocive,gage,stressante,extraterrestres,rapprochement,elles,resteras,décèle,extrême-droite,situons,donnez-nous,ébranlé,lutteront,passent,phénoménales,aeternam,denktash,tranquille,interdépendantes,sûre,composé,ldes,drame,incomber,helvétiques,deuil,conseiller,contenterai,douloureuse,demandaient,tommaso,fier,recouvrement,birdal,confiée,appui,obtiendrez,hormis,troupeau,accumuler,faisais,calculez,bâtisseur,instar,donneur,munition,branlantes,insuffisance,discrétion,nuée,reposions,réticence,tout,contaminer,engouement,habilitées,bénéficieront,jouerons,enfermement,trouve,rana,répit,spécialisé,sieste,dit,appuiera,refrain,accroîtra,reposait,montrions,floriculture,union,tranquilles,surcapitalisation,assure,tours-opérateurs,collège,serve,trait,barcelona,acquisition,partie,souffrait,régleront,coule,réparateur,plaise,réserve,apaisés,autant,baser,fiction,intouchable,bouleversent,définitivement,courtage,origine,allez,leçon,taliban,réintègre,contrairement,reposez,réceptifs,rassurez-vous,assuré,premier,opinion,dissiper,fiche,environne,perceptible,convergence,donnions,balle,avance,unilatérale,également,poursuivrai,affinité,rassure,traquera,paix,confondent,tranquillité,isolé,rail,doivent-ils,masquent,cedefop,rassurerait,brillant,soulage,monterrey,marqueront,asphyxie,exportateur,édifice,maîtrise,implantation,co-initiatrice,irrationnel,fléau,germano-soviétique,retouchés,contemplation,infectieux,rafler,solde,repliée,pipé,interdit,domaine,clos,transférer,zwart,tombions,dernier,satisfaire,neutralisation,généralement,beijing}
+
+@data
+1,sent:letter:believ:contact:doctor:feel:test:mind:contact,?
+2,You:notic:team:British:Rail:garden:forest:chop:cut:burn:veget:grow:alongsid:railway:line:East:German:border:guard:improv:arc:wonder:idl:year,?
+3,All:govern:undertaken:European:Commiss:April:detail:plan:achiev:ECs:target:date:stabilis:carbon:dioxid:emiss:year,?
+4,Alreadi:centuri:influenc:Judaism:Roman:Societi:begun:introduc:week:day:unlik:ancient:Greec:school:holiday:special:occas:day:honour:Apollo:Poseidon,?
+5,Behind:public:smile:Diana:lone:unhappi:young:woman:endur:loveless:marriag:seen:outsid:Queen:royal:famili:frequent:odd:aim:object:pervas:royal,?
+6,But:dozen:Erk:sympathis:match:deputi:member:Peopl:Democrat:Parti:communist:regroup:new:fail:Moscow:coup,?
+7,Comrad:guid:come:tour:teach:Chines:even:tri:new:phrase:day:caus:amus,?
+8,Enough:content:minimum:wrote:mean:mean:whole:salvat:redempt,?
+9,Even:weekend:unoffici:end:Monday:night:recent:elong:period:actual:justifi:inclus:extra:day,?
+10,Final:detail:announc:issu:Guin:Today:Bob:reassur:smoker:smoke:ban:communal:work:area,?
+11,For:great:deal:detect:novel:writer:blueprint:stori:depart:modif,?
+12,For:except:attend:independ:school:Act:judg:extent:promot:interest:children,?
+13,For:older:generat:perenni:mathemat:innoc:best:start:think:vector:arrow:direct:point,?
+14,For:drab:function:bureaucraci:tatti:carpet:vast:amorph:organ:given:regul:prescrib:money:claim:ride:bicycl:offici:duti,?
+15,For:choos:preferenti:treatment:foreign:firm:mean:incent:avail:local:firm:discrimin:mean:Brazil:market:reserv:polici,?
+16,For:mass:dead:stem:remain:stand:year:sight:distast:town-dwel:thank:energi:garden:prefer:landscap:architect:evergreen:accustom:see:decay,?
+17,From:onward:period:fertil:rate:began:fall:replac:level:Europ:industri:world:stay,?
+18,Have:gruesom:storm-toss:journey:land:fulfil:vow:travel:barefoot:nearest:shrine:thanksgiv:deliveri:rheumat:result:life:sour:regard:Scotland,?
+19,sold:left:altern:miser:circumst:spend:life:live:door:speak,?
+20,Howev:just:set:mind:see:your:concern:welfar:shall:point:tell:Day-to-Day:team:what,?
+21,said:yes:fill:earli:even:prove:inconveni:occas:want:agre:work:morn:just:close:switchboard,?
+22,unawar:afford:pleas:manageress:shop:door:came:bright:idea:play:room:public:allow,?
+23,did:sit:room:powder:face:tell:clever:fool:heaven:high:million:common:women:domest:duti:sacrific:run:Trade:depart:vulgar,?
+24,garden:tend:backach:rememb:plenti:period:day:tri:lift:easili:cope,?
+25,new:compani:lower:overt:status:present:simpli:shi:easiest:contribut:ask:question,?
+26,short:appeal:nation:nation:movement:opposit:nation:seek:bond:deem:common:ethnic:languag:cultur:histor:past,?
+27,larger:establish:restaur:theatr:garden:fountain:sport:stadium:room:hall:poet:philosoph:exchang:view:author:gave:lectur:read:latest:work,?
+28,Its:Saturday:night:night:that:right:late:mega-high:Sunday:day:youv:chosen:spend:Saturday:night:let:presum:even,?
+29,touch:embarrass:film:wait:foreign:quest:leav:clap:went,?
+30,measur:confid:wrote:say:note:kind:trepid:major:project:life:pale:insignific:insignific,?
+31,Karajan:came:high:conduct:stool:orchestra:regroup:Mozart:concerto:afternoon:music-mak:activ:intens:special:vibranc:good:humour,?
+32,Look:eat:balanc:vari:diet:protein:dairi:product:fresh:fruit:veget:get:cut:thing:harm:babi,?
+33,Right:your:readi:darl:way:pay:respect:ladi:complaint:set:mind,?
+34,She:sworn:impos:daughter:marriag:know:possibl:declin:invit:spend:day:son-in-law:hous,?
+35,Social:worker:ask:futur:undertak:function:financi:assess:fund:subsidis:elder:privat:home,?
+36,Sooner:later:Europ:forc:bring:standard:financi:report:line:world,?
+37,Such:companion:volum:differ:flavour:provid:necessari:framework:detail:volum:hung:context:reader:refer:maintain:overal:perspect:seri,?
+38,Swale:conclud:report:redress:perceiv:inequ:balanc:research:teach:resourc:London:Britain,?
+39,That:mix-up:caus:problem:campaign:constant:reassur:media:good:posit,?
+40,The:Chines:press:mark:occas:scrupul:avoid:mention:subject:preoccupi:world:news:media:leav:East:Germani,?
+41,Although:book:design:specif:school:colleg:univers:sold:wide:world,?
+42,The:ironi:vision:glass:burn:exhibit:galleri:hous:burn:flat:burn,?
+43,The:main:reason:unit:resent:young:offic:heavili:laden:act:rank:meant:exist:offic:rank:dispos:way:oper:type:period,?
+44,These:includ:biolog:reduction:appli:gender:role:presumpt:women:belong:famili:hard:functionalist:analysi:famili:connect:societi,?
+45,They:forbidden:law:return:thirti:kilometr:estat:hous:turn:offic:farm:home:parti:boss:factori:worker:school:mad-hous:orphanag:just:left:crumbl,?
+46,This:cost:solut:result:involv:staff:forgo:need:period:employ:nurs:inappropri:grade,?
+47,This:inform:fit:grow:sport:opinion:good:physic:fit:train:intens:punctuat:good:amount:prepar:effort,?
+48,When:face:decis:choos:residenti:home:need:discuss:admiss:local:author:home:social:worker,?
+49,While:say:actual:enjoy:experi:usual:shirt:flake:bad:mood:day:did:lot:easier:nerv:throw:glass:water:shirt:hope:creas:water:eventu:evapor,?
+50,Entrepreneur:pre-coloni:Africa:effect:articul:trade:relationship:Africa:world:develop:product:activ:generat:trade,?

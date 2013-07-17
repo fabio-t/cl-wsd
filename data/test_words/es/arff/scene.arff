@@ -1,0 +1,57 @@
+@relation scene-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {paisaje,lucha,malhechor,desempeñaer,escenario,escena,bastidor,quejando,guardan,encontraban,secreta,panorama,imagen,paraíso,carlshamre,lamentables,glorificación,antidroga,disturbio,terreno,situación,enfadados,involucrado,sette,hospitalarios,arresto,emergido,directos,gestarse,accidente,llegada,medirnos,ruso,aduce,instalarnos,trabajen,carecer,abstienen,encaramadas,molestas,base,oscuros,kuchma,buscó,nublada,cúpula,gremio,concluirlos,adentro,fallecidos,celebración,rúbricas,gratitud,noroeste,adquiriendo,opinión,hecho,tce,montado,pasillos,biopersistentes,sobreviene,actor,escandaloso,bélico,devuelven,aproximasen,legitiman,estadio,alentando,ámbito,mutis,volando,subrepticiamente,crisol,macroeconómico,bambalinas,rave,francés,eliminatoria,aproximación,aliviarla,presionando,sobrecargadas,inspección,scene,allanar,desastre,homicidio,actuación,regularmente,berisha,contrario,wallenstein,subscrita,galvanizante,bíblica,fuga,desplazaron,situ,regateo,ouattara,discretas,Ámbitos,remodelar,contemplemos,participante,generará,estallido,evocar,teatro,constituya,recomendarse,manipuladoras,global,aparece,confitura,funeral}
+
+@data
+1,This:bastard:remov:sniper:boot:arriv:state:Corpor,?
+2,Soviet-mad:pistol:explos:arm:cach:includ:mine:assault:rifl:hand:grenad:later:discov:home:men,?
+3,Among:brother:sister:entertain:witti:remark:hoax:famili:game:joke:unbecom:solemn:monopol:convers:talk:shop:creat:emot,?
+4,actor:wear:cap:academ:privat:convers:stage:actor:respond:requir:play:work:moment:moment,?
+5,lost:height:just:landscap:dazzl:white:Liena:regain:strength:day:stop:sit:rucksack:snow:coat:glacier:gaze:awe:beauti,?
+6,But:violent:aggress:mitig:equal:extraordinari:exampl:altruism:older:chimp:adopt:orphan:young:care,?
+7,Daili:confront:outsid:Grunwick:work:picket:support:member:union:polic:cordon:domin:televis:news:coverag,?
+8,Despit:depend:Rome:jesuit:import:innov:contemporari:Ireland:particular:area:educ:ecumen:industri:relat,?
+9,Everi:cloud:steam:cool:reservoir:furnac:float:skylin:Iceland:snow:hot-spr:glacier:rock:cliff:sky:seabird,?
+10,For:year:Brookland:home:hundr:race:record:attempt:test:ground:manufactur:restrict:mph:speed:limit:Britain:road,?
+11,Found:breakaway:journalist:Sound:gone:outsel:progenitor:primarili:star-ori:consid:duti:reflect:grass-root,?
+12,Great:shown:activ:depict:skill:panach:cat:cradl:demonstr:comment:speed:techniqu:weaver:astound:make:crayfish:pot:oper:eel:weir:studi:intent,?
+13,emphasi:holiday:activ:self-explanatori:main:titl:pre-record:begin:tape:superimpos:live:open:shot:camcord:titl:facil:requir:set,?
+14,town:utmost:import:Royalist:Parliamentarian:forc:fought:gain:supremaci:surround:villag:hamlet:violent:skirmish,?
+15,Nevertheless:version:structur:poststructur:associ:French:master:advanc:left:tend:declin,?
+16,edg:crowd:inevit:parti:Japanes:tourist:busili:video:turn:histori:home:movi:act:Andi:Warhol:belief:centuri:know:true,?
+17,Rectangular:oval:hexagon:rang:paper:box:decor:watercolour:design:flower:rural:inscrib:lid:insid:quotat:simpl:messag,?
+18,activist:risk:live:challeng:lumber:factori:ship:generat:public:money:caus:major:Western:countri:approv,?
+19,She:catalogu:servic:guest:grant:requir:electron:equip:work,?
+20,She:want:hear:interview:survivor:know:emerg:servic:say:fighter:rush:doctor:perform:oper,?
+21,She:young:relat:immatur:world:wise:live:intern:sort:life:have:music:lot:streetwis:age:greater:degre:question,?
+22,Sometim:direct:address:charact:happen:great:deal:Greek:Elizabethan:theatr:exampl:look:speech:Chorus:Act:Henri:draw:audienc:atmospher:battl:enorm:effect,?
+23,The:Asiz:accid:arriv:compani:interpret:did:help:communic:Asiz:local:brigad:British:Sergeant,?
+24,The:abduct:serv:emphasis:anarch:Sidon:recent:inter-Palestinian:assassin:vast:Palestinian:guerrilla:presenc:citi,?
+25,The:camera:return:disast:linger:pile:debri:strewn:railway:embank:focus:firemen:cut:tangl:remain:train,?
+26,The:obvious:temptat:dismiss:yesterday:event:old:fashion:share:ramp:niggl:feel:substanti,?
+27,The:origin:plan:Anita:cook:husband:serv:custom:did:enjoy:eventu:taught:Gordon:fine:cook:spent:chat:custom,?
+28,The:presenc:immigr:offici:polic:board:train:compar:America:migrant:labour:turn:boundari,?
+29,The:protest:vote:theori:valid:suffici:explain:million:adult:took:troubl:vote:organ:smallhold:kindr:green:soul:hitherto:impress:polit,?
+30,The:weapon:buri:deep:undergrowth:near:murder:petrol:blue:polythen:sheet:believ:use:carri:coal:stoke:massiv:blaze:Pettitt:burn,?
+31,The:withdraw:pioneer:need:bad:news:industri:American:product:outfit:transit:new:time:Meli:fail:Franc,?
+32,There:stark:wall:invit:summit:dome:brush:snow:gleam:sunshin:fish-tail:crest:long:rib:top:cornic:remind:Himalaya,?
+33,They:select:basi:general:knowledg:drug:dealer:centr:specif:network:abil:communic:knowledg,?
+34,Tonight:immers:Mafia:violenc:moment:slump:Chesterfield:stare:silver:snow:screen,?
+35,When:English:came:nineteenth:centuri:precis:Cultur:Studi:involv:languag:literatur:histori:geographi:philosophi:requir:professor:subject:polymath,?
+36,Cultur:import:intrins:valu:Europ:essenti:element:European:integr:contribut:affirm:vital:European:model:societi:Commun:influenc:intern,?
+37,Howev:rapid:chang:polit:Central:Eastern:Europ:necessari:consid:way:rationalis:border:cross:formal,?
+38,seek:set:chang:face:counti:hall:summaris:chang:relationship:involv:educ:import:consid:mean:deleg:author:valu:contain,?
+39,confirm:emerg:new:actor:humanitarian:Member:State:civil:protect:unit:militari:logist:capabl:prove:essenti:emerg:relief:oper,?
+40,commit:deliv:strateg:object:area:prosper:solidar:social:justic:secur:put:strong:European:voic:intern:focus:attent:formul:effect:deliveri:polici,?
+41,implement:polici:agre:develop:new:initi:pace:meet:target:set:second:half:mandat,?
+42,One:key:lesson:emerg:recent:tsunami:disast:need:reinforc:assess:capac:disast:order:identifi:specif:need:matter:civil:protect:specialis,?
+43,One:symptomat:concern:robberi:petrol:station:young:saxophonist:consid:crimin:career,?
+44,They:pictur:European:industri:perspect:partner:competitor:world,?
+45,Take:determin:road:lead:dynam:European:Union:world:yield:substanti:benefit:parti:involv,?
+46,The:direct:aim:improv:passeng:safeti:citi:station:train:outsid:peak:hour:violent:crime,?
+47,The:past:year:mark:number:phenomena:includ:explos:demand:societi:paradigm:shift:psychiatri:mental:health:irrevers:entri:patient:relat,?
+48,These:feel:provok:present:internet:broadcast:televis:show:cat:dog:exploit:fur:product:treat:Asia,?
+49,This:requir:integr:approach:reflect:fact:globalis:increas:interdepend:issu:deliv:fulli:key:intern:prioriti:succeed:world,?
+50,Wherea:tradit:servic:govern:bilater:agreement:state:come:herald:arriv:new:heavyweight:player:respons:extern:relat:field:aviat,?

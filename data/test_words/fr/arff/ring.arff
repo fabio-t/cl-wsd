@@ -1,0 +1,57 @@
+@relation ring-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {familier,anneau,cyberespace,creux,appelé,cercle,caricature,résonnent,sonne,pédophile,adn,dentition,appeler,prostitution,résonne,ring,paternaliste,alarmées,sonnent,poème,perçoit,pourvoit,procuré,tonalité,filière,perdrait,trimbaler,entoure,commençons,rouage,augure,vilvorde,rond,périphérique,irrespectueux,sonner,circuit,bout,sonneront,concentriques,prisonnier,canonnière,alarmer,pourtour,inscrivent,bactériose,financièrement,trousseau,décrochent,emerson,rime,flétrissement,retenti,arène,téléphoner,balance,retentisse,inopérants,périmètre,réseau,politico-judiciaires,raisonnement,ronflants,sonnette,réjouissons,réduire,traitiez,impopulaire,étoilés,lumineux,couronne,porte-clé,lucre,frappe,espagnol,chilien,paraîtra,cartel,infiltrés,schiffsbesatzung,présageait,gagné,crapuleux,garde,molle}
+
+@data
+1,primary-school:playground:cours:singl:stand:centr:dozen:sweet-fac:girl:danc:round:chant:Shannon:dad:robber,?
+2,Bus:servic:close:whilst:access:road:provid:fast:communic:Oxford:readili:avail:just:mile:distant,?
+3,end:economi:improv:oft:quot:quip:Youv:good:truth,?
+4,Even:canal:protect:citi:rampart:Spanish:wall:built:circl:metr:outsid:waterway:circl,?
+5,Had:known:intend:throw:claim:leadership:matter:hour:tri:dissuad:bounc:emot:stress,?
+6,earli:American:contain:Soviet:bloc:serious:breach:Soviet:acquisit:militari:facil:Cuba,?
+7,unhelp:health:secretari:spout:spurious:statist:increas:throughput:effici:manner:hollow:beetroot:produc:tractor:manufactur:Soviet:Union:reassur:commissar:norm:exceed,?
+8,Nevertheless:night:war:round:twenty-on:German:spi:effect:time:execut:coup:probabl:depriv:German:inform:Britain:initi:militari:disposit,?
+9,One:effect:polit:calcul:choic:countri:Malaysian:domin:Chines:Brazilian:bureaucrat:domin:unorganis:worker:Kenyan:domin:outsid:inner:presidenti:favourit,?
+10,Organis:crime:thought:increas:profession:packag:product:fake:multi:million:pound:market,?
+11,The:distanc:adjust:diamet:refract:light:exact:twice:shadow:distanc:len:paper:numer:equal:focal:length,?
+12,These:castl:differ:Norman:built:concentr:wall:stud:mural:defenc:tower:open:space:centr,?
+13,Within:month:blitz:devast:citi:centr:exhibit:sketch:plan:outlin:redesign:citi:centr:base:principl:pedestrian:shop:precinct:zone:develop:inner:road,?
+14,Home:Office:spokesman:quot:say:The:investig:children:abus:organis:way:network:adult,?
+15,pair:young:fighter:come:fight:contest:kind:refere:box:ear:offer:ters:word:fight,?
+16,team:Bristol:Univers:surgeon:soon:carri:trial:Bristol:Eye:Hospit:volunt:patient,?
+17,Black:immigr:recess:enorm:purs:televis:provid:meant:remain:readi:suppli:men:will:risk:brain:damag,?
+18,Evidenc:drug-rel:corrupt:penetr:Venezuelan:institut:came:arrest:June:Adolfo:Ramirez:Torr:governor:Feder:District:Caraca:accus:cocain:smuggl,?
+19,look:veteran:soldier:sun-tan:face:clear:eye:dark:doublet:hose:concess:fashion:ornat:silver:hand:gold:cross:round:neck,?
+20,ask:young:Alex:Mari:finger:wish:happi:fruit:true,?
+21,His:preach:reflect:emphas:popular:British:evangel:controversi:holi:teach:promot:Keswick:convent:anti-Catholic:temper:opposit:Anglo-Cathol:ritual:vehement:campaign:intern:prostitut,?
+22,took:jewelleri:handbag:lower:cliff:edg,?
+23,Nigeria:heard:gave:hous:number:aesthet:reason:number:distinguish,?
+24,Informat:profici:test:test:laboratori:particip,?
+25,compel:look:closer:feel:smooth:damp:surfac:grasp:iron:held:prison:look:black:space,?
+26,Discuss:includ:tax:benefit:Rover:achiev:remov:fenc:tax:loss:sympathet:revenu:treatment,?
+27,import:friend:creat:peac:solidar:extend:countri:border:Union:enlarg,?
+28,stress:need:level:train:law:enforc:offici:investig:traffick:border:guard:ident:traffick:victim,?
+29,Law:enforc:author:defer:take:long:tactic:necessari:instanc:view:get:crimin:oper:network:child:pornographi,?
+30,Matta:accus:overse:distribut:cocain:worth:Los:Angele:Drug:Enforcement:Administr:DEA:offici:claim:control:drug-traffick:empir:worth:million,?
+31,Put:audienc:deliv:butterfly-tap,?
+32,fenc:need:enshrin:legisl:prevent:fund:divert:region:health:author:Govern,?
+33,She:pluck:great:hank:silk:thread:girdl:spinsterhood:tie:end:wed:virgin:loop:end:hank:wrist:spread:hand:invit:Maggi:end:wind:neat:ball,?
+34,Shop:shop:fill:plastic:snow:shake:fall:cushion:proclaim:love:fall:key:tea:set:T-shirt:infinitum,?
+35,The:began:develop:polici:aim:creat:friend:advanc:enlarg,?
+36,The:Galleri:bridg:snarl:road:buri:decor:tunnel,?
+37,The:basi:dendrochronolog:lie:fact:temperatur:climat:contrast:season:tree:grow:addit:annual,?
+38,The:chap:Britannia:stage:refer:certain:recent:threat:IRA:Derri:kill:alleg:major:drug:citi,?
+39,The:effect:new:law:allow:confisc:drug:profit:ampli:demonstr:year:follow:soon:extent:huge:profit:drug:smuggl:reveal,?
+40,The:outer:secur:mile:citi:extend:mile:deal:struck:local:tribe:said,?
+41,The:voic:fill:Luci:gratif:caus:believ:realli:did:appreci:effort:behalf:busi:cours,?
+42,The:terror:Cash:express:futur:communiti:familiar,?
+43,The:treatment:prescrib:familiar:rigor:financi:analysi:follow:cost-cut:asset:sale:negoti:convinc:creditor:reschedul:beat:liquid,?
+44,The:star:European:flag:depict:outer,?
+45,Then:pick:rock:shallow:water:edg:pool:threw:middl:make:huge:splash:splash:spread:near:edg:pool,?
+46,There:light:round:sunni:hear:spider:spin,?
+47,Third:just:bald:declar:innoc:impress:natur:declar:passag:book:Meehan:letter:sharp:truth,?
+48,This:includ:public:transport:facil:includ:park-and-rid:infrastructur:mobil:plan:road:increas:safeti:road:junction:soft:traffic:cycl:lane:pedestrian:track,?
+49,Top:judg:face:investig:claim:member:secret:gay:sex,?
+50,Whi:risk:give:impress:have:thrown:hat:year:elect,?

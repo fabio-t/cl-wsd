@@ -1,0 +1,57 @@
+@relation letter-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {lettera,missiva,carattere,provenga,letteralmente,versati,corrispondenza,rogatoria,forma,epistolare,clausola,letter,spediscono,stabilire,posta,comunicazione,preoccupiamo,scrivere,portalettere,pregiata,cassetta,snaturamento,applicate,reagire,dichiaravamo,rigoroso,morta,letterale,contenuto,disdicevole,travisato,nota,osservate,trattato,assoluto,ammonimento,francobollo,formulazione,credenziale,riguarda,epistolografia,inappropriato,spirito,fedelmente,teoria,rispondente,eoliche,iscritto,ordinaria,puntualmente,muoverle,finendo,letterina,scrupolosamente,documento,contrada,busta,aggravamento,lettura,arrestate,scritto,monito,pacco-bomba,sovvertirne,mosso,parola,intimano,virgola,cordoglio,maiuscola,provvedano,scambiata,polso,trasposizione,diffida,pervenuto,essa,interpretata,adeguandole,ashkhabat,ambiva,confermarle,postale,generoso,assolto,poetica,rigorosamente,rivarrò,infliggere,pensiero,rivista,radwan,procedenti,intrattenuta,datata,indirizzata,letterato,consegnata,provvederemo,storico,dichiarazione,minuscola,mangime,ristagnante,scandalose,annullando,scritta,fotocopia,stretta,suggeriti,allegare,non-conformità,mail,puntuale,supporrei,quarantina,testo,greche,interistituzionale,rispettati,fabre-auspery,conservato,matters,hossack,sigla,recapito,hills,segnalarlo,toto,seguita,rileggendola,esplicativa,esigente,morto,scriverò,somiglianza}
+
+@data
+1,bilingu:seri:English:French:Italian:Spanish:German:respect:design:student:profession:intern:secretari:busi:field:requir:compet:telephon:telex:communic:languag,?
+2,week:later:invit:look:finish:model:discov:horror:reproduc:sketch,?
+3,Along:thousand:appeal:sent:result:Amnesti:campaign:clearest:direct:pressur:exert:Sri:Lanka:Aid:Consortium:donor:govern:multi-later:institut,?
+4,Although:Hayward:talk:lodger:jocular:fashion:proud:associ:great:man:defend:privaci:reput,?
+5,watch:supervisor:carri:black:bag:began:line:checkout:follow:young:assist:hold:plastic:contain:flap:box,?
+6,saw:chapter:oper:discret:polic:fascin:sociolog:polic:discret:view:narrowli:term:law:polic:appli:omit:law,?
+7,screen:blink:word:menu:beneath:list:wink:blinding-whit:neon:black:display:keyboard:horn:endless:type:drum,?
+8,Bold:print:clear:layout:page:adequ:margin:space:word:mean:deciph:print:pupil:sight:difficulti:have:deal:unnecessari:complex:compound:exist:problem,?
+9,Richard:Nixon:sent:unit:armi:Cambodia:approv:legislatur:war:power:congress:appear:dead:age:imperi:presid:arriv,?
+10,reach:boat:banner:fix:posit:make:bold:black:outlin:Trend:compani:emblazon:white:silk,?
+11,Friend:talk:matter:far:night:went:home:famili:loneli:dingi:bed-sit:room:carri:debat:diari:notebook:poem,?
+12,This:booklet:contain:examin:timet:regul:detail:prize:medallion:scholarship:award:award:designatori:public,?
+13,realiz:day:Scottish:Liber:Parti:number:sad:wrote:resign,?
+14,suspect:thing:gradual:wither:away:member:staff:increas:prepar:accord:contract:increas:expect,?
+15,attempt:requir:guess:correct:charact:embolden:number:attempt:shown:subscript,?
+16,Februari:lectur:The:Music:Poetri:Glasgow:Univers:April:gave:address:classic:Associat:The:Classic:Man,?
+17,addit:convent:contain:express:provis:allow:destin:refus:execut:rogatori:manifest:contrari:public:polici:ordr:public,?
+18,exchang:lay:critic:Royal:Societi:Chemistri:award:fellowship:world-rank:scientist:academician:JSGow:Societi:Secretary-Gener:tri:distanc:Romanian:laureat,?
+19,practic:taken:make:satisfactori:progress:recommend:seri:standard:special:requir:respect:individu:student,?
+20,consensus:line:posit:vari:amino:acid:indic:dash:use:amino:acid:sequenc,?
+21,Intimid:embrac:send:threaten:warn:intend:attack:machineri:time:threaten:privat:properti,?
+22,denot:capit:defin:follow:mathemat:relationship:intern:energi:energi:space:occupi,?
+23,usual:close:pleasantri:add:posit:manner:Pleas:let:know:assist,?
+24,similar:connot:discov:drop:box:foolish:vote:Conserv:general:elect,?
+25,Last:year:protract:negoti:Tucson:Arizona-bas:direct:rival:Artisoft:Inc:Perform:got:far:sign:intent:effect,?
+26,Luckili:correspond:brother:Theo:confid:explor:idea:art:invalu:sourc:interpret,?
+27,Moreov:term:formal:manageri:rule:incid:shown:dealt:term:law,?
+28,Nobodi:want:florid:seen:actor:style:person:come:suffici:bare:list:part:play:wont:convey,?
+29,Not:religi:educ:compulsori:school:assembl:dead:school:abandon:oblig:sex:educ:moral:instruct:board,?
+30,Person:relat:offici:bodi:remain:cordial:possibl:collabor:aliv:breach:Congresss:legisl,?
+31,Privat:convers:overheard:reveal:autobiographi:diari:written:half:intent:allow:publish,?
+32,She:manag:Anna:fanci:have:renounc:world:special:posit:England:accept:outsid:subject:rule,?
+33,Some:decis:remain:dead:collect:demonstr:Gaull:determin:qualifi:civilian:author:liber:Franc:CFLN,?
+34,The:follow:year:Ministri:Health:issu:draft:propos:reform:Poor:Law:copi:sent:Board:Guardian:decid:protest:omiss:sent,?
+35,The:guidelin:procedur:obtain:approv:research:conduct:specifi:step:taken:contact:establish:item:inclus:seek:parent:consent:research:involv:pupil,?
+36,The:poster:shout:bold:slogan:yellow:orang:shadowi:figur:gun:gunmen:hover:hillsid:burn:build:beneath,?
+37,The:standard:sent:dealer:inform:price:sent:Commiss:nation:competit:author:European:Consum:Organis:avail:interest:parti,?
+38,There:revolut:print:techniqu:stationeri:design:bold:head:inexpens:purchas:give:ident:creat:impact:reinforc:messag:care,?
+39,They:led:stream:anonym:threaten:decapit:sort:thing:polic:took:serious:pretti:sure:came:disturb:clergyman,?
+40,This:opinion:contain:repli:Spanish:member:written:Mexican:author:late:express:concern:disappear:Jose:Ramon,?
+41,Threat:Bishop:Laszlo:Toke:includ:confisc:offici:resid:foul:hous:circul:fals:rumour:harbour:King:Michael:predict:death:relat:threaten:children:teacher:doctor,?
+42,Under:Protocol:document:need:translat:complaint:plead:initi:rogatori:issu,?
+43,honour:propos:forego:accept:Govern:confirmatori:repli:shall:constitut:evid:Agreement:European:Econom:Commun:New:Zealand:matter,?
+44,accord:Articl:Council:Regul:financ:Common:Agricultur:Polici:euro-dollar:rate:use:amend:averag:rate:recent:three-month:period,?
+45,box:provid:write:code:advertis:interest:print:bold:left:advertis,?
+46,day:Commiss:sent:formal:notic:Hungari:state:view:Hungarian:Media:Act:incompat:Competit:Direct,?
+47,Some:hotel:follow:practic:confirm:reserv:send:standard:card:acknowledg:deposit:type:accommod:reserv:garag:space:necessari,?
+48,The:Swedish:Govern:respons:Commiss:formal:notic:concern:analogu:broadcast:servic:did:contain:clear:commit:bring:infring:end:reason:timefram,?
+49,The:revenu:payment:appropri:shall:enter:budget:budgetari:procedur:use:amend:procedur:budget:implement:way:mean:amend:budget,?
+50,This:Agreement:exchang:shall:integr:Cooper:Agreement:Interim:Agreement,?

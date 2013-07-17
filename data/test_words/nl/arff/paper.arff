@@ -1,0 +1,57 @@
+@relation paper-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {witboek,document,pipeline,discussienota,getoverd,papier,groenboek,versneld,papierindustrie,stuk,positief,vormt,personeelsvertegenwoordigers,werkdocument,krant,aspect,strategienota,inschrijvingsdocumenten,lees,bloeddorst,strategiedocumenten,geprivatiseerd,strategiedocument,repliek,geanalyseerd,voorstel,overlegronde,moeten,beleidsdocument,gecorrigeerde,rubricering,notitie,verkeersdichtheid,ontwerpvoorstel,subsidiariteitsaspect,illegaal,bulletin,vakbondswerk,bijrol,overlegdocument,samenwerkende,landenstrategiedocumenten,nota,vervulde,werkdocumenten,stembiljet,pedagoog,binnenkomt,kantjes,eu-antidiscriminatiebeleid,conceptdocument,burgereducatie,beheerde,voorraad,bijeengebrachte,geïnterneerd,migrant,landenstrategiedocument,administratief,feral,witboek-delors,witboekdelors,papierlozen,volschrijven,discussiestuk,bezinningsdocument,stembriefje,personeelsadvertentie,tweedekansonderwijs,discussiedocument,slowaakse,langs,middeleeuwen,negenproef,kleurenfolders,papierfabriek,tekst,beleidsnota,stemmingsdocumenten,deponeren,schrijfpapier,agenda,theorie,industrietak,oriëntatiedocument,verhandeling,identiteitsbewijs,prodi-papier,industri,bedankt,staatskrant,spaans,interpreteer,nemen,pique,handelspraktijken,toiletrol,hervormingsdocument,groenboeken,dode,overschrijven,rapport,niet-overheidsactoren,hoogstnoodzakelijk,slotdocument,vn-activiteiten,frase,bladzij,standpuntnota,beleidsstukken,bespreken,papierpulp,prullenmand,ontwerpdocument,verblijfsvergunning,verslag,paper,administratieve,papierwinkel,versnipperde,verticale,blad,toets,volgorde,evenredige,herwerkt,vel,balkon,stemlijst,pers,aangekondigde,commissiedocument,briefhoofd,proefwerk,theoretische,briefpapier,examenteksten,opgeschreven,landstrategieën,vergaan,eurobevel,verblijfstitel,discussiebijdrage,navigatiekaart,schadeloosstelling,overtuigt,doorbreng,commissiedocumenten,derdelanders,libië,inventarisatiedocument,milieuagentschap,werkprogramma,antici-groep,referentiedocument,papierbergen,serie,barroso-document,papierfabricage,beleidsmix,papierwaren,vorm,gehouden,eu-witboek,millenniumbom,ongeldige,computer,confetti,haronot,weekblad,radical,terechtkomt,tissuevelletje,overboekingsgeld,charlotte,oppositiekranten,a-categorie,adem,strategieplannen,terugzetten,papierverwerkende,stoffige,integrerend,kapitaalsysteem,witboekstadium,werkstuk,landenprogramma,hulpvaardige,prullenbak,bladvulling,lucratief,raadplegingsdocument,weinig,infernale,ontdaan,verslag-ghilardotti,opgaven,migratiewerknemers,liverpool,optiedocument,pad,onderdaan,opeisbare,nakijkt,boek,richting,voortgekomen,inzake,marktstabiliteit,menu,schoothondje,papierberg,persoonsbewijs,controleert,identiteitsdocumenten,formuleringsvoorstellen,regeringsdocumenten,crisisdocumenten,zondagskrant,stellingname,vervoersindustrie,lozen,visiedocument,koerden,schort,vollediger,coauteur,oppositiekrant,statussen,srilankaan,burgervrijheden,hoofdlijn,lei,gemeenschapszorg,papiermolen,gemakkelijker,werkgelegenheidsintensiteit,landbouwstrategiestudie,kartonproducten,archief,autonomiemodellen,parvenu,voorgelegde,zittingsstuken,programmadocument,ongenode,schrijven,gegaan,raadgevende,papiersector,éénkindpolitiek,beweerd,wuori,prehistorische,controleniveau,consultatiedocument,identiteitspapieren,ingrijpen,csp,opper-beieren,documentje,papierstroom,uitwas,omvat,gepresenteerd,basisconcept,werkinstrument,waardeloos,vermeldt,kringlooppapier,karton,achtergronddocumentatie,dikke,onschendbaar,groenboeknummering,ontwerpstuk,werkgelegenheidsaspecten,herhaalde,weegschaaltje,inkt,ondraaglijker,papierproductie,blueprint-document,papierverspilling,recapitulatie,tijdplan,papierloze,mysterieuze,oriëntatienota,beleidsplan,weggegooid,passend,witboek-stadium,armoedebestrijdingsbeleid,mooipraten,interoperationeel,non-integratie,beleidsdocumenten,geslepen,nationaliteit,decommissioning,hard,overbelaste,sfeer,essen-syndroom,gladheid,afremt,prioriteitendocument,papierwerk,burg,ontwerpmededeling,jesus,kieslijst,toetredingsperspectief,geproduceerd,promotiefolders,discussietekst,canadees,kwaliteitspapier,directoraten-generaal,geschiedschrijving,studiedocument,merk,strategiepapier,handeldrijvende,syntheseverslag,deelrapporten,paperclip,schriftelijk,uitwijst,overzicht,schrift,artikel,snelst,ochtendkrant,ongewettigde,deelneming,landenstrategie,bezighouden,documentatie,preliminaire,eu-wetgeving,papierrestanten,letterlijk,verspild,wegensector,thessaloniki-document,tekentafel,septische,jean-paul,beleidsstuk,nagegaan,kleur,mediavrijheid,terugzendingsmaatregelen,inreisdocumenten,ontwerp-tekst,ontwerp-document,stembrieven,energiestrategie,lyon,varia,aftreden,oorlogsvluchtelingen,persbericht,creditcard,schmidbauer,nulliteit,vastzitten,milli-yet}
+
+@data
+1,coupl:bread:roll:plastic:pack:butter:pack:pate:nice:finish:plastic:knife:serviett,?
+2,distinguish:philosoph:admir:profess:celebr:overnight:wrote:Sunday:vari:respons:common:forlorn:belief:talk:decis:ward,?
+3,glanc:short:section:DXF:file:Fig:lead:conclus:design:format:share:manufactur:compani:grudg:rain:forest,?
+4,seri:proposit:includ:California:ballot:includ:attempt:increas:role:Republican:parti:redistrict:defeat,?
+5,AIDS:everyday:topic:televis:chanc:children:interest:young:age:misunderstood:thing:strang:idea,?
+6,Afghani:expir:visa:invalid:expel:countri:choic:end:Sudan:conveni:permeabl:border,?
+7,All:Iranian:report:turn-out:despit:evid:street:Teheran:did:vote:hostil:regim:apathi,?
+8,Apart:arrang:necessari:meet:plenti:work:concern:actor:pay:repeat:fee:detail:music:musician:pass:Perform:Right:Societi:post-product:script:realli:happen:compil:film:transfer:tape:way:commerci:transmit,?
+9,cours:choos:subject:write:difficulti:know:view:just:copi:receiv:opinion,?
+10,Associat:Institut:serv:solicitor:offic:year:pass:examin:law:Fellow:serv:year:solicitor:offic:pass:examin:list:subject:offer:Institut,?
+11,But:wish:basic:Northern:solut:dual:nation:input:Republ:Britain:interpret:polici:suit:need:space:ballot:SDLP,?
+12,Educat:account:emerg:Unite:State:earlier:Unite:Kingdom:term:did:appear:offici:document:public:Green,?
+13,For:exampl:embark:Julia:Two:Gentlemen:Verona:Proteus:letter:sheet:tear:scene:start:dramat:focus:line,?
+14,Fortun:wrote:Western:world:access:pen:write:word:turn:natur:paint:music:sooth:troubl:breast,?
+15,Gombrich:scholar:work:includ:mean:interpret:visual:art:broad:scope:stori:art:instruct:write:survey:inevit:limit:narrow:rang:comment,?
+16,Hamilton:greet:emot:thank:immedi:surrend:Nansen:passport:Portugues:visa:ticket:coupon:issu:harbour:Salerno,?
+17,Her:hand:tip:scoop:chip:slid:scale:dial:regist:half:ounc:didnt:remov:take:bag:blew:tip:scale:dispos:coconut:chip:say:Ill:moment,?
+18,decid:adopt:suggest:Depart:cours:consult:union:requir:employ:mail:hous:extern:agenc:distribut:store:vote,?
+19,welcom:propos:Green:Industrial:Relat:extend:general:public:legal:right:request:injunct:court:law:stop:illeg:industri:affect:public:servic:essenti:util:avail:compani:law,?
+20,Landscap:Simpl:Figur:teacher:advis:demonstr:draw:charcoal:sheet:white:landscap:illustr:figur:walk:countri:road:shown:manual:copi,?
+21,Saussur:origin:exposit:signifi:signifi:distinct:arbitrarili:relat:suppos:indivis:side:piec,?
+22,case:requir:taken:begin:plan:draw:plan:choos:plant:soil:prepar:plant,?
+23,word:blame:self-hat:lack:confid:feel:love:kept:secret,?
+24,Indeed:success:possibl:pass:mark:percent:choic:question:examin:pupil:pass:common:have:attain:grade,?
+25,logic:practic:effect:negat:research:main:reason:research:compil:look:senior:offic,?
+26,took:hour:break:camp:half:hour:insid:tent:secur:lid:fold:canteen:pack:food:map:write:foot:powder:vitamin:pill:rest:bag:put:feet:flap:cold:boot,?
+27,Leav:brush:oil:hour:longer:remov:squeez:oil:work:brush:backward:forward:plain:brown:clean:carton,?
+28,London:fact:ate:scandal:write:New:York:socialist:nevermor:import:profession:agit:effet:monarchi:Europ,?
+29,said:open:London:agreement:look:strong:suspect:HMG:sure:frontier:peopl:agre:union:Burma,?
+30,Outsid:facilit:work:committe:look:current:staff:develop:issu:Univers:step:produc:new:strategi:Staff:Develop:Polici:Univers,?
+31,Posit:continu:draft:State:Depart:prefer:express:unifi:administr:Korea:trusteeship:creation:militari:zone,?
+32,Say:problem:youth:plan:sound:good:bring:social:worker:bring:DHSS:juvenil:liaison,?
+33,Start:blank:sheet:easi:draw:accur:imagin:pictur:actual:model:start,?
+34,The:White:impli:wait:list:reduc:increas:effici:mean:oper:shorter:period:spent:hospit:patient,?
+35,The:morn:gave:hint:amiss:broad:daylight:event:disturb:stori:night:bad:dream,?
+36,The:signific:time-and-materi:save:line:manag:freed:form:work:complet,?
+37,The:pack:includ:discuss:seminar:report:issu:relat:market:social:care:plus:addit:materi:includ:journal:articl:specimen:contract:servic:agreement,?
+38,The:polici:advoc:select:public:fund:key:area:includ:biotechnolog:life:scienc:advanc:fundament:knowledg:chemic:reactiv:principl:catalysi:reliabl:synthesi:process:reprocess:function:structur:materi:environment:protect,?
+39,The:work:follow:finalis:user:requir:hitherto:unpublish:deriv:seri:discuss:rais:stage:project,?
+40,Then:began:run:guard:guard:saw:didnt:say:just:show:piec:written:Hotel:Intourist:Russian:phrase:book,?
+41,Under:object:state:White:Care:local:author:requir:reason:step:ensur:divers:provis:area,?
+42,alarm:British:Govern:elabor:prepar:war:report:print:draft:exampl:oppos:futur:govern:attempt:conscript:bloodi:war,?
+43,Weekend:confer:seminar:studi:doctor:dissert:communal:compil:work:Annotat:Index:agre:present:histor:condit:best:way:respond:achiev:great:cours:imperfect:poet,?
+44,Whether:purchas:account:vendor:account:prepar:draft:parti:account:access:work:rule:proper:negoti,?
+45,Without:word:dress:yellow:light:candl:open:strong-box:fed:leav:ember,?
+46,wonder:say:answer:letter:shall:await:repli:anxieti:letter:wast:basket:shall:unabl:continu:servic:benefit:blind,?
+47,order:prepar:program:exercis:context:increas:coordin:Member:State:includ:spot:Commiss:shall:draw:Countri:Strategi:dialogu:South:African:govern,?
+48,expressli:reject:idea:camp:immigr:asylum:seeker:accommod:detain:set:outsid:EUs:border:region:immigr:origin,?
+49,Sir:report:today:quit:right:prais:effort:Sheffield:extract:energi:wast:recycl:glass:plastic:steel:can,?
+50,The:concept:EUs:capac:capabl:develop:approach:seri:practic:measur:help:respond:current:challeng,?

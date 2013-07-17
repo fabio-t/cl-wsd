@@ -1,0 +1,57 @@
+@relation post-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {nominato,carica,postali,ganglio,membro,incarico,ricoprire,funzionario,aggiunti,posto,diventasse,decisionali,gorizia,funzione,assunzione,effettivi,posta,postale,recapitare,sostituzione,concretizzino,equivalente,approvati,valico,dimettere,integerrimo,suonarle,spediscono,incanalarsi,augusta,unitariamente,dimesso,rivalutazione,monsengwo,protocollata,colletta,stampa,bosniaerzegovina,posizione,post,sfrutterebbe,insediamento,andranno,governatore,posteriori,ricoprono,leville,procuratore,commissariato,corrispondenza,affronta,superflue,post-mortem,onere,sovraccariche,ascolto,impiantarvi,sottorappresentate,stazione,stakeholder,successivo,ufficio,contraddistingueva,pilato,ruolo,dopo,ragionare,sosta,raccoglimento,professione,viziati,incorrotte,inserire,traguardo,figura,personale,tappa,redistribuito,sommamente,ultimato,siegbert,stazionano,scaglione,vacante,cattedra,kovar,intervistare,nomina,organismo,dirittura,previsti,organico,applicandovi,designare,dirigenziale,okay,esercito,risparmiano,inoltrano,centro,provvedere,limiteranno,reintegrate,postazione,segretario,concorso,promozione,apice,sede,spedito,insediare,francobollo,riposto,centrando,impiego,stampella,pesantezza,appetibili,bozza,post-ag,ricoperta,busseranno,massiccio,rivesto,peshawar,rapidi,post-nizza,pubblicate,organo,copenaghen,importanza,italiane,deciderle,ardue,allontanandoli,oppormi,spettavano,appuntamento,andreevo,congedati,insisteremo,frequenza,poltrona,doganali,ex-post,posta-spazzatura,funzionaria,avviene,görlitz,inviato,palo,plico,notifica,segnato,seggio,candidarsi,portafoglio,rafah,sospinte,soderman,gettano,virgola,responsabilità,casteltownbere,vicepresidenza,voce,impostare,dirigenziali,suddivisione,rotazione,spostato,sema,temporanei,avviso,ripescare,impegnassero,spedita,trapelate,mantenute,costituitivi,missione,invio,istituzione,portafogli,compatriote,vertice,intensivo,cabinet,correggerà,agganciandole,attecchiscano,durando,renderlo,respinta,dopo-saddam,palese,araba,wolfowitz,consolari,proponeva,intervista,assicurazione,toponomastici,prestigiatore,alijev,lanciando,ricostruzione,veritiero,poliziotto,copec,oltranza,cassetta,indifferenziato,anzianità,rapportazione,situa,corrisponda,occuperebbe,difatti,liberalizzazione,ambito,negandoli,jumblatt,denominandolo,rango,confermati,gerico,dislocato,responsabiltà,applicandosi,sancta,vincolo,occupano,presidente}
+
+@data
+1,And:there:easier:pop:chequ:send:cast-off:woolli:ladl:soup:offer:advic,?
+2,away:caff:South:end:main:street:near:sign:mile:furlong:uniqu:experi:serv:finest:batter:cod:recal:eat,?
+3,Almost:freehold:taken:strong:except:suggest:support:purchas:true:gentlemen:recent:obtain:son:fortun,?
+4,American:diplomat:appal:Zappala:nomin:leak:Spanish:press:copi:misnam:compet:certif:sent:Senat:final:say:ambassadori,?
+5,And:normal:year:experi:junior:line:manag:direct:concern:provis:food:beverag:provis:servic:accommod,?
+6,walk:offic:hand:pretend:American:tourist:leav:day:trip:soon:travel:stori:postcard,?
+7,settlement:Cape:Town:just:stage:voyag:Netherland:East:Indi:begin:grow:English:occupi:Cape:white:popul:remain:main:Dutch:arriv:new:settler:Britain,?
+8,Attack:Baltic:republ:border:Soviet:troop:continu:June:OMON:special:Interior:Ministri:troop:offic:June:deni:charg:involv:attack,?
+9,Dure:civil:disobedi:campaign:rang:non-pay:tax:block:border:led:hunger:strike:protest:alleg:vote:rig:presidenti:race,?
+10,Final:month:pass:rent:receiv:Debbi:phone:tenant:ask:pay:direct:sent:Landlord:recorded-deliveri:letter:return:final:ordinari:state:Landlord:longer:employ:manag:agent,?
+11,For:journal:refere:receiv:typescript:send:comment:receiv:feedback:articl:appear:print:later,?
+12,Govern:secur:law:pass:tackl:terror:caus:controversi:especi:left-w:activist:exclud:civil:servic,?
+13,holder:newli:creat:master:warden:children:chapel:royal:household:chapel:English:king,?
+14,near:warn:ill:health:immedi:undertook:department:colleagu:imagin:restructur:anatom:teach:introduc:new:techniqu:persuad:univers:fund:new,?
+15,parish:think:interest:suitabl:draw:attent:encourag:write:applic:form:job:descript,?
+16,fact:enter:mental:hospit:enter:special:kind:world:villag:street:sign:usual:place:plenti:hand:shortag:will:direct:want,?
+17,individu:ask:buy:life:assur:follow:method:choos:salesman:home:broker:offic:newspap:advertis:mailshot:bank:build:societi,?
+18,total:train:offic:evid:team:decis:evid:decision-mak:frame-work:exist:plansprior:mention:need:local:author:approv:mention:relev:criterion,?
+19,need:progress:reinterpret:includ:telex:facsimil:transmiss:form:electron:mail:intern:convent:appear:explor:possibl:far,?
+20,Local:electr:gas:telephon:offic:counter:servic:satisfi:custom:electr:board:come:approv:rate,?
+21,Meantim:British:tri:evalu:serious:American:propos:decolon:intern:trusteeship:stage:road:coloni:self-govern:independ,?
+22,Next:morn:Sophi:search:anxious:begin:despair:pile:unstamp:envelop:mark:person:underlin,?
+23,Not:surpris:variat:salari:transfer:common:solicit:appoint:promot:request:chang:occas:signific:matter:possibl:attract:addit:pound:salari,?
+24,contrari:immens:effort:secur:militari:treati:independ:India:Chief:Staff:have:given:opinion:India:manpow:resourc:locat:stage:militari:understand:essenti:aspect:imperi:strategi,?
+25,Select:senior:import:train:display:appropri:qualiti:place:correct:context:flourish,?
+26,Senior:Tori:forecast:radic:ministeri:chang:chanc:Lamont:Chancellor:switch:senior:possibl:Defenc:Home:Office,?
+27,Some:Afghani:thinnish:rank:supplement:eager:non-veteran:Algerian:copi:dress:swagger:proclaim:paramilitari:wing:Algeria:now-ban:Islamic:Salvat:Front:attack:militari:near:Libyan:border:late,?
+28,Some:culture-bas:argument:clear:polit:ingredi:strict:polit:argument:political-system:argument:equal:applic:new:polit:movement:left:right:centrist:seek:long-term:viabil:British:first-past-the-:elector:featur:extrem:difficult:new:parti:break,?
+29,That:like:British-styl:first-past-the-:rule:hous:parliament:voter:back:referendum:altern:exist,?
+30,The:altern:ensur:civil:servic:held:polit:support:govern:lose:job:minist:lost:offic,?
+31,The:mail:handl:Office:increas:threefold:reach:million:item:make:percent:total:nation:expenditur:advertis,?
+32,The:offer:coincid:separ:Cheltenham:School:Architectur:Art:disagre:appli:succeed:despit:appar:debilit:ill,?
+33,The:sort:letter:attach:previous:correspond:mail:requir:attent:dealt:distribut:appropri:depart,?
+34,The:lose:electron:mail:system:lengthi:postal:strike:year:serv:hammer:nail:coffin,?
+35,The:raid:month:increas:violent:mid-May:involv:border:strafe:bullet:set,?
+36,The:train:painstak:restor:glori:tradit:wood-burn:stove:origin:box,?
+37,There:condit:meet:servic:use:proper:packag:address:thing:correct:send:thing,?
+38,There:teacher:harass:bear:driven:pillar:know:Jasper:rememb,?
+39,There:probabl:number:Britain:left:archaeolog:trace:need:flat:piec:ground:probabl:outsid:town:mark:wood:rail:probabl:stand:finish:local:dignitari:wealthi:citizen,?
+40,They:learn:posit:wetland:provid:crucial:stage:feed:rest:start:journey,?
+41,profession:duti:role:Department:Safeti:Officer:experi:took:Imperial:Colleg:new:Colleg:Safeti:Director,?
+42,Town:drug:Britain:flown:Far:East:conveni:stage:brought:night:sold:cheapli:left:Britain,?
+43,commit:maintain:nation-wid:letter:servic:deliveri:address:Unite:Kingdom:uniform:structur:price:nation-wid:network:offic,?
+44,Whenev:stop:militari:produc:book:say:Look:friend:protest:arrest,?
+45,Where:year-group:year:leadership:import:counterbalanc:cross-school:role:curriculum:leader:introduc:potenti:tension:respons,?
+46,With:background:John:went:Peggi:van:Praagh:ballet:mistress:young:compani:ask:vacant:provid:manag:lift,?
+47,notif:refer:paragraph:shall:deem:receiv:Commun:State:seven:day:date:transmiss:regist:notif:Agenci:Commun:State,?
+48,Each:Member:State:shall:communic:Member:State:Commiss:list:frontier:use:introduct:bovin:anim:swine:territori,?
+49,order:good:privat:individu:mail:order:advertis:magazin:pay:advanc:deliveri:Person:Comput:consid:compens:advertis:subject:bankruptci:liquid,?
+50,Manag:educ:broad:defin:predomin:concern:train:men:women:higher-level:supervisori:decision-tak,?

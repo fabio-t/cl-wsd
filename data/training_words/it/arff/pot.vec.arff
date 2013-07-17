@@ -1,0 +1,716 @@
+@relation 'pot-weka.filters.unsupervised.attribute.NominalToString-C2-weka.filters.unsupervised.attribute.StringToWordVector-R2-W100000-prune-rate-1.0-C-N0-S-stemmerweka.core.stemmers.NullStemmer-M1-O-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.unsupervised.attribute.Reorder-R3-last,2-weka.filters.MultiFilter-Fweka.filters.unsupervised.attribute.StringToWordVector -R 2 -W 100000 -prune-rate -1.0 -C -N 0 -S -stemmer weka.core.stemmers.NullStemmer -M 1 -O -tokenizer \"weka.core.tokenizers.WordTokenizer -delimiters \\\" \\\\r\\\\n\\\\t.,;:\\\\\\\'\\\\\\\"()?!\\\"\"-Fweka.filters.unsupervised.attribute.Reorder -R 3-last,2'
+
+@attribute -year-old numeric
+@attribute account numeric
+@attribute accus numeric
+@attribute activ numeric
+@attribute actual numeric
+@attribute add numeric
+@attribute addict numeric
+@attribute addit numeric
+@attribute address numeric
+@attribute advantag numeric
+@attribute aerial numeric
+@attribute afghanistan numeric
+@attribute africa numeric
+@attribute age numeric
+@attribute agricultur numeric
+@attribute ahead numeric
+@attribute aid numeric
+@attribute aim numeric
+@attribute america numeric
+@attribute american numeric
+@attribute anim numeric
+@attribute annex numeric
+@attribute anti-govern numeric
+@attribute applic numeric
+@attribute approach numeric
+@attribute approxim numeric
+@attribute asylum numeric
+@attribute attent numeric
+@attribute attitud numeric
+@attribute audit numeric
+@attribute avail numeric
+@attribute averag numeric
+@attribute avoid numeric
+@attribute background numeric
+@attribute band numeric
+@attribute barcelona numeric
+@attribute beekeep numeric
+@attribute begin numeric
+@attribute benefit numeric
+@attribute biometr numeric
+@attribute black numeric
+@attribute bloodi numeric
+@attribute bloodthirsti numeric
+@attribute blow numeric
+@attribute boil numeric
+@attribute border numeric
+@attribute born numeric
+@attribute bottl numeric
+@attribute bowl numeric
+@attribute brandi numeric
+@attribute break numeric
+@attribute britain numeric
+@attribute british numeric
+@attribute broad numeric
+@attribute broke numeric
+@attribute broken numeric
+@attribute brussel numeric
+@attribute budget numeric
+@attribute build numeric
+@attribute buy numeric
+@attribute call numeric
+@attribute cambodia numeric
+@attribute cannabi numeric
+@attribute capit numeric
+@attribute care numeric
+@attribute carri numeric
+@attribute case numeric
+@attribute cast numeric
+@attribute catharsi numeric
+@attribute caught numeric
+@attribute ceram numeric
+@attribute child numeric
+@attribute children numeric
+@attribute china numeric
+@attribute chocol numeric
+@attribute cigarett numeric
+@attribute citi numeric
+@attribute civilian numeric
+@attribute clear numeric
+@attribute close numeric
+@attribute coexist numeric
+@attribute cola numeric
+@attribute collect numeric
+@attribute commiss numeric
+@attribute commission numeric
+@attribute committe numeric
+@attribute common numeric
+@attribute communist numeric
+@attribute communiti numeric
+@attribute compet numeric
+@attribute concern numeric
+@attribute conclus numeric
+@attribute condit numeric
+@attribute conduc numeric
+@attribute conflict numeric
+@attribute confus numeric
+@attribute constitut numeric
+@attribute consum numeric
+@attribute content numeric
+@attribute continu numeric
+@attribute contrari numeric
+@attribute controversi numeric
+@attribute converg numeric
+@attribute cook numeric
+@attribute cooper numeric
+@attribute cosmet numeric
+@attribute cosmopolitan numeric
+@attribute council numeric
+@attribute countri numeric
+@attribute countrysid numeric
+@attribute cours numeric
+@attribute court numeric
+@attribute cover numeric
+@attribute cramer numeric
+@attribute cream numeric
+@attribute creat numeric
+@attribute crime numeric
+@attribute crisi numeric
+@attribute critic numeric
+@attribute cultur numeric
+@attribute current numeric
+@attribute cut numeric
+@attribute daili numeric
+@attribute day numeric
+@attribute deal numeric
+@attribute death numeric
+@attribute debat numeric
+@attribute deceit numeric
+@attribute defeat numeric
+@attribute defenc numeric
+@attribute defin numeric
+@attribute definit numeric
+@attribute dement numeric
+@attribute democraci numeric
+@attribute demonstr numeric
+@attribute deport numeric
+@attribute desert numeric
+@attribute desir numeric
+@attribute destin numeric
+@attribute destroy numeric
+@attribute detail numeric
+@attribute determin numeric
+@attribute deterr numeric
+@attribute develop numeric
+@attribute die numeric
+@attribute differ numeric
+@attribute dire numeric
+@attribute direct numeric
+@attribute disadvantag numeric
+@attribute discuss numeric
+@attribute dismiss numeric
+@attribute dispens numeric
+@attribute dissolv numeric
+@attribute divers numeric
+@attribute doctor numeric
+@attribute document numeric
+@attribute doe numeric
+@attribute domin numeric
+@attribute don numeric
+@attribute downright numeric
+@attribute drug numeric
+@attribute earthenwar numeric
+@attribute easili numeric
+@attribute east numeric
+@attribute econom numeric
+@attribute effect numeric
+@attribute elect numeric
+@attribute encourag numeric
+@attribute end numeric
+@attribute enjoy numeric
+@attribute enlarg numeric
+@attribute enorm numeric
+@attribute ensur numeric
+@attribute enter numeric
+@attribute entir numeric
+@attribute equal numeric
+@attribute ertm numeric
+@attribute especi numeric
+@attribute establish numeric
+@attribute ethic numeric
+@attribute ethnic numeric
+@attribute eur numeric
+@attribute europ numeric
+@attribute european numeric
+@attribute examin numeric
+@attribute exampl numeric
+@attribute excus numeric
+@attribute exist numeric
+@attribute explan numeric
+@attribute explod numeric
+@attribute extend numeric
+@attribute extent numeric
+@attribute extraordinari numeric
+@attribute extrem numeric
+@attribute face numeric
+@attribute fact numeric
+@attribute fall numeric
+@attribute farmer numeric
+@attribute favour numeric
+@attribute fight numeric
+@attribute final numeric
+@attribute financi numeric
+@attribute fine numeric
+@attribute finger numeric
+@attribute flower numeric
+@attribute follow numeric
+@attribute forc numeric
+@attribute foreign numeric
+@attribute forgotten numeric
+@attribute forum numeric
+@attribute framework numeric
+@attribute franc numeric
+@attribute fraud numeric
+@attribute free numeric
+@attribute freed numeric
+@attribute french numeric
+@attribute friend numeric
+@attribute fulfil numeric
+@attribute fulli numeric
+@attribute fund numeric
+@attribute fundament numeric
+@attribute garcía numeric
+@attribute generat numeric
+@attribute gentlemen numeric
+@attribute germani numeric
+@attribute give numeric
+@attribute gold numeric
+@attribute govern numeric
+@attribute grass numeric
+@attribute great numeric
+@attribute greatest numeric
+@attribute ground numeric
+@attribute guarante numeric
+@attribute gun numeric
+@attribute haiti numeric
+@attribute hand numeric
+@attribute happen numeric
+@attribute hard numeric
+@attribute harmless numeric
+@attribute harrow numeric
+@attribute haunt numeric
+@attribute headlin numeric
+@attribute health numeric
+@attribute heat numeric
+@attribute herb numeric
+@attribute heritag numeric
+@attribute heroin numeric
+@attribute herranz numeric
+@attribute high numeric
+@attribute hitler numeric
+@attribute hold numeric
+@attribute homophobia numeric
+@attribute honeck numeric
+@attribute honey numeric
+@attribute hopeless numeric
+@attribute horror numeric
+@attribute hous numeric
+@attribute human numeric
+@attribute humanitarian numeric
+@attribute hun numeric
+@attribute hussein numeric
+@attribute hyster numeric
+@attribute idea numeric
+@attribute ideal numeric
+@attribute ieng numeric
+@attribute illiteraci numeric
+@attribute immigr numeric
+@attribute immun numeric
+@attribute import numeric
+@attribute imposs numeric
+@attribute inadequ numeric
+@attribute inconsist numeric
+@attribute independ numeric
+@attribute indic numeric
+@attribute indigen numeric
+@attribute indign numeric
+@attribute indiscrimin numeric
+@attribute indochina numeric
+@attribute industri numeric
+@attribute inform numeric
+@attribute infrastructur numeric
+@attribute ingredi numeric
+@attribute institut numeric
+@attribute insur numeric
+@attribute integr numeric
+@attribute integrist numeric
+@attribute intelligentsia numeric
+@attribute intend numeric
+@attribute interest numeric
+@attribute intern numeric
+@attribute introduc numeric
+@attribute iron numeric
+@attribute islamophobia numeric
+@attribute ispa numeric
+@attribute isra numeric
+@attribute issu numeric
+@attribute jam numeric
+@attribute join numeric
+@attribute justic numeric
+@attribute justifi numeric
+@attribute kerr numeric
+@attribute kettl numeric
+@attribute key numeric
+@attribute khmer numeric
+@attribute kill numeric
+@attribute kim numeric
+@attribute kind numeric
+@attribute kingdom numeric
+@attribute kinnock numeric
+@attribute korea numeric
+@attribute kosovo numeric
+@attribute label numeric
+@attribute lack numeric
+@attribute ladi numeric
+@attribute languag numeric
+@attribute lao numeric
+@attribute lead numeric
+@attribute leader numeric
+@attribute leadership numeric
+@attribute leak numeric
+@attribute left numeric
+@attribute legal numeric
+@attribute lend numeric
+@attribute lenin numeric
+@attribute liber numeric
+@attribute life numeric
+@attribute line numeric
+@attribute listen numeric
+@attribute live numeric
+@attribute lobbi numeric
+@attribute long numeric
+@attribute lost numeric
+@attribute lucrat numeric
+@attribute macao numeric
+@attribute main numeric
+@attribute maintain numeric
+@attribute major numeric
+@attribute make numeric
+@attribute make-up numeric
+@attribute manag numeric
+@attribute manipul numeric
+@attribute manoeuvr numeric
+@attribute mansholt numeric
+@attribute mao numeric
+@attribute maoist numeric
+@attribute march numeric
+@attribute market numeric
+@attribute mascara numeric
+@attribute mass numeric
+@attribute mass-murder numeric
+@attribute massacr numeric
+@attribute materi numeric
+@attribute meant numeric
+@attribute medic numeric
+@attribute meet numeric
+@attribute melt numeric
+@attribute member numeric
+@attribute mention numeric
+@attribute mere numeric
+@attribute merit numeric
+@attribute militari numeric
+@attribute million numeric
+@attribute milosev numeric
+@attribute minist numeric
+@attribute minor numeric
+@attribute miss numeric
+@attribute missil numeric
+@attribute mistaken numeric
+@attribute mix numeric
+@attribute mixtur numeric
+@attribute money numeric
+@attribute monopoli numeric
+@attribute move numeric
+@attribute movement numeric
+@attribute mrs numeric
+@attribute mugab numeric
+@attribute multicultur numeric
+@attribute murder numeric
+@attribute nastiest numeric
+@attribute nation numeric
+@attribute natur numeric
+@attribute necessari numeric
+@attribute neighbour numeric
+@attribute netherland numeric
+@attribute news numeric
+@attribute newspap numeric
+@attribute nomin numeric
+@attribute non-exist numeric
+@attribute north numeric
+@attribute notion numeric
+@attribute notori numeric
+@attribute object numeric
+@attribute obstin numeric
+@attribute occasion numeric
+@attribute occur numeric
+@attribute odd numeric
+@attribute offic numeric
+@attribute offici numeric
+@attribute open numeric
+@attribute open-end numeric
+@attribute opportun numeric
+@attribute opposit numeric
+@attribute order numeric
+@attribute organis numeric
+@attribute origin numeric
+@attribute packag numeric
+@attribute page numeric
+@attribute pan numeric
+@attribute parent numeric
+@attribute parliament numeric
+@attribute parsley numeric
+@attribute partnership numeric
+@attribute past numeric
+@attribute paté numeric
+@attribute pay numeric
+@attribute peac numeric
+@attribute penh numeric
+@attribute pension numeric
+@attribute peopl numeric
+@attribute percentag numeric
+@attribute period numeric
+@attribute permeat numeric
+@attribute pernici numeric
+@attribute philosophi numeric
+@attribute phnom numeric
+@attribute physic numeric
+@attribute pictur numeric
+@attribute piec numeric
+@attribute play numeric
+@attribute playing-field numeric
+@attribute plug numeric
+@attribute pocket numeric
+@attribute pol numeric
+@attribute polici numeric
+@attribute polit numeric
+@attribute pollen numeric
+@attribute pose numeric
+@attribute posit numeric
+@attribute possess numeric
+@attribute possibl numeric
+@attribute potluck numeric
+@attribute pourri numeric
+@attribute power numeric
+@attribute practic numeric
+@attribute practis numeric
+@attribute pragmat numeric
+@attribute present numeric
+@attribute presid numeric
+@attribute pressur numeric
+@attribute pretti numeric
+@attribute prevent numeric
+@attribute prime numeric
+@attribute prioriti numeric
+@attribute pro-chines numeric
+@attribute problem numeric
+@attribute produc numeric
+@attribute product numeric
+@attribute profess numeric
+@attribute programm numeric
+@attribute project numeric
+@attribute proper numeric
+@attribute provid numeric
+@attribute provis numeric
+@attribute psycholog numeric
+@attribute psychopatholog numeric
+@attribute public numeric
+@attribute put numeric
+@attribute quantiti numeric
+@attribute question numeric
+@attribute quit numeric
+@attribute quot numeric
+@attribute racism numeric
+@attribute rapporteur numeric
+@attribute rare numeric
+@attribute read numeric
+@attribute reader numeric
+@attribute readi numeric
+@attribute readili numeric
+@attribute real numeric
+@attribute reason numeric
+@attribute recal numeric
+@attribute recent numeric
+@attribute recognis numeric
+@attribute recommend numeric
+@attribute regard numeric
+@attribute regim numeric
+@attribute region numeric
+@attribute regul numeric
+@attribute reign numeric
+@attribute relat numeric
+@attribute releas numeric
+@attribute religion numeric
+@attribute remain numeric
+@attribute rememb numeric
+@attribute remnant numeric
+@attribute repeat numeric
+@attribute repli numeric
+@attribute report numeric
+@attribute resembl numeric
+@attribute reserv numeric
+@attribute resolut numeric
+@attribute respect numeric
+@attribute respons numeric
+@attribute rest numeric
+@attribute result numeric
+@attribute retir numeric
+@attribute revolutionari numeric
+@attribute risk numeric
+@attribute river numeric
+@attribute role numeric
+@attribute roll numeric
+@attribute roof numeric
+@attribute room numeric
+@attribute roug numeric
+@attribute round numeric
+@attribute rule numeric
+@attribute russia numeric
+@attribute saddam numeric
+@attribute safeguard numeric
+@attribute sari numeric
+@attribute school numeric
+@attribute seek numeric
+@attribute seiz numeric
+@attribute self-help numeric
+@attribute self-reli numeric
+@attribute sell numeric
+@attribute sen numeric
+@attribute servic numeric
+@attribute shot numeric
+@attribute sicco numeric
+@attribute singl numeric
+@attribute situat numeric
+@attribute slave numeric
+@attribute slavon numeric
+@attribute slip numeric
+@attribute slovakia numeric
+@attribute smaller numeric
+@attribute smoke numeric
+@attribute so-cal numeric
+@attribute social numeric
+@attribute socialist numeric
+@attribute societi numeric
+@attribute solut numeric
+@attribute sorbonn numeric
+@attribute sort numeric
+@attribute sought numeric
+@attribute south numeric
+@attribute spain numeric
+@attribute special numeric
+@attribute specif numeric
+@attribute spectr numeric
+@attribute stage numeric
+@attribute stalin numeric
+@attribute stalinist numeric
+@attribute start numeric
+@attribute state numeric
+@attribute stenmarck numeric
+@attribute stone numeric
+@attribute stress numeric
+@attribute studi numeric
+@attribute subject numeric
+@attribute subsequ numeric
+@attribute suchlik numeric
+@attribute sudden numeric
+@attribute suggest numeric
+@attribute sung numeric
+@attribute superst numeric
+@attribute support numeric
+@attribute suprem numeric
+@attribute surpris numeric
+@attribute suspect numeric
+@attribute system numeric
+@attribute talk numeric
+@attribute task numeric
+@attribute taxpay numeric
+@attribute teach numeric
+@attribute technic numeric
+@attribute temptat numeric
+@attribute tenet numeric
+@attribute term numeric
+@attribute terribl numeric
+@attribute territori numeric
+@attribute terror numeric
+@attribute theft numeric
+@attribute thing numeric
+@attribute thousand numeric
+@attribute throw numeric
+@attribute thrown numeric
+@attribute time numeric
+@attribute titl numeric
+@attribute today numeric
+@attribute toilet numeric
+@attribute toler numeric
+@attribute total numeric
+@attribute town numeric
+@attribute tradit numeric
+@attribute traffick numeric
+@attribute tranquil numeric
+@attribute transplant numeric
+@attribute traumatis numeric
+@attribute tri numeric
+@attribute trial numeric
+@attribute troop numeric
+@attribute trotski numeric
+@attribute true numeric
+@attribute turn numeric
+@attribute unaccept numeric
+@attribute uncoop numeric
+@attribute unhealthi numeric
+@attribute union numeric
+@attribute uniqu numeric
+@attribute unit numeric
+@attribute unpunish numeric
+@attribute unstabl numeric
+@attribute verwoerd numeric
+@attribute victim numeric
+@attribute vietnam numeric
+@attribute vietnames numeric
+@attribute view numeric
+@attribute violenc numeric
+@attribute violent numeric
+@attribute virtual numeric
+@attribute vivid numeric
+@attribute volga numeric
+@attribute vote numeric
+@attribute war numeric
+@attribute water numeric
+@attribute wealth numeric
+@attribute widespread numeric
+@attribute window numeric
+@attribute women numeric
+@attribute worth numeric
+@attribute written numeric
+@attribute wrong numeric
+@attribute year numeric
+@attribute young numeric
+@attribute classes {calderone,pot,cremette,scagliare,slavo,fumando,crogiolo,crollare,coccio,secchiello,vasetto,marmellata,contendersi,kerr,finanziata,cassa,invasare,straordinarie,illimitato,mascara,condimento,convento,condito,assicurandoci,esploda,erba,inserendoli,risparmio,mucchio,fuma,confuso,giocavano,pulpito,pentola,indistintamente,vaso,confonderla}
+
+@data
+{96 1,116 1,195 1,257 1,266 1,295 1,403 1,454 1,530 1,582 1,587 1,596 1}
+{34 1,42 1,108 1,128 1,216 1,259 1,289 1,324 1,330 1,335 1,377 1,382 1,420 1,432 1,479 1,480 1,482 1,485 2,489 1,492 1,526 1,570 1,617 1,631 1,636 pot}
+{20 1,105 1,114 2,144 1,179 1,278 1,299 1,358 1,361 2,378 1,439 1,455 1,456 1,576 1,636 cremette}
+{9 1,40 1,60 1,66 1,127 1,177 1,186 2,195 1,212 1,301 1,326 1,370 1,431 1,479 2,574 1,583 1,584 1,592 2,612 1,634 1,636 scagliare}
+{82 1,206 1,218 1,272 1,284 1,287 1,289 1,297 1,339 1,355 1,364 1,418 1,448 1,460 1,533 1,555 1,636 slavo}
+{110 1,111 1,150 1,193 1,259 1,264 1,298 1,302 1,363 1,395 1,428 1,432 1,451 1,490 1,509 1,519 1,526 1,601 2,636 pot}
+{13 1,27 1,61 1,87 1,123 1,124 1,154 1,229 1,256 1,423 1,432 1,447 1,543 1,557 1,636 pot}
+{62 1,145 1,160 1,178 1,195 1,228 1,237 1,246 1,250 1,398 1,532 1,537 2,554 2,604 1,618 1,629 1,636 fumando}
+{17 1,46 1,86 1,88 3,106 1,115 1,119 1,188 1,190 1,222 1,229 1,245 1,266 1,274 1,314 1,355 1,376 1,404 1,439 1,461 1,470 1,483 1,575 2,636 crogiolo}
+{99 1,139 1,182 1,358 1,414 1,507 1,514 1,636 crollare}
+{19 1,166 1,205 1,216 1,227 3,259 1,269 1,432 1,453 1,455 1,488 1,504 1,526 1,561 1,567 1,582 1,617 1,621 1,628 1,636 pot}
+{187 1,240 1,255 1,309 1,388 1,412 1,432 1,474 1,485 1,531 1,552 1,590 1,636 pot}
+{67 1,92 1,131 1,157 1,161 1,182 1,217 1,225 1,291 1,371 1,437 1,531 1,555 1,608 1,611 1,636 coccio}
+{14 1,197 1,331 1,337 1,342 1,361 1,432 1,504 1,529 1,636 pot}
+{18 1,61 1,73 1,90 1,123 1,163 1,224 1,234 1,252 1,257 1,344 1,432 1,516 1,546 1,553 1,590 1,636 pot}
+{82 1,110 1,165 1,223 1,313 1,319 2,322 1,382 1,407 1,430 1,447 1,511 2,626 1,636 secchiello}
+{30 1,31 1,75 1,81 1,98 1,183 1,281 1,296 1,456 1,477 1,609 1,636 vasetto}
+{168 1,170 1,293 1,355 1,479 1,497 1,534 1}
+{35 1,118 1,137 1,230 1,273 1,284 1,382 1,411 1,442 1,486 1,489 1,499 1,516 1,555 1,587 1}
+{69 1,71 1,78 1,84 1,203 1,296 1,359 1,447 1,496 1,498 1,636 marmellata}
+{12 1,375 1,432 1,605 1,636 pot}
+{53 1,89 1,121 1,129 1,147 1,219 1,370 1,391 1,536 1,636 contendersi}
+{52 1,227 1,300 1,365 1,400 1,473 1,528 1,636 kerr}
+{43 1,44 1,92 1,112 1,275 1,393 1,421 1,539 1,569 1,577 1,619 1,635 1}
+{119 1,219 1,558 1,636 finanziata}
+{16 1,25 1,183 1,201 1,636 cassa}
+{204 1,321 1,571 1,598 1,636 invasare}
+{36 1,95 1,97 1,134 1,253 4,268 1,279 1,311 1,402 1,404 1,435 1,450 1,455 1,600 1,636 vasetto}
+{169 1,235 1,267 1,289 1,323 1,343 1,432 1,540 1,552 1,593 1,603 1,636 pot}
+{19 1,125 2,135 1,156 1,158 1,233 1,294 1,304 1,350 1,366 1,418 1,432 1,493 1,508 1,517 1,554 2,585 1,615 1,623 1,634 2,636 pot}
+{119 1,182 1,213 1,314 1,355 1,373 1,439 1,458 1,559 1,636 crogiolo}
+{61 1,108 1,194 1,265 1,278 1,286 1,312 1,432 1,454 1,481 1,494 1,602 1,636 pot}
+{251 1,292 1,471 1,538 1,586 1}
+{19 1,152 1,355 1,418 1,590 1}
+{145 1,182 1,355 1,555 1,611 1,636 pot}
+{118 1,151 1,200 1,219 1,356 1,370 1,409 1,417 1,465 1,495 1,548 2,560 1,636 straordinarie}
+{33 1,80 1,119 2,153 1,180 1,333 1,354 1,355 1,415 1,418 1,488 1,491 1,581 1,597 1,636 crogiolo}
+{1 1,23 1,60 1,68 1,125 1,128 1,205 1,298 1,303 1,306 1,379 1,432 1,502 1,513 1,569 1,636 pot}
+{93 1,167 1,253 1,399 1,523 1,524 1,636 illimitato}
+{66 1,126 1,204 1,329 1,338 1,347 1,493 1,622 1,636 mascara}
+{162 1,189 1,248 1,355 1,613 1,636 crogiolo}
+{221 1,244 1,247 1,374 1,410 1,487 1,636 condimento}
+{61 1,132 1,290 1,432 1,485 1,545 1,554 1,634 1,636 pot}
+{98 1,117 1,142 1,146 1,159 1,207 1,254 1,271 1,387 1,433 1,440 1,449 1,588 1,636 convento}
+{88 1,118 1,183 1,229 1,231 1,331 1,355 1,364 1,412 1,609 1,636 crogiolo}
+{28 1,29 1,202 1,215 1,345 1,396 1,397 1,441 1,446 1,544 1,559 1,568 1,632 1,636 condito}
+{10 1,37 1,61 1,63 1,76 1,109 1,136 1,192 1,208 1,215 1,229 1,239 1,263 1,303 1,317 1,318 1,348 1,361 1,369 1,372 1,426 1,432 1,434 1,438 1,447 1,464 1,497 1,506 1,513 1,520 1,541 1,578 1,595 1,620 1,634 1,636 pot}
+{47 1,48 1,49 1,70 2,74 1,185 1,211 1,334 1,351 1,383 1,394 1,405 2,413 1,467 1,544 1,547 1,636 vasetto}
+{5 1,19 1,45 1,50 1,59 1,110 1,272 1,288 1,332 1,346 1,455 2,458 1,525 1,600 1,636 assicurandoci}
+{44 1,88 1,183 1,289 1,310 1,362 1,447 1,448 1,503 1,609 1,636 esploda}
+{40 1,301 1,636 erba}
+{175 1,187 2,249 1,260 1,305 1,343 1,349 1,357 1,390 1,432 1,501 1,517 1,552 1,565 1,614 1,636 pot}
+{3 1,16 1,65 1,107 1,115 1,138 1,149 1,181 1,201 1,258 2,310 1,341 1,361 1,405 1,439 1,486 1,512 1,593 1,636 inserendoli}
+{58 1,120 1,370 1,636 risparmio}
+{57 1,83 1,148 1,172 1,191 1,229 1,282 1,320 1,370 1,472 1,556 1,573 1}
+{39 1,51 1,156 1,226 1,229 1,236 1,270 1,283 1,307 1,337 1,346 1,357 1,367 1,462 1,469 1,505 1,507 1,563 1,572 1,611 1,636 mucchio}
+{0 1,6 1,62 2,91 1,122 1,177 1,238 1,273 1,316 1,353 1,425 1,436 1,455 1,457 1,463 1,507 1,537 1,559 1,635 1,636 fuma}
+{61 1,174 1,223 1,313 1,432 1,447 1,480 1,485 1,580 1,599 1,634 1,636 pot}
+{37 1,88 1,100 1,153 1,182 2,328 1,352 1,355 1,486 1,566 1,594 1,627 1,636 crogiolo}
+{3 1,22 1,41 1,79 1,87 1,88 1,94 1,104 1,133 1,143 1,168 1,196 1,209 1,277 1,289 2,315 1,360 1,432 1,485 1,567 1,579 1,616 1,620 1,625 1,634 1,636 pot}
+{4 1,15 1,38 1,113 1,176 1,262 1,370 1,419 1,459 1,476 1,572 1,579 1,636 cassa}
+{83 1,88 1,95 1,102 2,155 1,164 1,168 1,290 1,368 1,386 3,389 1,401 1,429 1,441 1,478 1,484 1,551 1,564 1,589 1,634 1,636 confuso}
+{11 1,19 1,55 1,210 1,285 1,428 1,434 1,636 giocavano}
+{54 1,61 1,77 1,99 1,199 1,303 1,325 1,373 1,432 1,513 1,550 1,600 1,636 pot}
+{40 1,60 1,66 1,236 2,301 1,535 1,558 1,606 2,636 pulpito}
+{554 1,586 1,633 1}
+{63 1,87 1,214 1,215 1,241 1,261 1,303 1,336 1,385 1,406 1,416 1,424 1,432 1,474 1,475 1,522 1,636 pot}
+{44 1,236 1,243 1,384 1,417 1,427 1,439 1,636 pentola}
+{8 1,84 1,171 1,308 1,468 2,530 1,549 1,587 1}
+{2 1,24 1,26 1,85 1,130 1,140 1,141 1,175 1,183 1,198 1,220 1,266 1,268 1,276 1,327 1,340 1,392 1,400 1,422 1,433 1,444 1,472 1,479 2,491 1,497 1,500 1,521 1,586 1,607 1,609 1,624 1,630 1,636 indistintamente}
+{32 1,99 1,126 1,204 1,409 1,636 vaso}
+{21 1,66 1,83 1,101 1,173 1,184 1,204 1,321 1,381 1,445 1,452 1,456 2,510 1,542 1,560 1,562 1,591 1,636 vaso}
+{64 1,72 1,108 1,139 1,174 1,242 1,280 1,320 2,328 1,331 1,353 1,361 1,408 1,432 1,515 1,527 1,634 1,636 pot}
+{56 1,103 1,417 1,636 pentola}
+{7 1,27 1,82 1,99 1,108 1,124 1,182 1,232 2,333 2,380 1,443 1,466 1,518 1,610 2,636 confonderla}

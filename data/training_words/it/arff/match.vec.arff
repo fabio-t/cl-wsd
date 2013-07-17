@@ -1,0 +1,2331 @@
+@relation 'match-weka.filters.unsupervised.attribute.NominalToString-C2-weka.filters.unsupervised.attribute.StringToWordVector-R2-W100000-prune-rate-1.0-C-N0-S-stemmerweka.core.stemmers.NullStemmer-M1-O-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.unsupervised.attribute.Reorder-R3-last,2-weka.filters.MultiFilter-Fweka.filters.unsupervised.attribute.StringToWordVector -R 2 -W 100000 -prune-rate -1.0 -C -N 0 -S -stemmer weka.core.stemmers.NullStemmer -M 1 -O -tokenizer \"weka.core.tokenizers.WordTokenizer -delimiters \\\" \\\\r\\\\n\\\\t.,;:\\\\\\\'\\\\\\\"()?!\\\"\"-Fweka.filters.unsupervised.attribute.Reorder -R 3-last,2'
+
+@attribute abil numeric
+@attribute above-ment numeric
+@attribute absolut numeric
+@attribute abus numeric
+@attribute accept numeric
+@attribute access numeric
+@attribute accid numeric
+@attribute accommod numeric
+@attribute accompani numeric
+@attribute accord numeric
+@attribute account numeric
+@attribute accuraci numeric
+@attribute achiev numeric
+@attribute acquir numeric
+@attribute acquisit numeric
+@attribute act numeric
+@attribute action numeric
+@attribute activ numeric
+@attribute actual numeric
+@attribute adapt numeric
+@attribute add numeric
+@attribute addit numeric
+@attribute address numeric
+@attribute adequ numeric
+@attribute adher numeric
+@attribute adjust numeric
+@attribute administr numeric
+@attribute admit numeric
+@attribute adopt numeric
+@attribute advantag numeric
+@attribute aelvoet numeric
+@attribute affair numeric
+@attribute affect numeric
+@attribute afford numeric
+@attribute affray numeric
+@attribute afghanistan numeric
+@attribute afternoon numeric
+@attribute age numeric
+@attribute agenc numeric
+@attribute agenda numeric
+@attribute aggress numeric
+@attribute agre numeric
+@attribute agreement numeric
+@attribute agricultur numeric
+@attribute ahead numeric
+@attribute aid numeric
+@attribute aim numeric
+@attribute air numeric
+@attribute airport numeric
+@attribute ajax numeric
+@attribute alavano numeric
+@attribute alert numeric
+@attribute all-import numeric
+@attribute allianc numeric
+@attribute alloc numeric
+@attribute allot numeric
+@attribute allud numeric
+@attribute ambigu numeric
+@attribute ambit numeric
+@attribute ambiti numeric
+@attribute amend numeric
+@attribute american numeric
+@attribute amount numeric
+@attribute amsterdam numeric
+@attribute analysi numeric
+@attribute anim numeric
+@attribute announc numeric
+@attribute annual numeric
+@attribute answer numeric
+@attribute anti-dop numeric
+@attribute anti-rac numeric
+@attribute anti-racist numeric
+@attribute anxious numeric
+@attribute anybodi numeric
+@attribute appal numeric
+@attribute appeal numeric
+@attribute applaud numeric
+@attribute appli numeric
+@attribute applic numeric
+@attribute apprais numeric
+@attribute appreci numeric
+@attribute approach numeric
+@attribute appropri numeric
+@attribute approv numeric
+@attribute april numeric
+@attribute arab numeric
+@attribute arafat numeric
+@attribute ardent numeric
+@attribute area numeric
+@attribute argu numeric
+@attribute aris numeric
+@attribute arrang numeric
+@attribute articl numeric
+@attribute artist numeric
+@attribute asia numeric
+@attribute aspect numeric
+@attribute aspir numeric
+@attribute assembl numeric
+@attribute assess numeric
+@attribute asset numeric
+@attribute assist numeric
+@attribute associ numeric
+@attribute assum numeric
+@attribute assur numeric
+@attribute asylum numeric
+@attribute attach numeric
+@attribute attack numeric
+@attribute attempt numeric
+@attribute attend numeric
+@attribute attent numeric
+@attribute attitud numeric
+@attribute auction numeric
+@attribute australia numeric
+@attribute austria numeric
+@attribute austrian numeric
+@attribute author numeric
+@attribute autonom numeric
+@attribute avail numeric
+@attribute avoid numeric
+@attribute awar numeric
+@attribute award numeric
+@attribute back numeric
+@attribute background numeric
+@attribute bad numeric
+@attribute balanc numeric
+@attribute balkan numeric
+@attribute ball numeric
+@attribute ballot numeric
+@attribute baltic numeric
+@attribute ban numeric
+@attribute banana numeric
+@attribute bandi numeric
+@attribute bank numeric
+@attribute banner numeric
+@attribute barcelona numeric
+@attribute bargain numeric
+@attribute barroso numeric
+@attribute barrot numeric
+@attribute barón numeric
+@attribute base numeric
+@attribute basel numeric
+@attribute basi numeric
+@attribute basic numeric
+@attribute battl numeric
+@attribute baudouin numeric
+@attribute bear numeric
+@attribute beat numeric
+@attribute beauti numeric
+@attribute beer numeric
+@attribute begin numeric
+@attribute behalf numeric
+@attribute behav numeric
+@attribute behaviour numeric
+@attribute belgian numeric
+@attribute belgium numeric
+@attribute belief numeric
+@attribute believ numeric
+@attribute belong numeric
+@attribute benefit numeric
+@attribute biggest numeric
+@attribute billion numeric
+@attribute biodivers numeric
+@attribute black numeric
+@attribute board numeric
+@attribute boat numeric
+@attribute bodi numeric
+@attribute bolkestein numeric
+@attribute bolster numeric
+@attribute boost numeric
+@attribute bordeaux numeric
+@attribute border numeric
+@attribute born numeric
+@attribute borrel numeric
+@attribute borrow numeric
+@attribute borussia numeric
+@attribute bottl numeric
+@attribute bought numeric
+@attribute bound numeric
+@attribute box numeric
+@attribute boxer numeric
+@attribute bravado numeric
+@attribute brazil numeric
+@attribute brazilian numeric
+@attribute break numeric
+@attribute breed numeric
+@attribute brillianc numeric
+@attribute brilliant numeric
+@attribute bring numeric
+@attribute britain numeric
+@attribute british numeric
+@attribute broad numeric
+@attribute broadcast numeric
+@attribute broader numeric
+@attribute broker numeric
+@attribute brotherhood numeric
+@attribute brussel numeric
+@attribute bskyb numeric
+@attribute budget numeric
+@attribute budgetari numeric
+@attribute build numeric
+@attribute building-block numeric
+@attribute bulgarian numeric
+@attribute bulletin numeric
+@attribute bullmann numeric
+@attribute buoyant numeric
+@attribute bureau numeric
+@attribute buri numeric
+@attribute burma-myanmar numeric
+@attribute burn numeric
+@attribute busi numeric
+@attribute buy numeric
+@attribute böge numeric
+@attribute cabinet numeric
+@attribute cabl numeric
+@attribute calcul numeric
+@attribute call numeric
+@attribute cameroon numeric
+@attribute candid numeric
+@attribute cantona numeric
+@attribute capabl numeric
+@attribute capac numeric
+@attribute capit numeric
+@attribute captiv numeric
+@attribute car numeric
+@attribute carbon numeric
+@attribute cardiff numeric
+@attribute care numeric
+@attribute caricatur numeric
+@attribute carri numeric
+@attribute case numeric
+@attribute case-law numeric
+@attribute catastroph numeric
+@attribute catch numeric
+@attribute caus numeric
+@attribute ceil numeric
+@attribute celebr numeric
+@attribute cent numeric
+@attribute centr numeric
+@attribute central numeric
+@attribute centuri numeric
+@attribute certainti numeric
+@attribute cfo numeric
+@attribute chain numeric
+@attribute chairman numeric
+@attribute challeng numeric
+@attribute chamber numeric
+@attribute champagn numeric
+@attribute championship numeric
+@attribute chanc numeric
+@attribute chang numeric
+@attribute channel numeric
+@attribute chant numeric
+@attribute character numeric
+@attribute charg numeric
+@attribute charm numeric
+@attribute charter numeric
+@attribute chase numeric
+@attribute cheap numeric
+@attribute check numeric
+@attribute children numeric
+@attribute china numeric
+@attribute choic numeric
+@attribute choos numeric
+@attribute chose numeric
+@attribute christian numeric
+@attribute chunk numeric
+@attribute cinema numeric
+@attribute circumst numeric
+@attribute citi numeric
+@attribute citizen numeric
+@attribute civil numeric
+@attribute civilis numeric
+@attribute claim numeric
+@attribute clamour numeric
+@attribute clariti numeric
+@attribute class numeric
+@attribute claus numeric
+@attribute clear numeric
+@attribute clearer numeric
+@attribute climat numeric
+@attribute clip numeric
+@attribute close numeric
+@attribute closer numeric
+@attribute club numeric
+@attribute cns numeric
+@attribute coach numeric
+@attribute coca-cola numeric
+@attribute coher numeric
+@attribute cohes numeric
+@attribute coin numeric
+@attribute coincid numeric
+@attribute colajanni numeric
+@attribute collaps numeric
+@attribute collect numeric
+@attribute collin numeric
+@attribute coloni numeric
+@attribute colour numeric
+@attribute combat numeric
+@attribute combat-effect numeric
+@attribute combin numeric
+@attribute command numeric
+@attribute comment numeric
+@attribute commerci numeric
+@attribute commercialis numeric
+@attribute commiss numeric
+@attribute commission numeric
+@attribute commit numeric
+@attribute committe numeric
+@attribute common numeric
+@attribute communic numeric
+@attribute communist numeric
+@attribute communiti numeric
+@attribute compani numeric
+@attribute compar numeric
+@attribute comparison numeric
+@attribute compet numeric
+@attribute competit numeric
+@attribute complaint numeric
+@attribute complet numeric
+@attribute complex numeric
+@attribute comprehens numeric
+@attribute compromis numeric
+@attribute conceal numeric
+@attribute concern numeric
+@attribute concili numeric
+@attribute conclud numeric
+@attribute conclus numeric
+@attribute concomit numeric
+@attribute concret numeric
+@attribute concur numeric
+@attribute condemn numeric
+@attribute condit numeric
+@attribute conduct numeric
+@attribute confid numeric
+@attribute confin numeric
+@attribute conflict numeric
+@attribute confront numeric
+@attribute congratul numeric
+@attribute congress numeric
+@attribute connect numeric
+@attribute consensu numeric
+@attribute conserv numeric
+@attribute consid numeric
+@attribute consist numeric
+@attribute constant numeric
+@attribute constitu numeric
+@attribute construct numeric
+@attribute consum numeric
+@attribute contact numeric
+@attribute content numeric
+@attribute context numeric
+@attribute continu numeric
+@attribute contrari numeric
+@attribute contrast numeric
+@attribute contribut numeric
+@attribute control numeric
+@attribute controversi numeric
+@attribute convent numeric
+@attribute convict numeric
+@attribute convinc numeric
+@attribute cooper numeric
+@attribute coordin numeric
+@attribute cope numeric
+@attribute correct numeric
+@attribute correspond numeric
+@attribute cost numeric
+@attribute council numeric
+@attribute count numeric
+@attribute counterfeit numeric
+@attribute countri numeric
+@attribute coupl numeric
+@attribute courag numeric
+@attribute cours numeric
+@attribute court numeric
+@attribute cover numeric
+@attribute cox numeric
+@attribute crack numeric
+@attribute creat numeric
+@attribute creation numeric
+@attribute crespo numeric
+@attribute crime numeric
+@attribute crimin numeric
+@attribute crisi numeric
+@attribute criticis numeric
+@attribute crop numeric
+@attribute cross-bord numeric
+@attribute crowd numeric
+@attribute crucial numeric
+@attribute cultur numeric
+@attribute cup numeric
+@attribute currenc numeric
+@attribute current numeric
+@attribute cut numeric
+@attribute cynic numeric
+@attribute daili numeric
+@attribute damag numeric
+@attribute dane numeric
+@attribute danger numeric
+@attribute data numeric
+@attribute day numeric
+@attribute day-to-day numeric
+@attribute deadlin numeric
+@attribute deal numeric
+@attribute dear numeric
+@attribute debat numeric
+@attribute decemb numeric
+@attribute decid numeric
+@attribute decis numeric
+@attribute decision-mak numeric
+@attribute declar numeric
+@attribute decommiss numeric
+@attribute deed numeric
+@attribute deficit numeric
+@attribute defin numeric
+@attribute definit numeric
+@attribute degre numeric
+@attribute delay numeric
+@attribute deleg numeric
+@attribute deliber numeric
+@attribute deliveri numeric
+@attribute delor numeric
+@attribute demand numeric
+@attribute democraci numeric
+@attribute democrat numeric
+@attribute demonstr numeric
+@attribute deni numeric
+@attribute denmark numeric
+@attribute denomin numeric
+@attribute denounc numeric
+@attribute depend numeric
+@attribute deplor numeric
+@attribute deploy numeric
+@attribute deprez numeric
+@attribute deris numeric
+@attribute des numeric
+@attribute describ numeric
+@attribute descript numeric
+@attribute deserv numeric
+@attribute design numeric
+@attribute desir numeric
+@attribute despit numeric
+@attribute destruct numeric
+@attribute detail numeric
+@attribute determin numeric
+@attribute develop numeric
+@attribute devis numeric
+@attribute devot numeric
+@attribute dialogu numeric
+@attribute dictatori numeric
+@attribute differ numeric
+@attribute difficult numeric
+@attribute difficulti numeric
+@attribute digit numeric
+@attribute dignitari numeric
+@attribute digniti numeric
+@attribute dimens numeric
+@attribute dioxid numeric
+@attribute diplomat numeric
+@attribute direct numeric
+@attribute directorates-gener numeric
+@attribute dirti numeric
+@attribute disadvantag numeric
+@attribute disagre numeric
+@attribute disappoint numeric
+@attribute disast numeric
+@attribute disastr numeric
+@attribute discharg numeric
+@attribute discont numeric
+@attribute discontinu numeric
+@attribute discov numeric
+@attribute discreet numeric
+@attribute discriminatori numeric
+@attribute discuss numeric
+@attribute diseas numeric
+@attribute disgrac numeric
+@attribute disord numeric
+@attribute displac numeric
+@attribute display numeric
+@attribute dispos numeric
+@attribute district numeric
+@attribute disturb numeric
+@attribute diversif numeric
+@attribute dizzi numeric
+@attribute document numeric
+@attribute doe numeric
+@attribute doha numeric
+@attribute donor numeric
+@attribute door numeric
+@attribute dortmund numeric
+@attribute doubt numeric
+@attribute dprk numeric
+@attribute draft numeric
+@attribute drama numeric
+@attribute dramat numeric
+@attribute draw numeric
+@attribute dream numeric
+@attribute dri numeric
+@attribute drink numeric
+@attribute drop numeric
+@attribute drug numeric
+@attribute durabl numeric
+@attribute duti numeric
+@attribute dynam numeric
+@attribute earmark numeric
+@attribute earn numeric
+@attribute easi numeric
+@attribute easier numeric
+@attribute easiest numeric
+@attribute east numeric
+@attribute eastern numeric
+@attribute econom numeric
+@attribute economi numeric
+@attribute ecu numeric
+@attribute educ numeric
+@attribute effect numeric
+@attribute effici numeric
+@attribute effort numeric
+@attribute elder numeric
+@attribute elect numeric
+@attribute elector numeric
+@attribute electron numeric
+@attribute elig numeric
+@attribute elitist numeric
+@attribute embassi numeric
+@attribute emerg numeric
+@attribute emiss numeric
+@attribute emit numeric
+@attribute emphas numeric
+@attribute emphasis numeric
+@attribute employ numeric
+@attribute employe numeric
+@attribute emu numeric
+@attribute enabl numeric
+@attribute enact numeric
+@attribute encourag numeric
+@attribute end numeric
+@attribute endeavour numeric
+@attribute endless numeric
+@attribute endors numeric
+@attribute endur numeric
+@attribute enemi numeric
+@attribute energi numeric
+@attribute enforc numeric
+@attribute england numeric
+@attribute english numeric
+@attribute enhanc numeric
+@attribute enjoy numeric
+@attribute enlarg numeric
+@attribute enorm numeric
+@attribute enquir numeric
+@attribute enquiri numeric
+@attribute ensur numeric
+@attribute enter numeric
+@attribute entertain numeric
+@attribute enthusiast numeric
+@attribute entir numeric
+@attribute entrust numeric
+@attribute environ numeric
+@attribute environment numeric
+@attribute episod numeric
+@attribute equal numeric
+@attribute equip numeric
+@attribute equit numeric
+@attribute equiti numeric
+@attribute era numeric
+@attribute escap numeric
+@attribute especi numeric
+@attribute essenti numeric
+@attribute establish numeric
+@attribute eur numeric
+@attribute euro numeric
+@attribute euro-mediterranean numeric
+@attribute eurom numeric
+@attribute europ numeric
+@attribute european numeric
+@attribute evalu numeric
+@attribute event numeric
+@attribute eventu numeric
+@attribute ever-pres numeric
+@attribute everlast numeric
+@attribute evid numeric
+@attribute evolv numeric
+@attribute exact numeric
+@attribute exampl numeric
+@attribute exceed numeric
+@attribute excel numeric
+@attribute excess numeric
+@attribute exchang numeric
+@attribute exchequ numeric
+@attribute excit numeric
+@attribute exclus numeric
+@attribute excus numeric
+@attribute exercis numeric
+@attribute exert numeric
+@attribute exhaust numeric
+@attribute exist numeric
+@attribute expect numeric
+@attribute expenditur numeric
+@attribute expens numeric
+@attribute experi numeric
+@attribute experienc numeric
+@attribute explain numeric
+@attribute explos numeric
+@attribute export numeric
+@attribute express numeric
+@attribute expressli numeric
+@attribute extend numeric
+@attribute extens numeric
+@attribute extent numeric
+@attribute extern numeric
+@attribute extra numeric
+@attribute extravag numeric
+@attribute extrem numeric
+@attribute fabre-aubrespi numeric
+@attribute face numeric
+@attribute facilit numeric
+@attribute fact numeric
+@attribute facto numeric
+@attribute fail numeric
+@attribute failur numeric
+@attribute fair numeric
+@attribute fall numeric
+@attribute fallen numeric
+@attribute famili numeric
+@attribute familiar numeric
+@attribute famous numeric
+@attribute fan numeric
+@attribute fao numeric
+@attribute faraway numeric
+@attribute farm numeric
+@attribute farmer numeric
+@attribute fast numeric
+@attribute fat numeric
+@attribute favour numeric
+@attribute fear numeric
+@attribute feder numeric
+@attribute feed numeric
+@attribute feel numeric
+@attribute fell numeric
+@attribute femal numeric
+@attribute field numeric
+@attribute fifa numeric
+@attribute fight numeric
+@attribute figur numeric
+@attribute final numeric
+@attribute financ numeric
+@attribute financi numeric
+@attribute find numeric
+@attribute fine numeric
+@attribute finger numeric
+@attribute fingerprint numeric
+@attribute finish numeric
+@attribute firm numeric
+@attribute fish numeric
+@attribute fisheri numeric
+@attribute fix numeric
+@attribute flavour numeric
+@attribute fleet numeric
+@attribute flexibl numeric
+@attribute florenc numeric
+@attribute flummox numeric
+@attribute flux numeric
+@attribute fodder numeric
+@attribute fog numeric
+@attribute follow numeric
+@attribute follow-up numeric
+@attribute food numeric
+@attribute fool numeric
+@attribute foot numeric
+@attribute footbal numeric
+@attribute footballeur numeric
+@attribute forc numeric
+@attribute ford numeric
+@attribute foreign numeric
+@attribute foremost numeric
+@attribute forest numeric
+@attribute forgotten numeric
+@attribute form numeric
+@attribute formal numeric
+@attribute formul numeric
+@attribute formula numeric
+@attribute forrest numeric
+@attribute fortun numeric
+@attribute forward numeric
+@attribute forward-look numeric
+@attribute foster numeric
+@attribute foundat numeric
+@attribute framework numeric
+@attribute franc numeric
+@attribute franco-german numeric
+@attribute free numeric
+@attribute freedom numeric
+@attribute freeview numeric
+@attribute french numeric
+@attribute frequent numeric
+@attribute fresh numeric
+@attribute friend numeric
+@attribute friendship numeric
+@attribute frontier numeric
+@attribute frustrat numeric
+@attribute fuel numeric
+@attribute fulfil numeric
+@attribute fulli numeric
+@attribute function numeric
+@attribute fund numeric
+@attribute fundament numeric
+@attribute furthermor numeric
+@attribute futur numeric
+@attribute gain numeric
+@attribute galatasaray numeric
+@attribute game numeric
+@attribute gap numeric
+@attribute gather numeric
+@attribute gdp numeric
+@attribute general numeric
+@attribute generos numeric
+@attribute genk numeric
+@attribute gentlemen numeric
+@attribute genuin numeric
+@attribute geograph numeric
+@attribute germain numeric
+@attribute german numeric
+@attribute germani numeric
+@attribute germany-itali numeric
+@attribute gestur numeric
+@attribute giant numeric
+@attribute gil-robl numeric
+@attribute giro numeric
+@attribute give numeric
+@attribute glamour numeric
+@attribute glasnost numeric
+@attribute global numeric
+@attribute globalis numeric
+@attribute go-ahead numeric
+@attribute goal numeric
+@attribute goalless numeric
+@attribute goalpost numeric
+@attribute goe numeric
+@attribute gold numeric
+@attribute good numeric
+@attribute goodwil numeric
+@attribute govern numeric
+@attribute gradual numeric
+@attribute grant numeric
+@attribute gratifi numeric
+@attribute great numeric
+@attribute greater numeric
+@attribute greatest numeric
+@attribute greec numeric
+@attribute greek numeric
+@attribute greet numeric
+@attribute ground numeric
+@attribute group numeric
+@attribute grow numeric
+@attribute growth numeric
+@attribute guarante numeric
+@attribute guidelin numeric
+@attribute gérard numeric
+@attribute half-empti numeric
+@attribute half-tim numeric
+@attribute hand numeric
+@attribute hang numeric
+@attribute happen numeric
+@attribute happi numeric
+@attribute hard numeric
+@attribute hatr numeric
+@attribute head numeric
+@attribute headway numeric
+@attribute health numeric
+@attribute healthi numeric
+@attribute hear numeric
+@attribute heard numeric
+@attribute heat numeric
+@attribute heavi numeric
+@attribute heavyweight numeric
+@attribute hectar numeric
+@attribute hefti numeric
+@attribute height numeric
+@attribute held numeric
+@attribute hellen numeric
+@attribute helsinki numeric
+@attribute heritag numeric
+@attribute high numeric
+@attribute higher numeric
+@attribute highest numeric
+@attribute highlight numeric
+@attribute hilli numeric
+@attribute hing numeric
+@attribute histor numeric
+@attribute histori numeric
+@attribute hoc numeric
+@attribute hold numeric
+@attribute hold-up numeric
+@attribute holiday numeric
+@attribute hollywood numeric
+@attribute home numeric
+@attribute honour numeric
+@attribute hooligan numeric
+@attribute hope numeric
+@attribute horror numeric
+@attribute host numeric
+@attribute hour numeric
+@attribute hous numeric
+@attribute huge numeric
+@attribute human numeric
+@attribute humanitarian numeric
+@attribute hundr numeric
+@attribute idea numeric
+@attribute ideal numeric
+@attribute ident numeric
+@attribute identifi numeric
+@attribute iii numeric
+@attribute illicit numeric
+@attribute illiteraci numeric
+@attribute illus numeric
+@attribute immedi numeric
+@attribute immigr numeric
+@attribute impact numeric
+@attribute impair numeric
+@attribute implement numeric
+@attribute import numeric
+@attribute impos numeric
+@attribute impoverish numeric
+@attribute improv numeric
+@attribute impun numeric
+@attribute inadequ numeric
+@attribute inappropri numeric
+@attribute incid numeric
+@attribute incident numeric
+@attribute includ numeric
+@attribute incomprehens numeric
+@attribute inconveni numeric
+@attribute increas numeric
+@attribute incur numeric
+@attribute india numeric
+@attribute indic numeric
+@attribute indiffer numeric
+@attribute individu numeric
+@attribute indonesian numeric
+@attribute induc numeric
+@attribute industri numeric
+@attribute ineffici numeric
+@attribute inevit numeric
+@attribute inform numeric
+@attribute initi numeric
+@attribute innov numeric
+@attribute inquiri numeric
+@attribute inspect numeric
+@attribute instanc numeric
+@attribute institut numeric
+@attribute instrument numeric
+@attribute insubstanti numeric
+@attribute insuffici numeric
+@attribute integr numeric
+@attribute intellig numeric
+@attribute intend numeric
+@attribute intens numeric
+@attribute intent numeric
+@attribute interest numeric
+@attribute interinstitut numeric
+@attribute intern numeric
+@attribute international numeric
+@attribute interpret numeric
+@attribute interrel numeric
+@attribute intervent numeric
+@attribute introduc numeric
+@attribute introduct numeric
+@attribute invest numeric
+@attribute investig numeric
+@attribute investor numeric
+@attribute invit numeric
+@attribute involv numeric
+@attribute iranian numeric
+@attribute iraq numeric
+@attribute iraqi numeric
+@attribute irish numeric
+@attribute irrevers numeric
+@attribute islam numeric
+@attribute isol numeric
+@attribute isra numeric
+@attribute israel numeric
+@attribute issu numeric
+@attribute itali numeric
+@attribute italia numeric
+@attribute italian numeric
+@attribute item numeric
+@attribute jacqu numeric
+@attribute japan numeric
+@attribute javier numeric
+@attribute jean-claud numeric
+@attribute jha numeric
+@attribute job numeric
+@attribute johannesburg numeric
+@attribute join numeric
+@attribute joint numeric
+@attribute judg numeric
+@attribute judici numeric
+@attribute judiciari numeric
+@attribute juncker numeric
+@attribute junctur numeric
+@attribute june numeric
+@attribute justic numeric
+@attribute justifi numeric
+@attribute kettl numeric
+@attribute key numeric
+@attribute kill numeric
+@attribute kind numeric
+@attribute king numeric
+@attribute kingdom numeric
+@attribute kinnock numeric
+@attribute knacker numeric
+@attribute know-how numeric
+@attribute knowledg numeric
+@attribute knowledge-bas numeric
+@attribute korea numeric
+@attribute kosovo numeric
+@attribute label numeric
+@attribute labour numeric
+@attribute lack numeric
+@attribute ladi numeric
+@attribute laeken numeric
+@attribute lamassour numeric
+@attribute landscap numeric
+@attribute larg numeric
+@attribute large-scal numeric
+@attribute largest numeric
+@attribute late numeric
+@attribute latest numeric
+@attribute launder numeric
+@attribute law numeric
+@attribute lead numeric
+@attribute leader numeric
+@attribute leagu numeric
+@attribute leav numeric
+@attribute lectur numeric
+@attribute led numeric
+@attribute leed numeric
+@attribute left numeric
+@attribute legaci numeric
+@attribute legal numeric
+@attribute legisl numeric
+@attribute legitim numeric
+@attribute legitimaci numeric
+@attribute lend numeric
+@attribute leonardo numeric
+@attribute lesser numeric
+@attribute letter numeric
+@attribute level numeric
+@attribute liabl numeric
+@attribute liber numeric
+@attribute liberalis numeric
+@attribute liberti numeric
+@attribute life numeric
+@attribute lift numeric
+@attribute light numeric
+@attribute lightweight numeric
+@attribute like-mind numeric
+@attribute limit numeric
+@attribute lindh numeric
+@attribute line numeric
+@attribute linesmen numeric
+@attribute link numeric
+@attribute lip numeric
+@attribute lisbon numeric
+@attribute lithuania numeric
+@attribute live numeric
+@attribute load numeric
+@attribute local numeric
+@attribute locat numeric
+@attribute logist numeric
+@attribute long numeric
+@attribute long-stand numeric
+@attribute long-term numeric
+@attribute longer numeric
+@attribute longstand numeric
+@attribute lorri numeric
+@attribute lose numeric
+@attribute loss numeric
+@attribute lost numeric
+@attribute low numeric
+@attribute low-volum numeric
+@attribute lucid numeric
+@attribute lucki numeric
+@attribute luxembourg numeric
+@attribute lyric numeric
+@attribute macedonia numeric
+@attribute madam numeric
+@attribute madrid numeric
+@attribute mail numeric
+@attribute mainstream numeric
+@attribute maintain numeric
+@attribute major numeric
+@attribute make numeric
+@attribute male-femal numeric
+@attribute man numeric
+@attribute manag numeric
+@attribute mandat numeric
+@attribute margin numeric
+@attribute mark numeric
+@attribute market numeric
+@attribute marri numeric
+@attribute mass numeric
+@attribute match numeric
+@attribute materi numeric
+@attribute matter numeric
+@attribute maximum numeric
+@attribute mayb numeric
+@attribute mcmillan-scott numeric
+@attribute measur numeric
+@attribute meat numeric
+@attribute media numeric
+@attribute mediterranean numeric
+@attribute meet numeric
+@attribute member numeric
+@attribute men numeric
+@attribute mendez numeric
+@attribute mental numeric
+@attribute mention numeric
+@attribute mep numeric
+@attribute mere numeric
+@attribute messag numeric
+@attribute met numeric
+@attribute method numeric
+@attribute middl numeric
+@attribute migrat numeric
+@attribute militari numeric
+@attribute millennium numeric
+@attribute million numeric
+@attribute mind numeric
+@attribute minefield numeric
+@attribute minimum numeric
+@attribute minist numeric
+@attribute minut numeric
+@attribute mis-sel numeric
+@attribute misfortun numeric
+@attribute miss numeric
+@attribute mnf numeric
+@attribute mobilis numeric
+@attribute model numeric
+@attribute modern numeric
+@attribute modern-day numeric
+@attribute moment numeric
+@attribute monetari numeric
+@attribute money numeric
+@attribute mongolia numeric
+@attribute monkey-lik numeric
+@attribute monopoli numeric
+@attribute montenegro numeric
+@attribute monterrey numeric
+@attribute month numeric
+@attribute morn numeric
+@attribute motion numeric
+@attribute motiv numeric
+@attribute motorway numeric
+@attribute mouth numeric
+@attribute move numeric
+@attribute mrs numeric
+@attribute multi-million numeric
+@attribute multiannu numeric
+@attribute nation numeric
+@attribute nato numeric
+@attribute natur numeric
+@attribute nazi numeric
+@attribute necessari numeric
+@attribute negat numeric
+@attribute neglect numeric
+@attribute negoti numeric
+@attribute neighbourhood numeric
+@attribute neo-fascist numeric
+@attribute neoliber numeric
+@attribute netherland numeric
+@attribute network numeric
+@attribute newly-introduc numeric
+@attribute news numeric
+@attribute newspap numeric
+@attribute nice numeric
+@attribute nich numeric
+@attribute night numeric
+@attribute nois numeric
+@attribute non-bind numeric
+@attribute non-government numeric
+@attribute non-memb numeric
+@attribute nonetheless numeric
+@attribute normal numeric
+@attribute notabl numeric
+@attribute note numeric
+@attribute novemb numeric
+@attribute nowaday numeric
+@attribute nuclear numeric
+@attribute number numeric
+@attribute numer numeric
+@attribute object numeric
+@attribute oblig numeric
+@attribute observ numeric
+@attribute obstruct numeric
+@attribute obvious numeric
+@attribute occas numeric
+@attribute occup numeric
+@attribute occur numeric
+@attribute octob numeric
+@attribute offer numeric
+@attribute offic numeric
+@attribute offici numeric
+@attribute oilse numeric
+@attribute olmert numeric
+@attribute olymp numeric
+@attribute one-off numeric
+@attribute open numeric
+@attribute oper numeric
+@attribute opinion numeric
+@attribute opportun numeric
+@attribute opposit numeric
+@attribute optim numeric
+@attribute optimist numeric
+@attribute option numeric
+@attribute orchestr numeric
+@attribute order numeric
+@attribute organ numeric
+@attribute organis numeric
+@attribute origin numeric
+@attribute out-of-d numeric
+@attribute outcom numeric
+@attribute outlin numeric
+@attribute oval numeric
+@attribute overal numeric
+@attribute overdu numeric
+@attribute overse numeric
+@attribute overtaken numeric
+@attribute owe numeric
+@attribute owner numeric
+@attribute ozon numeric
+@attribute pace numeric
+@attribute packag numeric
+@attribute pact numeric
+@attribute page numeric
+@attribute paid numeric
+@attribute palestinian numeric
+@attribute paltri numeric
+@attribute pan-european numeric
+@attribute paper numeric
+@attribute paragraph numeric
+@attribute pari numeric
+@attribute parliament numeric
+@attribute parliamentari numeric
+@attribute parliamentarian numeric
+@attribute parti numeric
+@attribute particip numeric
+@attribute partner numeric
+@attribute partnership numeric
+@attribute pass numeric
+@attribute passion numeric
+@attribute patent numeric
+@attribute path numeric
+@attribute patient numeric
+@attribute patrol numeric
+@attribute pay numeric
+@attribute payment numeric
+@attribute peac numeric
+@attribute pension numeric
+@attribute peopl numeric
+@attribute percentag numeric
+@attribute perestroika numeric
+@attribute perfect numeric
+@attribute perform numeric
+@attribute perimet numeric
+@attribute period numeric
+@attribute perman numeric
+@attribute permit numeric
+@attribute person numeric
+@attribute perspect numeric
+@attribute phare numeric
+@attribute photograph numeric
+@attribute physic numeric
+@attribute physiolog numeric
+@attribute pick numeric
+@attribute pictur numeric
+@attribute pilot numeric
+@attribute ping-pong numeric
+@attribute pitch numeric
+@attribute place numeric
+@attribute plan numeric
+@attribute plant numeric
+@attribute platform numeric
+@attribute play numeric
+@attribute player numeric
+@attribute pleas numeric
+@attribute pleasur numeric
+@attribute pledg numeric
+@attribute plug numeric
+@attribute poetter numeric
+@attribute point numeric
+@attribute pole numeric
+@attribute polic numeric
+@attribute police-run numeric
+@attribute polici numeric
+@attribute polit numeric
+@attribute popul numeric
+@attribute portion numeric
+@attribute porto numeric
+@attribute portug numeric
+@attribute portugues numeric
+@attribute pose numeric
+@attribute posit numeric
+@attribute possibl numeric
+@attribute post numeric
+@attribute potenti numeric
+@attribute power numeric
+@attribute ppe-d numeric
+@attribute ppe-e numeric
+@attribute practic numeric
+@attribute prais numeric
+@attribute pre-access numeric
+@attribute precis numeric
+@attribute predat numeric
+@attribute predomin numeric
+@attribute prefer numeric
+@attribute prem numeric
+@attribute premier numeric
+@attribute prepar numeric
+@attribute presenc numeric
+@attribute present numeric
+@attribute preserv numeric
+@attribute presid numeric
+@attribute presidency-inoffic numeric
+@attribute president-in-offic numeric
+@attribute press numeric
+@attribute pressur numeric
+@attribute pretti numeric
+@attribute prevail numeric
+@attribute prevent numeric
+@attribute previous numeric
+@attribute prey numeric
+@attribute price numeric
+@attribute primari numeric
+@attribute prime numeric
+@attribute princip numeric
+@attribute principl numeric
+@attribute print numeric
+@attribute prioriti numeric
+@attribute privaci numeric
+@attribute privat numeric
+@attribute privileg numeric
+@attribute problem numeric
+@attribute procedur numeric
+@attribute proceed numeric
+@attribute process numeric
+@attribute produc numeric
+@attribute product numeric
+@attribute profession numeric
+@attribute professionel numeric
+@attribute profil numeric
+@attribute profit numeric
+@attribute profound numeric
+@attribute program numeric
+@attribute programm numeric
+@attribute progress numeric
+@attribute project numeric
+@attribute prolong numeric
+@attribute promis numeric
+@attribute promot numeric
+@attribute proper numeric
+@attribute properti numeric
+@attribute propos numeric
+@attribute prospect numeric
+@attribute prosper numeric
+@attribute protect numeric
+@attribute protein numeric
+@attribute provan numeric
+@attribute prove numeric
+@attribute provenç numeric
+@attribute provid numeric
+@attribute provis numeric
+@attribute prudent numeric
+@attribute public numeric
+@attribute publicis numeric
+@attribute punctual numeric
+@attribute purpos numeric
+@attribute pursu numeric
+@attribute put numeric
+@attribute qualiti numeric
+@attribute quantiti numeric
+@attribute quantum numeric
+@attribute question numeric
+@attribute quicker numeric
+@attribute quit numeric
+@attribute quot numeric
+@attribute quota numeric
+@attribute racism numeric
+@attribute racist numeric
+@attribute radic numeric
+@attribute raft numeric
+@attribute rais numeric
+@attribute raison numeric
+@attribute ramp numeric
+@attribute random numeric
+@attribute randzio-plath numeric
+@attribute rang numeric
+@attribute rapid numeric
+@attribute rapporteur numeric
+@attribute rate numeric
+@attribute ratio numeric
+@attribute raw numeric
+@attribute re-establish numeric
+@attribute reach numeric
+@attribute reaction numeric
+@attribute read numeric
+@attribute real numeric
+@attribute real-lif numeric
+@attribute realis numeric
+@attribute realist numeric
+@attribute realiti numeric
+@attribute realli numeric
+@attribute reason numeric
+@attribute recal numeric
+@attribute recast numeric
+@attribute receiv numeric
+@attribute recent numeric
+@attribute recit numeric
+@attribute recognis numeric
+@attribute recognit numeric
+@attribute recommend numeric
+@attribute record numeric
+@attribute rectifi numeric
+@attribute reduc numeric
+@attribute reduct numeric
+@attribute refer numeric
+@attribute refere numeric
+@attribute reflect numeric
+@attribute reform numeric
+@attribute reformist numeric
+@attribute refrain numeric
+@attribute refuge numeric
+@attribute refus numeric
+@attribute regard numeric
+@attribute regim numeric
+@attribute region numeric
+@attribute regist numeric
+@attribute registr numeric
+@attribute regret numeric
+@attribute regrett numeric
+@attribute regul numeric
+@attribute regular numeric
+@attribute regulatori numeric
+@attribute reinforc numeric
+@attribute reintroduc numeric
+@attribute reject numeric
+@attribute relat numeric
+@attribute relationship numeric
+@attribute releas numeric
+@attribute relev numeric
+@attribute remain numeric
+@attribute remedi numeric
+@attribute rememb numeric
+@attribute remind numeric
+@attribute remit numeric
+@attribute remov numeric
+@attribute renew numeric
+@attribute repatri numeric
+@attribute repeat numeric
+@attribute replac numeric
+@attribute repli numeric
+@attribute report numeric
+@attribute repres numeric
+@attribute reproach numeric
+@attribute reproduc numeric
+@attribute republ numeric
+@attribute request numeric
+@attribute requir numeric
+@attribute requisit numeric
+@attribute research numeric
+@attribute resembl numeric
+@attribute resist numeric
+@attribute resolut numeric
+@attribute resolv numeric
+@attribute resourc numeric
+@attribute respect numeric
+@attribute respond numeric
+@attribute respons numeric
+@attribute rest numeric
+@attribute restrain numeric
+@attribute restrict numeric
+@attribute restructur numeric
+@attribute result numeric
+@attribute retain numeric
+@attribute retir numeric
+@attribute return numeric
+@attribute revenu numeric
+@attribute revers numeric
+@attribute revis numeric
+@attribute revitalis numeric
+@attribute rhetor numeric
+@attribute rid numeric
+@attribute rigid numeric
+@attribute rigor numeric
+@attribute rigour numeric
+@attribute rio numeric
+@attribute riot numeric
+@attribute rise numeric
+@attribute risk numeric
+@attribute ritualist numeric
+@attribute rival numeric
+@attribute road numeric
+@attribute robberi numeric
+@attribute role numeric
+@attribute rome numeric
+@attribute round numeric
+@attribute royal numeric
+@attribute rude numeric
+@attribute rugbi numeric
+@attribute ruhr numeric
+@attribute rule numeric
+@attribute run numeric
+@attribute rural numeric
+@attribute sad numeric
+@attribute safe numeric
+@attribute safeguard numeric
+@attribute safeti numeric
+@attribute sainjon numeric
+@attribute sakellariou numeric
+@attribute sale numeric
+@attribute sanitari numeric
+@attribute santer numeric
+@attribute saturday numeric
+@attribute saudi numeric
+@attribute save numeric
+@attribute scale numeric
+@attribute scant numeric
+@attribute scene numeric
+@attribute schengen numeric
+@attribute schäubl numeric
+@attribute scienc numeric
+@attribute scientif numeric
+@attribute scientist numeric
+@attribute sclerot numeric
+@attribute scope numeric
+@attribute score numeric
+@attribute scoreboard numeric
+@attribute scot numeric
+@attribute scotland numeric
+@attribute scottish numeric
+@attribute scrap numeric
+@attribute scrutinis numeric
+@attribute sea numeric
+@attribute season numeric
+@attribute seat numeric
+@attribute secret numeric
+@attribute secretariat numeric
+@attribute secretary-gener numeric
+@attribute sector numeric
+@attribute secur numeric
+@attribute seek numeric
+@attribute select numeric
+@attribute sell numeric
+@attribute send numeric
+@attribute sens numeric
+@attribute sensit numeric
+@attribute sentenc numeric
+@attribute separ numeric
+@attribute seri numeric
+@attribute servant numeric
+@attribute servic numeric
+@attribute set numeric
+@attribute set-up numeric
+@attribute setanta numeric
+@attribute sever numeric
+@attribute sex numeric
+@attribute sexist numeric
+@attribute shadow numeric
+@attribute shame numeric
+@attribute shape numeric
+@attribute share numeric
+@attribute shift numeric
+@attribute shock numeric
+@attribute shoestr numeric
+@attribute short numeric
+@attribute shot numeric
+@attribute shout numeric
+@attribute shove numeric
+@attribute show numeric
+@attribute shown numeric
+@attribute sign numeric
+@attribute signific numeric
+@attribute similar numeric
+@attribute simpl numeric
+@attribute simpli numeric
+@attribute sing numeric
+@attribute singl numeric
+@attribute site numeric
+@attribute situat numeric
+@attribute sixth numeric
+@attribute size numeric
+@attribute skin numeric
+@attribute slang numeric
+@attribute slight numeric
+@attribute slogan numeric
+@attribute small-scal numeric
+@attribute so-cal numeric
+@attribute soap numeric
+@attribute social numeric
+@attribute socialist numeric
+@attribute societi numeric
+@attribute socio-econom numeric
+@attribute socrat numeric
+@attribute solana numeric
+@attribute sold numeric
+@attribute sole numeric
+@attribute solid numeric
+@attribute solidar numeric
+@attribute solut numeric
+@attribute solv numeric
+@attribute somebodi numeric
+@attribute song numeric
+@attribute sophist numeric
+@attribute sorri numeric
+@attribute sort numeric
+@attribute sought numeric
+@attribute south numeric
+@attribute soviet numeric
+@attribute spain numeric
+@attribute spanish numeric
+@attribute spare numeric
+@attribute speak numeric
+@attribute speaker numeric
+@attribute special numeric
+@attribute specif numeric
+@attribute spectacl numeric
+@attribute spectacular numeric
+@attribute spectat numeric
+@attribute speech numeric
+@attribute spend numeric
+@attribute spite numeric
+@attribute spokesperson numeric
+@attribute sponsor numeric
+@attribute sport numeric
+@attribute sportsmanlik numeric
+@attribute spous numeric
+@attribute spread numeric
+@attribute springboard numeric
+@attribute stabil numeric
+@attribute stabl numeric
+@attribute stadium numeric
+@attribute stae numeric
+@attribute staff numeric
+@attribute stage numeric
+@attribute stagger numeric
+@attribute stake numeric
+@attribute stand numeric
+@attribute standard numeric
+@attribute start numeric
+@attribute state numeric
+@attribute state-of-the-art numeric
+@attribute statement numeric
+@attribute static numeric
+@attribute status numeric
+@attribute statut numeric
+@attribute steer numeric
+@attribute step numeric
+@attribute step-by-step numeric
+@attribute sticker numeric
+@attribute stipul numeric
+@attribute stock numeric
+@attribute stone numeric
+@attribute stop numeric
+@attribute storey numeric
+@attribute storm numeric
+@attribute strang numeric
+@attribute strateg numeric
+@attribute strategi numeric
+@attribute stream numeric
+@attribute strength numeric
+@attribute strengthen numeric
+@attribute stress numeric
+@attribute strict numeric
+@attribute strictest numeric
+@attribute strive numeric
+@attribute strong numeric
+@attribute struck numeric
+@attribute structur numeric
+@attribute struggl numeric
+@attribute studi numeric
+@attribute subject numeric
+@attribute subscript numeric
+@attribute subsequ numeric
+@attribute subsid numeric
+@attribute subsidi numeric
+@attribute substanc numeric
+@attribute subtract numeric
+@attribute succeed numeric
+@attribute success numeric
+@attribute suffer numeric
+@attribute suffici numeric
+@attribute suggest numeric
+@attribute suit numeric
+@attribute suitabl numeric
+@attribute sum numeric
+@attribute summari numeric
+@attribute summit numeric
+@attribute supermarket numeric
+@attribute suppli numeric
+@attribute supplier numeric
+@attribute support numeric
+@attribute suppos numeric
+@attribute suppress numeric
+@attribute surrend numeric
+@attribute surround numeric
+@attribute surveil numeric
+@attribute surviv numeric
+@attribute suspend numeric
+@attribute suspici numeric
+@attribute sustain numeric
+@attribute swede numeric
+@attribute sweden numeric
+@attribute swift numeric
+@attribute sympathet numeric
+@attribute system numeric
+@attribute systemat numeric
+@attribute tabl numeric
+@attribute tac numeric
+@attribute talk numeric
+@attribute tandem numeric
+@attribute target numeric
+@attribute tariff numeric
+@attribute task numeric
+@attribute tax numeric
+@attribute taxat numeric
+@attribute tea numeric
+@attribute team numeric
+@attribute teamwork numeric
+@attribute technic numeric
+@attribute techniqu numeric
+@attribute technolog numeric
+@attribute tee numeric
+@attribute telephon numeric
+@attribute televis numeric
+@attribute temporarili numeric
+@attribute tempus numeric
+@attribute tend numeric
+@attribute tendenti numeric
+@attribute tenni numeric
+@attribute term numeric
+@attribute terrestri numeric
+@attribute terribl numeric
+@attribute territori numeric
+@attribute terror numeric
+@attribute test numeric
+@attribute text numeric
+@attribute thatcher numeric
+@attribute themat numeric
+@attribute theoret numeric
+@attribute theori numeric
+@attribute thing numeric
+@attribute thought numeric
+@attribute thousand numeric
+@attribute threat numeric
+@attribute thrive numeric
+@attribute thrown numeric
+@attribute thyssen numeric
+@attribute ticket numeric
+@attribute time numeric
+@attribute timet numeric
+@attribute timor numeric
+@attribute titl numeric
+@attribute titley numeric
+@attribute today numeric
+@attribute told numeric
+@attribute toler numeric
+@attribute toll numeric
+@attribute tomorrow numeric
+@attribute tonight numeric
+@attribute tonnag numeric
+@attribute tool numeric
+@attribute top numeric
+@attribute tortur numeric
+@attribute toss numeric
+@attribute total numeric
+@attribute tour numeric
+@attribute tournament numeric
+@attribute trade numeric
+@attribute trader numeric
+@attribute traffic numeric
+@attribute traffick numeric
+@attribute tragic numeric
+@attribute train numeric
+@attribute trampl numeric
+@attribute transatlant numeric
+@attribute transfer numeric
+@attribute transit numeric
+@attribute translat numeric
+@attribute transnistria numeric
+@attribute transpar numeric
+@attribute travel numeric
+@attribute treati numeric
+@attribute treatment numeric
+@attribute tremend numeric
+@attribute trend numeric
+@attribute tri numeric
+@attribute trial numeric
+@attribute trigger numeric
+@attribute true numeric
+@attribute truli numeric
+@attribute trust numeric
+@attribute truth numeric
+@attribute tsatso numeric
+@attribute tuesday numeric
+@attribute tunisia numeric
+@attribute turkey numeric
+@attribute turkish numeric
+@attribute turn numeric
+@attribute turnout numeric
+@attribute two-week numeric
+@attribute type numeric
+@attribute uefa numeric
+@attribute ultim numeric
+@attribute unabl numeric
+@attribute unaccept numeric
+@attribute unanim numeric
+@attribute unclear numeric
+@attribute underfoot numeric
+@attribute underlin numeric
+@attribute undermin numeric
+@attribute underneath numeric
+@attribute understand numeric
+@attribute undertak numeric
+@attribute undertaken numeric
+@attribute underway numeric
+@attribute undivid numeric
+@attribute unedifi numeric
+@attribute unfair numeric
+@attribute unfortun numeric
+@attribute union numeric
+@attribute unit numeric
+@attribute unmarri numeric
+@attribute unnecessari numeric
+@attribute unpreced numeric
+@attribute unrel numeric
+@attribute unsustain numeric
+@attribute unusu numeric
+@attribute urban numeric
+@attribute urg numeric
+@attribute urgenc numeric
+@attribute urgent numeric
+@attribute usa numeric
+@attribute usd numeric
+@attribute util numeric
+@attribute utmost numeric
+@attribute vagu numeric
+@attribute vallvé numeric
+@attribute valu numeric
+@attribute valuabl numeric
+@attribute varela numeric
+@attribute vat-bas numeric
+@attribute vehicl numeric
+@attribute vener numeric
+@attribute vent numeric
+@attribute venu numeric
+@attribute version numeric
+@attribute versus numeric
+@attribute vessel numeric
+@attribute vice-presid numeric
+@attribute victori numeric
+@attribute video numeric
+@attribute vienna numeric
+@attribute vietnam numeric
+@attribute view numeric
+@attribute viewer numeric
+@attribute vigil numeric
+@attribute vigo numeric
+@attribute vine numeric
+@attribute vineyard numeric
+@attribute violat numeric
+@attribute violenc numeric
+@attribute violent numeric
+@attribute virtual numeric
+@attribute vis-à-vi numeric
+@attribute vision numeric
+@attribute vocat numeric
+@attribute voluntari numeric
+@attribute vote numeric
+@attribute voter numeric
+@attribute vulner numeric
+@attribute wait numeric
+@attribute walk numeric
+@attribute war numeric
+@attribute warm numeric
+@attribute washington numeric
+@attribute watch numeric
+@attribute water numeric
+@attribute weak numeric
+@attribute weaken numeric
+@attribute weapon numeric
+@attribute weather numeric
+@attribute week numeric
+@attribute weekend numeric
+@attribute weight numeric
+@attribute welcom numeric
+@attribute welfar numeric
+@attribute well-b numeric
+@attribute west numeric
+@attribute western numeric
+@attribute whilst numeric
+@attribute white numeric
+@attribute wholeheart numeric
+@attribute wholli numeric
+@attribute wide-rang numeric
+@attribute widespread numeric
+@attribute win numeric
+@attribute window numeric
+@attribute wine numeric
+@attribute winner numeric
+@attribute wit numeric
+@attribute withdraw numeric
+@attribute withdrawn numeric
+@attribute woman numeric
+@attribute women numeric
+@attribute won numeric
+@attribute word numeric
+@attribute work numeric
+@attribute workabl numeric
+@attribute worker numeric
+@attribute world numeric
+@attribute world-class numeric
+@attribute worldwid numeric
+@attribute worri numeric
+@attribute wors numeric
+@attribute worth numeric
+@attribute worthi numeric
+@attribute wound numeric
+@attribute written numeric
+@attribute wrong numeric
+@attribute wrote numeric
+@attribute wto numeric
+@attribute year numeric
+@attribute yesterday numeric
+@attribute yield numeric
+@attribute young numeric
+@attribute younger numeric
+@attribute youth numeric
+@attribute yugoslavia numeric
+@attribute zair numeric
+@attribute zoo numeric
+@attribute être numeric
+@attribute classes {renderla,focolaio,altezza,rendere,vittorioso,buffone,partita,disegno,corrispondesse,adeguare,corrisponde,corrispondente,incontro,stadio,volente,corrispondano,affiancare,conformi,uguagliare,corrispondono,fiammifero,corrispondere,adeguarsi,dimostrare,innalzi,commisurate,corrispondenza,collimino,proporzionali,coppa,proporzionato,match,contraddizione,raggiungono,adeguate,adeguamento,margine,scrivono,inintelligibile,usciranno,schermaglia,coincidere,raggiungeremo,proporzionale,perimetro,sottrarrebbe,eguagliare,combaciano,commisurato,pari,sintonia,corrisponda,adatti,risponda,compiano,riuscirò,invitarla,rispondono,sofisticazione,statement,battaglia,zoologici,scozia-brasile,tenera,segua,origine,coincideranno,appoggiare,settentrionale,collimando,avvincente,reclamare,garantiti,affrontata,commisurare,presente,tradurre,adeguando,fornita,usare,concretizzando,ping-pong,predica,affronta,conseguire,meno,confrontare,combinazione,registreranno,passare,adeguati,competere,soddisfino,costruire,colf,occorrer,coincide,spogliare,sprigionano,indonesiane,riescono,visione,preparare,calcio,misurarsi,avvenga,intona,garantirne,coerente,coniugare,realizzare,riepilogative,finale,ambizione,seguite,compatibili,inferiori,discutevano,far,accoppiata,reali,sclerotizzante,armonizziamo,evidenziate,soddisfare,corrisponderebbe,coniugarla,verificatisi,controbilanciare,promotrice,collimano,dote,tendenzioso,proporzionati,tratto,conciliare,estratte,coniugate,ferro,brasile-scozia,marzo,combinare,equilibrare,scommesso,protrarre,tentando,pilotato,aggiungere,tonnellaggio,sborsato,abbineranno,princìpio,adeguato,coincidono,accompagneranno,intraprese,vedono,immagina,crescenti,insolute,suddetti,resosi,debitamente,diverge,potersi,terminerà,unire,adeguarli,albore,fatica,correggere,pugilato,spintone,soddisfa,agevolare,accompagnare,responso,collinosi,produttore,accresciute,proposito,sostituirla,lirismo,coincidano,coniata,atmosferica,favoriscono,concordanza,birmania-myanmar,guardalinee,hollywood,cooperazione,ricalcherà,fata,sperimentiamo,conciliabile,animeranno,equilibrio,varie,coniugato,genk,allinearsi,aggiungeranno,bilanciare,integrare,innalzamento,provenzale,contatto,ottimistici,atte,squadra,secondo,avvicinamento}
+
+@data
+{55 1,60 1,197 1,215 1,307 1,311 1,350 1,444 1,704 1,832 1,844 2,931 2,1137 1,1230 1,1338 1,1412 1,1600 1}
+{789 1,985 1,1029 1,1205 1,1350 1,1841 focolaio}
+{513 1,573 1,1209 1,1254 1,1841 altezza}
+{119 1,302 1,306 1,558 1,573 1,745 2,753 1,823 1,1130 1,1218 1,1242 1,1327 1,1400 1,1461 1,1468 1,1513 1,1547 1,1741 1,1841 rendere}
+{337 1,1008 1,1242 1,1262 1,1298 1,1361 1,1425 1,1559 1,1600 1,1841 altezza}
+{153 1,570 1,651 1,798 2,1002 1,1089 1,1534 1,1805 1,1841 vittorioso}
+{227 1,444 1,484 1,532 1,573 1,667 1,688 2,961 1,971 1,995 1,1010 1,1013 1,1241 1,1310 1,1488 1,1536 1,1549 1,1698 1,1704 1,1721 1,1729 1,1841 buffone}
+{88 1,170 1,228 1,258 1,570 1,609 1,669 1,1428 1,1580 1,1690 1,1841 partita}
+{439 1,484 1,574 1,807 1,930 1,1199 1,1645 1,1728 1,1841 disegno}
+{58 1,568 1,574 1,643 1,798 1,1011 1,1058 1,1165 1,1194 1,1543 1,1674 1,1729 1,1841 altezza}
+{0 1,10 1,42 1,82 1,197 3,325 1,366 1,417 1,439 1,532 1,574 1,578 1,704 1,1142 1,1238 1,1244 1,1305 1,1306 1,1698 1,1729 1,1777 1,1841 corrispondesse}
+{18 1,60 1,304 1,443 1,484 1,946 1,1013 1,1156 1,1209 1,1262 1,1340 1,1374 1,1549 1,1750 1,1841 adeguare}
+{1 1,304 1,374 1,426 1,491 1,929 1,1271 1,1291 1,1580 1,1763 1,1841 corrisponde}
+{444 1,484 1,707 1,1148 1,1367 1,1684 1,1815 1,1841 altezza}
+{94 1,370 1,573 1,616 1,739 1,767 1,857 1,894 1,1195 1,1841 corrispondente}
+{386 1,860 1,1089 1,1284 1,1341 1,1484 1,1544 1,1633 1,1690 1,1764 1,1841 incontro}
+{15 1,40 1,566 1,860 1,1168 1,1236 1,1261 1,1333 1,1375 1,1396 1,1426 1,1533 1,1543 1,1714 1,1728 1,1770 1,1841 partita}
+{17 1,101 1,281 1,283 1,455 1,514 1,545 1,669 1,819 1,843 1,860 1,871 1,1059 1,1190 1,1203 1,1449 1,1533 1,1600 1,1711 1,1738 1,1841 partita}
+{187 1,669 1,1251 1,1452 1,1474 1,1591 1,1770 1,1841 stadio}
+{22 1,1242 1,1604 1,1841 partita}
+{402 1,432 1,669 1,855 1,860 1,1242 1,1361 1,1601 1,1770 1,1841 incontro}
+{107 1,269 1,402 1,423 1,591 1,669 1,691 1,1019 1,1168 1,1192 1,1242 1,1602 1,1683 1,1717 1,1770 1,1841 stadio}
+{260 1,271 1,369 1,388 1,781 1,789 1,970 1,982 2,1059 1,1152 1,1823 1,1841 volente}
+{330 1,595 1,619 1,657 1,762 1,1374 1,1450 1,1490 1,1841 adeguare}
+{126 1,259 1,399 1,669 1,992 1,1467 1,1652 1,1748 1,1841 partita}
+{281 1,573 1,626 1,664 1,669 1,914 1,1222 1,1516 1,1841 partita}
+{58 1,146 1,267 1,304 1,330 1,493 1,574 1,618 1,760 2,1013 1,1177 1,1413 1,1525 1,1549 1,1695 1,1721 1,1729 1,1841 partita}
+{28 1,67 1,304 2,364 1,413 1,551 1,844 1,1140 1,1194 3,1238 1,1285 1,1333 1,1374 1,1450 1,1549 1,1567 1,1841 corrispondano}
+{12 1,135 2,277 1,312 1,734 1,947 2,1059 1,1063 1,1116 1,1841 affiancare}
+{43 1,331 1,484 1,731 1,1039 1,1120 1,1194 1,1361 1,1362 1,1500 1,1763 1,1841 corrisponde}
+{26 1,42 1,46 1,61 1,77 1,277 2,331 1,369 1,824 2,1025 1,1059 1,1229 1,1271 1,1312 1,1404 1,1549 1,1554 1,1572 1,1695 1,1719 1,1721 1,1730 1,1841 conformi}
+{10 1,124 1,484 1,514 1,590 1,726 1,744 1,942 1,1059 1,1075 1,1111 1,1159 1,1191 1,1292 1,1519 1,1549 1,1555 1,1691 1,1702 1,1729 1,1829 1,1840 1,1841 corrisponde}
+{58 1,117 1,1063 1,1549 1,1841 altezza}
+{12 1,518 2,574 2,582 1,1017 1,1142 1,1160 1,1522 1,1708 1,1744 1,1841 uguagliare}
+{100 1,165 1,354 1,439 1,444 1,484 1,513 3,522 1,614 1,646 1,1013 1,1242 1,1262 1,1268 1,1355 1,1614 2,1663 1,1682 1,1774 1,1834 1,1841 incontro}
+{305 1,459 1,1262 1,1289 1,1328 1,1346 1,1367 1,1441 1,1841 corrispondono}
+{89 1,208 1,498 1,696 1,802 1,1562 1,1841 fiammifero}
+{58 1,184 1,197 1,366 1,404 1,484 1,573 1,634 1,646 1,699 1,820 1,1169 1,1222 1,1262 1,1473 1,1841 altezza}
+{5 1,46 1,229 1,269 1,484 1,551 1,687 1,751 1,940 1,1063 1,1310 1,1690 1,1740 1,1841 corrisponde}
+{319 1,333 1,369 1,395 1,604 1,693 1,746 1,867 1,869 2,954 1,1033 1,1061 1,1075 1,1190 1,1242 1,1247 1,1265 1,1841 corrispondere}
+{15 1,130 1,133 1,155 1,251 1,433 1,574 1,664 1,669 2,761 1,827 1,829 1,1045 1,1068 1,1178 1,1288 1,1327 1,1485 1,1491 1,1673 1,1841 partita}
+{798 1,866 1,1028 1,1032 1,1222 1,1227 1,1275 1,1283 1,1411 1,1486 1,1650 1,1682 1,1758 1,1785 1,1841 partita}
+{129 1,171 1,369 1,407 1,428 1,574 1,635 1,641 1,669 1,710 1,748 1,779 1,808 1,860 1,1105 1,1118 1,1142 1,1222 1,1526 1,1533 1,1543 1,1607 1,1663 1,1714 1,1841 partita}
+{342 1,347 1,1008 1,1202 1,1505 1,1524 1,1626 1,1785 1,1795 1,1841 partita}
+{1183 1,1313 1,1408 1,1835 1,1841 partita}
+{110 1,249 1,347 1,408 1,768 1,832 1,843 1,871 1,1016 1,1153 1,1694 1,1841 adeguarsi}
+{167 1,780 1,834 1,1258 1,1373 1,1841 dimostrare}
+{58 1,486 1,551 1,646 1,731 1,820 1,925 1,1195 1,1553 1,1841 innalzi}
+{27 1,31 1,264 1,270 1,307 1,332 1,404 1,423 2,484 1,574 2,660 1,795 1,901 1,951 1,1145 1,1202 1,1663 1,1841 corrisponde}
+{25 1,117 1,141 1,214 1,382 1,391 1,524 1,574 1,644 1,653 1,657 1,666 1,1309 1,1374 1,1448 1,1729 1,1786 1,1841 commisurate}
+{347 1,349 1,355 1,916 2,992 1,1270 1,1454 1,1572 1,1841 corrispondenza}
+{197 1,392 1,411 1,444 1,557 1,675 1,860 1,1071 1,1176 1,1256 1,1265 1,1390 1,1716 1,1737 1,1816 1,1841 collimino}
+{45 1,88 1,215 1,551 1,822 1,833 1,952 1,977 1,1270 1,1323 1,1335 1,1641 1,1841 proporzionali}
+{286 1,304 1,389 2,407 1,574 1,885 1,1551 1,1711 1,1808 1,1841 coppa}
+{17 1,150 1,270 1,307 1,360 1,380 1,499 1,547 1,573 1,574 1,604 1,642 1,647 1,702 1,741 1,944 1,951 1,1118 1,1186 1,1190 1,1238 1,1254 1,1361 1,1366 1,1502 1,1522 1,1680 1,1706 1,1729 1,1836 1,1841 corrispondono}
+{78 1,158 1,197 1,354 1,369 2,399 1,616 1,620 1,625 1,646 1,708 1,714 1,753 1,770 1,784 1,829 1,947 1,1056 1,1089 1,1206 1,1236 1,1385 1,1646 1,1729 2,1841 proporzionato}
+{228 1,763 1,1382 1,1579 1,1774 1,1841 corrispondono}
+{543 1,669 1,722 1,745 1,798 1,900 1,1222 1,1841 partita}
+{154 1,245 1,543 1,935 1,1207 1,1372 1,1728 1,1841 match}
+{102 1,189 1,472 1,570 1,1109 1,1142 1,1197 1,1226 1,1273 1,1416 1,1841 partita}
+{9 1,369 1,422 2,423 1,484 1,573 1,807 2,965 1,1698 1,1704 1,1819 1,1841 corrisponde}
+{104 1,366 1,401 1,535 1,574 1,575 1,816 1,1075 1,1194 1,1461 1,1528 1,1831 1,1841 contraddizione}
+{189 1,369 1,393 1,453 1,484 1,745 1,782 1,1031 1,1034 1,1377 1,1841 raggiungono}
+{58 1,804 1,1254 1,1374 2,1841 adeguate}
+{17 1,37 1,244 1,269 1,311 1,532 1,745 1,768 1,769 1,1059 1,1194 1,1273 1,1367 1,1449 1,1498 1,1614 1,1658 1,1841 adeguamento}
+{5 1,21 1,100 1,115 1,331 1,490 1,823 1,1080 1,1084 1,1118 1,1196 1,1255 1,1434 1,1639 1,1779 1,1816 1,1841 margine}
+{192 1,244 1,574 1,614 1,633 1,798 1,804 1,1003 1,1011 1,1183 1,1270 1,1374 1,1403 1,1595 1,1729 1,1841 altezza}
+{462 1,1074 1,1109 1,1225 1,1267 1,1273 1,1305 1,1333 1,1815 1,1827 1,1841 scrivono}
+{484 1,830 1,1119 1,1755 1,1841 inintelligibile}
+{16 1,31 1,306 1,366 1,534 1,778 1,795 1,901 1,1013 1,1031 1,1246 1,1373 1,1382 1,1549 1,1639 1,1791 1,1841 corrispondere}
+{283 1,355 1,480 1,506 1,565 1,706 1,860 1,1013 1,1059 1,1398 1,1455 1,1600 1,1626 1,1674 1,1841 partita}
+{303 1,489 1,559 1,669 2,1052 1,1234 1,1251 1,1771 1,1841 stadio}
+{88 1,229 1,360 1,377 2,574 1,669 1,691 1,843 1,896 1,901 1,1013 1,1071 1,1116 1,1190 1,1192 1,1343 1,1449 1,1549 1,1602 1,1770 1,1841 stadio}
+{339 1,372 1,432 1,455 1,574 1,669 2,745 1,757 1,860 1,1000 1,1002 1,1013 2,1118 1,1142 1,1259 1,1326 1,1361 1,1449 1,1600 1,1731 1,1841 partita}
+{239 1,248 1,328 1,491 1,819 1,892 1,931 1,1187 1,1254 1,1524 1,1548 1,1587 1,1819 1,1841 usciranno}
+{123 1,871 1,1163 2,1492 1,1841 schermaglia}
+{238 1,494 1,819 1,917 2,967 1,999 2,1194 1,1367 1,1567 1,1841 coincidere}
+{41 1,83 1,163 1,195 1,197 1,277 1,311 1,354 1,392 1,574 1,618 1,643 1,704 2,731 2,768 1,1012 1,1027 2,1256 1,1444 1,1446 1,1686 1,1721 1,1742 2,1816 1,1831 1,1841 raggiungeremo}
+{117 1,164 1,220 1,391 1,573 1,574 1,653 2,657 1,745 1,1089 2,1222 1,1345 1,1361 2,1440 1,1749 1,1757 1,1841 proporzionale}
+{46 1,273 1,489 1,551 1,574 1,871 1,1004 1,1060 1,1164 1,1190 1,1308 1,1505 1,1705 1,1729 1,1841 perimetro}
+{265 1,357 1,588 1,700 1,776 1,1013 1,1232 1,1324 1,1586 1,1623 1,1841 sottrarrebbe}
+{220 1,298 1,300 1,561 1,671 1,969 1,992 1,1108 1,1180 1,1297 1,1304 1,1550 1,1577 1,1630 1,1841 adeguate}
+{35 1,574 1,873 1,1025 1,1278 1,1569 1,1700 1,1729 1,1841 eguagliare}
+{53 1,221 1,423 1,510 1,573 1,689 1,752 1,837 1,858 3,860 1,1059 1,1069 1,1498 1,1730 1,1841 combaciano}
+{10 1,234 1,253 1,365 2,567 1,609 1,821 1,997 1,1401 1,1666 1,1679 1,1841 commisurato}
+{350 1,1142 1,1238 2,1277 1,1461 1,1841 corrispondono}
+{58 1,197 1,574 1,756 1,787 1,1461 1,1588 1,1841 corrispondere}
+{0 1,77 1,103 1,556 1,574 1,717 1,782 1,796 1,849 1,919 1,1013 1,1142 1,1150 1,1202 1,1312 1,1350 1,1566 1,1841 altezza}
+{260 1,372 1,510 1,823 1,1195 1,1488 1,1841 pari}
+{14 1,220 1,1004 1,1083 1,1533 1,1626 1,1819 1,1841 partita}
+{3 1,109 1,162 1,172 1,474 1,494 1,543 1,544 1,669 1,827 1,1050 1,1077 2,1184 1,1222 1,1288 1,1518 1,1703 1,1827 1,1841 partita}
+{81 2,200 1,211 1,366 1,483 1,798 1,807 1,1118 1,1457 1,1461 1,1470 1,1619 1,1816 3,1841 sintonia}
+{424 1,464 1,574 1,1037 1,1222 1,1500 1,1729 1,1841 altezza}
+{95 1,288 2,472 1,679 1,695 1,1028 1,1162 1,1194 2,1310 1,1454 1,1580 1,1841 corrisponda}
+{88 1,199 1,484 1,539 1,573 1,674 1,717 1,764 1,919 1,929 1,946 1,1222 1,1284 1,1310 1,1507 2,1572 1,1687 1,1841 adatti}
+{56 1,156 1,169 1,175 1,210 1,237 1,246 1,347 1,427 1,916 2,937 1,1119 1,1198 1,1246 1,1285 1,1335 1,1364 1,1591 1,1695 1,1767 1,1807 3,1819 1,1841 corrispondono}
+{260 2,573 1,603 1,1841 pari}
+{458 1,542 1,819 1,917 1,999 1,1841 risponda}
+{516 1,1841 compiano}
+{123 1,228 1,472 1,1017 1,1050 1,1089 1,1255 1,1299 1,1336 1,1650 1,1667 1,1841 riuscirò}
+{88 1,114 1,304 1,691 1,901 1,1185 1,1222 1,1238 1,1449 1,1841 corrispondano}
+{186 1,281 1,487 1,574 1,669 1,717 1,919 1,1183 1,1222 1,1256 1,1510 1,1831 1,1841 partita}
+{372 1,1238 1,1254 1,1374 1,1461 1,1841 corrispondente}
+{870 1,1123 1,1644 1,1785 1,1841 invitarla}
+{21 1,347 1,656 1,731 1,947 1,1367 1,1768 1,1819 1,1841 rispondono}
+{58 1,197 1,366 1,574 1,1274 1,1713 1,1729 1,1841 altezza}
+{24 1,113 1,669 1,688 1,693 1,978 1,1755 1,1832 1,1841 partita}
+{347 2,947 1,1131 1,1231 1,1265 1,1512 1,1543 1,1816 1,1841 sofisticazione}
+{67 1,294 1,304 1,484 1,616 1,1134 1,1140 1,1333 1,1361 2,1551 1,1841 statement}
+{12 1,704 1,967 1,1577 1,1743 1,1841 adeguare}
+{70 1,80 1,101 1,218 1,434 1,670 1,861 1,987 1,1032 1,1085 1,1220 1,1222 2,1249 1,1321 1,1549 1,1841 partita}
+{252 1,311 1,326 1,366 1,574 1,592 1,659 1,706 1,1091 1,1507 2,1718 1,1841 altezza}
+{355 1,574 2,1142 1,1841 battaglia}
+{669 1,860 1,1192 1,1580 1,1841 incontro}
+{304 1,332 1,543 1,550 1,576 1,669 1,855 1,882 1,954 1,1099 1,1105 1,1117 1,1192 1,1404 1,1422 1,1540 1,1841 partita}
+{28 1,339 1,350 1,366 1,475 1,669 1,756 1,1229 1,1320 1,1379 1,1841 partita}
+{41 1,63 1,65 1,219 1,222 1,304 1,411 1,437 1,458 1,574 1,701 1,992 1,1004 1,1265 1,1298 1,1691 1,1729 1,1740 1,1815 1,1839 1,1841 zoologici}
+{181 1,182 1,1107 1,1437 1,1438 1,1651 1,1756 1,1841 scozia-brasile}
+{573 1,1713 1,1841 tenera}
+{242 1,422 1,463 1,484 1,573 1,596 1,624 1,637 1,929 1,1264 1,1410 1,1841 corrisponde}
+{5 1,201 1,304 1,366 1,416 1,502 1,547 1,683 1,741 1,798 2,1055 1,1131 1,1297 1,1461 1,1612 1,1761 1,1841 segua}
+{10 1,260 1,270 1,295 1,369 1,377 1,388 1,404 1,524 1,616 1,673 1,737 1,745 2,789 1,1038 1,1059 1,1218 1,1257 1,1553 1,1574 1,1663 1,1782 2,1831 3,1841 origine}
+{439 1,835 1,1091 1,1374 1,1394 1,1841 corrispondenza}
+{91 1,407 1,471 1,664 1,1118 1,1419 1,1657 1,1841 partita}
+{12 1,170 2,287 1,450 1,484 1,573 2,719 1,853 1,1091 1,1195 1,1478 1,1796 1,1841 coincideranno}
+{45 1,330 1,508 1,515 1,574 1,762 1,798 1,1142 1,1297 1,1377 1,1660 1,1841 altezza}
+{306 1,574 1,683 1,1195 1,1209 1,1356 1,1600 1,1729 1,1841 appoggiare}
+{499 1,669 1,688 1,727 1,883 1,970 1,1248 1,1626 1,1675 1,1791 1,1841 partita}
+{159 1,244 1,304 2,336 1,516 1,567 1,802 1,1374 1,1622 1,1841 adeguare}
+{156 1,444 1,535 1,573 1,754 2,1382 1,1575 1,1831 1,1841 settentrionale}
+{406 1,451 1,570 1,968 1,1061 1,1208 1,1372 1,1600 1,1810 1,1841 partita}
+{46 1,292 1,355 1,540 1,573 1,614 1,732 1,742 1,1500 1,1577 1,1592 1,1631 1,1664 1,1701 1,1841 collimando}
+{589 1,735 1,1728 1,1841 avvincente}
+{28 1,272 1,653 3,820 1,860 1,925 1,999 1,1118 2,1206 1,1246 1,1335 1,1403 1,1524 1,1729 1,1820 1,1841 reclamare}
+{18 1,755 1,1030 1,1247 1,1280 1,1841 garantiti}
+{402 1,574 1,1004 1,1013 1,1488 1,1549 1,1729 1,1739 1,1841 affrontata}
+{60 1,72 1,665 1,1312 1,1345 1,1367 1,1374 1,1721 1,1841 commisurare}
+{4 1,60 1,122 1,636 1,785 1,788 1,829 1,1142 1,1230 1,1271 1,1317 1,1372 1,1416 1,1645 1,1841 corrispondono}
+{304 1,391 1,414 1,606 1,671 1,1004 1,1008 1,1142 1,1220 1,1238 1,1262 1,1270 1,1448 1,1508 1,1841 presente}
+{248 1,311 1,411 1,1815 1,1841 tradurre}
+{46 1,87 1,109 1,237 1,304 1,360 1,388 2,437 1,516 1,574 1,745 1,798 1,1179 1,1222 1,1242 1,1256 1,1372 1,1841 adeguando}
+{6 1,32 1,45 1,82 1,100 1,395 1,1196 1,1270 1,1425 1,1841 fornita}
+{704 1,741 1,1013 1,1021 1,1218 1,1312 1,1381 1,1620 1,1841 usare}
+{9 1,366 1,409 1,485 1,996 1,1091 1,1815 1,1841 corrisponde}
+{88 1,187 1,318 1,366 1,573 1,574 1,940 1,963 1,1390 1,1681 1,1740 1,1841 concretizzando}
+{42 1,139 1,348 1,360 1,391 1,424 1,671 1,685 1,790 1,841 1,1079 1,1192 1,1318 1,1375 1,1787 1,1841 partita}
+{165 1,281 1,348 1,599 1,607 1,669 2,1059 1,1098 1,1118 2,1242 1,1841 partita}
+{560 1,574 1,639 1,669 1,858 1,993 1,1000 1,1013 1,1118 1,1142 1,1486 1,1841 partita}
+{308 1,444 1,449 1,860 1,947 1,1098 1,1195 1,1242 1,1367 1,1410 1,1484 1,1710 1,1841 altezza}
+{39 1,138 1,379 1,574 1,1360 1,1519 1,1638 1,1841 ping-pong}
+{22 1,84 1,323 1,339 1,366 1,407 1,455 1,669 2,751 1,860 1,890 1,1449 1,1580 1,1770 1,1841 partita}
+{305 1,669 1,927 1,1118 1,1202 1,1282 1,1288 1,1770 1,1841 stadio}
+{304 2,369 1,388 1,458 1,574 1,590 1,604 1,616 1,669 1,832 2,952 1,1004 1,1059 1,1118 1,1221 1,1230 1,1288 1,1335 1,1522 1,1533 1,1551 1,1711 1,1729 1,1770 1,1841 partita}
+{306 1,552 1,596 1,739 1,860 1,934 1,1066 1,1147 1,1537 1,1830 1,1841 predica}
+{81 2,141 1,319 1,323 1,394 1,484 1,574 1,728 1,821 1,1268 1,1466 1,1546 1,1774 1,1813 1,1824 1,1841 corrisponde}
+{57 1,304 1,484 1,826 1,1153 1,1258 1,1262 1,1369 1,1382 1,1432 1,1589 1,1692 1,1739 1,1780 1,1831 1,1841 affronta}
+{34 1,84 1,115 1,187 1,323 1,416 1,604 1,669 1,709 1,871 1,893 1,896 1,936 1,986 1,1096 1,1168 1,1222 1,1397 1,1696 1,1705 1,1706 1,1730 1,1841 partita}
+{45 1,58 1,306 2,409 1,444 1,536 1,646 1,1012 1,1026 1,1048 1,1059 1,1169 1,1346 1,1374 1,1730 1,1841 altezza}
+{23 1,88 1,304 1,618 1,947 1,1194 1,1238 1,1374 1,1841 coincidere}
+{58 1,574 1,618 1,745 1,1374 1,1461 1,1620 1,1729 1,1841 conseguire}
+{7 1,82 1,88 1,330 1,331 2,334 1,342 1,369 1,628 1,634 1,706 1,878 1,933 1,952 1,990 1,1053 1,1063 1,1203 1,1312 1,1350 1,1378 2,1402 1,1420 1,1699 1,1751 1,1825 1,1841 combaciano}
+{109 1,310 1,380 1,446 1,448 1,509 1,573 1,574 1,616 1,733 1,760 1,788 1,799 1,1062 1,1097 1,1102 1,1159 1,1334 1,1339 1,1517 1,1639 1,1798 1,1831 1,1841 meno}
+{28 1,42 1,366 2,574 1,798 1,859 1,930 1,1012 1,1142 1,1202 1,1204 1,1458 1,1543 1,1841 confrontare}
+{10 1,267 1,382 1,387 1,574 1,592 1,684 1,931 1,1041 1,1059 1,1195 1,1202 1,1480 1,1713 2,1774 1,1841 altezza}
+{12 1,99 2,132 1,140 2,221 3,438 1,458 1,619 1,819 1,860 1,1262 1,1300 1,1398 2,1415 1,1474 1,1483 1,1841 combinazione}
+{43 2,244 1,369 1,392 1,574 1,739 1,991 1,1100 3,1218 2,1324 1,1584 1,1616 1,1621 1,1693 1,1729 1,1841 eguagliare}
+{378 1,387 1,424 1,560 1,563 1,880 1,965 1,1136 1,1157 1,1367 1,1471 1,1841 altezza}
+{58 1,80 1,197 1,430 1,646 1,798 1,823 1,918 1,963 1,995 1,1169 1,1351 1,1488 1,1567 1,1763 1,1841 altezza}
+{42 1,137 1,304 1,323 1,369 1,528 1,549 1,728 1,1005 1,1255 1,1487 1,1488 1,1600 1,1758 1,1841 registreranno}
+{197 1,204 1,318 1,620 1,644 1,646 2,1091 1,1167 1,1194 1,1246 1,1374 1,1388 1,1689 1,1841 altezza}
+{16 1,325 1,574 1,1110 1,1270 1,1369 1,1600 1,1645 1,1667 1,1815 1,1841 passare}
+{142 1,196 2,250 1,304 1,544 1,626 1,669 1,965 1,1085 1,1100 1,1132 1,1216 1,1443 1,1480 1,1533 1,1581 1,1785 1,1841 partita}
+{189 1,250 1,574 1,583 1,626 1,669 2,829 1,932 1,965 4,1041 1,1089 1,1100 1,1110 1,1217 1,1408 1,1439 1,1463 1,1481 1,1533 2,1763 1,1841 partita}
+{412 1,574 1,741 1,760 1,832 1,1043 1,1116 1,1323 1,1529 1,1624 1,1841 adeguarsi}
+{413 1,646 1,850 1,1310 1,1382 1,1729 1,1841 adeguati}
+{257 1,301 1,323 1,369 1,404 2,426 1,449 1,1059 1,1116 1,1233 1,1247 1,1259 1,1284 1,1286 1,1333 1,1497 1,1841 competere}
+{100 1,141 1,249 1,267 1,350 1,419 1,431 1,476 1,509 1,581 1,615 1,805 1,1036 1,1091 1,1116 1,1124 1,1168 1,1180 1,1244 1,1331 1,1357 1,1403 1,1557 1,1776 1,1838 1,1841 adeguarsi}
+{156 1,305 1,366 1,518 1,778 1,820 1,835 1,909 1,940 1,1203 1,1262 1,1367 1,1841 soddisfino}
+{5 1,177 1,323 1,369 1,444 1,486 1,574 1,618 1,705 1,820 1,853 1,860 2,911 1,1256 1,1270 1,1374 1,1403 1,1469 1,1547 1,1685 1,1729 1,1841 costruire}
+{191 1,250 1,369 1,507 1,586 1,690 1,965 1,1410 1,1518 1,1633 1,1732 1,1792 1,1841 partita}
+{391 1,1078 1,1173 1,1310 1,1547 1,1841 corrispondono}
+{233 1,435 1,514 1,529 1,832 1,891 1,1064 1,1270 1,1324 1,1333 1,1459 1,1583 1,1611 1,1623 1,1841 colf}
+{74 1,108 1,345 1,574 1,881 1,947 1,1291 1,1427 1,1472 1,1484 1,1633 1,1841 partita}
+{20 1,68 1,115 2,233 1,274 1,309 1,317 2,361 1,402 1,669 3,718 1,745 2,831 1,884 1,995 1,1013 1,1210 1,1456 1,1515 1,1549 1,1600 1,1841 partita}
+{11 1,117 1,152 1,249 1,281 1,398 1,608 1,843 1,856 1,863 1,1431 1,1841 corrispondere}
+{206 1,283 3,345 1,429 1,560 1,583 1,644 1,669 2,729 1,932 1,945 1,1183 1,1263 1,1841 partita}
+{225 1,248 1,342 1,361 1,390 1,404 1,472 1,514 1,529 1,574 1,1056 1,1121 1,1194 1,1295 1,1361 1,1486 1,1596 1,1841 occorrer}
+{187 1,351 1,369 3,518 1,568 1,829 1,956 1,959 1,1020 1,1094 1,1107 1,1202 2,1203 1,1222 1,1223 1,1272 1,1312 1,1453 1,1496 1,1524 1,1575 1,1600 1,1645 2,1755 2,1841 coincide}
+{73 1,389 1,1174 1,1405 1,1657 1,1819 1,1841 coppa}
+{174 1,488 1,669 1,987 1,1306 1,1841 partita}
+{19 1,820 1,881 1,1282 1,1521 1,1841 adeguati}
+{20 1,41 1,216 1,305 1,626 1,669 1,798 2,884 2,1142 1,1222 1,1262 1,1588 1,1668 2,1841 match}
+{12 1,79 1,1222 2,1321 1,1352 1,1390 1,1695 1,1841 spogliare}
+{65 1,421 1,582 1,777 1,966 1,975 1,1089 1,1293 1,1841 altezza}
+{20 1,313 1,436 1,524 1,766 2,1237 1,1720 1,1841 corrispondono}
+{0 1,311 1,333 1,382 1,444 1,502 1,574 1,671 1,721 1,731 1,1138 1,1222 1,1246 1,1348 1,1350 1,1377 1,1488 1,1729 1,1841 sprigionano}
+{115 1,228 1,343 1,407 1,421 1,457 1,838 1,1008 1,1209 1,1841 indonesiane}
+{29 1,351 1,354 1,372 1,444 1,513 3,573 1,631 1,707 1,753 1,760 1,1041 1,1110 2,1131 2,1254 2,1318 1,1461 1,1502 1,1841 riescono}
+{0 1,50 1,82 1,117 1,119 1,366 1,439 1,484 1,751 1,860 1,915 1,957 1,1013 1,1118 2,1291 1,1306 1,1374 1,1549 1,1639 1,1674 1,1841 corrispondono}
+{54 1,58 1,244 1,323 1,353 1,366 1,378 1,409 1,430 1,477 1,541 1,558 1,604 1,614 1,616 1,633 1,704 1,832 1,844 1,891 1,1027 1,1043 1,1168 1,1262 1,1265 1,1346 1,1407 1,1416 1,1424 1,1481 1,1488 1,1530 1,1598 1,1841 altezza}
+{1310 1,1774 1,1841 visione}
+{415 1,1218 1,1222 1,1523 1,1596 1,1841 preparare}
+{29 1,85 1,162 1,251 1,256 1,751 1,765 1,933 1,1062 1,1494 1,1753 1,1841 partita}
+{66 1,157 1,189 1,245 1,330 1,417 1,484 2,608 1,669 1,832 1,851 1,1207 1,1222 1,1372 2,1380 1,1382 1,1546 1,1600 1,1770 1,1810 1,1841 calcio}
+{267 1,270 1,464 1,614 1,849 1,1500 1,1710 1,1841 altezza}
+{88 1,145 1,523 2,566 1,574 1,1306 1,1377 1,1514 1,1549 1,1729 1,1730 1,1841 misurarsi}
+{144 1,195 1,535 1,688 2,907 1,1199 1,1540 1,1600 1,1626 1,1814 1,1841 partita}
+{28 1,255 1,440 1,574 1,596 1,686 1,705 1,1022 1,1091 1,1461 1,1498 1,1561 1,1729 1,1794 1,1841 altezza}
+{60 1,115 1,229 1,465 1,823 1,881 1,973 1,1040 1,1128 1,1306 1,1350 1,1397 1,1418 1,1488 1,1493 1,1499 1,1681 1,1762 1,1831 1,1841 altezza}
+{367 1,669 1,734 1,1841 partita}
+{95 1,226 1,293 1,331 1,342 1,377 1,517 1,637 1,820 3,1017 1,1113 1,1203 1,1298 1,1384 1,1493 1,1498 1,1654 1,1658 1,1841 avvenga}
+{281 1,443 1,444 2,1003 1,1091 1,1093 1,1116 1,1311 1,1560 1,1568 1,1841 corrispondono}
+{958 1,1056 1,1162 1,1558 1,1592 1,1841 intona}
+{36 1,189 2,341 1,594 1,664 1,669 1,734 1,910 1,917 2,1013 3,1172 1,1312 1,1814 1,1841 partita}
+{217 1,306 2,369 1,371 2,893 1,1218 1,1478 1,1729 1,1841 pari}
+{134 1,267 1,387 1,574 1,1142 1,1644 1,1841 altezza}
+{115 1,237 1,238 1,316 1,348 1,407 1,438 1,455 1,458 1,491 1,551 1,568 1,669 2,671 1,678 1,717 1,843 1,860 2,919 1,1013 2,1059 1,1190 1,1192 1,1193 1,1262 1,1377 1,1449 1,1486 1,1549 1,1841 partita}
+{31 1,150 1,269 1,284 1,307 1,323 1,339 1,366 1,407 1,432 1,455 1,669 1,691 1,795 1,860 1,901 1,1290 1,1361 1,1449 1,1841 partita}
+{323 1,366 2,407 1,491 1,669 1,843 1,860 1,1190 1,1449 1,1841 partita}
+{311 1,315 1,351 1,360 1,444 1,585 1,627 1,646 1,1091 1,1194 1,1238 1,1248 1,1254 1,1256 1,1524 1,1747 1,1841 soddisfino}
+{190 1,361 1,510 1,529 1,551 1,1017 1,1194 1,1333 1,1522 1,1567 1,1841 garantirne}
+{43 1,45 1,58 1,88 1,308 1,444 1,1194 1,1841 coerente}
+{484 1,829 1,884 1,959 1,1190 1,1355 1,1755 3,1815 1,1841 corrisponde}
+{84 1,366 1,407 1,455 1,574 1,669 1,860 1,1017 1,1102 1,1202 1,1282 1,1449 1,1461 1,1729 1,1746 1,1841 partita}
+{19 1,117 1,220 1,653 1,657 1,1841 adeguare}
+{22 1,150 1,267 1,375 1,409 1,493 1,548 1,605 1,817 1,849 1,965 1,987 1,1142 1,1222 1,1518 1,1841 altezza}
+{4 1,115 1,285 1,599 1,620 1,640 1,820 1,1183 1,1184 1,1258 1,1308 1,1787 1,1841 partita}
+{58 1,1374 1,1841 altezza}
+{269 1,484 1,596 1,1194 1,1585 1,1841 altezza}
+{145 1,422 1,484 1,596 1,644 1,821 1,1028 1,1038 1,1063 1,1190 1,1329 1,1423 1,1500 1,1797 1,1841 corrispondono}
+{17 1,248 1,318 1,400 1,401 1,819 1,856 1,963 1,1567 1,1841 coniugare}
+{8 1,77 1,81 1,103 1,268 1,399 1,635 1,669 1,671 1,678 1,721 1,751 1,844 1,871 1,929 1,1031 1,1095 1,1229 1,1360 1,1393 1,1429 1,1524 1,1543 1,1841 partita}
+{58 1,444 1,573 1,704 1,739 1,1073 1,1729 1,1831 1,1841 realizzare}
+{58 1,269 1,646 1,687 1,1256 1,1264 1,1310 1,1362 1,1367 1,1449 1,1490 1,1841 altezza}
+{78 1,547 1,551 1,646 1,704 1,719 1,1374 1,1375 1,1434 1,1647 1,1841 corrispondano}
+{411 1,444 1,648 1,649 1,807 1,962 1,1013 1,1110 1,1155 1,1163 1,1190 1,1460 1,1468 1,1524 1,1549 1,1609 1,1616 1,1815 1,1841 riepilogative}
+{156 1,573 1,669 1,785 1,820 1,1110 1,1222 1,1287 1,1397 1,1728 1,1841 partita}
+{15 1,376 1,573 1,616 1,641 1,669 1,1110 1,1288 1,1676 1,1794 1,1841 partita}
+{136 1,369 1,739 1,1626 1,1668 1,1805 1,1841 partita}
+{346 1,360 1,409 1,494 1,535 1,721 1,722 1,1202 1,1222 2,1582 1,1841 sintonia}
+{38 1,723 1,877 1,1025 1,1192 1,1225 1,1361 1,1475 1,1826 1,1841 partita}
+{146 1,339 1,372 1,623 1,749 1,1406 1,1805 1,1841 finale}
+{18 1,224 1,312 1,456 1,525 1,526 1,535 1,741 1,807 1,1167 1,1603 1,1831 1,1841 coincidere}
+{33 1,58 1,725 1,1012 1,1065 1,1091 1,1461 1,1490 1,1642 1,1841 ambizione}
+{18 1,1078 1,1488 1,1547 1,1841 adeguate}
+{26 1,305 1,412 1,531 1,552 1,584 1,706 1,713 1,1092 1,1368 1,1386 1,1529 1,1543 1,1549 1,1624 1,1773 1,1841 adeguare}
+{1242 1,1815 1,1841 seguite}
+{546 1,669 1,739 1,1695 1,1841 partita}
+{277 1,283 1,418 1,429 1,729 1,1146 1,1203 1,1386 1,1453 1,1606 1,1626 1,1788 1,1841 partita}
+{249 1,270 1,369 1,421 1,444 1,506 1,510 2,568 1,633 1,698 1,731 1,858 1,992 1,999 1,1246 1,1398 1,1481 1,1498 1,1598 1,1602 1,1630 1,1841 incontro}
+{49 1,63 1,197 1,305 1,669 1,717 1,919 1,986 1,1222 1,1243 1,1548 1,1841 partita}
+{416 1,638 1,669 1,736 1,801 1,987 1,1518 1,1663 1,1841 partita}
+{238 1,269 1,288 1,304 1,316 1,351 1,420 1,510 1,532 1,547 1,551 1,560 1,668 1,754 1,891 1,938 1,1013 1,1091 2,1100 1,1110 1,1146 1,1220 1,1238 1,1259 1,1262 1,1335 3,1498 1,1499 1,1549 1,1609 1,1691 1,1841 compatibili}
+{4 1,86 1,1136 1,1262 1,1841 inferiori}
+{12 1,304 1,409 1,414 1,1022 1,1091 1,1212 1,1367 1,1502 1,1588 1,1622 1,1841 adeguamento}
+{58 1,288 1,404 1,503 1,510 1,772 1,778 1,796 1,1190 1,1209 1,1220 1,1374 1,1498 1,1594 1,1639 1,1658 1,1841 discutevano}
+{67 1,160 1,229 1,369 1,569 2,943 1,947 1,1005 2,1027 1,1081 1,1160 1,1220 1,1262 1,1299 1,1367 1,1841 far}
+{306 1,484 1,596 1,802 1,991 1,1109 1,1273 1,1377 1,1663 1,1778 1,1841 altezza}
+{344 1,579 1,661 1,730 1,1161 1,1325 1,1328 1,1841 accoppiata}
+{358 1,574 1,652 1,1696 1,1730 1,1841 altezza}
+{683 1,739 1,798 1,1414 1,1841 incontro}
+{304 2,810 1,815 1,840 1,1041 1,1116 1,1195 1,1238 1,1255 1,1316 1,1327 1,1389 1,1841 tenera}
+{110 1,366 1,450 1,646 1,852 1,1066 1,1175 1,1187 1,1195 1,1700 1,1831 1,1841 corrisponde}
+{58 1,88 1,197 1,311 1,646 1,798 1,1011 1,1195 1,1254 1,1270 1,1273 1,1374 1,1549 1,1841 corrispondente}
+{88 1,108 1,170 3,281 1,355 1,552 1,568 1,609 1,669 1,860 1,1116 1,1428 1,1615 1,1634 1,1642 1,1707 1,1841 partita}
+{734 1,798 1,990 1,1116 1,1435 1,1609 1,1841 partita}
+{187 1,409 1,472 1,881 1,940 1,963 1,1376 1,1451 1,1484 1,1488 1,1596 1,1739 1,1841 adeguare}
+{125 1,516 1,573 1,608 1,731 1,887 1,1183 2,1327 1,1403 2,1454 1,1538 1,1600 1,1841 corrispondono}
+{231 1,304 1,387 1,1044 1,1187 1,1425 1,1576 1,1841 reali}
+{323 1,338 1,469 1,514 1,535 1,732 1,940 1,1017 1,1085 1,1190 1,1433 1,1841 sclerotizzante}
+{12 1,18 1,78 1,104 1,233 1,323 1,350 1,369 1,444 1,739 1,1024 1,1116 1,1194 1,1195 1,1501 1,1721 1,1841 armonizziamo}
+{59 1,124 1,190 1,304 1,445 1,741 1,1031 1,1185 1,1234 1,1238 2,1254 1,1461 2,1841 evidenziate}
+{77 1,366 1,432 1,455 1,515 1,602 1,619 1,669 1,711 1,797 1,803 1,844 1,940 1,1008 1,1013 1,1188 1,1222 1,1229 1,1316 1,1361 1,1382 1,1549 1,1602 1,1770 1,1831 1,1841 stadio}
+{290 1,404 1,625 1,669 1,717 1,828 1,919 1,926 1,1015 1,1017 1,1032 2,1222 1,1695 1,1766 1,1841 partita}
+{45 1,131 1,229 1,302 1,304 1,349 1,384 3,421 1,496 1,574 1,662 1,783 1,902 1,1103 2,1116 1,1247 1,1266 1,1286 1,1302 1,1312 2,1332 1,1524 1,1600 1,1841 soddisfare}
+{46 1,149 1,391 1,484 1,510 1,511 1,574 1,754 1,862 1,963 1,1133 1,1206 1,1376 1,1461 1,1474 1,1488 1,1538 1,1552 1,1639 1,1729 1,1735 1,1819 1,1841 corrisponderebbe}
+{10 1,209 1,278 1,304 1,416 1,515 2,583 1,798 1,832 1,970 1,992 1,1156 1,1220 1,1514 1,1819 1,1841 corrispondono}
+{230 1,247 1,276 1,369 1,373 1,574 1,710 1,778 1,902 1,1059 1,1102 1,1105 1,1346 1,1362 1,1524 1,1626 1,1819 1,1841 partita}
+{484 1,574 1,840 2,976 1,994 1,1460 1,1575 1,1729 1,1841 coniugarla}
+{81 1,226 1,281 1,360 1,369 1,377 1,1116 1,1147 1,1203 1,1590 1,1841 corrisponde}
+{149 1,1600 1,1841 partita}
+{3 1,74 1,574 1,669 2,827 1,860 1,878 1,1729 1,1841 incontro}
+{391 1,444 1,825 1,1067 1,1194 1,1462 1,1841 verificatisi}
+{31 1,156 2,197 1,267 1,270 1,304 1,307 1,383 1,444 1,574 1,583 1,604 1,673 1,849 1,894 1,1012 1,1096 1,1100 1,1222 1,1304 1,1319 1,1500 1,1841 altezza}
+{576 1,604 1,606 1,669 1,694 1,797 1,997 1,1287 1,1533 1,1636 1,1841 incontro}
+{354 1,404 1,516 1,798 1,1724 1,1841 altezza}
+{41 1,124 1,128 2,197 1,470 1,572 1,788 1,959 1,1095 1,1194 1,1213 1,1442 1,1567 1,1588 1,1802 1,1816 2,1841 controbilanciare}
+{12 1,355 1,365 1,504 1,823 1,1116 1,1158 1,1258 1,1308 1,1532 1,1539 1,1722 1,1841 promotrice}
+{58 1,371 1,402 1,443 1,1013 1,1222 1,1303 1,1377 1,1523 1,1549 1,1738 1,1841 altezza}
+{127 1,178 1,267 1,582 1,879 1,1104 1,1136 1,1531 1,1759 1,1814 1,1841 misurarsi}
+{48 1,77 1,171 1,365 1,397 1,415 1,669 1,714 1,1265 1,1841 partita}
+{96 1,142 1,187 1,197 1,320 1,354 1,372 1,429 1,535 1,921 1,1013 1,1058 1,1253 1,1361 1,1374 1,1488 1,1549 1,1780 1,1841 collimano}
+{58 1,197 1,311 1,391 1,562 1,620 1,633 1,646 1,687 1,704 1,921 1,941 1,1238 1,1270 1,1361 1,1689 1,1841 dote}
+{111 1,191 1,196 1,323 1,535 1,932 1,965 1,974 1,1046 1,1217 1,1382 1,1841 partita}
+{262 1,370 1,392 1,1626 1,1785 2,1841 partita}
+{484 1,574 1,812 1,1003 1,1088 1,1201 1,1306 1,1637 1,1653 1,1679 1,1729 1,1841 tendenzioso}
+{13 1,58 1,1374 1,1474 1,1841 proporzionati}
+{13 1,302 1,510 1,573 1,618 1,674 1,820 1,1195 1,1206 1,1793 1,1799 1,1819 1,1841 tratto}
+{77 1,82 1,421 1,431 1,529 1,536 1,574 1,704 2,999 1,1498 1,1577 1,1598 1,1674 1,1841 conciliare}
+{52 1,127 2,178 2,258 1,509 1,518 1,573 1,1089 2,1093 1,1107 1,1139 1,1167 1,1736 1,1777 1,1809 1,1841 estratte}
+{23 1,93 1,331 1,359 1,860 1,965 1,999 1,1265 1,1367 1,1816 1,1841 coniugate}
+{12 1,64 1,197 1,366 2,409 1,443 1,484 1,574 1,644 1,754 1,820 1,939 1,1092 1,1142 1,1190 1,1309 1,1312 1,1363 1,1398 1,1470 1,1590 1,1729 1,1763 1,1841 corrisponde}
+{70 1,80 1,372 1,987 1,1099 1,1190 1,1220 1,1222 1,1841 incontro}
+{107 1,299 1,696 1,860 1,1091 1,1786 1,1816 1,1841 ferro}
+{162 1,181 1,188 1,365 1,583 1,688 1,999 1,1419 1,1438 1,1657 1,1841 brasile-scozia}
+{54 1,115 1,241 1,304 2,389 2,574 1,664 1,669 1,693 1,1117 1,1314 1,1366 1,1551 1,1556 1,1657 1,1819 2,1841 incontro}
+{181 1,372 1,389 1,573 1,1027 1,1107 1,1353 1,1438 1,1764 1,1785 1,1819 1,1841 partita}
+{156 1,226 1,281 1,323 1,369 1,391 1,566 1,747 1,811 1,820 1,1059 1,1238 1,1254 1,1620 1,1635 1,1841 corrispondano}
+{492 1,614 1,673 1,1031 1,1163 1,1189 1,1307 1,1841 eguagliare}
+{116 1,117 1,238 1,327 1,369 1,574 1,680 1,704 5,743 1,832 1,992 1,1059 1,1132 1,1281 1,1324 1,1333 1,1335 2,1461 1,1577 2,1674 1,1729 1,1841 corrisponda}
+{39 1,366 1,482 1,778 1,839 1,948 1,963 1,1222 1,1841 marzo}
+{2 1,81 1,117 1,197 1,304 1,363 1,583 1,683 1,810 1,891 2,973 1,992 1,1043 1,1089 1,1140 1,1142 1,1361 1,1372 1,1447 2,1484 1,1520 1,1542 1,1639 1,1841 combinare}
+{115 1,198 1,707 1,1238 1,1309 1,1358 1,1374 1,1571 1,1841 equilibrare}
+{82 1,369 1,461 1,478 1,484 1,603 1,1247 2,1547 1,1811 1,1841 rispondono}
+{62 1,121 1,277 1,349 1,409 1,424 1,467 1,483 1,535 1,548 1,595 1,604 1,688 1,857 1,991 1,1017 1,1075 1,1107 1,1194 1,1222 1,1242 1,1498 1,1661 1,1745 1,1818 1,1841 scommesso}
+{58 1,304 1,570 1,693 1,1057 1,1222 1,1282 1,1815 1,1841 corrispondano}
+{12 1,510 1,632 1,754 2,1091 1,1165 1,1194 1,1276 1,1713 1,1831 2,1841 protrarre}
+{16 1,458 1,536 1,1556 1,1815 1,1841 tentando}
+{26 1,45 2,365 1,630 1,848 1,995 1,1245 1,1262 1,1315 1,1318 1,1495 1,1841 corrispondono}
+{166 1,305 1,307 1,324 1,491 1,518 1,524 1,574 1,807 2,970 1,1027 1,1220 1,1345 1,1362 1,1645 1,1817 1,1841 risponda}
+{221 1,281 1,516 1,1250 1,1342 1,1398 1,1794 1,1841 adeguare}
+{277 1,304 1,318 1,564 1,669 1,732 1,836 1,858 1,881 1,895 1,1149 1,1190 1,1194 1,1650 1,1677 1,1805 1,1841 partita}
+{173 1,221 1,377 1,510 1,573 1,598 1,633 1,842 1,999 1,1486 1,1549 2,1707 1,1730 2,1841 competere}
+{339 1,361 1,480 1,515 1,567 1,587 1,669 1,674 1,823 1,843 1,929 1,990 1,1093 1,1116 2,1118 2,1220 1,1229 1,1333 1,1377 1,1398 1,1449 1,1524 1,1600 1,1690 1,1710 1,1841 partita}
+{9 1,188 1,228 1,308 1,380 1,460 1,499 1,669 1,694 1,868 1,928 1,1043 1,1087 1,1115 1,1118 1,1452 1,1533 1,1770 1,1841 pilotato}
+{18 1,42 1,46 1,92 1,229 1,436 1,449 1,576 1,819 1,843 1,857 1,1106 1,1108 1,1146 1,1229 1,1270 1,1316 1,1428 1,1524 1,1605 1,1841 aggiungere}
+{269 1,323 2,704 1,1194 1,1841 corrispondere}
+{220 2,304 2,308 1,410 1,468 1,574 1,595 1,601 1,653 1,654 1,741 1,751 1,866 1,875 1,939 1,1072 1,1194 1,1244 1,1669 1,1757 1,1769 1,1841 tonnellaggio}
+{82 1,323 1,503 1,604 1,957 1,1338 1,1841 corrispondano}
+{12 1,16 1,151 1,321 1,340 1,404 1,458 1,601 1,608 1,616 1,802 1,1013 1,1200 1,1372 1,1474 1,1588 1,1639 1,1777 1,1841 corrisponde}
+{120 1,367 1,1190 1,1436 1,1841 partita}
+{669 1,1841 partita}
+{58 1,1037 1,1374 1,1587 1,1841 altezza}
+{260 1,312 1,316 1,357 1,369 1,834 1,973 1,1639 1,1841 competere}
+{58 1,249 1,428 1,616 1,792 2,845 1,918 1,963 1,1075 1,1155 2,1228 1,1316 1,1374 1,1508 1,1831 1,1841 adeguate}
+{335 1,615 1,972 1,1091 1,1362 1,1372 1,1523 1,1688 1,1841 coincide}
+{90 1,315 1,369 1,704 1,1110 1,1340 1,1385 1,1841 corrispondente}
+{58 1,446 1,991 1,1194 1,1339 1,1594 1,1841 altezza}
+{183 1,248 1,589 2,669 1,739 1,798 1,1785 1,1808 1,1841 partita}
+{109 1,147 1,305 1,342 1,458 1,479 1,519 1,669 3,676 1,717 1,802 1,919 1,1183 1,1222 1,1409 1,1725 1,1752 1,1785 1,1816 1,1841 incontro}
+{269 1,282 1,547 1,551 1,610 1,614 1,1049 1,1353 1,1382 1,1620 1,1729 1,1791 1,1841 altezza}
+{45 1,354 1,514 1,574 1,646 1,1135 1,1147 1,1157 1,1195 1,1270 1,1723 1,1729 1,1841 sborsato}
+{410 1,444 1,1088 1,1254 1,1391 1,1609 1,1841 combinare}
+{16 1,304 1,1390 1,1841 abbineranno}
+{16 1,30 1,1056 1,1361 1,1815 1,1841 princìpio}
+{5 2,46 1,117 1,342 1,458 1,484 1,704 3,807 1,820 1,1008 1,1170 2,1243 1,1254 1,1282 1,1296 1,1567 2,1577 1,1600 2,1639 1,1825 1,1841 adeguato}
+{39 1,279 1,357 1,1258 1,1395 1,1841 dimostrare}
+{553 1,1284 1,1841 partita}
+{228 1,232 1,360 1,381 1,385 1,860 1,1677 1,1816 1,1841 uguagliare}
+{16 1,304 1,444 1,923 1,1320 1,1361 1,1662 1,1841 coincidono}
+{304 1,512 1,715 1,1013 1,1027 1,1142 1,1262 1,1325 1,1549 1,1841 accompagneranno}
+{98 1,244 1,316 1,354 1,513 1,529 1,567 1,604 1,633 1,754 1,1194 1,1202 1,1259 1,1450 1,1614 1,1670 1,1682 1,1691 1,1775 1,1841 altezza}
+{16 1,444 1,751 1,756 1,1091 1,1841 intraprese}
+{331 1,450 1,484 1,495 1,1310 1,1578 1,1606 1,1841 vedono}
+{304 1,1142 1,1262 1,1405 1,1650 1,1774 1,1828 1,1841 immagina}
+{421 1,645 1,832 1,973 1,1220 1,1577 1,1841 crescenti}
+{288 1,596 1,704 1,1085 1,1333 1,1577 1,1841 insolute}
+{45 1,510 1,574 1,612 1,637 1,820 1,1066 1,1183 1,1195 1,1403 1,1729 1,1841 pari}
+{16 1,44 1,96 1,354 1,546 1,574 2,707 1,771 1,992 1,1142 1,1600 1,1663 1,1729 1,1733 1,1804 1,1831 1,1841 corrispondere}
+{17 1,313 1,369 1,529 1,887 1,947 1,979 2,1196 1,1247 1,1299 1,1549 1,1730 1,1841 suddetti}
+{82 1,198 1,304 1,704 1,1090 1,1118 1,1262 1,1298 1,1340 1,1794 1,1841 adeguare}
+{59 1,123 1,484 2,881 1,981 1,1361 1,1545 1,1841 altezza}
+{45 1,311 1,405 1,524 1,596 1,701 1,844 1,926 1,1098 1,1165 1,1222 1,1258 1,1346 1,1564 1,1841 altezza}
+{71 1,194 1,235 1,280 1,535 1,697 1,720 1,1141 1,1186 1,1443 1,1478 1,1533 1,1747 1,1760 1,1841 partita}
+{301 1,669 1,688 1,882 1,986 1,1035 1,1222 1,1841 partita}
+{197 1,198 1,277 1,516 1,819 1,865 1,1254 1,1316 1,1831 1,1841 resosi}
+{108 1,170 1,669 1,751 1,1013 1,1059 1,1590 1,1707 1,1841 partita}
+{28 1,82 1,458 1,1063 1,1270 1,1377 1,1600 1,1841 adeguati}
+{484 1,495 1,574 1,682 1,745 2,814 2,815 1,1051 1,1095 1,1127 1,1310 2,1317 1,1372 1,1399 1,1706 1,1841 corrisponde}
+{569 1,658 1,704 1,773 1,850 1,923 1,1027 1,1037 1,1367 1,1841 corrisponde}
+{154 1,669 1,906 1,1070 1,1596 1,1805 1,1841 partita}
+{135 1,242 1,302 1,360 1,481 1,528 1,629 2,829 1,837 1,980 1,999 2,1076 1,1247 1,1450 1,1569 1,1597 1,1629 1,1682 1,1841 eguagliare}
+{148 1,389 1,497 1,759 1,903 1,1027 1,1548 1,1625 1,1707 1,1841 partita}
+{143 1,244 1,614 1,813 1,1203 1,1374 1,1805 1,1819 1,1841 corrispondente}
+{26 1,100 1,156 1,170 1,244 1,304 1,618 1,741 1,967 1,1254 1,1262 1,1335 2,1425 1,1841 debitamente}
+{75 1,389 1,1190 1,1333 1,1613 1,1819 1,1841 coppa}
+{165 1,361 1,402 1,538 1,587 1,669 1,843 1,970 1,1260 1,1262 1,1377 1,1449 1,1801 1,1841 partita}
+{15 1,18 1,165 1,621 1,669 2,897 1,1118 1,1354 1,1533 1,1770 1,1841 partita}
+{139 1,153 1,154 1,247 1,323 1,360 1,542 1,545 1,570 1,574 2,599 1,669 2,712 1,843 1,844 1,860 1,894 1,900 1,929 1,1013 1,1059 2,1070 1,1071 1,1116 1,1118 1,1166 1,1190 1,1262 1,1461 1,1549 1,1626 1,1815 1,1841 incontro}
+{115 1,153 1,154 1,189 1,345 1,358 1,570 1,580 1,681 1,854 1,998 1,1100 1,1242 1,1460 1,1478 1,1616 1,1760 1,1770 1,1781 1,1841 partita}
+{168 1,484 2,545 1,669 1,837 1,1201 1,1239 1,1362 1,1449 1,1653 1,1841 partita}
+{484 1,1151 1,1175 1,1242 1,1284 1,1310 1,1484 1,1819 1,1841 diverge}
+{4 1,48 2,123 1,283 1,354 1,365 1,369 1,504 1,598 1,669 1,832 1,858 1,965 1,1008 1,1013 1,1126 1,1154 1,1192 1,1248 1,1273 1,1449 1,1484 1,1549 1,1841 partita}
+{19 1,1133 1,1392 1,1488 1,1538 1,1841 potersi}
+{26 1,77 2,170 1,304 1,369 1,473 1,551 1,574 1,651 1,668 1,683 1,847 1,900 1,940 1,1004 1,1054 1,1203 1,1344 1,1385 1,1482 1,1547 1,1573 1,1593 1,1729 1,1739 1,1841 terminerà}
+{46 1,76 1,193 1,308 1,318 1,367 1,402 1,535 1,541 2,646 2,751 1,950 1,1008 1,1063 1,1180 1,1255 1,1410 1,1460 2,1600 1,1624 1,1831 1,1841 unire}
+{51 1,311 1,551 1,635 1,947 1,1013 1,1190 1,1297 1,1311 1,1541 1,1549 1,1577 1,1614 1,1841 adeguarli}
+{43 1,46 1,54 1,109 1,263 1,308 1,364 1,646 1,1119 1,1155 1,1194 1,1232 1,1377 1,1448 1,1549 1,1729 1,1730 1,1819 1,1841 albore}
+{91 1,391 1,413 1,450 1,458 1,647 1,832 1,1448 1,1489 1,1523 1,1841 fatica}
+{25 1,966 1,1382 1,1841 correggere}
+{25 1,493 1,516 1,653 1,658 1,817 1,850 2,876 1,995 1,1215 1,1236 1,1262 1,1286 1,1374 1,1383 1,1387 1,1392 1,1440 1,1498 1,1617 1,1757 1,1841 adeguare}
+{178 1,179 1,369 1,429 1,555 1,622 1,774 1,955 1,1003 1,1089 1,1108 1,1220 1,1232 1,1301 1,1370 1,1488 1,1677 1,1841 pugilato}
+{199 1,552 1,593 1,1144 1,1172 1,1229 1,1476 1,1477 1,1515 1,1726 1,1841 spintone}
+{92 1,276 1,407 1,484 1,596 1,1209 1,1265 1,1415 1,1547 1,1697 1,1841 soddisfa}
+{306 1,429 1,764 1,1013 1,1549 1,1695 1,1765 1,1816 1,1841 agevolare}
+{217 1,369 1,604 1,669 1,1287 1,1397 1,1822 1,1841 partita}
+{15 1,328 1,402 1,425 1,537 1,908 1,1013 1,1306 1,1390 1,1518 1,1549 1,1568 1,1644 1,1672 1,1841 accompagnare}
+{42 1,122 1,331 1,354 1,574 1,706 1,819 1,874 1,904 1,1059 1,1116 1,1195 1,1403 1,1461 1,1524 1,1729 1,1730 1,1841 corrispondere}
+{54 1,58 1,513 1,573 1,818 1,1254 1,1325 1,1374 1,1614 1,1682 1,1819 1,1841 corrispondente}
+{4 1,247 1,304 1,337 1,362 1,454 2,574 2,644 1,669 1,748 1,749 1,800 1,1018 1,1121 1,1142 1,1199 2,1316 1,1777 1,1841 responso}
+{58 1,102 1,573 2,728 1,888 1,900 1,1148 1,1374 1,1503 1,1566 1,1571 1,1841 soddisfare}
+{331 1,369 1,629 1,633 1,775 1,786 1,922 1,1214 1,1833 1,1841 collinosi}
+{260 1,391 1,442 1,820 1,1050 1,1074 1,1232 1,1305 1,1361 1,1405 1,1461 1,1599 1,1751 1,1841 produttore}
+{267 1,269 1,321 1,407 1,424 1,574 1,840 1,949 1,1142 1,1333 1,1337 1,1377 1,1480 1,1499 1,1841 altezza}
+{162 1,296 1,574 1,669 1,884 2,1183 1,1190 1,1287 1,1316 1,1500 2,1633 1,1665 1,1800 1,1841 partita}
+{316 1,502 1,511 1,573 1,640 1,705 1,845 1,913 1,947 1,963 1,1014 1,1091 1,1146 1,1183 1,1403 1,1430 1,1630 1,1813 1,1841 uguagliare}
+{97 1,267 1,304 1,366 1,551 1,571 1,1012 1,1143 1,1219 1,1220 1,1230 1,1366 1,1841 altezza}
+{130 1,202 1,212 1,240 1,249 1,431 1,710 1,828 1,840 1,906 1,939 1,1001 1,1023 1,1031 2,1094 1,1102 1,1149 1,1190 1,1234 1,1322 1,1365 1,1410 1,1518 1,1543 1,1683 1,1707 1,1789 1,1841 partita}
+{12 1,191 1,196 1,323 1,535 1,932 1,965 1,974 1,1046 1,1091 2,1217 1,1235 1,1841 partita}
+{80 1,210 1,293 1,304 1,484 1,669 1,1294 1,1841 calcio}
+{9 1,117 1,342 1,452 2,692 1,932 1,1085 1,1100 1,1155 1,1182 1,1217 1,1225 1,1311 1,1361 1,1460 1,1463 1,1478 1,1633 1,1640 2,1824 1,1841 partita}
+{119 1,261 1,347 1,596 1,710 1,783 1,832 1,843 1,989 1,1108 1,1116 1,1226 1,1246 1,1273 1,1291 1,1312 1,1547 1,1678 1,1687 1,1841 accresciute}
+{266 2,905 1,1129 1,1479 1,1812 1,1834 1,1841 partita}
+{484 1,489 1,739 1,857 1,983 1,1031 1,1206 1,1222 1,1234 1,1421 1,1728 1,1831 1,1841 proposito}
+{243 1,254 1,272 1,307 1,360 1,444 1,912 1,1032 1,1546 1,1841 sostituirla}
+{41 1,64 1,185 1,304 1,1114 1,1139 1,1262 1,1298 1,1508 1,1763 1,1800 1,1841 altezza}
+{117 1,205 1,450 1,707 1,1202 1,1528 1,1841 adeguare}
+{18 1,149 1,889 1,898 1,984 1,1122 1,1330 1,1485 1,1511 1,1841 lirismo}
+{54 1,115 1,389 1,669 1,693 2,957 1,999 1,1262 1,1380 1,1419 1,1657 3,1674 1,1819 1,1821 1,1841 partita}
+{12 1,304 1,308 1,316 1,351 1,366 1,510 1,557 1,574 1,731 1,751 1,823 1,840 1,990 1,1142 1,1202 1,1663 1,1819 1,1841 altezza}
+{389 1,573 1,739 1,798 1,994 1,1819 1,1841 partita}
+{154 1,162 1,176 1,229 1,326 1,677 1,693 1,710 1,999 1,1070 1,1229 1,1232 1,1452 1,1657 1,1658 1,1714 1,1841 partita}
+{51 1,106 1,180 1,189 1,616 1,626 1,741 1,882 2,884 2,1082 1,1192 1,1225 1,1229 2,1242 1,1313 1,1445 1,1464 1,1509 1,1695 1,1728 1,1841 partita}
+{12 1,145 1,225 1,366 1,392 1,512 1,544 1,574 1,582 1,944 1,1027 1,1028 1,1142 1,1238 1,1254 2,1285 1,1333 1,1461 1,1549 1,1565 1,1588 1,1645 1,1841 coincidano}
+{289 1,352 1,368 1,505 1,596 1,614 1,738 1,1222 1,1232 1,1747 1,1841 coniata}
+{0 1,47 1,249 1,281 1,515 1,957 1,1039 1,1181 2,1206 1,1242 1,1265 1,1359 1,1634 1,1639 1,1772 1,1841 atmosferica}
+{18 1,1600 1,1841 favoriscono}
+{437 1,568 1,570 1,596 1,673 1,1042 1,1049 1,1194 1,1291 1,1378 1,1729 1,1819 1,1841 altezza}
+{54 1,112 1,162 1,176 1,793 1,991 1,999 1,1043 1,1504 1,1657 1,1709 1,1841 partita}
+{13 1,455 1,510 1,573 1,609 1,820 1,858 1,1013 1,1059 1,1195 1,1375 1,1799 1,1841 corrisponda}
+{4 2,60 2,78 1,104 1,277 2,369 1,398 1,650 1,809 1,855 1,992 1,1013 1,1119 1,1236 2,1482 1,1734 1,1841 concordanza}
+{574 1,1203 1,1841 eguagliare}
+{513 1,554 1,1254 2,1841 adatti}
+{156 1,207 1,277 1,323 2,574 1,604 1,1142 1,1488 1,1590 1,1729 1,1841 birmania-myanmar}
+{570 1,669 1,871 1,1195 1,1524 2,1540 1,1551 1,1593 1,1628 1,1754 1,1841 partita}
+{149 1,570 1,669 1,1200 1,1588 1,1626 1,1841 pari}
+{253 1,396 1,516 1,960 1,1312 1,1326 1,1610 1,1841 guardalinee}
+{178 1,307 1,466 1,637 1,743 1,829 1,1298 1,1405 1,1712 1,1841 pugilato}
+{28 1,450 1,574 1,794 1,840 1,1194 2,1841 hollywood}
+{141 1,277 1,407 1,819 1,1194 1,1506 1,1649 1,1841 cooperazione}
+{357 1,574 1,705 1,746 1,755 1,804 1,947 2,1265 2,1273 1,1841 ricalcherà}
+{16 1,77 1,737 1,1815 1,1841 fata}
+{16 1,203 1,328 1,329 1,344 1,600 1,702 1,1618 1,1620 2,1841 sperimentiamo}
+{369 1,447 1,472 1,669 1,820 1,881 1,894 1,1012 1,1220 1,1252 1,1306 1,1551 1,1608 1,1747 1,1841 partita}
+{38 1,69 1,77 1,391 1,574 1,1410 2,1572 1,1729 1,1819 1,1841 corrispondono}
+{2 1,20 1,59 1,199 1,311 1,359 1,1050 1,1220 1,1222 1,1238 1,1563 1,1841 altezza}
+{43 1,161 1,341 1,450 1,924 1,1841 conciliabile}
+{217 1,369 1,371 1,533 1,547 1,574 1,893 1,929 1,1013 1,1066 1,1218 1,1373 1,1478 1,1729 1,1803 1,1841 animeranno}
+{18 1,197 1,249 1,293 1,304 1,406 1,414 1,447 1,551 2,807 1,849 1,1008 1,1190 1,1194 1,1238 1,1481 1,1570 1,1622 1,1650 1,1695 1,1794 1,1841 equilibrio}
+{31 1,150 1,269 1,284 1,307 1,323 1,339 1,366 1,404 1,407 1,432 1,455 1,491 1,669 1,691 1,795 1,860 1,885 1,901 1,1361 1,1449 1,1841 partita}
+{12 1,304 1,342 1,391 1,680 1,899 1,1202 1,1382 1,1841 varie}
+{28 1,60 1,78 1,403 1,414 1,484 1,500 1,566 1,616 1,617 1,623 1,791 1,965 1,1059 1,1147 1,1333 1,1336 1,1347 1,1349 1,1454 1,1465 2,1508 1,1535 1,1639 2,1729 1,1731 1,1747 1,1841 coniugato}
+{669 1,1171 1,1190 1,1220 1,1746 1,1770 1,1841 partita}
+{217 1,316 1,369 2,543 1,626 1,669 1,1183 1,1282 1,1287 1,1382 1,1398 1,1474 1,1655 1,1841 partita}
+{25 1,421 1,672 2,716 1,1107 1,1181 1,1247 2,1282 1,1350 1,1471 1,1721 1,1841 genk}
+{409 1,584 1,596 1,920 1,1006 1,1262 1,1382 1,1841 corrisponde}
+{105 1,115 1,277 1,331 2,423 1,574 1,703 1,707 1,724 1,740 1,847 1,860 1,872 1,1020 1,1030 1,1063 1,1088 1,1142 1,1195 1,1254 1,1302 1,1841 allinearsi}
+{82 1,306 1,947 1,1102 1,1218 1,1374 1,1618 1,1784 1,1841 affiancare}
+{160 1,458 1,569 1,704 2,1013 1,1222 1,1240 1,1315 1,1448 1,1577 1,1600 2,1671 1,1841 aggiungeranno}
+{17 1,209 1,221 1,377 1,515 1,557 1,596 1,597 1,599 1,633 1,745 2,917 1,949 1,964 1,1107 1,1110 1,1111 1,1196 1,1247 1,1328 2,1382 1,1478 1,1498 1,1577 1,1685 1,1806 1,1841 corrispondono}
+{3 1,74 1,543 1,669 1,778 1,802 1,860 2,1013 1,1086 1,1184 1,1222 1,1518 2,1841 partita}
+{297 1,441 1,574 1,1001 1,1311 1,1536 1,1549 1,1639 1,1643 1,1729 1,1730 1,1789 1,1841 competere}
+{58 1,366 1,472 1,514 1,532 1,574 1,646 1,850 1,1063 1,1067 1,1142 1,1148 1,1195 1,1277 1,1374 1,1841 bilanciare}
+{220 1,279 1,328 1,411 1,424 1,514 1,574 1,940 1,1121 1,1194 1,1575 1,1729 1,1815 1,1841 tradurre}
+{82 1,236 1,314 1,369 1,501 1,669 1,806 1,1002 1,1101 1,1155 1,1190 1,1192 1,1367 1,1527 1,1543 1,1841 incontro}
+{123 1,577 1,663 1,669 1,953 1,1149 1,1183 1,1382 1,1564 1,1607 1,1790 1,1841 partita}
+{45 1,100 1,704 1,741 1,908 1,1059 1,1167 1,1306 1,1335 1,1371 1,1377 1,1648 1,1730 1,1841 integrare}
+{21 1,25 1,210 1,275 1,521 1,783 1,791 1,864 3,871 1,1009 1,1279 1,1793 1,1841 innalzamento}
+{316 1,366 1,669 1,750 1,1145 1,1224 1,1269 1,1727 1,1783 1,1816 1,1841 provenzale}
+{142 1,215 1,237 1,311 1,312 1,520 1,620 1,846 1,988 1,1020 1,1022 1,1041 1,1116 1,1149 1,1174 1,1630 1,1632 1,1636 1,1841 contatto}
+{98 1,149 1,311 1,322 1,395 1,409 1,611 1,616 1,704 1,714 1,748 1,1008 1,1112 1,1124 1,1194 1,1282 1,1322 1,1387 1,1403 1,1524 1,1571 1,1577 1,1815 1,1841 ottimistici}
+{191 2,388 1,782 1,1117 1,1246 1,1273 1,1367 1,1547 1,1633 1,1841 adeguate}
+{301 1,304 1,305 1,819 1,1262 1,1338 1,1361 1,1524 1,1567 1,1622 1,1659 1,1715 1,1841 atte}
+{129 1,191 1,213 1,229 1,247 1,283 1,513 1,669 1,714 1,741 1,768 1,820 1,929 1,992 1,1262 1,1341 1,1519 1,1633 1,1792 1,1841 partita}
+{80 1,110 1,245 1,291 1,316 1,404 1,424 1,669 1,745 1,758 1,791 1,820 1,881 1,1007 1,1142 1,1222 1,1361 1,1470 1,1763 1,1841 partita}
+{25 1,92 1,118 1,141 1,326 1,356 1,372 1,527 1,687 1,999 1,1056 1,1310 1,1410 1,1656 1,1691 1,1841 corrispondano}
+{58 1,288 1,644 1,886 1,1194 1,1421 1,1841 soddisfare}
+{360 1,860 1,1627 1,1841 squadra}
+{84 1,197 1,472 1,613 1,655 1,669 1,801 1,802 1,1017 1,1488 1,1841 partita}
+{197 1,277 1,483 1,484 1,604 1,881 1,1841 altezza}
+{255 1,334 1,635 1,915 1,986 1,1047 1,1095 1,1222 1,1365 1,1825 1,1837 1,1841 secondo}
+{360 1,369 1,568 1,574 1,1211 1,1577 1,1775 1,1841 adeguate}
+{277 1,1398 1,1410 1,1841 commisurate}
+{156 1,349 1,458 1,484 1,530 1,798 1,970 1,1125 1,1222 1,1417 1,1448 1,1841 altezza}
+{223 1,731 1,820 1,840 1,1310 1,1334 1,1342 1,1556 1,1841 avvicinamento}

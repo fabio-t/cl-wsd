@@ -1,0 +1,57 @@
+@relation pot-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {tarro,saco,pot,olla,cesto,diluirla,despreciables,reunirlo,crisol,popurrí,pastel,aromáticas,balbucea,venderán,orinal,especiales,fondo,bote,cazuela,destinen,quemarropa,reencuentro,absuelva,tiesto,representaron,cosmética,mezclar,maceta,ertms,confundieron,viga,caldero,cesta,arca,maría,limitándose,pierda,lote,incluirlos,cuece}
+
+@data
+1,Bring:seri:articl:plate:flask:stool,?
+2,Master:Cook:said:dont:know:flame:undoubt:save:day:nobl:live,?
+3,Another:theori:suggest:intend:victim:chamber:reliev:vast:quantiti:ale:turn:bed:peril:angl,?
+4,-year-old:theatr:smoke:want,?
+5,root:lifestyl:money:treat:entir:dispos:incom:given:live:parent,?
+6,But:convict:remain:extra:money:govern:way:pocket:countri:leader,?
+7,Dad:kiss:forehead:ask:tea:sat:chair:smoke:quiet:pipe:tobacco:look:happier:day,?
+8,Director:Chris:Pond:said:Peopl:face:difficult:choic:water:bath:save:cook:water:flower,?
+9,Even:make-up:blue-flow:dress:tabl:stand:attent,?
+10,Final:hard:resist:gravit:pull:Flash:Georg:popular:pack:disco:town:late:night:melt:fun:seeker,?
+11,Hes:got:hous:firm:cash,?
+12,told:NME:Ive:smoke:surpris:havent:turn:bush,?
+13,turn:flat:king:ransom:gold:answer:poverty-pray:dreamt,?
+14,head:presidium:Pol:Vietnames:invas:offici:head:Khmer:Roug,?
+15,Here:bank:queue:street:cash:point:whove:got:money:bank:theyv:got:press:button:spew:wad:crisp:note:delic:manicur:hand,?
+16,totter:cottag:edg:loch:ask:tea:bite:eat,?
+17,famili:cook:lot:definit:look:machin:scrub:cycl:hand-scour:pan,?
+18,Night:Goblin:bow:add:insult:take:shot:enemi:squirm,?
+19,word:neednt:told:Pooh:honey:shown:exampl:draw:attent:honey:sideboard,?
+20,million:Cambodian:die:hand:Pol:Khmer:Roug,?
+21,includ:cold:cream:make-up:indulg:ladi:Queen:age,?
+22,Lee:poke:knock:dusti:packet:seed:shelf:move:flower,?
+23,May:develop:minist:met:discuss:new:special:Africa:initi:propos:creat:money:Africa:help:countri:batter:especi:hard:war:drought,?
+24,Pol:born:educ:Phnom:Penh:Pari:studi:electron,?
+25,Round:base:peculiar:attach:column:upside-down:flower:stone,?
+26,The:KGBs:victim:wont:left:dead:poison:pellet:wood:pigeon:kid:take:shot:air:gun,?
+27,The:far:left:threw:polici:educ:chang:heighten:debat:discuss:school:teach:teach,?
+28,The:linoleum:chest:bad:stain:spill:white:reliev:night:hous:quiet:scari,?
+29,The:minor:parti:includ:Liber:Democrat:decid:support:Queen:Speech:base:consensus:polit:throw:melt:general:elect,?
+30,The:plastic:gone:bounc:away:rooftop:spring:wind,?
+31,The:realiti:practic:best:describ:melt:dispar:art:subject:outcom:reli:luck:profession:foresight,?
+32,The:tabl:pretti:red:cloth:golden:chrysanth:middl:place:neat:laid,?
+33,Their:European:subsidiari:stump:moni:includ:fee:like:ICL:plc:European:campaign,?
+34,Their:answer:basic:principl:insur:everybodi:put:money:fund:avail:minor:claim,?
+35,There:gold:Westminst:scrabbl,?
+36,This:exot:pourri:stimul:love:natur:thing:unquench:perfum,?
+37,Toni:push:open:door:mark:stall:envelop:-pourri:cigar-smok:women:perfum:unmistak:tang:bodi:close:proxim,?
+38,Two:hour:later:return:busi:kitchen:produc:huge:plate:load:fish:potato:mammoth:tea,?
+39,Under:new:want:increas:proport:budget:cash:local:author,?
+40,Improve:plant:propag:technolog:permit:plant:produc:accord:technolog:market:crate:box:addit:tradit:bundl,?
+41,Passiv:gear:mean:fish:gear:catch:oper:doe:requir:activ:movement:gear:includ:gillnet:entangl:net:trammel:net:trap-net:line:trap,?
+42,The:method:Unite:Kingdom:call:Porous:Test:describ:Technic:Report:Water:Research:Centr,?
+43,For:crab:fish:defin:Articl:crab:trap:author,?
+44,Member:State:market:quantiti:final:consum:market:vine:crate:box:provid:derog:provis:paragraph:respect:packag:seal:mark,?
+45,The:EESC:firm:believ:Commiss:reform:propos:valuabl:melt:achiev:balanc:reconcili,?
+46,rule:thumb:Dijon:mustard:ought:present:feu,?
+47,All:deterg:intend:use:wash:hand:dish:crockeri:cutleri:pan:kitchen:utensil,?
+48,aim:industri:research:studi:chrysanthemum:cultiv,?
+49,divers:make:European:Union:melt:differ:render:common:home:divers:celebr:mother:tongu:sourc:wealth:bridg:greater:solidar:mutual:understand,?
+50,They:roll:joint:smoke:lunch,?

@@ -1,0 +1,832 @@
+@relation 'mood-weka.filters.unsupervised.attribute.NominalToString-C2-weka.filters.unsupervised.attribute.StringToWordVector-R2-W100000-prune-rate-1.0-C-N0-S-stemmerweka.core.stemmers.NullStemmer-M1-O-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.unsupervised.attribute.Reorder-R3-last,2-weka.filters.MultiFilter-Fweka.filters.unsupervised.attribute.StringToWordVector -R 2 -W 100000 -prune-rate -1.0 -C -N 0 -S -stemmer weka.core.stemmers.NullStemmer -M 1 -O -tokenizer \"weka.core.tokenizers.WordTokenizer -delimiters \\\" \\\\r\\\\n\\\\t.,;:\\\\\\\'\\\\\\\"()?!\\\"\"-Fweka.filters.unsupervised.attribute.Reorder -R 3-last,2'
+
+@attribute abandon numeric
+@attribute accept numeric
+@attribute access numeric
+@attribute accord numeric
+@attribute account numeric
+@attribute achiev numeric
+@attribute acknowledg numeric
+@attribute action numeric
+@attribute activ numeric
+@attribute actual numeric
+@attribute adher numeric
+@attribute administr numeric
+@attribute adopt numeric
+@attribute advertis numeric
+@attribute affair numeric
+@attribute affect numeric
+@attribute africa numeric
+@attribute aggress numeric
+@attribute agre numeric
+@attribute agreement numeric
+@attribute ahead numeric
+@attribute albanian-languag numeric
+@attribute alegr numeric
+@attribute ambiti numeric
+@attribute amend numeric
+@attribute america numeric
+@attribute american numeric
+@attribute ankara numeric
+@attribute annual numeric
+@attribute answer numeric
+@attribute antenna numeric
+@attribute anti-european numeric
+@attribute antidepress numeric
+@attribute apathi numeric
+@attribute apolog numeric
+@attribute appeal numeric
+@attribute appli numeric
+@attribute applic numeric
+@attribute approach numeric
+@attribute ardour numeric
+@attribute area numeric
+@attribute argu numeric
+@attribute argument numeric
+@attribute aspect numeric
+@attribute assembl numeric
+@attribute assur numeric
+@attribute atmospher numeric
+@attribute attent numeric
+@attribute attitud numeric
+@attribute austrian numeric
+@attribute author numeric
+@attribute automat numeric
+@attribute avoid numeric
+@attribute awar numeric
+@attribute background numeric
+@attribute bad numeric
+@attribute ban numeric
+@attribute barbar numeric
+@attribute barcelona numeric
+@attribute barnier numeric
+@attribute barrier numeric
+@attribute basic numeric
+@attribute bear numeric
+@attribute begin numeric
+@attribute behav numeric
+@attribute belgrad numeric
+@attribute believ numeric
+@attribute bellicos numeric
+@attribute benefit numeric
+@attribute bit numeric
+@attribute block numeric
+@attribute bodi numeric
+@attribute bolkestein numeric
+@attribute border numeric
+@attribute bound numeric
+@attribute break numeric
+@attribute bring numeric
+@attribute brought numeric
+@attribute bse numeric
+@attribute budget numeric
+@attribute call numeric
+@attribute candid numeric
+@attribute capac numeric
+@attribute capit numeric
+@attribute captur numeric
+@attribute care numeric
+@attribute carri numeric
+@attribute case numeric
+@attribute casual numeric
+@attribute catch numeric
+@attribute caus numeric
+@attribute celebr numeric
+@attribute celebratori numeric
+@attribute chamber numeric
+@attribute chanc numeric
+@attribute chang numeric
+@attribute chao numeric
+@attribute characteris numeric
+@attribute charter numeric
+@attribute chernobyl numeric
+@attribute chines numeric
+@attribute choic numeric
+@attribute christma numeric
+@attribute circumst numeric
+@attribute civil numeric
+@attribute claim numeric
+@attribute clear numeric
+@attribute clinton numeric
+@attribute close numeric
+@attribute club numeric
+@attribute cohes numeric
+@attribute combat numeric
+@attribute combin numeric
+@attribute comment numeric
+@attribute commiss numeric
+@attribute commission numeric
+@attribute committe numeric
+@attribute common numeric
+@attribute commonplac numeric
+@attribute communiti numeric
+@attribute compani numeric
+@attribute compet numeric
+@attribute competit numeric
+@attribute complac numeric
+@attribute complet numeric
+@attribute composit numeric
+@attribute compromis numeric
+@attribute concern numeric
+@attribute concili numeric
+@attribute condemn numeric
+@attribute conduct numeric
+@attribute confid numeric
+@attribute congratul numeric
+@attribute congress numeric
+@attribute constitu numeric
+@attribute constitut numeric
+@attribute construct numeric
+@attribute consum numeric
+@attribute continu numeric
+@attribute contribut numeric
+@attribute control numeric
+@attribute convey numeric
+@attribute cool numeric
+@attribute cooper numeric
+@attribute copenhagen numeric
+@attribute correct numeric
+@attribute cotonou numeric
+@attribute council numeric
+@attribute counterpart numeric
+@attribute countri numeric
+@attribute courag numeric
+@attribute cours numeric
+@attribute creat numeric
+@attribute credit numeric
+@attribute crime numeric
+@attribute crisi numeric
+@attribute criteria numeric
+@attribute critic numeric
+@attribute criticis numeric
+@attribute croatia numeric
+@attribute current numeric
+@attribute cynic numeric
+@attribute dagmar numeric
+@attribute day numeric
+@attribute deal numeric
+@attribute dear numeric
+@attribute debat numeric
+@attribute decemb numeric
+@attribute decid numeric
+@attribute decis numeric
+@attribute decreas numeric
+@attribute defenc numeric
+@attribute defin numeric
+@attribute degre numeric
+@attribute delay numeric
+@attribute deleg numeric
+@attribute deliber numeric
+@attribute demand numeric
+@attribute democraci numeric
+@attribute demonstr numeric
+@attribute denigr numeric
+@attribute denmark numeric
+@attribute departur numeric
+@attribute depend numeric
+@attribute depress numeric
+@attribute descend numeric
+@attribute descript numeric
+@attribute design numeric
+@attribute despair numeric
+@attribute destroy numeric
+@attribute detect numeric
+@attribute determin numeric
+@attribute develop numeric
+@attribute dialogu numeric
+@attribute dictat numeric
+@attribute differ numeric
+@attribute difficult numeric
+@attribute digniti numeric
+@attribute dimens numeric
+@attribute direct numeric
+@attribute discothequ numeric
+@attribute discov numeric
+@attribute discuss numeric
+@attribute diseas numeric
+@attribute disgruntl numeric
+@attribute disillus numeric
+@attribute disrupt numeric
+@attribute divid numeric
+@attribute divis numeric
+@attribute document numeric
+@attribute doe numeric
+@attribute dollar numeric
+@attribute domest numeric
+@attribute doug numeric
+@attribute drug numeric
+@attribute earlier numeric
+@attribute easiest numeric
+@attribute easili numeric
+@attribute ecofin numeric
+@attribute econom numeric
+@attribute effect numeric
+@attribute effici numeric
+@attribute emerg numeric
+@attribute emot numeric
+@attribute enabl numeric
+@attribute encourag numeric
+@attribute endeavour numeric
+@attribute enlarg numeric
+@attribute enterpris numeric
+@attribute environment numeric
+@attribute escap numeric
+@attribute especi numeric
+@attribute essenti numeric
+@attribute establish numeric
+@attribute estonia numeric
+@attribute ethnic numeric
+@attribute eurl numeric
+@attribute euro numeric
+@attribute europ numeric
+@attribute european numeric
+@attribute eurostat numeric
+@attribute evas numeric
+@attribute event numeric
+@attribute everybodi numeric
+@attribute evid numeric
+@attribute examin numeric
+@attribute exampl numeric
+@attribute excel numeric
+@attribute excess numeric
+@attribute exchang numeric
+@attribute exemplifi numeric
+@attribute exercis numeric
+@attribute expect numeric
+@attribute experienc numeric
+@attribute explan numeric
+@attribute exploit numeric
+@attribute express numeric
+@attribute extra numeric
+@attribute extrem numeric
+@attribute face numeric
+@attribute facilit numeric
+@attribute fact numeric
+@attribute factual numeric
+@attribute fail numeric
+@attribute failur numeric
+@attribute fair numeric
+@attribute faith numeric
+@attribute fashion numeric
+@attribute fault numeric
+@attribute fear numeric
+@attribute feel numeric
+@attribute fight numeric
+@attribute financi numeric
+@attribute finnish numeric
+@attribute fire numeric
+@attribute firm numeric
+@attribute fitnessrel numeric
+@attribute flow numeric
+@attribute follow numeric
+@attribute footbal numeric
+@attribute foreign numeric
+@attribute forgot numeric
+@attribute formula numeric
+@attribute forward numeric
+@attribute foundat numeric
+@attribute franc numeric
+@attribute frank numeric
+@attribute freedom numeric
+@attribute friend numeric
+@attribute front numeric
+@attribute frustrat numeric
+@attribute fulfil numeric
+@attribute fulli numeric
+@attribute futur numeric
+@attribute gain numeric
+@attribute gaug numeric
+@attribute gave numeric
+@attribute general numeric
+@attribute generous numeric
+@attribute germani numeric
+@attribute give numeric
+@attribute glad numeric
+@attribute good numeric
+@attribute govern numeric
+@attribute grand numeric
+@attribute grate numeric
+@attribute gratitud numeric
+@attribute great numeric
+@attribute greatest numeric
+@attribute griev numeric
+@attribute ground numeric
+@attribute grow numeric
+@attribute guarante numeric
+@attribute halt numeric
+@attribute happen numeric
+@attribute happi numeric
+@attribute harm numeric
+@attribute harmless numeric
+@attribute hatr numeric
+@attribute head numeric
+@attribute heal numeric
+@attribute hear numeric
+@attribute heard numeric
+@attribute held numeric
+@attribute henderson numeric
+@attribute high numeric
+@attribute hold numeric
+@attribute holiday numeric
+@attribute holland numeric
+@attribute home numeric
+@attribute hope numeric
+@attribute hostil numeric
+@attribute hous numeric
+@attribute human numeric
+@attribute idea numeric
+@attribute igc numeric
+@attribute ignor numeric
+@attribute imagin numeric
+@attribute implement numeric
+@attribute import numeric
+@attribute impress numeric
+@attribute improv numeric
+@attribute inaugur numeric
+@attribute incident numeric
+@attribute inconsist numeric
+@attribute increas numeric
+@attribute independ numeric
+@attribute indiffer numeric
+@attribute indign numeric
+@attribute individu numeric
+@attribute industri numeric
+@attribute influenc numeric
+@attribute inform numeric
+@attribute innov numeric
+@attribute inquiri numeric
+@attribute insist numeric
+@attribute inspect numeric
+@attribute instig numeric
+@attribute institut numeric
+@attribute intellectu numeric
+@attribute intercultur numeric
+@attribute interest numeric
+@attribute intern numeric
+@attribute interpret numeric
+@attribute interview numeric
+@attribute introduc numeric
+@attribute invest numeric
+@attribute investor numeric
+@attribute involv numeric
+@attribute issu numeric
+@attribute italian numeric
+@attribute job numeric
+@attribute johannesburg numeric
+@attribute join numeric
+@attribute journalist numeric
+@attribute judgement numeric
+@attribute justifi numeric
+@attribute kind numeric
+@attribute kyrgyzstan numeric
+@attribute lack numeric
+@attribute late numeric
+@attribute late-night numeric
+@attribute lead numeric
+@attribute leadership numeric
+@attribute leav numeric
+@attribute led numeric
+@attribute left numeric
+@attribute legisl numeric
+@attribute legitim numeric
+@attribute length numeric
+@attribute level numeric
+@attribute lift numeric
+@attribute linger numeric
+@attribute listen numeric
+@attribute live numeric
+@attribute logic numeric
+@attribute long numeric
+@attribute lose numeric
+@attribute loser numeric
+@attribute lure numeric
+@attribute macedonia numeric
+@attribute macroeconom numeric
+@attribute madam numeric
+@attribute madrid numeric
+@attribute maij-weggen numeric
+@attribute major numeric
+@attribute man numeric
+@attribute manag numeric
+@attribute mark numeric
+@attribute market numeric
+@attribute materi numeric
+@attribute matter numeric
+@attribute mechan numeric
+@attribute medium-s numeric
+@attribute meet numeric
+@attribute member numeric
+@attribute mention numeric
+@attribute mind numeric
+@attribute minist numeric
+@attribute minsk numeric
+@attribute mira numeric
+@attribute moment numeric
+@attribute money numeric
+@attribute month numeric
+@attribute movement numeric
+@attribute mrs numeric
+@attribute mundan numeric
+@attribute music numeric
+@attribute nation numeric
+@attribute nationalist numeric
+@attribute necessari numeric
+@attribute necessarili numeric
+@attribute negat numeric
+@attribute neglect numeric
+@attribute netherland numeric
+@attribute nomin numeric
+@attribute noordwijk numeric
+@attribute note numeric
+@attribute notic numeric
+@attribute notion numeric
+@attribute number numeric
+@attribute numer numeric
+@attribute observ numeric
+@attribute obstruct numeric
+@attribute obvious numeric
+@attribute occur numeric
+@attribute offer numeric
+@attribute offici numeric
+@attribute oil numeric
+@attribute omit numeric
+@attribute open numeric
+@attribute opinion numeric
+@attribute opportun numeric
+@attribute optim numeric
+@attribute optimist numeric
+@attribute order numeric
+@attribute organis numeric
+@attribute outcom numeric
+@attribute outsid numeric
+@attribute packag numeric
+@attribute panic numeric
+@attribute parliament numeric
+@attribute parliamentari numeric
+@attribute part numeric
+@attribute parti numeric
+@attribute partial numeric
+@attribute particip numeric
+@attribute partner numeric
+@attribute past numeric
+@attribute pattern numeric
+@attribute peac numeric
+@attribute perceiv numeric
+@attribute period numeric
+@attribute permit numeric
+@attribute persist numeric
+@attribute persson numeric
+@attribute pessim numeric
+@attribute plan numeric
+@attribute pleas numeric
+@attribute plenari numeric
+@attribute point numeric
+@attribute polici numeric
+@attribute polit numeric
+@attribute politician numeric
+@attribute poorer numeric
+@attribute porto numeric
+@attribute posit numeric
+@attribute possibl numeric
+@attribute post-war numeric
+@attribute poverti numeric
+@attribute power numeric
+@attribute practic numeric
+@attribute predict numeric
+@attribute prejudic numeric
+@attribute present numeric
+@attribute presid numeric
+@attribute president-elect numeric
+@attribute president-in-offic numeric
+@attribute pressur numeric
+@attribute prevail numeric
+@attribute prevent numeric
+@attribute prime numeric
+@attribute principl numeric
+@attribute pro-european numeric
+@attribute probabl numeric
+@attribute problem numeric
+@attribute procedur numeric
+@attribute proceed numeric
+@attribute prodi numeric
+@attribute produc numeric
+@attribute product numeric
+@attribute profit numeric
+@attribute progress numeric
+@attribute project numeric
+@attribute promis numeric
+@attribute promot numeric
+@attribute proof numeric
+@attribute propos numeric
+@attribute prospect numeric
+@attribute prove numeric
+@attribute public numeric
+@attribute pursu numeric
+@attribute put numeric
+@attribute pyongyang numeric
+@attribute question numeric
+@attribute quick numeric
+@attribute quit numeric
+@attribute rais numeric
+@attribute rapid numeric
+@attribute rapporteur numeric
+@attribute rare numeric
+@attribute rate numeric
+@attribute ratifi numeric
+@attribute ration numeric
+@attribute real numeric
+@attribute realli numeric
+@attribute reason numeric
+@attribute reawaken numeric
+@attribute recent numeric
+@attribute recognis numeric
+@attribute record numeric
+@attribute recov numeric
+@attribute reduc numeric
+@attribute referendum numeric
+@attribute reflect numeric
+@attribute reform numeric
+@attribute reformist numeric
+@attribute regard numeric
+@attribute regim numeric
+@attribute regret numeric
+@attribute regul numeric
+@attribute reject numeric
+@attribute relationship numeric
+@attribute remov numeric
+@attribute repeat numeric
+@attribute report numeric
+@attribute repres numeric
+@attribute repress numeric
+@attribute reput numeric
+@attribute requisit numeric
+@attribute resign numeric
+@attribute resili numeric
+@attribute resolut numeric
+@attribute respect numeric
+@attribute respond numeric
+@attribute respons numeric
+@attribute rest numeric
+@attribute result numeric
+@attribute revolutionari numeric
+@attribute rhetor numeric
+@attribute righteous numeric
+@attribute ring numeric
+@attribute rise numeric
+@attribute risk numeric
+@attribute role numeric
+@attribute rural numeric
+@attribute russia numeric
+@attribute sat numeric
+@attribute saturday numeric
+@attribute scarc numeric
+@attribute scare-mong numeric
+@attribute sceptic numeric
+@attribute schuman numeric
+@attribute season numeric
+@attribute self-congratul numeric
+@attribute self-interest numeric
+@attribute send numeric
+@attribute sens numeric
+@attribute separatist numeric
+@attribute seren numeric
+@attribute set numeric
+@attribute shape numeric
+@attribute shift numeric
+@attribute show numeric
+@attribute sign numeric
+@attribute signal numeric
+@attribute simpli numeric
+@attribute simplifi numeric
+@attribute sit numeric
+@attribute slap numeric
+@attribute slight numeric
+@attribute slow numeric
+@attribute small- numeric
+@attribute smaller numeric
+@attribute so-cal numeric
+@attribute social numeric
+@attribute societi numeric
+@attribute soften numeric
+@attribute solb numeric
+@attribute solidar numeric
+@attribute solut numeric
+@attribute solv numeric
+@attribute sombr numeric
+@attribute sort numeric
+@attribute spanish numeric
+@attribute speak numeric
+@attribute specif numeric
+@attribute specul numeric
+@attribute speech numeric
+@attribute spirit numeric
+@attribute split numeric
+@attribute spread numeric
+@attribute stage numeric
+@attribute start numeric
+@attribute state numeric
+@attribute statement numeric
+@attribute stauner numeric
+@attribute step numeric
+@attribute stir numeric
+@attribute stockholm numeric
+@attribute stop numeric
+@attribute strang numeric
+@attribute strasbourg numeric
+@attribute street numeric
+@attribute strength numeric
+@attribute strengthen numeric
+@attribute strong numeric
+@attribute stronger numeric
+@attribute structur numeric
+@attribute studi numeric
+@attribute subdu numeric
+@attribute subsequ numeric
+@attribute substanc numeric
+@attribute succeed numeric
+@attribute success numeric
+@attribute summit numeric
+@attribute support numeric
+@attribute surviv numeric
+@attribute system numeric
+@attribute tabl numeric
+@attribute talk numeric
+@attribute team numeric
+@attribute term numeric
+@attribute text numeric
+@attribute thing numeric
+@attribute thought numeric
+@attribute threaten numeric
+@attribute tie numeric
+@attribute tillich numeric
+@attribute time numeric
+@attribute titl numeric
+@attribute titley numeric
+@attribute today numeric
+@attribute toler numeric
+@attribute tone numeric
+@attribute tonight numeric
+@attribute tough numeric
+@attribute town numeric
+@attribute trade numeric
+@attribute transpar numeric
+@attribute treat numeric
+@attribute tri numeric
+@attribute trip numeric
+@attribute troubl numeric
+@attribute turkey numeric
+@attribute twenty-first numeric
+@attribute ukrainian numeric
+@attribute underdevelop numeric
+@attribute understand numeric
+@attribute understood numeric
+@attribute unfortun numeric
+@attribute union numeric
+@attribute unit numeric
+@attribute unlik numeric
+@attribute unpopular numeric
+@attribute unwilling numeric
+@attribute up-beat numeric
+@attribute urg numeric
+@attribute vaccin numeric
+@attribute vacuum numeric
+@attribute vagu numeric
+@attribute valu numeric
+@attribute valuabl numeric
+@attribute view numeric
+@attribute vital numeric
+@attribute vote numeric
+@attribute wait-and-se numeric
+@attribute wake numeric
+@attribute wallström numeric
+@attribute war numeric
+@attribute week numeric
+@attribute welcom numeric
+@attribute western numeric
+@attribute word numeric
+@attribute work numeric
+@attribute workabl numeric
+@attribute world numeric
+@attribute wrong numeric
+@attribute year numeric
+@attribute yesterday numeric
+@attribute young numeric
+@attribute yugoslavia numeric
+@attribute classes {ripongo,umore,clima,atmosfera,antieuropei,acquietamento,animo,ottimista,sedersi,vivo,accomiatiamo,malumore,ottimismo,nazionalistica,collocazione,riformatore,ritraggono,assecondata,pessimismo,atteggiamento,rivoluzionario,diffama,banale,spirito,discoteca,riporterò,regnava,circoscritta,litigare,crea,predisposizione,bastasse,noordwijk,belligerante,tenda,barcelona,impresso,rassegnazione,sensazione,ascoltare,raro,capito,predomina,comprensivo,vena,alacri,emergono,celebrativo,orientamento,esattamene,inclinazione,volontà,appello,voglia,consumiamo,compiaciute,fomentino,trarrò,studiarlo,speranzosi,temporeggiare}
+
+@data
+{31 1,275 1,330 1,332 1,377 1}
+{74 1,114 2,151 1,184 1,311 1,397 1,398 1,423 1,447 1,468 1,509 1,525 1,545 1,567 1,587 1,604 1,650 1,678 1,712 umore}
+{95 1,365 1,437 1,486 1,495 1,499 1,712 clima}
+{73 1,108 1,255 1,345 1,493 1,499 1,712 atmosfera}
+{189 1,362 1,487 1,654 1,662 1,712 clima}
+{42 1,46 1,79 1,128 2,130 1,147 2,151 2,181 1,202 1,297 1,321 1,330 1,384 1,408 1,450 2,452 1,461 1,506 2,709 1,712 atmosfera}
+{95 2,160 1,194 1,211 2,219 1,237 2,249 1,272 1,284 1,395 1,409 1,481 1,531 1,567 1,572 1,638 1,644 1,691 1,712 umore}
+{31 1,178 1,294 1,351 1,419 1,553 1,576 1,621 1,637 1,657 1,712 antieuropei}
+{22 1,202 1,296 1,485 1,587 1,712 atmosfera}
+{13 1,56 1,105 1,217 1,256 1,270 1,276 1,343 1,349 1,539 1,712 umore}
+{29 1,54 1,61 1,128 1,388 1,415 1,524 1,526 1,589 1,671 1,712 acquietamento}
+{24 2,29 1,133 1,224 1,387 1,473 1,559 1,610 1,660 1,712 animo}
+{454 1,673 1,712 ottimista}
+{9 1,115 1,147 1,163 1,193 1,196 1,218 1,369 1,401 1,420 1,445 1,467 1,494 1,495 1,505 2,590 2,598 1,605 1,608 1,610 1,704 1,712 sedersi}
+{4 1,5 1,12 1,114 1,127 1,147 1,444 1,457 1,461 1,486 1,517 1,539 1,705 1,712 umore}
+{37 1,47 1,166 2,231 1,238 1,239 1,262 1,295 1,305 1,323 1,325 1,339 1,373 1,480 1,482 1,499 1,674 2,681 1,692 1,712 clima}
+{65 1,163 1,492 1,712 clima}
+{163 1,239 1,270 1,451 1,474 1,520 1,680 1,712 vivo}
+{24 1,72 1,115 2,278 1,301 1,495 1,555 1,613 1,649 1,662 1,698 1,712 umore}
+{8 1,84 1,117 1,160 1,351 1,358 1,385 1,412 1,428 1,591 1,596 1,693 1,712 animo}
+{2 1,36 1,91 1,115 1,136 1,147 1,182 1,209 1,253 1,294 1,332 1,337 1,374 1,379 1,404 1,408 1,425 1,526 1,671 1,712 accomiatiamo}
+{1 1,4 1,30 1,53 1,114 2,240 1,415 1,461 1,482 2,505 1,508 1,565 1,587 1,712 umore}
+{7 1,10 1,52 1,116 1,221 1,246 1,323 1,341 1,368 1,381 1,414 1,487 1,502 1,598 2,632 1,712 malumore}
+{2 1,135 1,149 1,163 2,234 1,238 1,239 1,415 1,454 1,532 1,582 1,615 1,681 1,695 1,708 1,710 1,712 ottimismo}
+{7 1,66 1,193 2,239 1,360 2,407 1,429 1,477 1,640 1,646 1,681 1,708 1,712 nazionalistica}
+{43 1,147 1,166 1,167 1,227 1,239 1,273 1,297 1,334 1,369 1,415 1,495 1,517 1,547 1,624 1,712 animo}
+{322 1,438 1,476 1,618 1,712 atmosfera}
+{4 1,83 1,108 1,212 1,277 1,382 1,409 2,463 2,494 1,617 1,631 1,706 1,712 collocazione}
+{327 1,507 1,704 1,712 atmosfera}
+{43 1,50 1,64 1,66 1,88 1,90 1,114 1,204 1,229 1,339 1,481 1,555 1,712 malumore}
+{23 1,114 1,402 1,495 2,508 1,546 1,662 1,712 riformatore}
+{164 1,544 1,555 1,712 ritraggono}
+{17 1,75 1,95 1,149 1,158 1,159 1,222 1,225 1,235 1,238 1,239 2,260 1,283 1,302 1,318 1,357 1,377 1,386 1,468 1,538 1,541 1,567 1,574 1,594 1,627 1,659 1,663 1,681 1,702 1,711 1,712 assecondata}
+{0 1,19 1,146 1,192 1,261 1,344 1,440 1,457 1,513 1,529 1,542 1,547 1,585 1,612 1,647 1,677 1,685 1,712 pessimismo}
+{95 1,119 1,362 1,518 1,523 1,527 1,548 1,564 1,601 1,607 1,697 1,712 atteggiamento}
+{298 1,444 1,495 1,665 1,712 umore}
+{95 1,252 1,445 1,520 1,568 1,676 1,712 rivoluzionario}
+{95 1,149 1,712 atteggiamento}
+{3 1,11 1,24 1,107 1,115 1,133 1,210 1,220 1,495 1,514 1,624 1,660 1,682 1,712 clima}
+{86 1,176 1,180 1,239 1,269 1,300 1,308 1,375 1,396 1,406 1,472 1,481 1,488 1,513 1,652 1,690 1,712 diffama}
+{118 1,201 1,293 1,339 1,487 1,522 1,526 1,544 1,654 1,694 1,712 banale}
+{5 1,186 1,198 1,199 1,239 1,491 1,495 1,555 1,567 1,662 1,681 1,712 spirito}
+{66 1,200 1,214 1,257 1,270 1,302 1,317 1,329 1,391 1,394 2,399 1,505 1,527 1,578 1,662 1,672 1,710 1,712 discoteca}
+{45 1,61 1,114 1,157 1,166 1,169 1,266 1,416 1,449 1,471 1,506 1,528 1,555 1,597 1,636 1,687 1,712 riporterò}
+{18 1,303 1,319 1,418 1,453 1,475 1,499 1,501 1,533 1,629 1,712 regnava}
+{114 1,328 1,571 1,644 1,688 1,712 circoscritta}
+{14 1,69 1,102 1,116 1,143 1,227 1,280 1,459 1,504 1,531 1,547 1,583 1,712 atmosfera}
+{41 1,101 1,147 1,165 1,288 1,497 1,703 1,712 litigare}
+{131 1,152 1,183 1,232 1,293 1,609 1,712 crea}
+{60 1,111 1,149 1,177 1,191 1,203 1,208 1,238 1,320 1,409 1,484 1,489 1,520 1,553 1,564 1,630 1,668 1,706 1,712 animo}
+{87 1,111 1,154 1,195 1,246 1,428 1,438 1,456 1,477 1,494 1,499 1,569 1,619 1,624 1,662 1,695 1,712 animo}
+{172 1,287 1,662 1,680 1,712 predisposizione}
+{70 1,80 1,95 1,149 1,210 1,227 2,238 1,239 1,269 1,270 1,285 1,293 1,418 1,432 1,434 1,543 2,681 1,712 animo}
+{40 1,78 1,134 1,155 1,188 1,238 1,469 1,554 1,575 1,712 bastasse}
+{147 1,300 1,303 1,319 1,352 1,414 2,436 1,454 1,480 1,544 1,555 1,596 1,712 noordwijk}
+{93 1,166 1,188 1,302 1,411 1,536 1,712 regnava}
+{62 1,97 1,337 1,417 1,483 1,614 2,712 animo}
+{121 1,192 1,244 1,486 1,499 1,557 1,653 1,712 atmosfera}
+{25 1,67 1,270 1,392 1,613 1,624 1,682 1,712 belligerante}
+{18 1,63 1,114 1,147 1,157 1,292 1,372 1,432 1,486 1,567 1,645 1,712 atteggiamento}
+{123 1,239 1,314 1,340 1,358 1,499 1,681 1,712 tenda}
+{5 1,28 1,142 1,166 1,289 1,295 1,345 1,451 1,512 1,520 1,538 1,540 1,545 1,616 1,659 1,712 umore}
+{190 1,239 1,415 1,453 1,461 1,495 1,636 1,675 1,708 1,712 ottimismo}
+{58 1,89 1,109 1,279 1,281 1,307 1,403 1,416 1,435 1,495 1,549 1,651 1,661 1,662 1,712 barcelona}
+{95 1,274 1,290 1,311 1,346 1,380 1,637 2,712 clima}
+{166 1,332 1,396 1,620 1,695 1,712 umore}
+{15 1,99 1,242 1,396 1,712 impresso}
+{76 1,210 1,263 1,302 1,316 1,560 1,645 1,712 rassegnazione}
+{59 1,162 1,165 1,302 1,402 1,479 1,495 1,712 umore}
+{81 1,248 1,480 1,712 umore}
+{34 1,164 1,241 1,245 1,254 1,330 1,410 1,430 1,596 1,669 1,679 1,712 spirito}
+{76 1,95 1,96 1,104 1,149 1,185 1,222 1,378 1,465 1,490 1,573 1,689 1,699 1,712 animo}
+{29 1,369 1,456 1,543 1,712 sensazione}
+{16 1,300 1,422 2,505 1,584 1,599 1,611 1,712 animo}
+{139 1,333 1,341 1,393 1,706 1,712 ascoltare}
+{77 1,124 1,138 1,339 1,358 1,455 1,486 1,552 1,623 1,704 1,712 spirito}
+{132 1,136 1,213 1,215 1,258 1,324 1,450 1,497 1,530 1,618 1,655 1,712 raro}
+{5 1,126 1,147 1,195 1,196 1,239 1,299 1,390 1,430 1,497 1,712 clima}
+{145 1,302 1,332 1,536 1,551 1,555 1,587 1,622 1,641 1,695 1,712 capito}
+{21 1,106 1,110 1,148 1,152 1,175 1,202 1,207 1,208 1,261 1,332 1,358 1,389 1,400 2,424 1,439 1,480 1,499 1,515 1,588 1,603 1,605 1,648 1,682 1,684 1,712 predomina}
+{20 1,115 1,298 1,712 comprensivo}
+{68 1,120 1,161 1,448 1,454 1,511 1,600 1,712 vena}
+{39 1,80 1,140 1,338 1,341 1,356 1,415 1,548 1,550 1,561 1,624 1,666 1,704 1,712 alacri}
+{310 1,442 1,494 1,712 emergono}
+{92 1,103 1,495 1,500 1,680 1,712 celebrativo}
+{95 1,149 1,193 1,283 1,466 1,482 1,700 1,712 clima}
+{13 1,112 1,170 1,179 1,297 1,350 1,364 1,390 1,415 1,440 1,441 1,498 1,550 1,624 1,680 1,712 orientamento}
+{238 2,239 1,264 2,369 1,376 1,428 2,482 2,556 1,643 1,712 umore}
+{115 1,122 1,216 1,219 1,371 1,394 1,428 1,431 1,667 1,712 esattamene}
+{6 1,131 1,220 1,345 1,361 1,564 1,712 inclinazione}
+{32 1,51 1,55 1,137 1,309 1,312 1,315 1,586 1,595 1,606 1,654 1,670 1,707 1,712 umore}
+{184 1,205 1,297 1,335 1,423 1,450 1,662 1,712 animo}
+{100 1,178 1,187 1,192 1,230 1,259 1,304 1,383 1,446 1,560 1,712 rassegnazione}
+{79 2,116 2,132 1,138 1,143 2,247 1,251 1,282 1,342 1,450 1,462 1,495 1,516 1,555 1,658 1,712 volontà}
+{26 1,35 1,50 1,223 1,239 1,332 1,336 1,370 1,451 1,520 1,562 1,712 appello}
+{141 1,268 1,332 1,411 1,495 1,565 1,712 atmosfera}
+{63 1,85 1,238 1,256 1,306 1,396 1,433 1,458 1,461 1,470 2,535 1,556 1,593 1,633 2,635 1,706 1,712 voglia}
+{38 1,48 1,95 1,238 1,250 1,303 1,642 1,664 1,712 umore}
+{137 1,460 1,510 1,526 1,536 1,712 consumiamo}
+{79 1,116 1,140 1,166 1,425 1,534 1,544 1,625 1,626 1,712 umore}
+{98 1,136 1,147 1,228 1,286 1,413 1,427 1,478 1,581 1,602 1,615 1,712 compiaciute}
+{31 1,49 1,261 1,303 2,318 1,326 1,464 2,503 1,537 1,543 1,565 1,628 1,683 1,693 1,712 fomentino}
+{44 1,85 1,138 1,151 2,166 1,202 1,233 1,278 1,283 1,363 1,480 1,486 1,693 1,712 trarrò}
+{33 1,57 1,95 1,129 1,149 1,168 1,191 1,243 1,256 1,347 1,348 1,355 1,358 1,421 1,422 1,444 1,570 1,650 1,712 clima}
+{94 1,97 1,113 1,115 1,482 1,555 1,639 1,674 2,712 studiarlo}
+{252 1,367 1,712 speranzosi}
+{90 1,149 1,192 1,202 1,206 1,270 1,307 1,355 1,366 1,521 1,524 1,573 1,712 animo}
+{95 1,114 2,125 1,139 1,168 1,174 1,261 1,393 1,461 2,496 1,558 1,563 1,593 1,634 1,695 1,701 1,712 umore}
+{150 1,153 1,171 1,197 1,210 1,269 1,333 1,520 1,579 1,634 1,656 1,712 malumore}
+{82 1,139 1,147 1,297 1,330 1,454 1,556 1,712 clima}
+{106 1,239 1,313 1,566 1,681 1,696 1,706 1,712 temporeggiare}
+{84 1,226 1,332 1,405 1,495 1,529 1,623 1,712 umore}
+{2 1,27 1,53 1,144 1,156 1,199 1,236 1,238 1,263 1,291 1,461 1,468 1,480 1,519 1,555 1,592 1,708 1,712 animo}
+{71 1,95 1,114 1,116 1,173 1,265 1,307 1,331 1,354 1,577 1,581 1,646 1,712 atmosfera}
+{38 1,176 1,193 1,210 1,267 1,271 1,330 1,353 1,359 1,361 1,388 1,426 1,443 1,450 1,452 1,476 1,482 1,565 1,567 1,580 1,686 1,712 clima}

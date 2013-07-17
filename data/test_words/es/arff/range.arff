@@ -1,0 +1,57 @@
+@relation range-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {serie,común,abanico,conjunto,versen,número,edad,ámbito,gama,alcance,abarcan,diversas,deba,ramificaciones,oferta,van,oscila,variedad,diversos,culebrón,ideología,numerosos,observados,limitadas,numerosas,representación,cantidad,pensó,diversidad,intensivamente,montañosas,dispares,paleta,extensión,oscilan,basemos,diversificada,asia-europa,tiro,espectro,terapia,entramado,micromedidas,maximizar,varían,adoptando,colección,posibles,abarcar,encarguen,todas,discutimos,vertebran,multiplicidad,fomentó,diferenciados,líquido,empresa,tarea,componente,distintas,banda,estrato,controlarán,amplia,variados,precariedad,diversa,campo,diferentes,selección,earl,panoplia,citándolos,granja,rango,tipo,elenco,oscilaba,franja,reumatológicas,amplio,tipología,islámicos,envergadura,tratamos,oomen-ruitjen,variadas,cohete,deleznables,balazo,substantivos,unas,arbitrado,agni,materia,magnitud,sobreviven,opción,experimenten,fallan,planten,exportar,dirijan,interpretación,inscribe,explicativas,recapacitar,despierta,radio,pastilla,montañosa,mano,abarca,reparadoras,varias,nivel,multitud,cdhnu,pedirán,ciencia,intervalo,considerar,secuestro,disminuyen,batería,deliberando,reflexión,dinámica,desorientadores,articuladas,regresivo,modelo,alcanzan,aparato,respetuoso,fautor,euroturcas,huían,muchas,televisivas,reservase,radioactivo,alcanzable,barre,distintos,implantar,instrumento,usarse,umbral,decisivas,sitúa,abanderado,reagrupadas,abedules,percha,fachkraft,clase,arreglamos,heterogénea,catálogo,existan,florín,perífrasis,régimen,individualizado,supervisores,transversalmente,elegir,inundar,preceden,spamming,amplitud,combinación,complicados,ocasione,varios,extiende,león,trasfondos,domina,híbridos,asunto,horquilla,ostentan,desalentadoras,adoptarse,grupo,cruzar,trucos,amplias,completo,cogestionar,aspecto,invitan,arsenal,redundará,extienda,aliente,alexandros,inducido,focales,aumento,extienden,usarlas,complican,atar,inalcanzables,oscilar,jubileo,bajas,cuantía,penalizaciones,retomadas,sinnúmero,incluyen,nápoles,nairobi,produjeron,quemarropa,medio-largo,oscilarían,estibación,basó,cuidado,cometidas,subcomités,acompañamiento,apuntan,ejecutabilidad,perniciosas,seminario,dispersas,oscilación,agotamos,margen,potencial,proviniendo,jean-louis,cordilleras,cuestionará,diferencia,sydney,asap,solway,completando,fermentaciones,categoría,contraindicación,acm,teclado,supranacional,musculares,existiendo,bienestar,acechan,metabolismo,tamaño,ecotoxicidad,asistiera,límite,recurrirá,pericia,freza,adelante,múltiples,limes,agujero,horizonte,mencionaban,cobertura,urenco,formándolas,leve,ofertas,coexistan,pvc,fingidos,síntesis,atañe,clima,libra,totalidad,concordancia,minuciosamente,precio-prestación,cuadro,torneo,estableció,varía,lipietz,actuando,diversificadas,político-militar,contraídas,desarrollo,pronóstico,revolucionario,movilización,estructurarse,airados,preocupar,maraa,liquen,comprendido,íntegra,correalización,encierra}
+
+@data
+1,When:afford:look:local:paper:contact:estat:agent:area:want:hous:flat:price,?
+2,Although:benefit:elder:care:entitl:inadequ:meet:need:wider:realis,?
+3,Although:walk:enjoy:particular:pleas:wild:seldom-visit:area:enjoy:uniqu:feel:solitud:peac:mountain:inspir,?
+4,Famili:size:squeez:extrem:age:older:age:continu:long-term:trend:away:famili:recent:younger:age:women:marri:start:famili:later:life,?
+5,Feminist:critic:research:help:increas:number:women:subject:mainstream:European:North:American:psycholog:topic:studi,?
+6,For:low:gain:system:fluxgat:compass:short:metal:detector:true:high:sensit:applic:magnetomet:describ:good:reason:avoid:approach,?
+7,show:intricaci:danger:get:pictur:close:explain:use:hide:scaffold:tower:decoy:food:differ:type:bird:anim,?
+8,Her:new:role:fact:wider:skill:mental:physic:did:previous:develop:larg:unnot:societi,?
+9,How:confid:affect:disinterested:alert:sympathi:gentlest:hint:nudg,?
+10,tricep:movement:achiev:contract:carri:inhibit:develop,?
+11,satir:programm:Spit:Image:record:The:Chicken:Song:lyric:invit:listen:perform:bizarr:activ:recal:buri:cloth:paint:left:knee:green:climb:insid:dog:climax:vers:pretend:Keith,?
+12,word:frequenc:natur:reson:singl:ion:perfect:reson:ion:form:extern:frequenc:exact:frequenc:requir,?
+13,pig:free:problem:greater:ascariasi:necessari:discontinu:paddock:year:egg:surviv:cultiv,?
+14,spite:high:rate:price:inflat:factori:gate:vari:percent:past:seven:month:indic:set:slip,?
+15,experi:describ:later:use:unfilt:spectral:respons:filter:case:respons,?
+16,Instead:introduc:procedur:reli:identifi:protect:risk:human:right:violat:countri:Govern:introduc:measur:creat:obstacl:path:seek:asylum,?
+17,suggest:studi:social:polici:import:attent:implement:problem:aris:direct:characterist:polici:recogn:complic:interrelationship:inter-:intra-organiz:factor,?
+18,Keep:look:your:local:supermarket:futur:fair:chanc:Tradit:Free:bird:grown:Open:Countri:manag,?
+19,Most:good:store:display:section:upholst:piec:tradit:modern:differ:shape:size:piec:come:far:greater:varieti:size:cover:colour,?
+20,Now:thank:glasnost:Caucasus:access:beauti:valley:head:power:impress:peak:avail:explor,?
+21,Our:Open:Countri:Free:Chicken:project:number:new:initi:taken:year:respons:dramat:structur:chang:ongo:poultri:industri,?
+22,hand:legal:strategi:employ:peac:movement:challeng:author:agenc:set:Nuclear:Free:Zone:challeng:sale:Nation:Trust:land:Ministri:Defenc:site:shoot:Berlin:Guelen:Presid:Unite:State:America:breach:Internat:Law,?
+23,One:strength:compani:abil:produc:film:wide:style:subject:lose:commit:brave:adventur:film-mak,?
+24,Over:year:market:philosophi:undoubt:penetr:social:servic:educ:profess:public:institut,?
+25,Prussian:musket:prick:fame:wood:edg:shoot:long:French:hors:tumbl:wheat,?
+26,card:magic:parti:pick:card:footbal:parti:score:goal:touchdown:cowboy:parti:home,?
+27,Suitabl:indoor:new:Courier:chime:enabl:presenc:visitor:door:signal:clear:homeown:matter:locat:hous:garden,?
+28,The:BLM:set:asid:million:acr:pristin:wilder:unlimit:shoot:jeep:dune:buggi:dirt:bike,?
+29,The:day:voic:train:beauti:sound:longer:instead:emphasi:natur:approach:actor:discov:true:hisher:voic:extend:possibl,?
+30,The:correct:distanc:oppon:closest:kick:closer:wont:kick,?
+31,The:point:vital:young:men:love:mind:colour:word:express:feel:eighteen:twenty-f:year:old:student:actor,?
+32,There:open:supplier:tender:low-fat:lamb:hotel:licens:restaur:contract:cater:sector:free:maize-f:poultri:demand:hotel:licens:restaur,?
+33,Thirty-six:lawsuit:Nation:Polic:offic:Treasuri:Polic:offic:civilian:judg:wide:abus:street:children:report:pend:Guatemalan:court,?
+34,This:distort:compar:low:level:countri:non-inhabit:area:high:mountain:desert:extens:lake,?
+35,This:tome:concentr:oper:type:histori:just:World:War:Two:aircraft:undoubt:best:long:fight:aircraft:serv:side:war:conflict:particip,?
+36,wall:castl:town:storm:encamp:close:wall:besieg:citi:missil:fire:wall:act:merit:honour:respect,?
+37,Tower:inaccess:face:high:massiv:peak:moon:gigant:mountain:tip:red:ring:quiet:valley,?
+38,Under:ordinari:circumst:got:second:respond:aggress:speed:effici:bottl:hail:bullet:bullet:fire:close,?
+39,Where:oppon:doe:advanc:kick:generat:extra:power:slide:forward:slight:support:leg:kick:knee:rise,?
+40,Individu:choos:belong:nation:group:oppress:forc:reduc:choic:narrow:select:strategi:passiv:recognit:primordi:order,?
+41,final:stage:harmon:structur:ratio:shall:establish:cigarett:Member:State:proport:excis:duti:specif:excis:duti:way:retail:sell:price:reflect:fair:differ:manufactur:deliveri:price,?
+42,Choreograph:today:choos:interpret:vast:subject:term:pure:physic:movement:colour:mood:rang:tragic:comic:ridicul,?
+43,Furthermor:function:European:Neighbourhood:Polici:Action:Plan:wide:sector:area:requir:establish:propos:subcommitte,?
+44,Have:enter:shot:putt:have:practis:throw:half:brick:next-door:neighbour:cat:happili:stay:missil:whilst:increas:terrifi:ever-improv:grunt:arriv:school:feel:pretti:confid,?
+45,Minist:statement:indic:judg:general:sentenc:polici:punish:laid:statut:differ:crime,?
+46,Over:year:shift:popul:recent:diagnos:AIDS:patient:reason:live:domin:threat:pneumonia:popul:surviv:longer:develop:complex:problem:chronic:debilit:natur,?
+47,Parti:State:migratori:speci:list:Appendix:shall:endeavour:conclud:Agreement:benefit:speci:prioriti:speci:unfavour:conserv:status,?
+48,There:wide:servic:offer:NHS:help:stage:pregnanc:includ:regular:antenat:class:design:prepar:partner:birth:look:child,?
+49,Wherea:view:consider:variat:product:cost:pig:carcas:year:Commun:world:market:desir:widen:intervent:buying-in:price:pig:carcas:fix,?
+50,With:regard:avail:agricultur:product:Commun:undertak:ensur:export:refund:fix:advanc:ACP:State:respect:product:drawn:light:food:requir:express:State,?

@@ -1,0 +1,57 @@
+@relation coach-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {bus,lagevloerbussen,autobus,touringcar,busvervoer,toerbussen,trainer,touringscars,conceptueel,toeristenautocars,volksgroep,busmaatschappij,buschauffeur,busreis,kieswethervorming,busongeluk,controledocument,reisbussen,sportleraren,touringcarbedrijven,vervoerswetgeving,touringcaroperators,verstandshuwelijk,busonderneming,voetbaltrainer,wagon,treinwagon,busdienst,touringcardiensten,visueel,schoolreis,streekbus,vip-coaches,bezichtigen,toerbus,speler-trainer,coach,bezetten,exportsysteem,personenkilometers,aconibe,veegt,meerdaagse,bustoerisme,busrichtlijn,koets,autocars,buspassagiers,gehuurde}
+
+@data
+1,Ill:buy:train:ticket,?
+2,branch:line:train:took:Aubagn:pick:journey:camp,?
+3,Allan:Margot:coach:villag:thought:medal:hope,?
+4,hors:pull:halt:jump:stood:band:men:trudg:hill,?
+5,Callinico:drive:hors:postmodern:good,?
+6,Club:Allen:Foster:step:week,?
+7,Haul:GWR:heavi:freight:locomot:train:promis:popular:attract,?
+8,went:corridor:train:began:saunter:first-class,?
+9,agre:matter:disciplin:child:soon:spot:differ:outlook:drive:hors:seren,?
+10,fact:drawn:grey:hors:call:servic:coupl:public:gaze,?
+11,Onli:day:new:deliv:Clive:Upton:Eastleigh:Lakesid:Railway,?
+12,Strang:nation:Irish:team:year:direct:contact:provinci:coach,?
+13,The:view:Weald:window:impress:train:trundl:Horstead:Keyn,?
+14,There:horse-drawn:vehicl:Governor:arriv:open:island:parliament:drove:state,?
+15,recov:Hors:pub:Soho:drunken:Jeffrey:Bernard:confound:dire:predict:doctor,?
+16,Agassi:came:racket,?
+17,Alan:second:train:luckier:second:coach:dead,?
+18,And:year:call:seat:belt:die:crash:near:Oxford,?
+19,Cameron:turn:saw:come:Grandtulli:road:pair:deerhound:lope:wheel:man:horseback:dress:expens:tweed:cloak,?
+20,panic:grew:fantast:price:paid:ride:area,?
+21,But:expert:say:prove:belt:safer,?
+22,But:just:week:later:Edward:chang:mind,?
+23,Coach:involv:knowledg:taught:practic:appli:Thornton:look:help:role:director:spiritu,?
+24,Crop:failur:previous:year:debilit:effect:war:Franc:brought:nation:scarciti:popular:protest:end:London:King:Georg:lucki:escap:attack:stone-throw:crowd:cri:Bread,?
+25,French:builder:Heuliez:use:week:Pari:propos:new:intern:sport:car:Formula-SP,?
+26,stuck:head:window:roar:protest:policemen:desper:tri:cope:traffic:confus,?
+27,His:teacher:eye:come:Ryehil:profession:Gari:Will,?
+28,team:member:suspect:posit,?
+29,practic:contest:held:respons:behaviour:team-memb:face:sever:penalti:misbehav,?
+30,commit:engag:profession:decis:appoint:expect:short,?
+31,Our:escort:traffic:score:motor-cycl:policemen:caught:train,?
+32,PAUL:TAPPINBus:Council,?
+33,hors:live:comfort:fine:hous:bought:properti:town,?
+34,Pancho:convinc:parent:player:select:believ,?
+35,That:Gloucest:saw:game,?
+36,The:Council:say:theyv:got:enviabl:safeti:record,?
+37,The:great:help:control:anxieti:right:kind:pep:talk:work:wonder,?
+38,The:wrench:forward:spur:boot:trooper:stab:hors:blood:spurt:red:drop:hit:window,?
+39,Verdict:accident:death:record:languag:student:kill:crash,?
+40,View:flower:Cheltenham:style:horse-drawn,?
+41,intern:occasion:carriag:passeng:bus,?
+42,desir:provid:harmonis:liberalis:intern:occasion:servic:bus:transit:oper:thereof,?
+43,The:principl:non-discrimin:ground:nation:establish:transport:oper:origin:destin:bus:consid:basic:condit:appli:provis:intern:transport:servic,?
+44,Unladen:buse:use:exclus:replac:bus:coach:damag:broken:perform:intern:servic:cover:Agreement,?
+45,The:transport:oper:stamp:appropri:transport:oper:signatur:driver:bus:shall:place:list:passeng:waybil,?
+46,Wherea:view:ensur:occup:road:safeti:import:materi:use:construct:insid:bus:bodywork:satisfi:minimum:requir:order:avoid:retard:develop:flame:allow:occup:evacu:vehicl,?
+47,Where:vehicl:produc:specialist:builder:fall:criteria:famili:vehicl:manufactur:base:vehicl:coach:builder:data:fuel:effici:product:suppli:manufactur,?
+48,Paragraph:shall:appli:intern:carrier:transport:group:overland:except:border:traffic,?
+49,suggest:refer:impact:open:intern:rail:servic:market:intern:rout:especi:term:freedom:set:fare:rout,?
+50,The:aim:amend:authoris:instal:side-fac:seat:type:period:year,?

@@ -1,0 +1,3563 @@
+@relation 'post-weka.filters.unsupervised.attribute.NominalToString-C2-weka.filters.unsupervised.attribute.StringToWordVector-R2-W100000-prune-rate-1.0-C-N0-S-stemmerweka.core.stemmers.NullStemmer-M1-O-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.unsupervised.attribute.Reorder-R3-last,2-weka.filters.MultiFilter-Fweka.filters.unsupervised.attribute.StringToWordVector -R 2 -W 100000 -prune-rate -1.0 -C -N 0 -S -stemmer weka.core.stemmers.NullStemmer -M 1 -O -tokenizer \"weka.core.tokenizers.WordTokenizer -delimiters \\\" \\\\r\\\\n\\\\t.,;:\\\\\\\'\\\\\\\"()?!\\\"\"-Fweka.filters.unsupervised.attribute.Reorder -R 3-last,2'
+
+@attribute -tender numeric
+@attribute -we numeric
+@attribute a-grad numeric
+@attribute abandon numeric
+@attribute abat numeric
+@attribute abid numeric
+@attribute abil numeric
+@attribute abolish numeric
+@attribute about-turn numeric
+@attribute abroad numeric
+@attribute absenc numeric
+@attribute absolut numeric
+@attribute absurd numeric
+@attribute abus numeric
+@attribute academ numeric
+@attribute accentu numeric
+@attribute accept numeric
+@attribute access numeric
+@attribute acclam numeric
+@attribute accommod numeric
+@attribute accompani numeric
+@attribute accord numeric
+@attribute account numeric
+@attribute accumul numeric
+@attribute accur numeric
+@attribute accus numeric
+@attribute achiev numeric
+@attribute acknowledg numeric
+@attribute acp numeric
+@attribute acqui numeric
+@attribute acquir numeric
+@attribute acquisit numeric
+@attribute across-the-board numeric
+@attribute action numeric
+@attribute activ numeric
+@attribute actor numeric
+@attribute actual numeric
+@attribute acut numeric
+@attribute adapt numeric
+@attribute add numeric
+@attribute addendum numeric
+@attribute addict numeric
+@attribute addit numeric
+@attribute address numeric
+@attribute adequ numeric
+@attribute adequaci numeric
+@attribute adjust numeric
+@attribute administr numeric
+@attribute admir numeric
+@attribute admiss numeric
+@attribute admit numeric
+@attribute adopt numeric
+@attribute advanc numeric
+@attribute advantag numeric
+@attribute advers numeric
+@attribute advertis numeric
+@attribute advic numeric
+@attribute advis numeric
+@attribute advisor numeric
+@attribute advisori numeric
+@attribute advoc numeric
+@attribute advocate-gener numeric
+@attribute affair numeric
+@attribute affect numeric
+@attribute affin numeric
+@attribute afford numeric
+@attribute africa numeric
+@attribute african numeric
+@attribute afternoon numeric
+@attribute age numeric
+@attribute agenc numeric
+@attribute agenda numeric
+@attribute agent numeric
+@attribute agre numeric
+@attribute agreeabl numeric
+@attribute agreement numeric
+@attribute agricultur numeric
+@attribute agus numeric
+@attribute ahead numeric
+@attribute aid numeric
+@attribute aim numeric
+@attribute air numeric
+@attribute airlin numeric
+@attribute airport numeric
+@attribute alarm numeric
+@attribute alavano numeric
+@attribute alba numeric
+@attribute albanian numeric
+@attribute albeit numeric
+@attribute alber numeric
+@attribute alfonsín numeric
+@attribute alia numeric
+@attribute alicant numeric
+@attribute aliev numeric
+@attribute alik numeric
+@attribute alleg numeric
+@attribute alloc numeric
+@attribute alter numeric
+@attribute altern numeric
+@attribute altogeth numeric
+@attribute amach numeric
+@attribute amass numeric
+@attribute ambassador numeric
+@attribute ambassadori numeric
+@attribute amend numeric
+@attribute america numeric
+@attribute american numeric
+@attribute amount numeric
+@attribute ampl numeric
+@attribute amsterdam numeric
+@attribute analys numeric
+@attribute analysi numeric
+@attribute andreasen numeric
+@attribute andreevo numeric
+@attribute andrew numeric
+@attribute anim numeric
+@attribute annex numeric
+@attribute announc numeric
+@attribute annual numeric
+@attribute anomali numeric
+@attribute anseo numeric
+@attribute answer numeric
+@attribute ant numeric
+@attribute antenna numeric
+@attribute anti-fraud numeric
+@attribute anti-grass numeric
+@attribute antigon numeric
+@attribute antiqu numeric
+@attribute anxieti numeric
+@attribute anybodi numeric
+@attribute aosta numeric
+@attribute apolit numeric
+@attribute apolog numeric
+@attribute appar numeric
+@attribute apparatus numeric
+@attribute appeal numeric
+@attribute appli numeric
+@attribute applic numeric
+@attribute appoint numeric
+@attribute apprais numeric
+@attribute appreci numeric
+@attribute approach numeric
+@attribute appropri numeric
+@attribute approv numeric
+@attribute april numeric
+@attribute arab numeric
+@attribute arc numeric
+@attribute arduous numeric
+@attribute area numeric
+@attribute arena numeric
+@attribute argentina numeric
+@attribute argu numeric
+@attribute argument numeric
+@attribute arial numeric
+@attribute aris numeric
+@attribute arisen numeric
+@attribute arm numeric
+@attribute armi numeric
+@attribute aros numeric
+@attribute arrang numeric
+@attribute arriv numeric
+@attribute art numeric
+@attribute articl numeric
+@attribute artifici numeric
+@attribute ascertain numeric
+@attribute asean numeric
+@attribute asia numeric
+@attribute asian numeric
+@attribute asid numeric
+@attribute aspect numeric
+@attribute aspir numeric
+@attribute assembl numeric
+@attribute assess numeric
+@attribute asset numeric
+@attribute assign numeric
+@attribute assist numeric
+@attribute associ numeric
+@attribute assum numeric
+@attribute assumpt numeric
+@attribute assur numeric
+@attribute asylum numeric
+@attribute athen numeric
+@attribute atlant numeric
+@attribute attach numeric
+@attribute attempt numeric
+@attribute attent numeric
+@attribute attitud numeric
+@attribute attract numeric
+@attribute attribut numeric
+@attribute atá numeric
+@attribute audit numeric
+@attribute auditor numeric
+@attribute augsburg numeric
+@attribute august numeric
+@attribute austria numeric
+@attribute austrian numeric
+@attribute author numeric
+@attribute authoris numeric
+@attribute automat numeric
+@attribute auxiliari numeric
+@attribute avail numeric
+@attribute aviat numeric
+@attribute avoid numeric
+@attribute await numeric
+@attribute awar numeric
+@attribute award numeric
+@attribute awkward numeric
+@attribute back numeric
+@attribute backbench numeric
+@attribute background numeric
+@attribute backlog numeric
+@attribute backroom numeric
+@attribute backslid numeric
+@attribute bad numeric
+@attribute bag numeric
+@attribute bailiff numeric
+@attribute baker numeric
+@attribute balanc numeric
+@attribute banana numeric
+@attribute bangemann numeric
+@attribute bank numeric
+@attribute banner numeric
+@attribute barbarian numeric
+@attribute bare numeric
+@attribute barroso numeric
+@attribute base numeric
+@attribute basi numeric
+@attribute basic numeric
+@attribute batch numeric
+@attribute battl numeric
+@attribute bear numeric
+@attribute beauti numeric
+@attribute began numeric
+@attribute begin numeric
+@attribute begun numeric
+@attribute behalf numeric
+@attribute behav numeric
+@attribute belgian numeric
+@attribute believ numeric
+@attribute belong numeric
+@attribute ben numeric
+@attribute beneficiari numeric
+@attribute benefit numeric
+@attribute bent numeric
+@attribute berlin numeric
+@attribute berlusconi numeric
+@attribute bias numeric
+@attribute bidder numeric
+@attribute bilderberg numeric
+@attribute bill numeric
+@attribute bind numeric
+@attribute biographi numeric
+@attribute bit numeric
+@attribute bitter numeric
+@attribute black numeric
+@attribute blackmail numeric
+@attribute blame numeric
+@attribute blanch numeric
+@attribute blanket numeric
+@attribute blasphemi numeric
+@attribute block numeric
+@attribute blow numeric
+@attribute blur numeric
+@attribute board numeric
+@attribute boast numeric
+@attribute bodi numeric
+@attribute boissieu numeric
+@attribute bold numeric
+@attribute bolder numeric
+@attribute bolkestein numeric
+@attribute bomb numeric
+@attribute bonn numeric
+@attribute book numeric
+@attribute border numeric
+@attribute born numeric
+@attribute borrel numeric
+@attribute bosnia numeric
+@attribute bottleneck numeric
+@attribute boundari numeric
+@attribute box numeric
+@attribute breach numeric
+@attribute breakthrough numeric
+@attribute breath numeric
+@attribute brian numeric
+@attribute bridg numeric
+@attribute bring numeric
+@attribute brinkhorst numeric
+@attribute britain numeric
+@attribute british numeric
+@attribute broadcast numeric
+@attribute brok numeric
+@attribute brought numeric
+@attribute brown numeric
+@attribute brussel numeric
+@attribute bse numeric
+@attribute budget numeric
+@attribute budgetari numeric
+@attribute build numeric
+@attribute builder numeric
+@attribute built numeric
+@attribute buitenweg numeric
+@attribute bulent numeric
+@attribute bulgaria numeric
+@attribute bungl numeric
+@attribute bureau numeric
+@attribute bureaucraci numeric
+@attribute bureaucrat numeric
+@attribute burma numeric
+@attribute busi numeric
+@attribute buttiglion numeric
+@attribute buy numeric
+@attribute bóthar numeric
+@attribute bösch numeric
+@attribute cabinet numeric
+@attribute cahn numeric
+@attribute calcul numeric
+@attribute call numeric
+@attribute campaign numeric
+@attribute cancel numeric
+@attribute candid numeric
+@attribute candidaci numeric
+@attribute candidatur numeric
+@attribute capabl numeric
+@attribute capac numeric
+@attribute capit numeric
+@attribute card numeric
+@attribute care numeric
+@attribute career numeric
+@attribute carinthia numeric
+@attribute carlo numeric
+@attribute carmelo numeric
+@attribute carri numeric
+@attribute cart numeric
+@attribute carv numeric
+@attribute case numeric
+@attribute cash numeric
+@attribute cashman numeric
+@attribute cast numeric
+@attribute casteltownber numeric
+@attribute categori numeric
+@attribute cater numeric
+@attribute caus numeric
+@attribute caution numeric
+@attribute caveat numeric
+@attribute ceas numeric
+@attribute ceil numeric
+@attribute celebr numeric
+@attribute cent numeric
+@attribute centr numeric
+@attribute central numeric
+@attribute centuri numeric
+@attribute certainti numeric
+@attribute certif numeric
+@attribute cfsp numeric
+@attribute chain numeric
+@attribute chair numeric
+@attribute chairman numeric
+@attribute chairmanship numeric
+@attribute challeng numeric
+@attribute chamber numeric
+@attribute champion numeric
+@attribute chanc numeric
+@attribute chancellor numeric
+@attribute chang numeric
+@attribute changeov numeric
+@attribute channel numeric
+@attribute chao numeric
+@attribute charact numeric
+@attribute charg numeric
+@attribute chariti numeric
+@attribute chart numeric
+@attribute chauffeur numeric
+@attribute chauvinist numeric
+@attribute cheat numeric
+@attribute chechen numeric
+@attribute check numeric
+@attribute checkpoint numeric
+@attribute chef numeric
+@attribute chequ numeric
+@attribute cherry-pick numeric
+@attribute chief numeric
+@attribute child numeric
+@attribute children numeric
+@attribute chile numeric
+@attribute china numeric
+@attribute choic numeric
+@attribute choos numeric
+@attribute chosen numeric
+@attribute christian numeric
+@attribute church numeric
+@attribute cis numeric
+@attribute cite numeric
+@attribute citi numeric
+@attribute citizen numeric
+@attribute citizenship numeric
+@attribute civil numeric
+@attribute clarifi numeric
+@attribute clariti numeric
+@attribute clash numeric
+@attribute class numeric
+@attribute clean numeric
+@attribute clean-up numeric
+@attribute clear numeric
+@attribute cliché numeric
+@attribute climat numeric
+@attribute close numeric
+@attribute closer numeric
+@attribute closur numeric
+@attribute clumsi numeric
+@attribute co-ordin numeric
+@attribute coalit numeric
+@attribute coastguard numeric
+@attribute code numeric
+@attribute codecis numeric
+@attribute cohabit numeric
+@attribute coher numeric
+@attribute cohes numeric
+@attribute cold numeric
+@attribute cold-war numeric
+@attribute collaps numeric
+@attribute collapsed-sweden numeric
+@attribute colleagu numeric
+@attribute collect numeric
+@attribute colleg numeric
+@attribute collus numeric
+@attribute colombia numeric
+@attribute coloni numeric
+@attribute combat numeric
+@attribute combin numeric
+@attribute commend numeric
+@attribute commensur numeric
+@attribute comment numeric
+@attribute commerci numeric
+@attribute commiss numeric
+@attribute commission numeric
+@attribute commissioners-design numeric
+@attribute commit numeric
+@attribute committe numeric
+@attribute commod numeric
+@attribute common numeric
+@attribute commonplac numeric
+@attribute commune numeric
+@attribute communic numeric
+@attribute communism numeric
+@attribute communist numeric
+@attribute communiti numeric
+@attribute compani numeric
+@attribute compar numeric
+@attribute comparison numeric
+@attribute compat numeric
+@attribute compens numeric
+@attribute compet numeric
+@attribute competit numeric
+@attribute complaint numeric
+@attribute complement numeric
+@attribute complet numeric
+@attribute complex numeric
+@attribute compli numeric
+@attribute complianc numeric
+@attribute comprehens numeric
+@attribute compris numeric
+@attribute compulsori numeric
+@attribute computeris numeric
+@attribute conceal numeric
+@attribute conceiv numeric
+@attribute concentr numeric
+@attribute concept numeric
+@attribute concern numeric
+@attribute concess numeric
+@attribute concili numeric
+@attribute conclus numeric
+@attribute concur numeric
+@attribute condemn numeric
+@attribute condit numeric
+@attribute condoleezza numeric
+@attribute conduct numeric
+@attribute confer numeric
+@attribute confid numeric
+@attribute confirm numeric
+@attribute conflict numeric
+@attribute confus numeric
+@attribute congratul numeric
+@attribute congress numeric
+@attribute connect numeric
+@attribute conscienc numeric
+@attribute consensus numeric
+@attribute consequ numeric
+@attribute conserv numeric
+@attribute consid numeric
+@attribute consign numeric
+@attribute consist numeric
+@attribute consolid numeric
+@attribute constant numeric
+@attribute constitu numeric
+@attribute constitut numeric
+@attribute constrain numeric
+@attribute constraint numeric
+@attribute construct numeric
+@attribute consular numeric
+@attribute consult numeric
+@attribute consum numeric
+@attribute contact numeric
+@attribute contempt numeric
+@attribute contenti numeric
+@attribute contest numeric
+@attribute context numeric
+@attribute contin numeric
+@attribute continu numeric
+@attribute contract numeric
+@attribute contract-handl numeric
+@attribute contrari numeric
+@attribute contribut numeric
+@attribute contributori numeric
+@attribute control numeric
+@attribute controversi numeric
+@attribute conveni numeric
+@attribute convent numeric
+@attribute converg numeric
+@attribute convers numeric
+@attribute convert numeric
+@attribute convict numeric
+@attribute convinc numeric
+@attribute cooper numeric
+@attribute coordin numeric
+@attribute cope numeric
+@attribute copec numeric
+@attribute copenhagen numeric
+@attribute copyright numeric
+@attribute cor numeric
+@attribute core numeric
+@attribute cork numeric
+@attribute corner numeric
+@attribute corpus numeric
+@attribute correct numeric
+@attribute correspond numeric
+@attribute corrupt numeric
+@attribute cost numeric
+@attribute cotonou numeric
+@attribute council numeric
+@attribute counterbal numeric
+@attribute countri numeric
+@attribute countrysid numeric
+@attribute countrywomen numeric
+@attribute coup numeric
+@attribute courier numeric
+@attribute cours numeric
+@attribute court numeric
+@attribute cover numeric
+@attribute creat numeric
+@attribute creation numeric
+@attribute credenti numeric
+@attribute credibl numeric
+@attribute credit numeric
+@attribute crete numeric
+@attribute crimin numeric
+@attribute crisi numeric
+@attribute criss-cross numeric
+@attribute criteria numeric
+@attribute criterion numeric
+@attribute critic numeric
+@attribute cross numeric
+@attribute cross-bord numeric
+@attribute cross-sector numeric
+@attribute cross-subsidis numeric
+@attribute crucial numeric
+@attribute crutch numeric
+@attribute culmin numeric
+@attribute cultiv numeric
+@attribute cultur numeric
+@attribute cumbersom numeric
+@attribute current numeric
+@attribute custodi numeric
+@attribute custom numeric
+@attribute cut numeric
+@attribute cycl numeric
+@attribute cyprus numeric
+@attribute daili numeric
+@attribute damag numeric
+@attribute danger numeric
+@attribute danish numeric
+@attribute dare numeric
+@attribute darfur numeric
+@attribute data numeric
+@attribute date numeric
+@attribute day numeric
+@attribute de-flag numeric
+@attribute deadlin numeric
+@attribute deal numeric
+@attribute dealer numeric
+@attribute dealt numeric
+@attribute death numeric
+@attribute debat numeric
+@attribute decemb numeric
+@attribute decent numeric
+@attribute decentralis numeric
+@attribute decid numeric
+@attribute decis numeric
+@attribute decision-mak numeric
+@attribute declar numeric
+@attribute declin numeric
+@attribute deconcentr numeric
+@attribute dedic numeric
+@attribute defenc numeric
+@attribute defend numeric
+@attribute deficit numeric
+@attribute defin numeric
+@attribute definit numeric
+@attribute degre numeric
+@attribute delay numeric
+@attribute deleg numeric
+@attribute delet numeric
+@attribute deliber numeric
+@attribute delight numeric
+@attribute deliv numeric
+@attribute deliveri numeric
+@attribute dell numeric
+@attribute delor numeric
+@attribute demand numeric
+@attribute demerit numeric
+@attribute democraci numeric
+@attribute democrat numeric
+@attribute democratis numeric
+@attribute demon numeric
+@attribute demonstr numeric
+@attribute deni numeric
+@attribute denounc numeric
+@attribute dens numeric
+@attribute densiti numeric
+@attribute depart numeric
+@attribute department numeric
+@attribute departur numeric
+@attribute depend numeric
+@attribute deplor numeric
+@attribute deploy numeric
+@attribute depopul numeric
+@attribute depress numeric
+@attribute depriv numeric
+@attribute deputi numeric
+@attribute deregul numeric
+@attribute deriv numeric
+@attribute des numeric
+@attribute describ numeric
+@attribute descript numeric
+@attribute design numeric
+@attribute desir numeric
+@attribute despis numeric
+@attribute despit numeric
+@attribute detail numeric
+@attribute detect numeric
+@attribute determin numeric
+@attribute detriment numeric
+@attribute deutsch numeric
+@attribute develop numeric
+@attribute devolv numeric
+@attribute dhl numeric
+@attribute diabet numeric
+@attribute diagnos numeric
+@attribute dialogu numeric
+@attribute diamandouro numeric
+@attribute dictat numeric
+@attribute die numeric
+@attribute diedr numeric
+@attribute differ numeric
+@attribute difficult numeric
+@attribute difficulti numeric
+@attribute digest numeric
+@attribute digniti numeric
+@attribute dilut numeric
+@attribute dimens numeric
+@attribute diminish numeric
+@attribute diplomaci numeric
+@attribute diplomat numeric
+@attribute direct numeric
+@attribute director numeric
+@attribute director-gener numeric
+@attribute directorate-gener numeric
+@attribute disadvantag numeric
+@attribute disagr numeric
+@attribute disagre numeric
+@attribute disappear numeric
+@attribute disappoint numeric
+@attribute disassoci numeric
+@attribute disastr numeric
+@attribute discharg numeric
+@attribute disciplin numeric
+@attribute disciplinari numeric
+@attribute discourag numeric
+@attribute discov numeric
+@attribute discrep numeric
+@attribute discrimin numeric
+@attribute discriminatori numeric
+@attribute discuss numeric
+@attribute diseas numeric
+@attribute disease-control numeric
+@attribute disengag numeric
+@attribute disguis numeric
+@attribute disinclin numeric
+@attribute dismiss numeric
+@attribute dispatch numeric
+@attribute dispens numeric
+@attribute dispers numeric
+@attribute dispos numeric
+@attribute disqualifi numeric
+@attribute disrespect numeric
+@attribute dissatisfi numeric
+@attribute distinct numeric
+@attribute distinguish numeric
+@attribute distort numeric
+@attribute distress numeric
+@attribute distribut numeric
+@attribute distributor numeric
+@attribute district numeric
+@attribute divid numeric
+@attribute doctor numeric
+@attribute document numeric
+@attribute doe numeric
+@attribute doha numeric
+@attribute domain numeric
+@attribute domest numeric
+@attribute domin numeric
+@attribute donat numeric
+@attribute donkey numeric
+@attribute door numeric
+@attribute dossier numeric
+@attribute doubl numeric
+@attribute doubli numeric
+@attribute doubt numeric
+@attribute draft numeric
+@attribute drag numeric
+@attribute drain-hol numeric
+@attribute dramat numeric
+@attribute drastic numeric
+@attribute draw numeric
+@attribute drawn numeric
+@attribute drive numeric
+@attribute driver numeric
+@attribute drop numeric
+@attribute drug numeric
+@attribute dss numeric
+@attribute dual numeric
+@attribute dualism numeric
+@attribute dubious numeric
+@attribute dublin numeric
+@attribute duisenberg numeric
+@attribute duplic numeric
+@attribute dutch numeric
+@attribute duti numeric
+@attribute duty-fre numeric
+@attribute dweller numeric
+@attribute e-mail numeric
+@attribute earli numeric
+@attribute earlier numeric
+@attribute earmark numeric
+@attribute earn numeric
+@attribute earth numeric
+@attribute eas numeric
+@attribute easi numeric
+@attribute easier numeric
+@attribute east numeric
+@attribute eastern numeric
+@attribute eastward numeric
+@attribute ecb numeric
+@attribute ecevit numeric
+@attribute echelon numeric
+@attribute echo numeric
+@attribute ecofin numeric
+@attribute econom numeric
+@attribute economi numeric
+@attribute ecosystem numeric
+@attribute ecsc numeric
+@attribute ecu numeric
+@attribute editor numeric
+@attribute educ numeric
+@attribute effect numeric
+@attribute effici numeric
+@attribute effort numeric
+@attribute eirí numeric
+@attribute elabor numeric
+@attribute elder numeric
+@attribute elect numeric
+@attribute elector numeric
+@attribute electr numeric
+@attribute electron numeric
+@attribute element numeric
+@attribute elig numeric
+@attribute elon numeric
+@attribute email numeric
+@attribute embarrass numeric
+@attribute embrac numeric
+@attribute emerg numeric
+@attribute emphasi numeric
+@attribute emphasis numeric
+@attribute empir numeric
+@attribute employ numeric
+@attribute employe numeric
+@attribute empow numeric
+@attribute emu numeric
+@attribute enabl numeric
+@attribute encompass numeric
+@attribute encourag numeric
+@attribute end numeric
+@attribute endeavour numeric
+@attribute endors numeric
+@attribute endur numeric
+@attribute enel numeric
+@attribute energi numeric
+@attribute enforc numeric
+@attribute engag numeric
+@attribute engin numeric
+@attribute enjoy numeric
+@attribute enlarg numeric
+@attribute enlargement-rel numeric
+@attribute enorm numeric
+@attribute enquiri numeric
+@attribute ensu numeric
+@attribute ensur numeric
+@attribute entail numeric
+@attribute enter numeric
+@attribute enthusiast numeric
+@attribute entir numeric
+@attribute entitl numeric
+@attribute entranc numeric
+@attribute entrepreneur numeric
+@attribute entri numeric
+@attribute envelop numeric
+@attribute environ numeric
+@attribute environment numeric
+@attribute envisag numeric
+@attribute envoy numeric
+@attribute equal numeric
+@attribute equalis numeric
+@attribute equip numeric
+@attribute equival numeric
+@attribute erad numeric
+@attribute escap numeric
+@attribute especi numeric
+@attribute essenc numeric
+@attribute essenti numeric
+@attribute esta numeric
+@attribute establish numeric
+@attribute esteem numeric
+@attribute estim numeric
+@attribute etcetera numeric
+@attribute etern numeric
+@attribute ethic numeric
+@attribute etsi numeric
+@attribute eur numeric
+@attribute euro numeric
+@attribute euro-mediterranean numeric
+@attribute europ numeric
+@attribute european numeric
+@attribute europeanwid numeric
+@attribute europol numeric
+@attribute eurostat numeric
+@attribute evalu numeric
+@attribute event numeric
+@attribute eventu numeric
+@attribute evid numeric
+@attribute evolv numeric
+@attribute exact numeric
+@attribute exam numeric
+@attribute examin numeric
+@attribute exampl numeric
+@attribute exceed numeric
+@attribute excel numeric
+@attribute excess numeric
+@attribute exchang numeric
+@attribute excit numeric
+@attribute exclud numeric
+@attribute exclus numeric
+@attribute excus numeric
+@attribute execut numeric
+@attribute exempt numeric
+@attribute exercis numeric
+@attribute exist numeric
+@attribute expand numeric
+@attribute expect numeric
+@attribute expenditur numeric
+@attribute expens numeric
+@attribute experi numeric
+@attribute experienc numeric
+@attribute expert numeric
+@attribute expertis numeric
+@attribute expiri numeric
+@attribute explain numeric
+@attribute explan numeric
+@attribute explicit numeric
+@attribute exploit numeric
+@attribute export numeric
+@attribute expos numeric
+@attribute express numeric
+@attribute expressli numeric
+@attribute extend numeric
+@attribute extens numeric
+@attribute extent numeric
+@attribute extern numeric
+@attribute extra numeric
+@attribute extraordinari numeric
+@attribute extrem numeric
+@attribute face numeric
+@attribute facil numeric
+@attribute facilit numeric
+@attribute fact numeric
+@attribute facto numeric
+@attribute factor numeric
+@attribute fail numeric
+@attribute failur numeric
+@attribute fair numeric
+@attribute fall numeric
+@attribute famili numeric
+@attribute familiar numeric
+@attribute far-reach numeric
+@attribute farm numeric
+@attribute farmer numeric
+@attribute fast numeric
+@attribute faster numeric
+@attribute fate numeric
+@attribute fatuzzo numeric
+@attribute favour numeric
+@attribute favourit numeric
+@attribute fax numeric
+@attribute fear numeric
+@attribute feasibl numeric
+@attribute featur numeric
+@attribute feder numeric
+@attribute feel numeric
+@attribute fell numeric
+@attribute fellow numeric
+@attribute felt numeric
+@attribute femal numeric
+@attribute ferber numeric
+@attribute field numeric
+@attribute fight numeric
+@attribute figur numeric
+@attribute fill numeric
+@attribute final numeric
+@attribute financ numeric
+@attribute financi numeric
+@attribute financial-polit numeric
+@attribute find numeric
+@attribute fine numeric
+@attribute finish numeric
+@attribute finland numeric
+@attribute finn numeric
+@attribute finnish numeric
+@attribute firm numeric
+@attribute first-rat numeric
+@attribute first-weight numeric
+@attribute fischler numeric
+@attribute fisheri numeric
+@attribute fit numeric
+@attribute fix numeric
+@attribute fixed-term numeric
+@attribute flag numeric
+@attribute flax numeric
+@attribute flexibl numeric
+@attribute flood numeric
+@attribute floor numeric
+@attribute florenc numeric
+@attribute flow numeric
+@attribute focus numeric
+@attribute focuss numeric
+@attribute follow numeric
+@attribute follow-up numeric
+@attribute food numeric
+@attribute foot numeric
+@attribute forbidden numeric
+@attribute forc numeric
+@attribute forefront numeric
+@attribute foreign numeric
+@attribute foremost numeric
+@attribute forest numeric
+@attribute forewarn numeric
+@attribute forget numeric
+@attribute form numeric
+@attribute formal numeric
+@attribute format numeric
+@attribute formul numeric
+@attribute formula numeric
+@attribute forthcom numeric
+@attribute fortress numeric
+@attribute fortun numeric
+@attribute fortunato numeric
+@attribute forum numeric
+@attribute forward numeric
+@attribute foster numeric
+@attribute foundat numeric
+@attribute fourteen numeric
+@attribute fourth numeric
+@attribute fraction numeric
+@attribute frame numeric
+@attribute framework numeric
+@attribute franc numeric
+@attribute frank numeric
+@attribute frattini numeric
+@attribute fraud numeric
+@attribute free numeric
+@attribute freedom numeric
+@attribute freeli numeric
+@attribute freez numeric
+@attribute french numeric
+@attribute frequenc numeric
+@attribute frequent numeric
+@attribute fresh numeric
+@attribute friday numeric
+@attribute friend numeric
+@attribute frontier numeric
+@attribute fruit numeric
+@attribute frustrat numeric
+@attribute fuell numeric
+@attribute fulfil numeric
+@attribute fulli numeric
+@attribute function numeric
+@attribute fund numeric
+@attribute fundament numeric
+@attribute furthermor numeric
+@attribute futur numeric
+@attribute gain numeric
+@attribute gainer numeric
+@attribute galeot numeric
+@attribute galileo numeric
+@attribute game numeric
+@attribute gas numeric
+@attribute gather numeric
+@attribute gave numeric
+@attribute gaza numeric
+@attribute geagea numeric
+@attribute gender numeric
+@attribute general numeric
+@attribute generous numeric
+@attribute geneva numeric
+@attribute geneviev numeric
+@attribute genocid numeric
+@attribute gentlemen numeric
+@attribute genuin numeric
+@attribute german numeric
+@attribute germani numeric
+@attribute giscard numeric
+@attribute giusepp numeric
+@attribute give numeric
+@attribute glad numeric
+@attribute global numeric
+@attribute gloss numeric
+@attribute go-ahead numeric
+@attribute goal numeric
+@attribute goe numeric
+@attribute good numeric
+@attribute gorica numeric
+@attribute gorizia numeric
+@attribute govern numeric
+@attribute governor numeric
+@attribute grab numeric
+@attribute grade numeric
+@attribute grade-a numeric
+@attribute grade-c numeric
+@attribute gradin numeric
+@attribute gradual numeric
+@attribute graeco-roman numeric
+@attribute grant numeric
+@attribute grate numeric
+@attribute gratifi numeric
+@attribute great numeric
+@attribute greater numeric
+@attribute greatest numeric
+@attribute green numeric
+@attribute greet numeric
+@attribute gross numeric
+@attribute ground numeric
+@attribute ground-floor numeric
+@attribute group numeric
+@attribute growth numeric
+@attribute guarante numeric
+@attribute guid numeric
+@attribute guidelin numeric
+@attribute görlitz numeric
+@attribute habeus numeric
+@attribute habibi numeric
+@attribute hackney numeric
+@attribute half numeric
+@attribute hall numeric
+@attribute halt numeric
+@attribute hammock numeric
+@attribute hand numeric
+@attribute handicap numeric
+@attribute handl numeric
+@attribute hang numeric
+@attribute happen numeric
+@attribute happi numeric
+@attribute hard numeric
+@attribute harmon numeric
+@attribute hast numeric
+@attribute hasti numeric
+@attribute hat numeric
+@attribute hatzidaki numeric
+@attribute head numeric
+@attribute headlin numeric
+@attribute health numeric
+@attribute hear numeric
+@attribute heard numeric
+@attribute heart numeric
+@attribute heaven numeric
+@attribute heavi numeric
+@attribute heavyweight numeric
+@attribute heir numeric
+@attribute held numeric
+@attribute herald numeric
+@attribute heritag numeric
+@attribute heroin numeric
+@attribute hesit numeric
+@attribute hierarchi numeric
+@attribute high numeric
+@attribute high-grad numeric
+@attribute high-level numeric
+@attribute high-rank numeric
+@attribute higher numeric
+@attribute highest numeric
+@attribute highlight numeric
+@attribute histor numeric
+@attribute histori numeric
+@attribute hoc numeric
+@attribute hoff numeric
+@attribute hold numeric
+@attribute holder numeric
+@attribute home numeric
+@attribute homeland numeric
+@attribute homicid numeric
+@attribute homosexu numeric
+@attribute hondt numeric
+@attribute honest numeric
+@attribute honour numeric
+@attribute hope numeric
+@attribute hors numeric
+@attribute hospit numeric
+@attribute hostil numeric
+@attribute hotel numeric
+@attribute hour numeric
+@attribute hous numeric
+@attribute huge numeric
+@attribute human numeric
+@attribute hundr numeric
+@attribute hurri numeric
+@attribute hussein numeric
+@attribute idea numeric
+@attribute ideal numeric
+@attribute ident numeric
+@attribute identifi numeric
+@attribute ignor numeric
+@attribute illeg numeric
+@attribute illiteraci numeric
+@attribute imagin numeric
+@attribute imbal numeric
+@attribute immedi numeric
+@attribute immigr numeric
+@attribute immin numeric
+@attribute immun numeric
+@attribute impact numeric
+@attribute imped numeric
+@attribute imperi numeric
+@attribute implement numeric
+@attribute implic numeric
+@attribute import numeric
+@attribute impos numeric
+@attribute imposit numeric
+@attribute imposs numeric
+@attribute imprecis numeric
+@attribute impress numeric
+@attribute improv numeric
+@attribute in-com numeric
+@attribute inabl numeric
+@attribute inadequ numeric
+@attribute inappropri numeric
+@attribute incent numeric
+@attribute incid numeric
+@attribute incit numeric
+@attribute includ numeric
+@attribute inclus numeric
+@attribute incom numeric
+@attribute incompat numeric
+@attribute incompet numeric
+@attribute incomprehens numeric
+@attribute incontest numeric
+@attribute inconveni numeric
+@attribute increas numeric
+@attribute incred numeric
+@attribute incumb numeric
+@attribute incur numeric
+@attribute indec numeric
+@attribute independ numeric
+@attribute indian numeric
+@attribute indic numeric
+@attribute indispens numeric
+@attribute individu numeric
+@attribute indonesia numeric
+@attribute indonesian numeric
+@attribute industri numeric
+@attribute ineffect numeric
+@attribute ineffici numeric
+@attribute inequ numeric
+@attribute inevit numeric
+@attribute infam numeric
+@attribute inferior numeric
+@attribute influenc numeric
+@attribute influenti numeric
+@attribute inform numeric
+@attribute infrastructur numeric
+@attribute infring numeric
+@attribute initi numeric
+@attribute inject numeric
+@attribute inquiri numeric
+@attribute inquisition-lik numeric
+@attribute insecur numeric
+@attribute insid numeric
+@attribute insinu numeric
+@attribute insist numeric
+@attribute inspect numeric
+@attribute inspector numeric
+@attribute inspir numeric
+@attribute instal numeric
+@attribute instanc numeric
+@attribute instig numeric
+@attribute institut numeric
+@attribute institutionalis numeric
+@attribute instrument numeric
+@attribute insur numeric
+@attribute integr numeric
+@attribute intellig numeric
+@attribute intend numeric
+@attribute intens numeric
+@attribute intent numeric
+@attribute inter numeric
+@attribute interest numeric
+@attribute interim numeric
+@attribute interinstitut numeric
+@attribute intermediari numeric
+@attribute intern numeric
+@attribute internet numeric
+@attribute interpret numeric
+@attribute interven numeric
+@attribute intervent numeric
+@attribute interview numeric
+@attribute intra-commun numeric
+@attribute intra-european numeric
+@attribute intransig numeric
+@attribute introduc numeric
+@attribute introduct numeric
+@attribute invalid numeric
+@attribute invalu numeric
+@attribute invest numeric
+@attribute investig numeric
+@attribute invis numeric
+@attribute invit numeric
+@attribute involv numeric
+@attribute ioc numeric
+@attribute iraq numeric
+@attribute ireland numeric
+@attribute irish numeric
+@attribute iron numeric
+@attribute irrat numeric
+@attribute irregular numeric
+@attribute irrespons numeric
+@attribute island numeric
+@attribute isra numeric
+@attribute israel numeric
+@attribute israeli-lebanes numeric
+@attribute issu numeric
+@attribute istanbul numeric
+@attribute itali numeric
+@attribute italian numeric
+@attribute item numeric
+@attribute jacqu numeric
+@attribute jame numeric
+@attribute januari numeric
+@attribute japan numeric
+@attribute japanes numeric
+@attribute javier numeric
+@attribute jeopardis numeric
+@attribute jericho numeric
+@attribute jerusalem numeric
+@attribute jew numeric
+@attribute jewish numeric
+@attribute joan numeric
+@attribute job numeric
+@attribute john numeric
+@attribute join numeric
+@attribute joint numeric
+@attribute joke numeric
+@attribute journal numeric
+@attribute journey numeric
+@attribute judeo-christian numeric
+@attribute judg numeric
+@attribute judgment numeric
+@attribute judic numeric
+@attribute judici numeric
+@attribute judiciari numeric
+@attribute juge numeric
+@attribute juli numeric
+@attribute jumblatt numeric
+@attribute juncker numeric
+@attribute june numeric
+@attribute junk numeric
+@attribute justic numeric
+@attribute justif numeric
+@attribute justifi numeric
+@attribute kaklamani numeric
+@attribute kapitan numeric
+@attribute karadz numeric
+@attribute karzai numeric
+@attribute kashmir numeric
+@attribute kazakhstan numeric
+@attribute keen numeric
+@attribute key numeric
+@attribute kick-start numeric
+@attribute kind numeric
+@attribute kingdom numeric
+@attribute kinnock numeric
+@attribute knell numeric
+@attribute knesset numeric
+@attribute knew numeric
+@attribute knock numeric
+@attribute kosovo numeric
+@attribute kovac numeric
+@attribute kroe numeric
+@attribute labour numeric
+@attribute lack numeric
+@attribute ladi numeric
+@attribute laid numeric
+@attribute lami numeric
+@attribute land numeric
+@attribute lane numeric
+@attribute languag numeric
+@attribute larger numeric
+@attribute late numeric
+@attribute latest numeric
+@attribute latin numeric
+@attribute launch numeric
+@attribute lauren numeric
+@attribute law numeric
+@attribute lead numeric
+@attribute lead-in numeric
+@attribute leader numeric
+@attribute leadership numeric
+@attribute leagu numeric
+@attribute leak numeric
+@attribute leap numeric
+@attribute learn numeric
+@attribute learnt numeric
+@attribute leat numeric
+@attribute leav numeric
+@attribute lebanes numeric
+@attribute lectur numeric
+@attribute led numeric
+@attribute left numeric
+@attribute legal numeric
+@attribute legalis numeric
+@attribute legisl numeric
+@attribute legitim numeric
+@attribute legitimaci numeric
+@attribute lend numeric
+@attribute length numeric
+@attribute lengthi numeric
+@attribute lent numeric
+@attribute lesson numeric
+@attribute letter numeric
+@attribute letterbox numeric
+@attribute level numeric
+@attribute levi numeric
+@attribute lewandowski numeric
+@attribute liaison numeric
+@attribute liber numeric
+@attribute liberalis numeric
+@attribute liberia numeric
+@attribute liberti numeric
+@attribute liberté numeric
+@attribute lid numeric
+@attribute lie numeric
+@attribute life numeric
+@attribute lifelin numeric
+@attribute lift numeric
+@attribute light numeric
+@attribute likewis numeric
+@attribute limit numeric
+@attribute line numeric
+@attribute link numeric
+@attribute lion numeric
+@attribute lisbon numeric
+@attribute list numeric
+@attribute listen numeric
+@attribute literatur numeric
+@attribute lithuania numeric
+@attribute live numeric
+@attribute livelihood numeric
+@attribute livestock numeric
+@attribute load numeric
+@attribute lobbi numeric
+@attribute local numeric
+@attribute locat numeric
+@attribute log numeric
+@attribute logo numeric
+@attribute long numeric
+@attribute long-stand numeric
+@attribute long-term numeric
+@attribute longer numeric
+@attribute lorri numeric
+@attribute loss numeric
+@attribute lost numeric
+@attribute lot numeric
+@attribute loui numeric
+@attribute low numeric
+@attribute low-lif numeric
+@attribute low-skil numeric
+@attribute lower numeric
+@attribute lower-qualifi numeric
+@attribute lowest numeric
+@attribute lubber numeric
+@attribute luck numeric
+@attribute luf numeric
+@attribute lukashenko numeric
+@attribute luxembourg numeric
+@attribute lyon numeric
+@attribute maastricht numeric
+@attribute macao numeric
+@attribute macedonian numeric
+@attribute machin numeric
+@attribute madam numeric
+@attribute magic numeric
+@attribute magician numeric
+@attribute mail numeric
+@attribute mailshot numeric
+@attribute main numeric
+@attribute mainstream numeric
+@attribute maintain numeric
+@attribute mainten numeric
+@attribute major numeric
+@attribute make numeric
+@attribute male numeric
+@attribute man numeric
+@attribute manag numeric
+@attribute manageri numeric
+@attribute mandat numeric
+@attribute mandatori numeric
+@attribute manifest numeric
+@attribute manilla numeric
+@attribute manoeuvr numeric
+@attribute marc numeric
+@attribute march numeric
+@attribute mark numeric
+@attribute market numeric
+@attribute market-bas numeric
+@attribute marta numeric
+@attribute martin numeric
+@attribute marín numeric
+@attribute massacr numeric
+@attribute massiv numeric
+@attribute match numeric
+@attribute materi numeric
+@attribute matern numeric
+@attribute matter numeric
+@attribute maximum numeric
+@attribute mayb numeric
+@attribute meant numeric
+@attribute meantim numeric
+@attribute measur numeric
+@attribute mechan numeric
+@attribute meciar numeric
+@attribute meda numeric
+@attribute media numeric
+@attribute medic numeric
+@attribute medicin numeric
+@attribute mediterranean numeric
+@attribute meet numeric
+@attribute member numeric
+@attribute membership numeric
+@attribute men numeric
+@attribute mention numeric
+@attribute mep numeric
+@attribute mere numeric
+@attribute merg numeric
+@attribute merit numeric
+@attribute mess numeric
+@attribute messag numeric
+@attribute met numeric
+@attribute method numeric
+@attribute metr numeric
+@attribute michel numeric
+@attribute middl numeric
+@attribute middle-manag numeric
+@attribute militari numeric
+@attribute million numeric
+@attribute mind numeric
+@attribute miner numeric
+@attribute minist numeric
+@attribute ministeri numeric
+@attribute ministri numeric
+@attribute minor numeric
+@attribute minsk numeric
+@attribute minster numeric
+@attribute minut numeric
+@attribute misguid numeric
+@attribute mission numeric
+@attribute mistak numeric
+@attribute misunderstand numeric
+@attribute miti numeric
+@attribute mladic numeric
+@attribute mobil numeric
+@attribute model numeric
+@attribute modern numeric
+@attribute modernis numeric
+@attribute modest numeric
+@attribute modif numeric
+@attribute modifi numeric
+@attribute moment numeric
+@attribute monetari numeric
+@attribute money numeric
+@attribute money-handl numeric
+@attribute money-sav numeric
+@attribute moni numeric
+@attribute monitor numeric
+@attribute monopoli numeric
+@attribute monsengwo numeric
+@attribute month numeric
+@attribute monti numeric
+@attribute moral numeric
+@attribute moratino numeric
+@attribute morn numeric
+@attribute mortem numeric
+@attribute mostar numeric
+@attribute mother numeric
+@attribute motherhood numeric
+@attribute motion numeric
+@attribute motiv numeric
+@attribute motor numeric
+@attribute motorway numeric
+@attribute motto numeric
+@attribute mountain numeric
+@attribute mourn numeric
+@attribute move numeric
+@attribute movement numeric
+@attribute mrs numeric
+@attribute much-need numeric
+@attribute multi-annu numeric
+@attribute multiannu numeric
+@attribute multilater numeric
+@attribute multin numeric
+@attribute multipl numeric
+@attribute multitud numeric
+@attribute munich numeric
+@attribute municip numeric
+@attribute murder numeric
+@attribute muscl numeric
+@attribute myanmar numeric
+@attribute myriad numeric
+@attribute nation numeric
+@attribute nationalist numeric
+@attribute nativ numeric
+@attribute nato numeric
+@attribute natur numeric
+@attribute nazi numeric
+@attribute necessari numeric
+@attribute necessarili numeric
+@attribute negat numeric
+@attribute neglect numeric
+@attribute negoti numeric
+@attribute neighbour numeric
+@attribute neighbourhood numeric
+@attribute neo-conserv numeric
+@attribute neoliber numeric
+@attribute nepot numeric
+@attribute net numeric
+@attribute netherland numeric
+@attribute network numeric
+@attribute neutral numeric
+@attribute newcom numeric
+@attribute newli numeric
+@attribute news numeric
+@attribute newspap numeric
+@attribute nhs numeric
+@attribute nice numeric
+@attribute nikiforo numeric
+@attribute no-on numeric
+@attribute nomin numeric
+@attribute non-assign numeric
+@attribute non-exist numeric
+@attribute non-nationalist numeric
+@attribute non-occup numeric
+@attribute non-perman numeric
+@attribute non-regul numeric
+@attribute nonetheless numeric
+@attribute nordic numeric
+@attribute norm numeric
+@attribute normal numeric
+@attribute north numeric
+@attribute northern numeric
+@attribute notabl numeric
+@attribute notari numeric
+@attribute note numeric
+@attribute notic numeric
+@attribute notif numeric
+@attribute notwithstand numeric
+@attribute novemb numeric
+@attribute nowaday numeric
+@attribute number numeric
+@attribute numer numeric
+@attribute nurs numeric
+@attribute object numeric
+@attribute oblig numeric
+@attribute obligatori numeric
+@attribute observ numeric
+@attribute obstacl numeric
+@attribute obtain numeric
+@attribute obvious numeric
+@attribute occas numeric
+@attribute occup numeric
+@attribute occupi numeric
+@attribute occur numeric
+@attribute octob numeric
+@attribute odysseus numeric
+@attribute offend numeric
+@attribute offens numeric
+@attribute offer numeric
+@attribute offic numeric
+@attribute offici numeric
+@attribute offset numeric
+@attribute ogata numeric
+@attribute oil numeric
+@attribute olaf numeric
+@attribute oliv numeric
+@attribute olymp numeric
+@attribute ombudsman numeric
+@attribute one-off numeric
+@attribute one-vot numeric
+@attribute onward numeric
+@attribute open numeric
+@attribute oper numeric
+@attribute opinion numeric
+@attribute oppon numeric
+@attribute opportun numeric
+@attribute oppos numeric
+@attribute opposit numeric
+@attribute option numeric
+@attribute oral numeric
+@attribute order numeric
+@attribute ordinari numeric
+@attribute organ numeric
+@attribute organis numeric
+@attribute origin numeric
+@attribute outbreak numeric
+@attribute outcom numeric
+@attribute outdat numeric
+@attribute outlet numeric
+@attribute outsid numeric
+@attribute outstand numeric
+@attribute overal numeric
+@attribute overburdensom numeric
+@attribute overcom numeric
+@attribute overdu numeric
+@attribute overflow numeric
+@attribute overlook numeric
+@attribute overnight numeric
+@attribute overse numeric
+@attribute overturn numeric
+@attribute overwork numeric
+@attribute ownership numeric
+@attribute pack numeric
+@attribute packag numeric
+@attribute paid numeric
+@attribute pain numeric
+@attribute pakistan numeric
+@attribute palacio numeric
+@attribute palestinian numeric
+@attribute panel numeric
+@attribute paper numeric
+@attribute parachutag numeric
+@attribute paragraph numeric
+@attribute paralysi numeric
+@attribute paramet numeric
+@attribute paramilitari numeric
+@attribute parcel numeric
+@attribute pari numeric
+@attribute pariti numeric
+@attribute parliament numeric
+@attribute parliamentari numeric
+@attribute parliamentarian numeric
+@attribute part numeric
+@attribute part-sess numeric
+@attribute part-tim numeric
+@attribute parti numeric
+@attribute particip numeric
+@attribute partner numeric
+@attribute partnership numeric
+@attribute pascal numeric
+@attribute pass numeric
+@attribute past numeric
+@attribute patch numeric
+@attribute patent numeric
+@attribute patern numeric
+@attribute path numeric
+@attribute patient numeric
+@attribute patriarch numeric
+@attribute patten numeric
+@attribute pattern numeric
+@attribute pay numeric
+@attribute payment numeric
+@attribute peculiar numeric
+@attribute peer numeric
+@attribute peij numeric
+@attribute pelinka numeric
+@attribute penalti numeric
+@attribute penetr numeric
+@attribute penni numeric
+@attribute pension numeric
+@attribute pentagon numeric
+@attribute peopl numeric
+@attribute percept numeric
+@attribute perform numeric
+@attribute period numeric
+@attribute peripher numeric
+@attribute perman numeric
+@attribute permiss numeric
+@attribute permit numeric
+@attribute person numeric
+@attribute personnel numeric
+@attribute perspect numeric
+@attribute peshawar numeric
+@attribute petit numeric
+@attribute phantom numeric
+@attribute phare numeric
+@attribute phase numeric
+@attribute physic numeric
+@attribute phytosanitari numeric
+@attribute pick numeric
+@attribute pictur numeric
+@attribute pierr numeric
+@attribute pile numeric
+@attribute pillar numeric
+@attribute pilot numeric
+@attribute pip numeric
+@attribute pipelin numeric
+@attribute piskinsut numeric
+@attribute pit numeric
+@attribute place numeric
+@attribute plain numeric
+@attribute plan numeric
+@attribute play numeric
+@attribute playing-field numeric
+@attribute pleas numeric
+@attribute pleasur numeric
+@attribute plenari numeric
+@attribute plenti numeric
+@attribute pocket numeric
+@attribute point numeric
+@attribute poland numeric
+@attribute pole numeric
+@attribute polic numeric
+@attribute polici numeric
+@attribute polish numeric
+@attribute polit numeric
+@attribute politician numeric
+@attribute pool numeric
+@attribute poor numeric
+@attribute poorest numeric
+@attribute pop numeric
+@attribute pope numeric
+@attribute poplasen numeric
+@attribute popul numeric
+@attribute pornographi numeric
+@attribute port numeric
+@attribute portfolio numeric
+@attribute portug numeric
+@attribute portugues numeric
+@attribute posit numeric
+@attribute posselt numeric
+@attribute possibl numeric
+@attribute post numeric
+@attribute postag numeric
+@attribute postal numeric
+@attribute posthold numeric
+@attribute postmen numeric
+@attribute postpon numeric
+@attribute potenti numeric
+@attribute poverti numeric
+@attribute power numeric
+@attribute ppe numeric
+@attribute ppe-d numeric
+@attribute practic numeric
+@attribute praesidium numeric
+@attribute pre-enlarg numeric
+@attribute preambl numeric
+@attribute precari numeric
+@attribute precis numeric
+@attribute predecessor numeric
+@attribute prefer numeric
+@attribute pregnanc numeric
+@attribute prejudic numeric
+@attribute preliminari numeric
+@attribute prematur numeric
+@attribute premium numeric
+@attribute prepar numeric
+@attribute preparatori numeric
+@attribute prerequisit numeric
+@attribute prescrib numeric
+@attribute presenc numeric
+@attribute present numeric
+@attribute preserv numeric
+@attribute presid numeric
+@attribute president-design numeric
+@attribute president-elect numeric
+@attribute president-in-offic numeric
+@attribute presidenti numeric
+@attribute press numeric
+@attribute pressur numeric
+@attribute prestigi numeric
+@attribute presum numeric
+@attribute pretend numeric
+@attribute preval numeric
+@attribute prevent numeric
+@attribute previous numeric
+@attribute price numeric
+@attribute pride numeric
+@attribute prime numeric
+@attribute principl numeric
+@attribute prior numeric
+@attribute prioriti numeric
+@attribute prison numeric
+@attribute privat numeric
+@attribute private-law numeric
+@attribute privatis numeric
+@attribute privileg numeric
+@attribute pro-european numeric
+@attribute probabl numeric
+@attribute problem numeric
+@attribute procedur numeric
+@attribute proceed numeric
+@attribute process numeric
+@attribute procur numeric
+@attribute prodi numeric
+@attribute produc numeric
+@attribute product numeric
+@attribute profess numeric
+@attribute profession numeric
+@attribute professor numeric
+@attribute profil numeric
+@attribute profit numeric
+@attribute profit-mak numeric
+@attribute profound numeric
+@attribute program numeric
+@attribute programm numeric
+@attribute progress numeric
+@attribute prohibit numeric
+@attribute project numeric
+@attribute prolifer numeric
+@attribute promin numeric
+@attribute promis numeric
+@attribute promot numeric
+@attribute prompt numeric
+@attribute promulg numeric
+@attribute pronk numeric
+@attribute proofread numeric
+@attribute proper numeric
+@attribute proport numeric
+@attribute propos numeric
+@attribute prosecut numeric
+@attribute prosecutor numeric
+@attribute prosper numeric
+@attribute protect numeric
+@attribute protest numeric
+@attribute protocol numeric
+@attribute proud numeric
+@attribute prove numeric
+@attribute proven numeric
+@attribute provid numeric
+@attribute provis numeric
+@attribute pse numeric
+@attribute public numeric
+@attribute publicly-own numeric
+@attribute publish numeric
+@attribute pure numeric
+@attribute purpos numeric
+@attribute purs numeric
+@attribute pursu numeric
+@attribute pursuant numeric
+@attribute pursuit numeric
+@attribute push numeric
+@attribute put numeric
+@attribute péri numeric
+@attribute qualif numeric
+@attribute qualifi numeric
+@attribute qualiti numeric
+@attribute quasi-offici numeric
+@attribute quecedo numeric
+@attribute queen numeric
+@attribute question numeric
+@attribute questionnair numeric
+@attribute quick numeric
+@attribute quit numeric
+@attribute quot numeric
+@attribute quota numeric
+@attribute racism numeric
+@attribute radiat numeric
+@attribute radic numeric
+@attribute radiotelephoni numeric
+@attribute rafah numeric
+@attribute rail numeric
+@attribute railway numeric
+@attribute rais numeric
+@attribute rang numeric
+@attribute rank numeric
+@attribute rapid numeric
+@attribute rapporteur numeric
+@attribute rare numeric
+@attribute rate numeric
+@attribute rationalis numeric
+@attribute re-alloc numeric
+@attribute re-elect numeric
+@attribute re-endors numeric
+@attribute re-regul numeric
+@attribute reach numeric
+@attribute reaction numeric
+@attribute read numeric
+@attribute reader numeric
+@attribute readi numeric
+@attribute real numeric
+@attribute realis numeric
+@attribute realiti numeric
+@attribute realli numeric
+@attribute realloc numeric
+@attribute reason numeric
+@attribute rebed numeric
+@attribute rebel numeric
+@attribute recal numeric
+@attribute receiv numeric
+@attribute recent numeric
+@attribute recipi numeric
+@attribute recogn numeric
+@attribute recognis numeric
+@attribute recommend numeric
+@attribute reconstruct numeric
+@attribute record numeric
+@attribute recruit numeric
+@attribute rectifi numeric
+@attribute recycl numeric
+@attribute rede numeric
+@attribute redeploy numeric
+@attribute redistribut numeric
+@attribute reduc numeric
+@attribute reduct numeric
+@attribute redund numeric
+@attribute refer numeric
+@attribute referendair numeric
+@attribute referendum numeric
+@attribute reflect numeric
+@attribute reform numeric
+@attribute refuge numeric
+@attribute refurbish numeric
+@attribute refus numeric
+@attribute refut numeric
+@attribute regard numeric
+@attribute regim numeric
+@attribute region numeric
+@attribute registr numeric
+@attribute regress numeric
+@attribute regret numeric
+@attribute regrett numeric
+@attribute regul numeric
+@attribute regular numeric
+@attribute reim numeric
+@attribute reiter numeric
+@attribute reject numeric
+@attribute relat numeric
+@attribute relationship numeric
+@attribute releas numeric
+@attribute relev numeric
+@attribute reli numeric
+@attribute reliabl numeric
+@attribute reliev numeric
+@attribute religi numeric
+@attribute remain numeric
+@attribute remark numeric
+@attribute remedi numeric
+@attribute rememb numeric
+@attribute remind numeric
+@attribute remit numeric
+@attribute remot numeric
+@attribute remov numeric
+@attribute render numeric
+@attribute reorder numeric
+@attribute reorgan numeric
+@attribute reorganis numeric
+@attribute repeat numeric
+@attribute repertoir numeric
+@attribute repetit numeric
+@attribute replac numeric
+@attribute repli numeric
+@attribute report numeric
+@attribute repres numeric
+@attribute represent numeric
+@attribute republ numeric
+@attribute republika numeric
+@attribute request numeric
+@attribute requir numeric
+@attribute research numeric
+@attribute reserv numeric
+@attribute resid numeric
+@attribute residu numeric
+@attribute resign numeric
+@attribute resolut numeric
+@attribute resolv numeric
+@attribute resort numeric
+@attribute resourc numeric
+@attribute respect numeric
+@attribute respond numeric
+@attribute respons numeric
+@attribute rest numeric
+@attribute restat numeric
+@attribute restor numeric
+@attribute restrict numeric
+@attribute restructur numeric
+@attribute result numeric
+@attribute resumpt numeric
+@attribute retail numeric
+@attribute retain numeric
+@attribute retent numeric
+@attribute rethink numeric
+@attribute retir numeric
+@attribute retriev numeric
+@attribute return numeric
+@attribute reveal numeric
+@attribute revenu numeric
+@attribute review numeric
+@attribute revis numeric
+@attribute revit numeric
+@attribute revolut numeric
+@attribute reward numeric
+@attribute rhetor numeric
+@attribute rice numeric
+@attribute rid numeric
+@attribute ridicul numeric
+@attribute right-w numeric
+@attribute rigid numeric
+@attribute rigor numeric
+@attribute riot numeric
+@attribute rise numeric
+@attribute risen numeric
+@attribute risk numeric
+@attribute road numeric
+@attribute robert numeric
+@attribute robust numeric
+@attribute rocha numeric
+@attribute rogu numeric
+@attribute role numeric
+@attribute roll-out numeric
+@attribute romania numeric
+@attribute romhat numeric
+@attribute room numeric
+@attribute root numeric
+@attribute rotat numeric
+@attribute rotten numeric
+@attribute rough numeric
+@attribute round numeric
+@attribute rout numeric
+@attribute ruin numeric
+@attribute rule numeric
+@attribute run numeric
+@attribute run-up numeric
+@attribute rural numeric
+@attribute rush numeric
+@attribute russian numeric
+@attribute ruud numeric
+@attribute sab numeric
+@attribute sacr numeric
+@attribute saddam numeric
+@attribute safeguard numeric
+@attribute safeti numeric
+@attribute saint numeric
+@attribute sake numeric
+@attribute salari numeric
+@attribute salut numeric
+@attribute samaranch numeric
+@attribute samir numeric
+@attribute sampl numeric
+@attribute sanction numeric
+@attribute satisfactori numeric
+@attribute satisfactorili numeric
+@attribute save numeric
+@attribute scale numeric
+@attribute scandal numeric
+@attribute scandinavia numeric
+@attribute scandinavian numeric
+@attribute scenario numeric
+@attribute scene numeric
+@attribute scheme numeric
+@attribute schengen numeric
+@attribute school numeric
+@attribute schreyer numeric
+@attribute scientif numeric
+@attribute scientist numeric
+@attribute scope numeric
+@attribute score numeric
+@attribute scotland numeric
+@attribute scottish numeric
+@attribute scr numeric
+@attribute screen numeric
+@attribute screw numeric
+@attribute scrutinis numeric
+@attribute seaboard numeric
+@attribute seat numeric
+@attribute seclud numeric
+@attribute secretari numeric
+@attribute secretariat numeric
+@attribute secretary-gener numeric
+@attribute section numeric
+@attribute sector numeric
+@attribute secur numeric
+@attribute seek numeric
+@attribute seeker numeric
+@attribute segni numeric
+@attribute seldom numeric
+@attribute select numeric
+@attribute self-declar numeric
+@attribute sell numeric
+@attribute sema numeric
+@attribute send numeric
+@attribute senior numeric
+@attribute sens numeric
+@attribute sensibl numeric
+@attribute sensit numeric
+@attribute separ numeric
+@attribute septemb numeric
+@attribute sequenc numeric
+@attribute serbian numeric
+@attribute seri numeric
+@attribute serv numeric
+@attribute servant numeric
+@attribute servic numeric
+@attribute set numeric
+@attribute settler numeric
+@attribute seven-year numeric
+@attribute seventi numeric
+@attribute shadow numeric
+@attribute shake numeric
+@attribute share numeric
+@attribute sharon numeric
+@attribute sharp numeric
+@attribute shelter numeric
+@attribute shelv numeric
+@attribute shield numeric
+@attribute ship numeric
+@attribute shop numeric
+@attribute short numeric
+@attribute short-sight numeric
+@attribute short-term numeric
+@attribute shortfal numeric
+@attribute shortlist numeric
+@attribute shoulder numeric
+@attribute show numeric
+@attribute shown numeric
+@attribute siegbert numeric
+@attribute sign numeric
+@attribute signal numeric
+@attribute signific numeric
+@attribute similar numeric
+@attribute simpl numeric
+@attribute simpli numeric
+@attribute simplif numeric
+@attribute simpson numeric
+@attribute simultan numeric
+@attribute singl numeric
+@attribute sir numeric
+@attribute sit numeric
+@attribute site numeric
+@attribute situ numeric
+@attribute situat numeric
+@attribute size numeric
+@attribute slaughter numeric
+@attribute slaughterhous numeric
+@attribute slavic numeric
+@attribute sleep numeric
+@attribute slight numeric
+@attribute slovak numeric
+@attribute slovenia numeric
+@attribute slow numeric
+@attribute small-scal numeric
+@attribute smaller numeric
+@attribute sme numeric
+@attribute smes numeric
+@attribute smuggl numeric
+@attribute snoop numeric
+@attribute so-cal numeric
+@attribute soccer numeric
+@attribute social numeric
+@attribute socialist numeric
+@attribute societi numeric
+@attribute socio-cultur numeric
+@attribute sofia numeric
+@attribute solana numeric
+@attribute soldier numeric
+@attribute sole numeric
+@attribute solidar numeric
+@attribute solut numeric
+@attribute solv numeric
+@attribute son numeric
+@attribute soria numeric
+@attribute sorri numeric
+@attribute sorrier numeric
+@attribute sort numeric
+@attribute sought numeric
+@attribute sound numeric
+@attribute sounder numeric
+@attribute sourc numeric
+@attribute south numeric
+@attribute southern numeric
+@attribute space numeric
+@attribute spanish numeric
+@attribute spars numeric
+@attribute sparsely-popul numeric
+@attribute speak numeric
+@attribute speaker numeric
+@attribute special numeric
+@attribute specialis numeric
+@attribute specif numeric
+@attribute specifi numeric
+@attribute speech numeric
+@attribute speed numeric
+@attribute speedi numeric
+@attribute spend numeric
+@attribute spent numeric
+@attribute spirit numeric
+@attribute spite numeric
+@attribute spoken numeric
+@attribute spokespeopl numeric
+@attribute spot numeric
+@attribute spring numeric
+@attribute spurious numeric
+@attribute squar numeric
+@attribute srpska numeric
+@attribute stabil numeric
+@attribute stabl numeric
+@attribute staf numeric
+@attribute staff numeric
+@attribute stage numeric
+@attribute stakehold numeric
+@attribute stamp numeric
+@attribute stand numeric
+@attribute standard numeric
+@attribute start numeric
+@attribute state numeric
+@attribute statement numeric
+@attribute statist numeric
+@attribute statur numeric
+@attribute status numeric
+@attribute statut numeric
+@attribute statutori numeric
+@attribute stay numeric
+@attribute stealth numeric
+@attribute stem numeric
+@attribute stenmarck numeric
+@attribute step numeric
+@attribute sterckx numeric
+@attribute sterl numeric
+@attribute stick numeric
+@attribute stipul numeric
+@attribute stock-tak numeric
+@attribute stockholm numeric
+@attribute stop numeric
+@attribute store numeric
+@attribute straight numeric
+@attribute straightforward numeric
+@attribute strang numeric
+@attribute strateg numeric
+@attribute strategi numeric
+@attribute strengthen numeric
+@attribute stress numeric
+@attribute stringenc numeric
+@attribute strip numeric
+@attribute strive numeric
+@attribute strong numeric
+@attribute structur numeric
+@attribute struggl numeric
+@attribute student numeric
+@attribute studi numeric
+@attribute sub-post numeric
+@attribute sub-saharan numeric
+@attribute subject numeric
+@attribute submiss numeric
+@attribute submit numeric
+@attribute subsequ numeric
+@attribute subsidi numeric
+@attribute subsidiar numeric
+@attribute subsidiari numeric
+@attribute substanc numeric
+@attribute substandard numeric
+@attribute substanti numeric
+@attribute suburban numeric
+@attribute subvers numeric
+@attribute succeed numeric
+@attribute success numeric
+@attribute successor numeric
+@attribute succour numeric
+@attribute sudden numeric
+@attribute suffer numeric
+@attribute suffici numeric
+@attribute suggest numeric
+@attribute suit numeric
+@attribute suitabl numeric
+@attribute sullivan numeric
+@attribute sum numeric
+@attribute summar numeric
+@attribute summaris numeric
+@attribute summer numeric
+@attribute summit numeric
+@attribute super-minist numeric
+@attribute supermarket numeric
+@attribute superst numeric
+@attribute supervisor numeric
+@attribute supervisori numeric
+@attribute supplement numeric
+@attribute supplementari numeric
+@attribute suppli numeric
+@attribute support numeric
+@attribute suppos numeric
+@attribute suprem numeric
+@attribute surplus numeric
+@attribute surpris numeric
+@attribute surrend numeric
+@attribute surviv numeric
+@attribute suspect numeric
+@attribute suspens numeric
+@attribute suspici numeric
+@attribute suspicion numeric
+@attribute sustain numeric
+@attribute sweden numeric
+@attribute swedish numeric
+@attribute sweep numeric
+@attribute symbol numeric
+@attribute sympathi numeric
+@attribute system numeric
+@attribute systemat numeric
+@attribute söderman numeric
+@attribute tabl numeric
+@attribute tackl numeric
+@attribute tact numeric
+@attribute tactic numeric
+@attribute talent numeric
+@attribute talk numeric
+@attribute tandem numeric
+@attribute tangibl numeric
+@attribute tantamount numeric
+@attribute tap numeric
+@attribute target numeric
+@attribute tariff numeric
+@attribute task numeric
+@attribute tax numeric
+@attribute taxpay numeric
+@attribute teach numeric
+@attribute teacher numeric
+@attribute team numeric
+@attribute tear numeric
+@attribute technic numeric
+@attribute technolog numeric
+@attribute telecom numeric
+@attribute telecommun numeric
+@attribute telefónica numeric
+@attribute telephon numeric
+@attribute televis numeric
+@attribute temporari numeric
+@attribute temporarili numeric
+@attribute ten numeric
+@attribute tender numeric
+@attribute tension numeric
+@attribute tentat numeric
+@attribute tenth numeric
+@attribute term numeric
+@attribute terribl numeric
+@attribute territori numeric
+@attribute terror numeric
+@attribute test numeric
+@attribute tetovo numeric
+@attribute text numeric
+@attribute textil numeric
+@attribute theato numeric
+@attribute theresa numeric
+@attribute thiev numeric
+@attribute thing numeric
+@attribute third-countri numeric
+@attribute thought numeric
+@attribute thousand numeric
+@attribute threat numeric
+@attribute threaten numeric
+@attribute three-way numeric
+@attribute threshold numeric
+@attribute thursday numeric
+@attribute tibetan numeric
+@attribute tie numeric
+@attribute tighten numeric
+@attribute timber numeric
+@attribute time numeric
+@attribute time-limit numeric
+@attribute timet numeric
+@attribute timid numeric
+@attribute timor numeric
+@attribute timores numeric
+@attribute tire numeric
+@attribute titl numeric
+@attribute today numeric
+@attribute token numeric
+@attribute told numeric
+@attribute toler numeric
+@attribute toll-gat numeric
+@attribute tomorrow numeric
+@attribute tonn numeric
+@attribute tool numeric
+@attribute top-level numeric
+@attribute topic numeric
+@attribute total numeric
+@attribute totalitarian numeric
+@attribute touch numeric
+@attribute tourism numeric
+@attribute town numeric
+@attribute trade numeric
+@attribute trademark numeric
+@attribute trader numeric
+@attribute tradit numeric
+@attribute traffic numeric
+@attribute traffick numeric
+@attribute tragedi numeric
+@attribute tragic numeric
+@attribute train numeric
+@attribute tranch numeric
+@attribute trans-european numeric
+@attribute transeuropean numeric
+@attribute transfer numeric
+@attribute transform numeric
+@attribute transit numeric
+@attribute translat numeric
+@attribute transmit numeric
+@attribute transpar numeric
+@attribute transport numeric
+@attribute travel numeric
+@attribute trawl numeric
+@attribute treat numeric
+@attribute treati numeric
+@attribute treatment numeric
+@attribute tree numeric
+@attribute trend numeric
+@attribute tri numeric
+@attribute tribun numeric
+@attribute tribut numeric
+@attribute trichet numeric
+@attribute triest numeric
+@attribute tripl numeric
+@attribute troika numeric
+@attribute trojan numeric
+@attribute truck numeric
+@attribute true numeric
+@attribute truli numeric
+@attribute truth numeric
+@attribute tsatso numeric
+@attribute turkey numeric
+@attribute turkish numeric
+@attribute turn numeric
+@attribute twin numeric
+@attribute type numeric
+@attribute tyranni numeric
+@attribute télécom numeric
+@attribute uclaf numeric
+@attribute ukip numeric
+@attribute ultim numeric
+@attribute unabl numeric
+@attribute unanim numeric
+@attribute unblock numeric
+@attribute uncertainti numeric
+@attribute undemocrat numeric
+@attribute under-repres numeric
+@attribute under-represent numeric
+@attribute underdevelop numeric
+@attribute undergon numeric
+@attribute underlin numeric
+@attribute undermin numeric
+@attribute underpin numeric
+@attribute underrepres numeric
+@attribute understand numeric
+@attribute understood numeric
+@attribute undertak numeric
+@attribute undertaken numeric
+@attribute undervalu numeric
+@attribute undoubt numeric
+@attribute unemploy numeric
+@attribute unequivoc numeric
+@attribute unfil numeric
+@attribute unfortun numeric
+@attribute unhcr numeric
+@attribute unifil numeric
+@attribute uniform numeric
+@attribute unilater numeric
+@attribute union numeric
+@attribute unit numeric
+@attribute univers numeric
+@attribute unleash numeric
+@attribute unlik numeric
+@attribute unload numeric
+@attribute unmark numeric
+@attribute unmik numeric
+@attribute unnecessari numeric
+@attribute unprofit numeric
+@attribute unspeak numeric
+@attribute untaint numeric
+@attribute unus numeric
+@attribute unwant numeric
+@attribute upgrad numeric
+@attribute upset numeric
+@attribute urban numeric
+@attribute urg numeric
+@attribute urgenc numeric
+@attribute urgent numeric
+@attribute usa numeric
+@attribute useless numeric
+@attribute user numeric
+@attribute usual numeric
+@attribute util numeric
+@attribute utri numeric
+@attribute uzbek numeric
+@attribute vacanc numeric
+@attribute vacant numeric
+@attribute vall numeric
+@attribute valu numeric
+@attribute valuabl numeric
+@attribute vari numeric
+@attribute vast numeric
+@attribute vat numeric
+@attribute ventur numeric
+@attribute verdict numeric
+@attribute verhofstadt numeric
+@attribute verona numeric
+@attribute version numeric
+@attribute vessel numeric
+@attribute vest numeric
+@attribute vet numeric
+@attribute veto numeric
+@attribute viabil numeric
+@attribute viabl numeric
+@attribute vice numeric
+@attribute vice-presid numeric
+@attribute vicechairman numeric
+@attribute victim numeric
+@attribute victimis numeric
+@attribute victoria numeric
+@attribute vieira numeric
+@attribute view numeric
+@attribute vigil numeric
+@attribute viii numeric
+@attribute villag numeric
+@attribute vindic numeric
+@attribute viola numeric
+@attribute violenc numeric
+@attribute violent numeric
+@attribute virtu numeric
+@attribute vision numeric
+@attribute visit numeric
+@attribute visitor numeric
+@attribute vital numeric
+@attribute vitorino numeric
+@attribute vocat numeric
+@attribute volunt numeric
+@attribute von numeric
+@attribute vote numeric
+@attribute vri numeric
+@attribute wait numeric
+@attribute walid numeric
+@attribute war numeric
+@attribute warm numeric
+@attribute washington numeric
+@attribute wast numeric
+@attribute watch numeric
+@attribute water numeric
+@attribute wathelet numeric
+@attribute wealthi numeric
+@attribute weapon numeric
+@attribute websit numeric
+@attribute week numeric
+@attribute weight numeric
+@attribute welcom numeric
+@attribute welfar numeric
+@attribute well-known numeric
+@attribute western numeric
+@attribute wheel numeric
+@attribute whilst numeric
+@attribute white numeric
+@attribute wholeheart numeric
+@attribute wide numeric
+@attribute wider numeric
+@attribute wim numeric
+@attribute win numeric
+@attribute winner numeric
+@attribute wise numeric
+@attribute withdraw numeric
+@attribute withhold numeric
+@attribute wogau numeric
+@attribute wolfowitz numeric
+@attribute woman numeric
+@attribute women numeric
+@attribute word numeric
+@attribute work numeric
+@attribute worker numeric
+@attribute world numeric
+@attribute worst numeric
+@attribute worthi numeric
+@attribute wrangl numeric
+@attribute wrest numeric
+@attribute writer numeric
+@attribute written numeric
+@attribute wrong numeric
+@attribute wrote numeric
+@attribute wto numeric
+@attribute xenophobia numeric
+@attribute xxiv numeric
+@attribute year numeric
+@attribute yesterday numeric
+@attribute young numeric
+@attribute younger numeric
+@attribute zimbabwean numeric
+@attribute zone numeric
+@attribute zur numeric
+@attribute classes {leitungsfunktion,postamt,post,poststelle,vertreter,funktion,managementqualitäten,rotation,levi,stellen,gorica,amt,planstelle,position,poststelleninfrastruktur,endspurt,verwaltungsposition,postsektors,dienstposten,temporären,hinteren,posten,verordnung,stock-taking,rechnungsführer,ausschreibungsfolgen,briefkasten,sekretär,nachträglichen,jumblatt,laufbahngründen,genutzt,fesselt,tierraststätten,aufenthaltsort,sitze,stelle,eu-grenzkontrollstellen,wahlkampfbeginn,führungsebene,beeinflusst,eu-postrichtlinie,lehrstuhl,ortstafel,pilatus,stellenbewilligungen,vizepräsidentenposten,stellenwechsel,höherstufung,nachträglich,postwesen,postminister,grenzposten,führungsposition,sendung,herauszufinden,zielgerade,Ämter,bekleiden,dauerplanstellen,personal,verwaltungsposten,einzuwerfen,nachgängige,postmonopol,twinning-projekte,stellenanforderung,eu-delegationsbüros,korrespondenz,staatsanwalt,postdienst,aufgabenprofil,nebelwand,schlüsselministerium,kehrtwenden,angestellt,unterausgelastet,aufgabenverteilung,mitteilung,maßnahmepaket,entscheidungsgremium,zwischenstadium,geladenen,optionsfrist,beinhalte,unsäglich,beamtenposten,übereinstimmende,bezöge,textilsektors,anstellung,forschungsposten,geschäftsstelle,postbehörde,augsburg,postzustellung,notar,a-bereich,raststätte,xxiv-dienststellen,hauptberichterstatters,richteramt,tätigkeitsfeld,euprogrammen,zollaußengrenze,klischeevorstellung,außerbilanzielle,mandat,interviewen,parteibiographie,pflichtversicherungssystemen,asiaten,görlitz,kommissariat,amtsantritt,okay,erstattenden,personalaufbau,arbeitsverhältnis,poststellennetzes,postdiensten,rentenfrage,Überwachungsfunktionen,ureigenen,spitzenfunktion,gleichwertigen,arbeitsunterlage,gebietsansässigen,ausschreibung,versicherungsprämie,führungskraft,standardpostsendung,losgesagt,personalstelle,postalischer,Ämtern,antrittsrede,posteingang,a-stellen,regionalforum,siegbert,transportgebühren,amtsbefugnis,allerheiligste,führungsfunktion,freistaat,erwerbung,extrabüro,generaldirektor,sprachendienst,erweiterungsreserve,forstökosysteme,investitionsprogramm,postsektoren,kandidat,stellenplan,hochqualifizierten,urkunde,postangestellte,stellung,hintergrundinformation,ruf,gleichstellungsbeauftragte,stellenausstattung,fraglich,verschicken,stellenmehrung,kroes,poststellennetz,minsk,mautstation,soria,eingangspost,karadjic,Ämteranhäufung,postverwaltung,arbeitsplatz,teilzeitarbeitsstellen,staatsgewalt,textkorrektoren,stellenausschreibung,bezifferten,rehabilitiert,ernennung,anhängiges,einschneidende,nichtnationalisten,herabsinkt,postsendung,weltwährungsfonds,achthunderttausend,truppendislozierung,tüchtige,beschäftigungsstruktur,belastung,grenzübergang,koordinationsmethode,militärrat,kernziele,abhörstation,entscheidungszentrum,oktroyierte,postfiliale,spendeneinnahme,agens,stellenkürzung,kandidieren,finanzmakler,jahresurlaube,inlandsendungen,unverfälschtes,kennenlernte,herausgehobenen,präsidentenämtern,talentierten,stellenbedarf,postweg,nachbereitung,ministerposten,hilfskraft,besetzen,auslandsbriefe,postfach,parteivorsitz,beraterposten,rechtsreferent,zurückstellung,abgezeichnet,mitreißenden,betreuer,sollten,hauptpostamt,stellenbesetzung,innenpolitische,markstein,gehaltsanpassung,einluden,borrell,bestätigt,stellenzuwächse,eu-außenministers,militärposten,scheck,internetseite,diabetes-pflegepersonal,gehaltszahlung,nachbesetzt,vertraute,überrumpelt,zollstelle,amtsträger,monsieur,briefpost,tiefschürfenden,leiter,umweltschutzprogramm,post-ag,condicio,leitungsverfahren,enthoben,hinschicken,entscheidungsposition,verfassungsrichter,anteile,grenzkontrollstelle,sicherheitsrahmens,eu-botschafter,kalten,evaluieren,nachkontrollen,ansprechpartner,akademischen,lehrerstelle,kontrollpunkt,eilpost,nicht-dauerplanstellen,implementierungszahlen,krieg,einräumen,inspektor,aufgabenbereich,nomenklatur,etappe,vorbereitungszeit,kommissionsposten,zielpunkt,beamtenstelle,herumreichen,péry,spitzenmandat,zollbeamte,miti-ministerium,todesschein,bewertungsbericht,scheinarbeitsverhältnissen,klemmt,amtsübernahme,haushaltskontrollverfahren,führungsebenen,mitglied,professioneller,post-kontrolle,risikokapitalprogramme,aufwand,post-nizza,mitarbeiter,lebensfähiger,datenschutzinstrumente,kontrollposten,wiederingangsetzung,spielball,kopenhagen,briefkästen,bewerben,gipfelpunkt,kommissarskandidat,standort,zollstation,schlagbaum,systemeinführung,postverteilung,zusammenstieß,ministeramt,rechenschaftsbericht,treffer,erdenklich,a-laufbahngruppen,zwischenstation,mondengwo,beantragten,postorganisation,postfrage,grenzkontrollposten,poplasen,koordinatorin}
+
+@data
+{47 1,319 1,548 1,799 1,1016 1,1437 1,1640 1,1753 1,1769 1,1852 1,1937 1,2000 1,2302 1,2598 1}
+{445 1,849 1,923 1,1375 1,1619 1,1774 1,2063 1,2097 1,2132 1,2558 1,2621 postamt}
+{238 1,363 1,465 1,488 1,507 1,568 1,570 1,572 1,1184 1,1559 1,1619 1,1632 1,1872 1,2442 1,2621 postamt}
+{79 1,334 1,433 1,453 1,546 1,651 1,862 1,962 1,975 1,1206 1,1295 1,1830 1,1869 1,2203 1,2547 1,2621 post}
+{405 1,614 1,800 1,815 1,837 1,850 1,1364 1,1394 1,1600 1,1619 1,1640 1,1660 1,1753 1,1774 2,1857 1,1943 1,2132 1,2237 1,2493 1,2621 poststelle}
+{433 1,850 1,1330 1,1470 2,1801 1,2181 1,2244 2,2621 vertreter}
+{47 1,393 2,399 1,422 1,451 1,779 1,780 1,809 1,890 1,1470 1,1555 1,1686 1,1716 1,1755 2,1872 1,1993 1,2010 1,2122 1,2244 1,2493 1,2554 1,2621 funktion}
+{6 1,138 1,209 1,319 1,323 1,433 1,649 1,857 1,962 1,1072 1,1136 1,1174 1,1203 1,1437 1,1477 1,1819 1,1970 1,2121 1,2621 managementqualitäten}
+{402 1,433 1,570 1,591 1,850 1,1142 1,1360 1,1679 1,2054 1,2121 1,2317 1,2621 rotation}
+{726 1,934 1,1239 1,1251 1,1359 1,1365 1,2621 levi}
+{47 1,70 1,124 1,295 1,433 1,727 1,850 1,877 2,1624 1,1749 1,1793 1,1997 1,2236 1,2458 1,2621 stellen}
+{62 1,148 1,175 1,500 1,548 1,826 1,895 1,1096 1,1234 1,1300 1,1600 1,1753 1,1863 1,1924 1,1997 1,2269 1,2412 1,2526 1,2614 2,2621 stellen}
+{273 1,1047 1,1266 1,2178 1,2621 gorica}
+{16 1,104 1,172 1,214 1,434 1,453 1,496 1,688 1,722 1,1130 1,1189 1,1318 1,1362 1,1393 1,1474 1,1741 1,1846 1,1859 1,2277 1,2300 1,2353 1,2600 1,2621 post}
+{138 1,182 2,674 1,948 1,949 2,1345 1,1468 1,1590 1,1829 1,1930 1,2488 1,2621 amt}
+{313 1,377 1,433 1,862 1,1109 1,1594 1,1834 1,2429 1,2621 planstelle}
+{290 1,353 1,691 1,1110 1,1992 1,1993 1,2621 amt}
+{42 1,196 1,296 1,433 1,469 1,596 1,612 1,800 1,991 1,1830 1,1997 1,2577 1,2614 1,2621 stellen}
+{166 1,272 1,426 1,433 1,850 1,1076 1,1192 1,1239 1,1611 1,1803 1,1815 1,1845 1,1978 1,2039 1,2147 1,2362 1,2556 1,2610 1,2621 position}
+{260 1,1313 1,1619 1,1633 1,1825 1,1872 1,2161 1,2405 1,2458 1,2494 1,2621 post}
+{6 1,563 1,726 1,1015 1,1204 1,1551 1,1619 1,1774 1,2063 1,2132 1,2621 poststelleninfrastruktur}
+{282 1,1086 1,2210 1,2524 1,2621 post}
+{941 1,1044 1,1381 1,1535 1,1915 1,2621 endspurt}
+{540 1,1115 1,1364 1,1436 1,2086 1,2598 1,2621 verwaltungsposition}
+{25 1,259 1,571 1,962 1,1006 1,1271 1,1362 1,1574 2,1874 1,1918 1,2237 1,2621 post}
+{132 1,771 1,1006 1,1071 1,1574 1,1618 1,1872 1,2226 1,2621 post}
+{36 1,73 1,433 1,1130 1,1624 2,1771 1,1892 1,1937 1,1955 1,1987 1,2197 1,2621 stellen}
+{452 1,638 1,662 1,805 1,1470 1,1619 1,1631 1,2110 2,2179 1,2214 1,2244 1,2400 1,2435 1,2562 1,2595 1,2621 postsektors}
+{548 1,587 1,850 1,1061 1,1442 1,1679 1,2052 1,2132 1,2237 1,2264 1,2429 1,2599 1,2621 planstelle}
+{433 1,633 1,884 1,1401 1,1609 1,1620 1,1769 1,1836 1,2621 dienstposten}
+{196 1,296 1,1975 1,2621 stellen}
+{925 1,934 1,1428 1,1910 1,1937 1,1941 1,2326 1,2621 stellen}
+{285 1,2363 1,2412 1,2621 temporären}
+{433 1,434 1,934 1,2621 stellen}
+{22 1,62 1,148 1,316 1,433 1,439 1,602 1,652 1,850 2,895 1,969 2,1110 1,1224 1,1753 1,1755 1,1766 1,1967 1,1993 1,2111 1,2266 1,2309 1,2621 amt}
+{16 1,17 1,208 1,591 1,714 1,907 1,1069 1,1187 1,1250 1,1329 1,1354 1,1389 1,1470 2,1571 1,1606 1,1950 1,2139 1,2214 2,2394 1,2563 1,2614 1,2621 hinteren}
+{74 1,249 1,405 1,467 1,545 1,927 1,962 1,1040 1,1061 1,1086 1,1087 1,1130 1,1160 1,1389 1,1456 1,1470 1,1907 1,2110 1,2621 post}
+{200 1,297 1,459 1,797 1,830 1,992 2,1000 1,1110 1,1412 1,1517 1,1619 1,1723 1,1749 1,1774 2,1776 1,1816 1,1869 1,1872 1,1965 1,2132 2,2156 1,2348 1,2523 1,2584 1,2601 1,2621 poststelle}
+{513 1,1188 1,1307 1,1381 1,1482 1,2342 1,2577 1,2621 posten}
+{73 1,591 1,596 1,1090 1,1136 1,1690 1,1890 2,1962 1,2402 1,2480 1,2621 verordnung}
+{29 1,319 1,402 1,433 2,445 1,467 2,540 1,601 1,1158 1,2153 1,2218 1,2260 1,2614 1,2621 stock-taking}
+{55 2,510 1,891 1,895 2,1151 1,1218 1,1220 1,1859 1,1869 1,1992 1,2249 1,2437 1,2466 1,2621 stellen}
+{22 1,319 1,895 1,1619 1,1925 1,2249 1,2621 rechnungsführer}
+{55 1,204 1,467 1,538 1,855 1,895 1,1049 1,1251 1,1325 1,1937 1,2127 1,2249 1,2621 ausschreibungsfolgen}
+{279 1,583 1,750 1,1037 1,1250 1,1561 1,1761 1,2023 1,2133 1,2243 1,2621 briefkasten}
+{62 1,969 1,1859 1,2106 1,2493 1,2621 sekretär}
+{402 1,445 1,664 1,839 1,874 1,1049 1,1234 1,1306 1,1361 1,1601 1,1621 1,1691 1,1829 1,2443 1,2621 nachträglichen}
+{213 1,252 1,479 1,865 1,1026 1,1296 1,1339 1,1612 1,1616 1,1822 1,1887 1,2077 1,2479 2,2566 1,2603 1,2621 jumblatt}
+{191 1,327 1,488 1,546 2,901 1,1110 1,1398 1,1640 1,1719 1,1829 2,1838 1,1852 1,1885 1,1925 1,2005 1,2235 1,2236 1,2237 2,2251 1,2600 1,2621 laufbahngründen}
+{137 1,516 1,540 1,907 1,1471 1,1784 1,2107 1,2139 1,2621 posten}
+{257 1,332 1,810 1,874 2,1160 2,1264 1,1753 1,1955 1,1966 1,2237 2,2507 1,2600 1,2621 stellen}
+{3 1,363 1,595 1,839 1,1016 1,1679 1,1783 1,2125 1,2621 posten}
+{119 1,295 1,488 1,691 1,810 1,1808 1,2356 1,2621 genutzt}
+{2000 1,2621 stellen}
+{39 1,109 1,125 1,250 1,346 1,354 1,463 1,494 1,836 1,1382 1,1419 1,1576 1,1711 1,1803 1,2053 1,2439 1,2599 1,2621 fesselt}
+{17 1,175 1,597 1,901 1,1061 1,1220 1,1336 1,1461 1,1755 2,1769 2,1780 1,1800 1,1829 1,1920 1,2216 1,2598 2,2621 position}
+{365 1,442 1,451 1,452 1,548 1,874 1,894 1,1247 1,1410 1,1446 1,1632 1,1774 1,1872 1,1909 1,2030 1,2042 1,2621 post}
+{787 1,1155 1,1205 1,1732 1,1831 1,1872 1,2621 post}
+{115 1,400 1,837 1,1926 1,2011 1,2238 1,2451 1,2498 1,2572 1,2621 tierraststätten}
+{349 1,1870 1,1998 1,2238 1,2621 aufenthaltsort}
+{16 1,18 1,21 1,319 2,321 1,715 1,779 1,863 1,934 1,1203 1,1600 2,1830 1,1859 1,2060 2,2621 sitze}
+{104 1,295 1,298 1,582 1,792 1,850 1,1470 1,1863 1,2161 1,2274 1,2312 1,2510 1,2563 1,2621 stelle}
+{36 1,151 1,473 1,492 1,746 1,918 1,1016 1,1045 1,1160 1,1162 1,1480 1,1516 1,1679 1,1821 1,1969 1,2000 1,2133 1,2621 stellen}
+{42 1,273 1,331 1,375 1,823 1,1160 1,1214 1,1605 1,1749 1,1836 1,2621 eu-grenzkontrollstellen}
+{187 1,204 1,293 1,1064 1,1068 1,1364 1,1470 1,1619 1,1692 1,2621 post}
+{6 1,433 1,434 1,774 1,876 1,929 1,946 1,1160 1,1368 1,1389 1,1892 1,2205 1,2621 posten}
+{443 1,548 1,584 1,599 1,935 1,1627 1,1750 1,2621 amt}
+{10 1,62 1,73 1,434 1,503 1,549 1,800 1,849 1,850 1,856 1,969 1,1106 1,1288 1,1470 1,1495 1,1600 1,1778 1,1786 1,1803 1,1944 1,1946 1,2054 1,2244 1,2621 posten}
+{233 1,317 1,433 1,584 1,706 1,779 1,1049 2,1351 1,1636 1,1803 1,1929 1,2621 wahlkampfbeginn}
+{64 1,1292 1,1401 1,1433 1,1477 1,1493 1,1755 1,1884 1,1970 1,2195 1,2302 1,2621 amt}
+{433 1,467 1,1033 1,1324 1,1436 1,1474 1,1600 1,1612 1,1751 1,1754 1,1803 1,2207 1,2621 führungsebene}
+{540 1,575 1,899 1,1388 1,1459 1,1829 1,1929 1,2008 1,2412 1,2621 posten}
+{144 1,153 1,694 1,1025 1,1239 1,1261 2,1277 1,1490 1,1603 1,1801 1,1818 1,1917 1,1920 1,2134 1,2140 1,2272 1,2492 1,2621 post}
+{19 1,135 1,230 1,274 1,511 1,540 2,624 1,652 2,704 1,1230 1,1344 1,1470 1,1488 1,1635 1,2009 1,2443 1,2621 beeinflusst}
+{256 1,672 1,1364 1,1551 1,1799 1,2079 1,2621 eu-postrichtlinie}
+{476 1,504 1,1336 1,1404 1,1418 1,1755 1,1808 1,2364 1,2495 1,2621 lehrstuhl}
+{225 1,328 1,546 1,1604 1,1882 1,2156 1,2255 1,2319 1,2370 1,2439 1,2529 1,2621 ortstafel}
+{1098 1,1208 1,1733 1,2542 1,2621 pilatus}
+{1740 1,1774 1,1893 1,2132 1,2179 1,2294 3,2621 post}
+{200 1,536 1,829 1,1327 1,2132 1,2188 1,2370 1,2621 post}
+{862 1,1046 1,1313 1,1568 1,1619 1,1763 1,1771 1,1823 1,1841 1,1869 1,2132 2,2494 1,2621 post}
+{47 1,140 1,142 1,433 1,434 1,467 1,533 1,812 1,1086 1,1950 1,2008 1,2370 1,2429 1,2480 1,2621 stellenbewilligungen}
+{196 2,199 1,296 1,536 1,552 1,596 1,752 1,839 1,1182 1,1381 1,1659 1,1741 1,1803 1,2170 1,2621 posten}
+{148 1,662 1,766 1,1155 1,1610 1,1619 1,1633 1,1679 1,1715 1,1872 1,2063 1,2188 1,2204 1,2291 1,2509 1,2517 1,2621 postamt}
+{36 1,356 1,400 1,534 1,548 1,619 1,709 1,820 1,859 1,878 1,907 1,1069 4,1127 1,1174 1,1471 1,1538 1,1679 1,1781 1,1851 1,1871 1,1895 2,1950 1,2317 1,2436 1,2541 1,2621 vizepräsidentenposten}
+{363 1,433 1,1218 1,1924 1,1985 1,2132 1,2237 1,2621 stellenwechsel}
+{133 1,723 1,992 1,1036 1,1130 1,1369 1,1470 1,1777 1,1989 1,2209 1,2244 1,2621 post}
+{138 1,196 1,1041 1,1138 1,1301 1,1302 1,1859 2,1967 1,2007 1,2218 1,2475 1,2507 1,2621 höherstufung}
+{353 1,591 1,652 1,850 1,894 1,1062 1,1121 1,1201 1,1312 1,1524 1,1679 1,2443 1,2621 nachträglich}
+{500 1,593 1,613 1,820 2,850 1,1362 1,1619 1,1772 1,2082 2,2132 1,2443 1,2621 post}
+{34 1,98 1,331 1,452 1,540 1,548 1,596 1,638 1,850 1,935 1,967 1,1517 1,1557 1,1619 1,1679 1,1682 1,1769 1,1774 1,1811 1,1914 1,1917 1,2614 1,2621 postwesen}
+{433 1,918 1,1432 1,1490 1,1619 1,1872 1,2132 1,2621 postminister}
+{316 1,381 1,546 1,596 1,661 1,750 1,751 1,850 2,1289 1,1300 2,1443 1,1490 1,1543 1,1547 1,1672 1,1718 1,1719 1,1969 1,2003 1,2324 1,2621 amt}
+{52 1,141 1,151 1,241 1,267 1,295 1,513 1,540 2,937 2,1011 1,1332 1,1725 2,1744 1,1771 1,1907 1,1920 1,2010 2,2038 1,2281 1,2429 1,2621 post}
+{22 1,69 1,109 1,433 1,470 1,691 1,1170 1,1380 1,1797 1,1872 1,2225 1,2439 1,2621 stelle}
+{437 1,1284 1,1589 1,1830 1,1872 1,2621 stellen}
+{273 2,390 1,405 1,492 1,507 1,682 1,759 1,849 1,898 1,1002 1,1398 2,1586 1,1749 1,1750 1,1830 1,1901 1,2016 1,2262 1,2381 1,2425 1,2435 1,2621 grenzposten}
+{105 1,166 1,331 1,499 1,508 1,529 1,587 1,895 1,1333 1,1436 1,1600 1,1975 1,2121 1,2149 1,2237 1,2349 1,2521 1,2584 1,2614 1,2621 führungsposition}
+{36 1,39 1,136 1,162 1,225 2,494 1,536 2,558 1,662 2,705 2,715 1,816 1,1205 1,1240 1,1470 1,1551 2,1771 1,1870 1,2132 1,2244 1,2348 1,2439 1,2621 sendung}
+{38 1,363 1,766 1,894 1,1008 1,1070 1,1160 1,1194 2,1197 1,1890 1,1892 1,1975 1,2029 1,2110 1,2243 1,2262 1,2621 herauszufinden}
+{481 1,779 1,1160 1,1803 1,2621 position}
+{16 1,109 1,483 1,518 1,538 1,549 1,810 1,1158 1,1220 1,1955 1,1966 1,1997 1,2237 1,2439 1,2507 1,2621 stellen}
+{433 2,689 1,835 1,1046 1,1055 1,1142 1,1243 1,1437 1,1537 1,1769 1,2598 1,2621 führungsposition}
+{434 1,439 1,540 1,603 1,970 1,1644 1,1658 1,2621 amt}
+{253 1,405 1,902 1,925 1,941 1,1069 1,1140 1,1242 1,1347 1,1950 1,2621 zielgerade}
+{75 1,104 1,295 1,296 2,316 1,433 1,434 1,437 2,467 1,513 2,598 1,896 1,902 1,1061 1,1243 1,1456 1,1801 1,1919 1,2133 1,2263 1,2315 1,2621 stellen}
+{47 1,264 1,433 1,568 1,1219 1,1312 1,1423 1,1803 2,1834 1,2030 1,2054 1,2121 1,2621 Ämter}
+{185 1,327 1,433 1,1061 1,1700 1,1852 1,2040 1,2121 1,2598 1,2621 bekleiden}
+{1769 1,1930 1,2621 amt}
+{175 1,433 1,1459 1,1619 1,1620 1,1713 1,1716 1,2349 1,2356 1,2363 1,2621 dauerplanstellen}
+{34 1,415 1,439 1,511 1,549 1,774 1,969 1,1428 1,1753 1,2111 1,2349 1,2621 amt}
+{439 1,481 1,850 1,969 1,1110 2,1414 1,1640 1,1753 1,1803 1,1993 2,1998 1,2111 1,2294 1,2493 1,2568 1,2621 amt}
+{124 1,295 1,331 1,831 1,1182 1,1473 2,1600 1,1619 1,1624 1,2349 1,2621 personal}
+{26 1,51 1,118 1,339 1,363 1,433 2,829 1,854 1,929 1,1155 1,1436 1,1635 1,1769 1,1845 1,2016 1,2025 1,2158 1,2170 1,2237 1,2347 1,2621 verwaltungsposten}
+{538 1,662 1,729 1,1362 1,1363 1,1488 1,2621 einzuwerfen}
+{138 1,402 1,484 1,797 1,1050 2,1059 1,1094 1,1104 1,1110 1,1129 2,1347 1,1420 2,1435 1,1767 3,1803 1,2046 1,2227 1,2372 1,2453 1,2545 1,2621 amt}
+{122 1,568 1,773 1,1323 1,1920 1,2010 1,2016 1,2223 1,2621 nachgängige}
+{1164 1,1946 1,2621 Ämter}
+{148 1,200 1,391 1,595 1,862 1,1000 1,1206 1,1218 1,1236 1,1619 1,1774 1,1829 1,1872 1,2132 1,2509 1,2607 1,2621 postamt}
+{486 1,540 1,832 1,849 1,1517 1,1619 1,2132 1,2621 postmonopol}
+{319 1,334 1,434 2,467 1,672 1,1239 1,1510 1,1620 1,1720 1,1766 1,2151 1,2621 planstelle}
+{433 1,800 1,850 1,953 1,1097 1,1281 1,1551 1,1679 1,1890 1,1892 1,2054 1,2121 1,2288 1,2458 1,2621 führungsposition}
+{545 1,691 1,891 1,918 1,1953 1,2614 1,2621 stellen}
+{47 2,55 1,148 1,395 1,433 1,801 1,1394 1,1470 1,1733 1,1771 1,1845 1,1848 1,1935 1,2244 1,2317 1,2459 1,2500 2,2587 1,2621 twinning-projekte}
+{233 1,433 2,455 1,559 1,628 1,861 2,1340 1,1713 1,1803 1,1934 1,1997 1,2133 1,2170 1,2236 1,2349 1,2600 1,2614 1,2621 stellenanforderung}
+{28 1,395 1,522 1,597 1,609 1,777 1,1086 1,1189 1,1339 1,1551 1,1687 1,1755 1,1780 1,1845 1,2095 1,2169 1,2190 1,2244 1,2269 1,2621 eu-delegationsbüros}
+{214 1,547 1,1160 1,1264 1,1803 1,1850 1,1992 1,2614 1,2621 korrespondenz}
+{17 1,54 1,63 2,148 1,220 1,407 1,428 1,652 1,676 1,1204 1,1247 1,1369 1,1394 1,1400 1,1461 1,1619 1,1771 2,1774 1,1930 1,1944 1,1957 1,2063 4,2087 1,2132 1,2323 1,2386 1,2507 1,2621 postamt}
+{433 1,876 1,969 1,1130 1,1160 1,1281 1,1869 1,2244 1,2621 stellen}
+{51 1,578 1,619 1,640 1,815 1,839 1,850 1,1071 2,1174 1,1209 1,1294 1,1372 1,1528 1,1576 1,1859 1,1861 2,1872 1,1925 1,1946 1,1955 1,1997 1,2255 1,2563 1,2621 staatsanwalt}
+{452 1,570 1,613 1,825 1,1254 2,1364 1,1394 1,1430 1,1619 1,2016 1,2132 1,2323 1,2495 1,2621 postamt}
+{148 1,446 1,794 1,1159 1,1369 1,1774 1,1823 1,1859 1,2063 1,2132 1,2331 1,2515 1,2621 post}
+{94 1,405 1,500 1,794 1,1619 1,2621 postdienst}
+{226 1,319 2,387 1,559 1,703 1,751 1,902 1,1110 1,1251 1,1840 1,1884 1,1890 1,1967 1,2116 1,2301 1,2349 1,2597 1,2621 aufgabenprofil}
+{80 1,262 1,263 1,388 1,452 1,620 2,781 1,791 1,793 1,850 2,962 1,1010 1,1022 1,1034 1,1158 1,1160 1,1264 1,1369 1,1394 1,1446 1,1517 1,1619 1,1631 1,1685 1,1833 1,1872 1,1890 1,2165 1,2222 1,2621 nebelwand}
+{14 1,16 1,36 1,42 1,48 1,87 2,175 1,429 1,555 1,772 1,819 1,916 1,1013 1,1034 1,1084 1,1114 1,1179 1,1310 1,1319 1,1336 1,1421 2,1491 1,1510 1,1612 1,1690 1,1951 1,2005 1,2174 1,2243 1,2244 1,2375 1,2453 1,2495 1,2614 1,2621 schlüsselministerium}
+{8 1,902 1,1119 1,1301 1,1753 1,2621 kehrtwenden}
+{143 1,902 1,1172 1,1423 1,1803 1,2615 1,2621 stellen}
+{50 1,260 1,295 1,304 1,375 1,437 1,467 1,533 1,894 1,1035 1,1329 1,1423 1,1456 1,1496 3,1803 1,1992 1,2108 1,2211 1,2244 2,2532 3,2621 stellen}
+{238 1,488 1,570 1,793 1,1264 1,1310 1,2363 1,2598 1,2616 1,2621 angestellt}
+{204 1,557 1,595 1,609 1,709 1,1603 1,1660 1,2237 1,2621 unterausgelastet}
+{1235 1,1380 1,2506 1,2621 post}
+{42 1,143 1,196 1,296 1,433 1,2614 1,2621 stellen}
+{68 1,96 1,297 1,304 1,595 1,1510 1,1859 1,1929 1,1967 2,2010 2,2615 1,2621 aufgabenverteilung}
+{433 1,434 1,442 1,539 1,1769 1,1929 1,1992 1,2122 1,2269 1,2314 1,2559 1,2621 mitteilung}
+{416 1,507 1,715 1,754 1,774 1,1016 1,1100 1,1275 1,1376 1,1619 1,1753 1,2122 1,2549 2,2621 postamt}
+{319 1,329 1,393 1,421 1,548 1,917 1,1281 1,1367 1,1619 1,1907 1,2121 1,2621 stelle}
+{51 1,180 1,850 1,1090 1,1158 1,1461 1,1663 1,1753 1,2621 maßnahmepaket}
+{240 1,507 1,785 1,1277 2,1279 1,1316 1,1470 1,1851 1,2621 post}
+{445 1,458 1,597 1,829 1,850 1,936 1,1013 1,1062 1,1472 1,1516 1,1603 1,1686 1,1845 1,1852 1,1879 1,2439 1,2598 2,2621 entscheidungsgremium}
+{906 1,1679 1,1982 1,2010 1,2621 position}
+{159 1,180 2,433 1,442 1,455 1,517 1,523 1,624 1,1138 1,1228 1,1243 1,1470 1,1481 1,1631 1,1753 1,1876 1,1934 1,2043 1,2186 1,2225 1,2238 1,2244 1,2477 1,2621 zwischenstadium}
+{39 1,42 2,140 1,148 1,775 1,810 1,827 1,1061 1,1624 1,1679 1,1796 1,2111 1,2621 stellen}
+{42 2,143 1,433 2,538 2,662 1,810 1,1966 1,2062 1,2621 stellen}
+{22 2,35 1,55 1,80 1,104 2,191 1,196 2,197 1,296 1,363 1,895 1,937 2,1203 1,1234 1,1364 1,1619 2,1859 1,1962 1,1967 1,1992 1,2546 1,2621 stellen}
+{437 1,692 1,1160 1,1250 1,1436 1,1612 1,1645 1,2621 geladenen}
+{137 1,323 1,478 1,540 1,545 1,548 1,584 1,1215 2,1572 1,1769 1,1806 1,1885 1,2577 1,2621 planstelle}
+{135 1,202 1,334 1,402 1,850 1,873 1,939 1,1177 1,1228 1,1354 1,1438 1,1470 1,1638 1,1679 1,1714 1,1869 1,2170 1,2621 optionsfrist}
+{34 1,467 1,769 1,800 1,976 1,1329 1,1357 1,1620 1,1771 1,1828 1,1835 1,1872 1,1979 1,1992 1,2132 1,2300 1,2614 1,2621 stellen}
+{239 1,265 1,437 1,595 1,597 1,730 1,800 1,924 1,1174 1,1234 2,1536 1,1626 2,1895 1,1903 1,2000 1,2170 1,2275 1,2546 2,2598 1,2621 posten}
+{47 1,130 1,850 1,876 1,1347 1,1679 1,1957 1,2121 1,2147 1,2522 1,2621 funktion}
+{494 1,538 1,592 1,597 1,879 1,1256 1,1347 1,1403 1,1917 1,1934 1,2190 1,2270 1,2472 1,2483 1,2505 1,2598 1,2621 beinhalte}
+{849 1,900 1,1160 1,1563 1,1619 2,1774 1,2599 1,2609 1,2621 postamt}
+{45 1,47 1,57 1,117 1,138 1,191 1,234 1,303 1,366 1,528 5,546 1,662 1,685 1,813 1,1166 1,1251 2,1470 1,1528 1,1631 1,1793 1,1803 1,1831 1,1925 1,1950 2,1982 1,2016 1,2108 1,2133 1,2237 1,2381 1,2621 amt}
+{115 1,431 1,433 1,467 1,1389 1,1470 1,1803 1,1934 1,2238 1,2435 1,2493 1,2621 tierraststätten}
+{238 1,1160 1,1310 1,1955 1,2020 1,2238 1,2546 1,2621 tierraststätten}
+{143 1,203 1,358 1,436 1,1061 1,1137 1,1456 1,2161 1,2621 posten}
+{433 1,434 1,902 1,1049 1,1551 1,1794 1,2003 1,2241 1,2621 posten}
+{224 1,238 1,431 1,433 1,481 1,850 1,1016 1,1160 1,1579 1,1749 1,1803 2,2621 posten}
+{158 1,439 1,499 1,538 1,596 1,850 2,1191 1,1470 2,1769 1,1815 1,2159 2,2170 1,2244 2,2493 2,2621 amt}
+{62 1,185 1,309 1,434 1,690 1,702 1,733 1,1123 1,1300 1,1433 1,1872 1,1976 1,2503 1,2621 unsäglich}
+{258 1,540 1,655 1,868 1,869 1,1611 1,1632 1,1904 1,2525 1,2587 1,2621 stellen}
+{334 1,395 1,433 1,709 1,1218 1,1470 1,2131 1,2244 1,2488 1,2621 beamtenposten}
+{434 1,436 1,1046 1,1059 1,2579 1,2621 amt}
+{58 1,73 1,380 1,637 1,673 1,674 2,1094 1,1121 1,1751 1,1754 1,2165 1,2494 1,2621 posten}
+{378 1,460 1,467 1,613 1,912 2,913 1,1137 1,1176 1,1264 1,1701 2,1836 1,1853 1,1858 1,1929 1,1956 1,2024 1,2165 1,2614 1,2621 post}
+{51 1,75 1,538 2,850 1,1130 1,1232 1,1337 1,1453 1,1469 1,1679 1,1769 1,2129 1,2238 1,2621 übereinstimmende}
+{540 2,850 1,907 1,1114 1,1407 1,1470 1,1679 1,1929 2,2074 2,2121 1,2159 1,2394 1,2621 bezöge}
+{419 1,433 1,473 1,540 1,599 1,691 1,767 1,850 1,857 1,890 1,1168 1,1194 1,1406 1,1470 1,1483 1,1778 1,2061 1,2110 2,2377 2,2546 1,2621 textilsektors}
+{204 1,453 1,934 1,1929 1,1937 1,2121 1,2621 anstellung}
+{584 1,613 1,1087 1,1405 1,2577 1,2621 post}
+{62 1,800 1,849 1,862 1,1432 1,1801 1,1823 1,1872 1,1977 1,1999 3,2363 1,2621 forschungsposten}
+{63 1,334 1,572 1,711 1,780 1,1619 2,1774 3,1869 1,2061 1,2132 2,2203 1,2621 geschäftsstelle}
+{36 1,169 1,260 1,334 1,407 1,608 1,614 1,623 1,650 1,815 1,918 1,1601 1,1619 1,1774 1,1946 1,2110 1,2276 1,2293 1,2601 1,2621 postamt}
+{581 1,828 1,1855 1,2003 1,2216 1,2615 1,2621 amt}
+{17 1,302 1,810 1,937 1,1049 1,1138 1,1749 1,1796 1,1967 1,1997 1,2007 1,2050 1,2621 stellen}
+{295 1,846 1,1366 1,1470 1,1473 1,1487 1,1943 1,2074 1,2244 1,2621 stellen}
+{936 1,1557 1,1619 2,1640 1,1774 1,1841 1,1869 1,2000 1,2132 3,2495 1,2502 1,2621 postbehörde}
+{288 1,487 1,493 1,500 1,1049 1,1619 1,1741 1,1823 1,1966 1,2011 1,2621 postbehörde}
+{192 1,293 1,584 1,930 1,1915 1,2227 1,2621 augsburg}
+{148 1,614 1,835 1,1160 1,1431 1,1981 1,2063 1,2132 1,2495 1,2621 postzustellung}
+{59 1,118 1,295 1,437 1,839 1,861 1,1741 1,1830 1,1890 1,2621 planstelle}
+{323 1,536 1,559 1,774 1,805 1,837 1,1028 1,1160 1,1281 1,1823 1,1872 1,1890 1,2110 2,2132 1,2275 1,2328 1,2358 1,2370 1,2391 1,2417 1,2435 1,2600 2,2621 post}
+{67 1,209 1,380 1,434 1,850 1,1344 1,1347 1,1561 1,1890 1,2147 1,2208 1,2342 1,2417 1,2493 1,2621 posten}
+{361 1,732 1,779 1,902 1,1347 1,1405 1,1470 1,1593 1,1872 1,2402 1,2621 notar}
+{433 1,715 1,849 1,1194 1,1401 1,1921 1,2110 1,2202 1,2359 1,2565 1,2621 postwesen}
+{623 1,773 1,877 1,945 1,1053 1,1054 1,1182 1,1373 1,1600 1,1859 1,1943 1,1975 1,1998 1,2101 2,2621 a-bereich}
+{92 1,96 1,104 1,286 1,295 1,433 1,467 1,548 1,727 1,770 1,790 1,819 1,864 1,890 1,1058 1,1281 1,1335 1,1487 1,1619 1,1718 1,1821 1,1882 1,1907 1,1955 1,2000 1,2075 1,2293 1,2315 1,2418 1,2621 stellen}
+{42 1,143 1,175 1,295 1,433 1,437 2,523 1,596 1,774 1,815 1,1058 1,1166 1,1436 1,1460 1,1679 1,1985 1,2093 1,2206 1,2613 1,2621 planstelle}
+{47 1,295 1,365 1,569 1,574 1,865 1,937 1,1000 1,1013 1,1028 1,1049 1,1140 1,1351 1,1787 1,1931 1,2016 1,2130 1,2170 1,2179 1,2238 1,2465 1,2621 raststätte}
+{538 1,561 1,595 1,672 1,1176 1,1368 1,1426 1,1679 1,1777 1,2614 1,2621 post}
+{210 1,439 1,614 1,650 1,718 1,1015 1,1470 1,1769 1,1975 1,2242 1,2244 1,2621 post}
+{17 1,226 1,393 1,540 1,829 1,1015 1,1771 1,1957 1,2132 1,2213 1,2621 postdienst}
+{322 1,368 1,920 1,1035 1,1061 1,1424 1,1599 1,1619 1,1699 1,1903 1,1930 1,2621 post}
+{51 1,91 1,294 1,608 1,932 1,1229 1,2016 1,2132 1,2315 1,2613 1,2621 xxiv-dienststellen}
+{32 1,185 1,285 1,295 2,296 1,358 1,439 1,732 1,783 1,827 1,837 1,902 1,949 3,986 1,1028 1,1158 1,1237 1,1540 1,1610 1,1640 1,1741 1,1753 1,1771 1,1803 1,1830 1,1857 1,1907 2,1944 1,1967 1,2621 hauptberichterstatters}
+{16 1,237 1,316 1,546 1,596 1,661 1,750 1,850 1,1289 1,1300 2,1443 1,1490 1,1521 1,1640 1,1718 1,1719 1,1749 1,1755 1,1969 1,2003 1,2010 1,2573 1,2621 richteramt}
+{295 1,433 1,1405 1,1869 1,2621 stellen}
+{33 1,34 1,445 2,481 1,829 2,835 1,1160 1,1429 1,1472 1,1635 1,1753 1,1852 1,1932 1,2598 1,2621 tätigkeitsfeld}
+{19 1,162 1,226 1,293 1,304 1,371 1,417 1,531 1,794 1,821 1,1079 1,1557 1,1771 1,1803 1,1869 1,1890 1,2007 1,2052 1,2081 1,2109 1,2167 1,2371 1,2600 1,2621 poststelle}
+{75 2,561 1,672 1,1000 1,1035 1,1325 1,1561 1,1644 1,1774 1,1809 1,1964 2,2132 1,2186 1,2337 1,2621 post}
+{320 1,586 1,2337 1,2402 1,2521 1,2540 1,2621 amt}
+{226 1,433 1,691 1,772 1,1845 1,1859 1,1869 1,1872 1,1930 1,2621 euprogrammen}
+{273 1,572 3,770 1,831 1,850 1,895 1,905 1,1487 1,1720 1,1869 1,2132 1,2425 1,2457 1,2493 1,2621 zollaußengrenze}
+{385 2,403 1,496 1,510 1,793 1,1077 1,1121 1,1684 1,1920 1,1993 1,2598 2,2600 1,2621 klischeevorstellung}
+{80 1,104 1,172 1,511 1,583 1,639 1,841 1,886 1,937 1,1082 1,1174 1,1382 1,1511 1,1605 1,1649 1,1679 1,1753 1,1859 1,2000 1,2234 2,2317 1,2621 außerbilanzielle}
+{507 1,522 1,774 1,815 1,837 1,934 1,1136 1,1457 1,1771 1,2132 1,2255 1,2271 1,2434 1,2621 posten}
+{662 1,753 1,820 1,850 1,862 1,1121 1,1470 1,1649 1,1679 1,2460 1,2621 mandat}
+{220 1,319 1,349 1,673 1,850 1,1129 1,1239 1,1470 1,2621 interviewen}
+{1142 1,1619 1,2132 1,2316 1,2358 1,2495 1,2572 1,2621 postdienst}
+{47 1,295 1,402 1,536 1,999 1,2342 1,2621 stellen}
+{71 1,138 1,219 1,433 1,467 1,538 1,1268 1,1449 1,1823 1,2110 1,2245 1,2621 posten}
+{197 1,1097 1,1098 1,1314 1,1679 1,2521 1,2621 stellen}
+{140 1,560 1,721 1,928 1,996 1,1118 1,1160 1,1287 1,1398 1,1625 1,1685 1,1756 1,1827 1,1936 1,2012 1,2139 1,2317 1,2402 1,2441 1,2563 1,2621 parteibiographie}
+{197 1,1323 1,1679 1,2007 1,2621 stellen}
+{433 1,896 1,1153 1,1213 1,1624 1,1701 1,2004 1,2067 2,2563 1,2621 stellen}
+{1016 1,1130 1,1182 1,1337 1,1858 1,2598 1,2621 position}
+{436 1,896 1,2621 stellen}
+{1679 1,1950 1,2370 1,2621 stellen}
+{433 1,436 1,815 1,890 1,1114 1,1436 1,1600 1,1608 1,1769 2,2121 1,2126 1,2598 1,2621 führungsposition}
+{226 1,434 1,461 1,767 1,935 1,945 1,973 1,1013 1,1082 1,1096 1,1174 1,1196 1,1223 1,1347 1,1436 1,1439 1,1517 1,1578 1,1619 1,1638 1,1904 1,2089 1,2109 1,2188 1,2334 1,2351 1,2362 1,2515 1,2574 1,2580 1,2621 pflichtversicherungssystemen}
+{62 1,361 1,799 1,826 1,931 1,1113 1,1437 1,1769 1,1915 1,2111 1,2598 1,2621 posten}
+{1160 1,1510 1,1619 1,1679 1,1774 1,1803 1,2132 1,2411 1,2621 postamt}
+{1369 1,1619 1,1778 1,2132 1,2385 1,2621 postamt}
+{22 1,220 1,335 1,782 1,937 1,1337 1,1506 1,1536 1,1619 1,1872 1,2063 1,2264 1,2334 1,2386 1,2537 1,2621 postamt}
+{53 1,545 1,626 1,709 1,849 1,874 1,1619 1,2063 1,2267 1,2621 poststelle}
+{178 1,197 1,233 1,596 1,810 2,841 1,1329 1,1343 1,1679 1,1755 1,1796 1,1907 1,2016 1,2297 1,2317 1,2480 1,2621 planstelle}
+{3 1,99 1,513 1,548 1,628 1,646 1,937 1,1214 1,1228 1,1473 1,1820 1,1859 1,2216 1,2604 1,2621 stelle}
+{142 1,200 1,445 1,548 1,861 1,891 1,932 1,937 1,995 1,1230 1,1323 1,1470 1,1749 1,1755 1,1771 1,1861 1,1863 1,1872 1,1893 1,2244 1,2546 1,2621 staatsanwalt}
+{136 2,167 2,254 2,394 1,715 1,1281 1,1355 1,1768 1,1890 1,1896 1,2302 1,2585 2,2618 1,2621 asiaten}
+{273 1,726 1,890 1,1035 1,1074 1,1086 1,1144 1,1752 1,2621 görlitz}
+{80 1,273 2,955 1,1284 1,1569 1,1643 1,2061 1,2621 kommissariat}
+{285 1,800 1,1834 1,1851 1,2170 1,2621 amtsantritt}
+{548 1,562 1,652 1,675 1,764 1,1130 1,1382 1,1640 1,2621 stellen}
+{102 1,501 1,567 1,576 1,758 1,849 1,1065 1,1104 1,1339 1,1436 1,1484 1,1522 1,1840 1,1957 1,2614 1,2621 amt}
+{42 2,196 1,204 1,296 1,433 1,500 1,962 1,984 1,1096 1,1174 1,1182 1,1863 1,1930 1,1997 1,2027 1,2158 1,2236 1,2621 stellen}
+{24 1,122 1,475 1,513 1,877 1,1024 1,1043 1,1337 1,1557 1,1603 1,1769 1,1890 1,1923 1,2621 okay}
+{79 1,109 1,116 1,142 1,148 1,179 1,289 1,433 2,473 1,513 1,548 1,570 1,651 2,715 1,862 1,1226 1,1456 1,1473 1,1814 1,1830 1,1846 1,1865 1,1872 1,2008 1,2362 1,2439 1,2621 post}
+{80 1,548 1,1138 1,1160 1,1264 1,1606 1,1633 1,1974 1,1992 1,1993 1,2367 1,2621 erstattenden}
+{238 1,433 1,570 1,760 1,810 1,839 1,979 1,1016 1,1182 1,1909 1,1937 1,2237 1,2349 1,2368 1,2621 personalaufbau}
+{833 1,835 1,1323 1,1566 1,1937 2,1955 1,2363 1,2403 1,2434 1,2621 arbeitsverhältnis}
+{540 1,766 1,815 1,850 1,1569 1,1619 1,1682 1,1715 1,2063 2,2493 1,2537 1,2621 poststellennetzes}
+{6 1,379 1,536 1,576 1,613 1,814 1,1275 1,1925 1,2495 1,2621 post}
+{652 1,1247 1,1254 1,1619 1,2063 1,2621 poststellennetzes}
+{63 1,549 1,850 1,1551 1,1769 1,1780 1,1860 1,1861 1,1872 1,2621 amt}
+{507 1,583 1,874 1,905 1,1150 1,1446 1,1551 1,1619 1,1631 1,1679 1,2133 1,2621 postdiensten}
+{79 1,148 1,446 1,540 2,651 1,719 1,767 1,804 1,870 1,887 1,902 1,992 1,1036 1,1051 1,1266 1,1369 1,1446 1,1447 1,1517 1,1535 1,1636 1,1640 1,1769 2,1780 1,1825 1,2318 1,2462 1,2621 post}
+{437 1,548 1,608 1,963 1,1609 1,1793 1,1831 1,2238 1,2621 post}
+{73 1,1094 1,1160 1,1264 1,1384 1,1709 1,2600 1,2621 rentenfrage}
+{548 1,794 1,1251 1,1572 1,1643 1,2412 1,2621 stellen}
+{1997 1,2082 1,2621 planstelle}
+{75 1,304 2,817 1,1859 1,1907 1,1997 2,2000 2,2010 1,2621 planstelle}
+{34 1,172 1,174 1,331 1,433 1,775 1,1470 1,1821 1,1910 1,1967 1,2150 1,2153 1,2237 1,2621 planstelle}
+{488 1,837 1,1049 1,1132 1,1381 1,1394 1,1514 1,1619 1,1753 1,1841 1,1872 1,1878 1,1902 1,1955 1,2034 1,2132 1,2621 postamt}
+{227 1,701 1,772 1,805 1,850 1,895 1,931 1,936 1,1174 1,1223 1,1234 1,1293 1,1465 1,1470 1,1872 1,1958 1,2111 1,2132 2,2188 2,2244 1,2316 1,2359 1,2425 1,2435 1,2493 1,2570 1,2572 1,2621 post}
+{172 1,433 1,492 1,557 1,915 1,1446 1,1516 1,1589 1,1633 1,1831 1,1946 1,2599 1,2621 post}
+{238 1,548 1,1220 1,1516 1,2621 Überwachungsfunktionen}
+{288 2,672 1,800 1,1619 1,1635 1,2117 1,2567 1,2621 post}
+{538 1,1286 1,1325 1,1456 1,1620 1,1874 1,1962 1,1967 1,2621 stelle}
+{21 1,96 1,700 1,744 1,1138 1,1166 1,1337 1,1417 1,1430 1,1432 1,1600 2,1607 1,1672 1,1679 2,1739 1,1749 1,1960 1,1975 1,1992 1,2007 1,2132 1,2237 1,2254 1,2501 1,2600 1,2621 stellen}
+{73 1,319 1,384 1,619 1,779 1,850 1,1121 1,1220 1,1546 1,1862 1,1995 1,2165 1,2235 1,2493 2,2621 ureigenen}
+{26 1,217 1,597 1,664 1,1182 1,1281 1,1472 1,1595 1,1686 1,1800 1,1987 1,2598 3,2621 entscheidungsgremium}
+{21 1,295 1,433 1,727 1,810 1,936 1,955 1,1462 1,1793 1,1803 1,2130 1,2363 1,2621 planstelle}
+{233 1,363 1,501 2,538 1,1259 1,1470 1,1679 1,2239 1,2244 1,2410 1,2621 spitzenfunktion}
+{21 1,281 1,483 1,494 1,668 1,676 1,793 1,832 1,1281 1,1347 1,1452 1,1455 1,1527 1,1791 1,2298 1,2598 1,2621 gleichwertigen}
+{217 1,433 1,451 1,513 1,538 1,672 1,779 1,809 1,1049 1,1232 1,1519 1,1606 1,1619 1,1801 1,1803 2,1975 1,2370 1,2493 2,2508 1,2555 1,2621 amt}
+{56 1,453 1,745 1,1017 1,1352 1,1733 1,2621 pilatus}
+{316 1,810 1,1603 1,1796 1,1876 1,1890 1,1997 1,2614 1,2621 stellen}
+{200 1,516 1,584 1,595 1,746 1,800 1,838 1,874 1,977 1,1037 1,1203 1,1230 1,1234 1,1235 1,1428 1,1640 1,1691 1,2073 1,2383 1,2409 1,2434 1,2600 1,2621 arbeitsunterlage}
+{26 1,296 1,433 1,1160 1,1561 1,2133 1,2621 stellen}
+{17 1,540 2,823 1,934 1,1322 1,1446 1,1470 1,1551 1,2001 1,2493 1,2601 3,2621 gebietsansässigen}
+{166 1,349 1,540 1,839 1,900 1,1138 1,1308 1,1438 1,1627 1,1975 1,2269 1,2370 1,2621 posten}
+{22 1,36 1,452 1,495 1,505 1,545 1,1206 1,1646 1,1783 1,1821 1,2621 ausschreibung}
+{42 1,737 1,746 1,857 1,1271 1,1353 1,1852 1,1963 1,2003 1,2621 amt}
+{82 1,803 1,1182 1,1223 1,1795 1,2126 1,2621 versicherungsprämie}
+{88 1,179 1,1078 1,1714 1,2243 1,2446 1,2621 stelle}
+{22 1,198 1,509 1,648 1,724 1,853 1,1218 1,1436 1,1439 1,1503 1,1513 1,1869 1,1989 1,2070 1,2121 1,2621 führungskraft}
+{179 1,204 1,269 1,1362 1,1679 1,1907 1,1929 1,2132 1,2621 post}
+{55 1,138 1,196 1,263 1,433 1,538 1,673 1,715 1,829 1,871 1,1094 1,1160 1,1436 1,1470 1,1600 1,1769 1,1872 1,2008 1,2621 stellen}
+{137 1,672 1,823 1,967 1,1182 1,1206 1,1350 1,1380 1,1589 1,1594 1,1603 1,1777 1,1859 1,1907 1,1909 1,1943 1,1966 1,1992 1,2300 1,2578 1,2621 standardpostsendung}
+{76 1,331 1,506 1,618 1,1028 1,1220 1,1254 2,1287 1,1337 1,1398 1,1405 1,1477 1,1975 1,1999 2,2154 1,2238 2,2278 1,2580 1,2621 tierraststätten}
+{273 1,334 1,373 1,500 2,561 1,718 1,749 1,1813 1,2047 1,2112 1,2229 1,2347 1,2419 1,2576 1,2621 post}
+{226 1,611 1,799 1,819 1,985 1,1477 1,1608 1,1885 1,2112 1,2598 1,2621 stellen}
+{444 1,584 1,619 1,657 1,849 1,850 1,1470 1,1562 1,2244 2,2413 1,2458 1,2461 1,2493 1,2575 1,2577 1,2588 1,2621 losgesagt}
+{51 1,96 1,104 1,295 2,582 1,846 1,1136 1,1487 1,1863 1,2304 1,2312 1,2621 planstelle}
+{37 1,322 1,331 1,434 1,455 1,668 1,746 1,850 1,1187 1,1191 1,1755 1,2122 1,2621 amt}
+{70 1,1600 1,2041 1,2237 1,2621 personalstelle}
+{15 1,106 1,360 1,406 1,514 1,766 1,850 2,876 1,921 1,923 1,1009 1,1368 1,1521 1,1564 1,1640 1,1697 1,1739 1,1753 1,2024 1,2188 1,2267 1,2394 1,2494 1,2555 1,2602 1,2621 posten}
+{433 1,1364 2,2000 1,2621 dienstposten}
+{104 2,138 2,143 2,334 1,437 1,499 1,523 3,664 1,773 1,805 1,850 1,1194 1,1430 1,1509 1,1569 1,1679 1,1848 1,1903 1,1907 1,1967 2,1999 1,2317 1,2376 1,2427 1,2435 1,2621 amt}
+{168 1,810 1,1470 1,1557 1,1690 1,1716 1,1749 1,1975 1,2133 1,2237 1,2244 1,2488 1,2521 1,2614 1,2621 dauerplanstellen}
+{104 1,215 1,385 1,613 1,874 1,935 1,1595 1,1859 1,2130 1,2621 postalischer}
+{445 1,568 1,748 1,766 1,990 1,1146 1,1220 1,1369 1,1394 1,1619 1,1741 1,1774 1,2063 2,2132 2,2188 1,2558 1,2621 postamt}
+{699 1,1394 1,1470 1,1619 1,1742 1,1869 1,2048 1,2132 1,2188 1,2621 post}
+{238 1,540 2,619 1,758 1,799 1,1256 1,1276 1,1313 1,1351 1,1484 1,2244 1,2342 1,2424 1,2494 2,2615 1,2621 posten}
+{251 1,535 1,540 1,678 1,1049 1,1370 1,1803 1,1829 1,1917 1,2003 1,2338 1,2621 Ämtern}
+{283 1,308 1,442 1,500 1,756 1,850 1,864 1,1110 1,1446 1,1551 1,1619 1,1774 3,1852 1,1869 1,1932 1,1962 1,1992 1,2132 2,2163 1,2165 1,2558 1,2621 postbehörde}
+{16 1,1012 1,1631 1,2126 1,2245 1,2336 1,2488 1,2621 antrittsrede}
+{584 1,866 1,903 1,959 1,964 1,1136 1,1253 1,1331 1,1380 1,1467 1,1595 1,1623 1,1915 1,2346 1,2458 1,2621 post}
+{49 1,52 1,375 1,1329 1,1723 1,1929 1,2305 1,2432 1,2621 posteingang}
+{96 1,445 1,829 1,1234 1,1382 1,1600 1,2015 1,2055 1,2300 1,2621 a-stellen}
+{76 1,115 1,155 1,227 1,294 1,409 1,437 1,438 1,555 1,1014 1,1459 1,1497 1,1753 1,2016 2,2093 1,2438 1,2600 1,2613 1,2621 stellen}
+{21 1,51 1,73 1,165 1,307 1,467 1,538 1,858 1,861 1,983 1,1461 1,1469 2,1491 2,1771 1,1890 1,1957 1,2016 1,2024 1,2147 1,2170 1,2621 regionalforum}
+{65 1,446 2,548 1,793 2,871 1,881 1,1096 1,1110 1,1354 1,1505 1,1619 3,1664 1,1998 1,2071 1,2580 1,2621 position}
+{61 1,89 1,546 1,850 1,864 1,1160 1,1300 1,1749 1,1869 1,1992 1,2155 1,2243 1,2394 1,2621 funktion}
+{89 1,291 1,393 1,406 1,511 1,546 1,596 1,815 1,849 1,850 1,1300 1,1893 1,1922 1,2155 1,2621 siegbert}
+{196 1,368 1,433 1,439 1,451 1,467 1,522 1,709 1,849 1,935 1,1089 1,1264 2,1470 1,1574 1,1619 1,1714 1,1808 2,1819 1,1859 1,1962 1,2008 1,2244 1,2286 1,2394 1,2527 1,2621 transportgebühren}
+{136 1,842 1,1235 1,1899 1,2420 1,2621 post}
+{102 1,103 1,260 1,414 1,559 1,663 1,671 1,1049 2,1094 1,1320 1,1463 1,1473 1,1490 1,1578 1,1579 2,1589 1,1677 1,1803 1,1818 1,2048 1,2138 1,2158 1,2177 1,2482 1,2614 1,2621 amtsbefugnis}
+{573 1,645 1,743 1,1801 1,1803 1,2215 1,2319 1,2322 1,2621 allerheiligste}
+{755 1,839 1,1619 1,1627 1,1809 1,1992 1,2300 1,2551 1,2600 1,2621 stellen}
+{320 1,545 1,1470 1,1749 1,1801 1,1803 2,2539 1,2621 posten}
+{51 1,433 1,434 1,568 1,850 1,876 1,1160 1,1317 1,1440 1,1769 1,1955 1,2010 2,2621 amt}
+{285 1,433 1,732 1,1430 1,1437 1,1741 1,2133 1,2347 1,2598 1,2621 führungsposition}
+{1 4,47 2,204 1,291 1,363 1,396 1,455 1,596 1,874 1,937 1,1166 1,1182 1,1243 1,1364 3,1470 1,1503 1,1600 1,1604 1,1620 1,1627 1,1643 1,1679 1,1852 1,1915 1,1962 1,1997 1,2060 1,2121 1,2242 1,2334 1,2434 1,2598 1,2621 führungsfunktion}
+{16 1,21 1,162 1,206 1,434 1,538 1,546 1,1128 1,1203 1,1281 1,1300 1,1347 1,1456 1,1490 1,1604 1,1769 1,1847 1,2124 1,2439 1,2621 posten}
+{42 1,104 1,138 1,866 1,1069 1,1475 1,1749 1,1755 1,1772 2,1942 1,1987 1,1993 1,2283 1,2521 1,2621 posten}
+{268 1,402 1,433 1,437 1,934 1,1049 1,1433 1,1472 1,1551 1,1955 1,1967 1,1992 1,2592 1,2621 posten}
+{203 1,342 1,433 2,663 1,800 1,935 1,979 1,1046 1,1088 1,1238 1,1314 1,1405 1,1414 1,1450 1,1519 1,1806 1,2339 1,2349 1,2600 1,2614 2,2621 funktion}
+{26 1,177 1,433 1,538 1,1160 1,1182 1,1600 1,1921 1,1944 1,2082 1,2521 1,2621 stellen}
+{230 1,295 2,437 2,488 1,933 1,1174 1,1488 1,1772 1,1957 1,2010 1,2621 planstelle}
+{104 1,295 1,521 1,680 1,1869 1,2315 1,2412 1,2614 1,2621 stellen}
+{148 1,874 1,996 1,1255 1,1619 1,2063 1,2132 1,2614 1,2621 freistaat}
+{31 1,34 1,79 1,308 1,432 1,547 1,563 1,651 1,936 1,1362 1,1517 1,1601 1,1676 1,1830 1,1890 1,1930 1,2132 1,2621 erwerbung}
+{65 1,308 1,925 1,1430 1,1619 1,1632 1,1774 1,2132 1,2621 postdienst}
+{810 1,896 1,1220 1,1619 1,2009 1,2621 extrabüro}
+{628 1,1108 1,1437 1,1620 1,2598 1,2621 stellen}
+{52 1,288 1,334 1,363 1,637 1,674 3,987 1,1000 1,1035 1,1052 1,1251 1,1364 1,1459 1,1620 1,1852 1,1967 1,2010 1,2211 1,2429 1,2621 generaldirektor}
+{217 1,901 1,1115 1,1136 1,1203 1,1433 1,1477 1,1632 1,1852 1,1876 1,2306 1,2328 1,2621 führungsposition}
+{172 1,322 1,1433 1,1437 1,1603 1,1669 1,1838 1,1886 1,1934 1,1970 1,2151 1,2621 managementqualitäten}
+{11 1,86 1,114 1,121 1,159 1,185 2,197 1,313 1,314 1,334 1,377 1,533 1,545 1,570 1,615 1,630 1,732 1,902 1,984 1,1039 1,1136 1,1456 1,1536 1,1609 1,1649 1,1749 2,1890 1,1903 1,1967 3,2218 1,2242 1,2621 stellen}
+{1329 1,1679 1,2021 1,2621 sprachendienst}
+{96 1,319 1,540 1,810 1,902 1,1013 1,1329 2,1859 1,1869 1,1993 1,2000 1,2110 1,2521 1,2621 erweiterungsreserve}
+{507 1,768 1,839 1,971 1,1227 1,1470 1,1516 2,1569 1,1606 1,2244 1,2335 1,2621 forstökosysteme}
+{148 1,164 2,200 1,548 1,628 1,1166 1,1310 1,1640 1,1755 1,1821 1,1924 1,2007 1,2095 1,2237 1,2546 1,2621 stellen}
+{204 1,348 1,538 1,850 1,1516 1,1705 1,1839 1,1896 1,2003 1,2540 1,2612 1,2614 1,2621 amt}
+{73 1,96 1,196 1,296 1,691 1,1312 1,1600 1,1829 1,2338 1,2402 1,2621 stellen}
+{1160 1,1243 1,1252 1,1803 1,1950 1,2076 1,2621 amt}
+{200 1,339 1,488 1,984 1,1142 1,1166 1,1230 1,1537 1,1713 1,2000 1,2092 1,2300 1,2621 stellen}
+{326 1,662 1,902 1,1432 1,1456 1,1680 1,1739 1,1923 1,2000 1,2122 1,2237 1,2563 1,2621 stellen}
+{36 1,42 1,183 1,433 1,473 1,839 1,1010 1,1130 1,2132 1,2621 dienstposten}
+{11 1,220 1,351 1,363 1,397 1,433 1,672 1,876 1,1058 1,1101 1,1247 1,1640 1,1845 1,2024 1,2621 investitionsprogramm}
+{379 1,712 1,850 1,1069 1,1618 1,1619 1,1796 1,1823 1,1841 1,2110 1,2493 1,2621 postsektoren}
+{660 1,756 1,1619 1,1638 1,2063 1,2148 1,2621 poststelle}
+{380 1,452 1,774 1,871 1,1166 1,1282 1,1337 1,1410 1,1619 1,1816 1,2044 1,2342 1,2621 post}
+{583 1,652 1,757 1,951 1,1171 1,1247 1,1446 1,1506 1,1619 1,1741 1,2132 1,2621 post}
+{935 1,1413 1,1537 1,1622 1,1700 1,2066 1,2445 1,2489 1,2600 1,2621 amt}
+{90 1,150 1,619 3,850 1,1401 1,1498 1,1524 1,1679 1,1803 1,1928 1,1978 1,2621 post}
+{118 1,138 1,1436 1,1925 1,2133 1,2347 1,2598 1,2621 führungsposition}
+{138 1,319 2,433 1,829 1,929 1,1477 1,1821 1,1967 1,1970 1,2112 1,2302 1,2621 kandidat}
+{135 1,319 1,334 1,433 1,451 1,546 1,596 1,850 1,1300 1,1796 1,2355 1,2621 stelle}
+{187 1,334 1,428 1,452 1,521 1,666 1,766 1,849 1,1016 1,1171 1,1266 1,1289 1,1433 1,1436 1,1618 1,1769 1,1837 1,1843 1,1999 2,2008 1,2048 1,2094 1,2121 1,2188 1,2244 1,2494 1,2616 1,2621 führungsebene}
+{260 1,2621 stellen}
+{148 1,297 1,1433 1,1640 1,1870 1,1952 1,2007 1,2356 1,2621 planstelle}
+{510 1,513 1,538 1,715 1,795 1,1201 1,1679 1,2010 1,2125 1,2401 1,2546 1,2621 stellen}
+{25 1,260 1,295 1,437 1,945 1,1166 1,1557 1,1679 1,1954 1,2111 1,2621 stellen}
+{47 1,617 1,984 1,1213 1,1251 1,1679 1,1741 1,1753 1,2125 1,2153 1,2274 1,2275 1,2621 stellenplan}
+{433 1,507 1,538 1,918 1,1917 1,1950 1,1955 1,1997 1,2236 1,2317 1,2563 1,2621 stellen}
+{511 1,549 1,791 1,1110 1,1246 1,1281 1,1848 1,1885 1,2083 1,2342 1,2384 1,2621 hochqualifizierten}
+{245 1,260 1,349 1,1049 1,1624 1,2621 position}
+{73 1,88 1,295 1,437 1,839 1,1432 1,1629 1,1741 1,2000 1,2563 1,2584 1,2621 stellen}
+{827 1,1160 1,1749 1,1955 1,2000 1,2414 1,2621 stellen}
+{336 1,393 1,533 1,714 1,745 1,902 1,944 1,1126 1,1220 2,1456 1,1687 1,1933 1,2112 1,2330 1,2479 1,2621 urkunde}
+{405 1,447 1,473 1,508 1,793 1,874 1,1200 1,1470 1,1619 1,1716 1,1774 1,1824 1,2132 1,2237 1,2307 1,2600 1,2601 1,2621 postangestellte}
+{162 1,326 1,438 1,1084 1,1774 1,1803 1,2124 1,2132 2,2621 post}
+{536 1,641 1,797 1,810 1,1085 1,1436 1,1845 1,1998 1,2275 1,2621 stellen}
+{96 1,293 1,810 1,979 1,1015 1,1130 1,1166 1,1417 1,1635 1,1679 1,1869 1,1992 1,2621 stellung}
+{433 1,587 1,810 1,1013 1,1997 1,2621 stellen}
+{73 1,198 1,209 1,1182 1,1203 1,1600 1,2621 hintergrundinformation}
+{201 1,470 1,564 1,635 1,791 1,907 1,1160 1,1194 1,1714 1,1840 2,1859 1,2013 2,2071 1,2110 1,2126 1,2323 1,2621 ruf}
+{104 1,143 1,538 1,630 1,885 1,1385 1,1588 1,1600 1,1749 1,1929 1,1934 1,2080 1,2176 1,2621 stellen}
+{549 1,829 1,1398 1,1461 1,1470 1,1619 1,1635 1,1654 1,2244 1,2621 gleichstellungsbeauftragte}
+{623 1,1160 1,1557 1,1627 1,1803 1,1992 1,2283 1,2621 amt}
+{40 1,73 1,794 1,1203 1,2219 1,2481 1,2515 1,2521 1,2621 stellen}
+{319 1,434 1,457 1,533 1,545 1,825 1,826 1,1098 1,1160 1,1516 1,1961 1,1962 1,2244 1,2621 stellen}
+{148 1,159 2,300 1,454 1,584 1,810 1,826 2,1158 1,1354 1,1433 1,1537 1,1557 1,1606 1,1893 1,1946 1,2349 1,2381 1,2431 2,2621 stellenausstattung}
+{138 1,433 1,479 1,494 2,1933 1,2621 position}
+{62 1,181 1,421 1,612 1,637 1,658 1,779 1,867 1,969 1,1005 1,1399 1,1490 1,2495 1,2621 amt}
+{47 1,297 1,536 2,935 1,1182 1,1364 1,1749 1,1803 1,2040 1,2141 2,2236 1,2621 stellen}
+{248 1,1264 2,1679 1,1733 1,1821 1,1890 1,1903 2,1925 1,2283 1,2608 1,2621 pilatus}
+{42 1,138 1,242 1,402 1,538 2,549 1,639 1,849 1,884 1,1803 3,1872 1,1905 1,2318 1,2621 funktion}
+{625 1,1049 1,1125 1,1173 1,1186 1,1202 1,1261 1,1277 1,1490 1,1574 1,2621 post}
+{179 1,817 1,1013 1,1143 1,1206 1,1469 1,1555 1,1780 1,1799 1,1917 1,1969 1,1998 1,2000 1,2621 stellen}
+{288 2,358 1,433 1,532 1,670 1,671 1,969 1,1018 1,1046 2,1075 1,1264 1,1339 1,1435 1,2013 1,2106 1,2519 1,2621 posten}
+{229 1,807 1,894 1,1121 1,1445 1,1611 1,1619 1,1755 1,1890 1,2621 fraglich}
+{452 1,556 1,607 1,626 1,874 1,1327 1,1569 1,1619 1,1713 1,1774 1,1788 1,1841 1,1842 1,1869 1,1880 1,2048 1,2105 1,2130 1,2132 2,2142 1,2549 1,2621 postamt}
+{160 1,662 1,786 1,1203 1,1682 1,1882 1,2120 1,2565 1,2602 1,2621 post}
+{122 1,433 1,595 1,1158 1,1749 1,2060 1,2621 post}
+{467 1,676 1,1087 1,1136 1,1362 1,1432 1,1700 1,1966 1,1992 1,2139 1,2350 1,2621 verschicken}
+{294 1,467 1,687 1,693 1,1243 1,1461 1,1644 1,1829 1,2238 1,2621 tierraststätten}
+{627 1,766 1,1155 1,1160 1,1890 1,2020 1,2238 1,2435 1,2621 aufenthaltsort}
+{839 1,1946 1,2621 stellenmehrung}
+{326 1,402 1,861 1,972 1,1923 1,2621 stellen}
+{239 1,388 1,437 2,620 2,850 2,1069 1,1071 1,1174 1,1283 1,1339 1,1470 3,1679 1,1685 1,1711 1,1755 1,1771 1,1803 1,1835 1,1859 1,1911 1,2170 1,2621 posten}
+{104 1,107 1,143 1,295 2,363 1,518 1,793 1,846 1,1487 1,1600 1,1716 1,1869 1,2109 1,2237 1,2363 1,2412 1,2548 1,2614 2,2621 planstelle}
+{16 1,433 1,818 1,829 1,1136 1,1149 1,1218 1,1344 1,1997 1,2000 1,2621 stellen}
+{47 1,136 1,878 1,2237 1,2621 dienstposten}
+{168 1,226 1,315 1,334 1,433 1,695 1,902 1,1245 1,1321 1,1520 1,1537 1,1835 1,2035 1,2241 1,2246 1,2621 kroes}
+{270 1,433 1,434 1,452 1,577 1,902 1,1016 1,1321 1,1537 1,2010 1,2019 1,2345 1,2621 amt}
+{321 2,586 1,658 1,850 1,962 1,982 1,984 1,1038 1,1203 1,1250 1,1577 1,1627 1,1801 2,2126 1,2614 1,2621 amt}
+{11 1,433 1,707 1,872 1,955 1,1013 1,1234 1,1364 1,1433 1,1446 1,1551 1,1569 1,1596 1,1604 2,1619 1,1640 1,1820 1,1859 1,1872 2,1957 1,1975 1,1998 1,2122 1,2132 1,2180 1,2299 1,2538 1,2621 poststellennetz}
+{211 1,587 1,595 1,868 1,1470 1,2181 1,2244 1,2621 posten}
+{389 1,405 1,541 1,1086 1,1619 1,2091 1,2416 1,2621 postamt}
+{505 1,523 1,548 1,932 1,1136 1,2373 1,2402 1,2564 1,2579 1,2621 amt}
+{22 1,136 1,608 1,1058 1,1507 1,1815 1,1937 1,1944 1,2158 1,2452 1,2614 1,2621 stellen}
+{117 1,433 1,1087 1,1619 1,1994 1,2111 1,2269 1,2317 1,2621 stellen}
+{144 1,218 1,434 1,846 1,1160 1,1203 1,1226 1,1326 1,1347 1,1859 1,2348 1,2408 1,2621 amt}
+{159 1,545 1,950 1,1381 1,1456 1,1470 1,1619 1,1643 1,1955 1,1998 1,2063 1,2244 1,2621 postamt}
+{293 1,434 1,609 1,1488 1,1494 1,1741 1,2621 minsk}
+{26 1,540 1,879 1,1115 2,1375 1,1389 1,1472 1,1587 1,1612 1,1755 1,2153 1,2242 1,2244 1,2294 1,2598 1,2621 Ämter}
+{672 1,937 1,941 1,1046 1,1078 1,1174 1,1569 1,1721 1,1747 1,1803 1,1848 1,1936 1,2132 1,2183 1,2370 1,2427 1,2591 1,2616 1,2621 zielgerade}
+{113 1,273 1,316 1,434 1,1265 1,1304 1,1531 1,1803 1,2192 1,2406 1,2621 mautstation}
+{148 1,348 1,392 1,393 1,709 1,774 1,835 1,1160 1,1389 1,1649 1,1714 1,1763 2,1925 1,2212 1,2621 post}
+{490 1,1714 1,1859 1,1943 1,2135 1,2621 stellen}
+{42 1,538 1,1618 1,2074 1,2614 1,2621 stellen}
+{70 1,319 1,499 1,673 1,850 1,991 1,1539 1,1679 1,1955 1,1998 1,2621 amt}
+{330 1,383 1,800 1,1295 1,1375 1,1551 2,1620 1,1803 1,1982 1,2200 1,2211 1,2494 1,2621 soria}
+{42 1,396 1,881 1,931 1,1551 1,1600 1,1620 1,1997 1,2600 1,2621 planstelle}
+{73 1,154 1,191 1,433 1,437 2,439 1,538 1,546 1,766 1,810 1,1957 1,1998 1,2014 1,2122 1,2188 1,2275 1,2621 posten}
+{714 2,874 1,1163 1,1176 1,1396 1,1997 1,2621 eingangspost}
+{42 1,191 1,433 1,546 1,2008 1,2579 1,2621 dienstposten}
+{47 1,134 1,178 1,433 1,774 1,1557 1,1608 1,1831 1,2082 1,2621 stellen}
+{70 1,73 1,293 1,548 1,742 1,1461 1,1728 1,1857 1,1975 1,2133 1,2363 1,2535 1,2621 planstelle}
+{305 1,507 1,548 1,1849 1,2042 1,2161 1,2621 stellen}
+{500 1,672 1,898 1,1230 1,1234 1,1446 2,1507 1,1632 1,1801 1,2052 1,2255 1,2621 postwesen}
+{597 1,1612 1,1908 1,2598 1,2621 führungsposition}
+{433 1,597 1,902 1,1099 1,1470 1,1612 2,1769 1,2010 1,2244 1,2598 2,2621 führungsposition}
+{126 1,146 1,161 1,196 1,243 1,326 1,363 1,388 1,395 1,408 1,568 2,579 1,717 1,1000 1,1031 1,1057 1,1061 1,1107 1,1157 1,1280 1,1387 1,1504 1,1526 1,1550 1,1619 1,1755 2,1946 1,1966 1,2053 1,2072 1,2161 1,2225 1,2330 1,2341 1,2379 1,2384 1,2404 1,2598 1,2614 1,2621 post}
+{21 1,143 1,186 1,405 1,570 1,1121 1,1305 1,1398 1,1473 1,1502 1,1606 1,1620 1,1672 1,1996 1,2008 1,2233 1,2245 1,2402 1,2600 1,2621 karadjic}
+{434 1,1046 1,1314 1,2621 amt}
+{431 1,535 1,746 1,1122 1,1178 1,1560 1,2581 1,2621 Ämteranhäufung}
+{710 1,782 1,920 1,1182 1,1426 1,1619 1,1660 1,1823 1,1990 1,2621 postverwaltung}
+{637 1,1104 1,1339 1,1685 1,2621 Ämter}
+{177 1,296 1,437 1,513 1,536 1,649 1,1642 1,1967 1,2265 1,2621 arbeitsplatz}
+{109 1,483 1,548 1,595 1,810 1,1158 1,2439 1,2621 planstelle}
+{42 1,1194 1,1281 2,1380 1,1382 1,1409 1,1684 2,2010 1,2110 1,2218 1,2600 1,2621 teilzeitarbeitsstellen}
+{136 1,535 1,597 1,850 1,937 1,1174 1,1336 1,1474 1,1612 1,1631 1,1832 1,2162 1,2170 1,2376 1,2434 1,2621 posten}
+{393 1,540 1,1230 1,1251 1,1292 1,1780 1,1803 1,1872 1,1890 1,2000 1,2621 staatsgewalt}
+{295 2,437 1,548 1,751 1,926 1,1509 1,1672 1,1716 1,1856 1,1859 1,1982 1,2004 1,2376 1,2563 1,2599 1,2621 textkorrektoren}
+{449 1,850 1,894 1,931 1,1174 1,1191 1,1379 1,1470 3,1471 1,1551 1,1600 1,1679 2,1890 1,1962 1,2170 1,2244 1,2600 1,2621 funktion}
+{55 1,433 1,1325 1,1772 1,1884 1,2521 1,2621 stellenausschreibung}
+{17 1,138 1,597 1,663 1,725 1,839 1,1017 1,1390 1,2115 1,2425 1,2598 1,2621 entscheidungsgremium}
+{75 1,271 1,410 1,433 1,850 2,1049 2,1612 1,1685 1,1869 1,1915 1,2158 1,2621 position}
+{2 1,51 1,525 1,800 1,829 1,850 3,862 1,940 1,951 1,963 1,1097 1,1120 1,1417 1,1469 1,1472 1,1523 1,1537 1,1603 1,1620 1,1635 1,1640 1,1679 3,1749 1,1769 1,1803 1,1845 1,1992 1,2107 2,2133 1,2246 1,2395 1,2472 1,2546 1,2598 2,2599 1,2621 bezifferten}
+{274 1,433 1,507 1,513 1,628 1,685 1,864 1,902 1,925 1,937 1,1435 1,1557 1,1831 1,1982 1,2600 1,2621 rehabilitiert}
+{138 2,433 1,1061 1,1130 1,1805 1,1834 1,1839 1,2354 1,2621 ernennung}
+{16 1,402 1,479 1,902 1,1230 1,1291 1,1609 1,1618 1,1993 1,2008 1,2360 1,2621 anhängiges}
+{839 1,850 1,1861 1,1872 1,1898 1,1934 1,2621 einschneidende}
+{471 1,773 1,882 1,1023 1,1203 1,1225 1,1992 1,2217 1,2357 1,2621 stellen}
+{47 1,295 1,297 1,437 1,548 1,766 1,774 1,1679 1,1869 1,1983 1,2188 1,2621 stellen}
+{491 1,701 1,1090 1,1624 1,1769 1,1946 1,2412 1,2463 1,2621 posten}
+{1254 1,1491 1,1552 1,1582 1,1591 1,2139 1,2497 1,2621 nichtnationalisten}
+{169 1,238 1,272 1,292 1,759 1,824 1,849 2,996 1,1015 1,1203 1,1241 1,1355 2,1364 2,1387 2,1441 1,1536 1,1764 1,1792 1,1857 1,1943 2,1972 1,2184 1,2186 1,2292 1,2386 1,2417 2,2499 1,2602 1,2621 herabsinkt}
+{183 1,405 1,445 1,1175 1,1394 1,1432 1,1619 1,2016 1,2063 1,2146 1,2188 1,2328 1,2385 1,2516 1,2621 postamt}
+{452 1,561 1,672 1,1369 1,1410 1,1427 1,1618 1,1774 1,1816 1,1841 1,1872 1,2000 1,2110 2,2132 1,2388 1,2578 1,2621 postsendung}
+{540 1,942 1,1619 1,1763 1,2188 1,2212 1,2556 1,2621 post}
+{620 2,1247 1,1619 1,1802 1,2621 post}
+{42 1,1028 1,1082 1,1619 1,1872 1,1937 1,2132 1,2237 1,2621 post}
+{106 1,236 1,673 1,726 1,829 1,850 1,862 1,934 1,939 1,1013 1,1082 1,1234 1,1264 1,1398 1,1436 1,1511 1,1688 1,1890 1,2621 weltwährungsfonds}
+{767 1,874 1,897 1,1487 1,1510 1,1885 1,1893 1,2110 1,2150 1,2186 1,2485 1,2621 achthunderttausend}
+{50 1,168 1,183 1,334 1,433 1,665 1,902 1,933 1,953 1,967 1,1144 1,1191 2,1477 1,1551 2,1881 1,2064 1,2232 1,2621 posten}
+{152 1,810 2,862 1,1008 1,1136 1,1165 1,1329 1,1380 1,1607 1,1739 1,1796 1,1859 1,1966 1,2000 1,2231 1,2501 1,2521 1,2621 stellen}
+{104 1,133 1,304 1,548 1,549 1,750 1,1182 1,1228 1,2016 1,2223 1,2238 1,2621 stellen}
+{95 1,966 1,1169 1,1349 1,1884 1,1982 1,2621 Ämter}
+{73 1,193 1,273 1,967 1,1049 1,1263 1,1348 1,1600 1,1612 1,1716 1,1769 1,1941 1,2133 1,2490 1,2619 2,2621 truppendislozierung}
+{434 1,536 1,1182 1,1464 1,1698 1,1845 1,1859 1,1943 1,2164 1,2237 1,2621 stellen}
+{815 1,1235 1,1286 1,1477 1,1620 2,1874 1,2031 1,2121 2,2521 1,2621 planstelle}
+{196 1,646 1,775 1,839 1,849 1,850 1,924 1,1187 1,1537 1,1636 2,1771 1,1860 1,1907 1,2238 1,2257 1,2333 1,2378 1,2621 tüchtige}
+{331 1,446 1,1081 1,1567 1,1774 1,2071 1,2458 1,2515 1,2621 post}
+{148 1,261 2,287 2,422 1,576 1,614 1,800 3,864 1,893 1,935 1,1569 1,1619 1,1700 1,1816 1,2063 3,2279 1,2448 2,2491 1,2621 post}
+{38 1,104 1,451 1,793 1,1104 1,1446 2,1619 1,1679 1,1998 1,2037 1,2179 1,2275 1,2420 1,2621 beschäftigungsstruktur}
+{306 1,467 1,605 1,663 1,783 1,853 1,865 1,1226 1,1555 1,1609 1,1685 1,1734 1,1788 1,1869 1,1922 1,1949 1,2170 1,2190 1,2281 1,2600 1,2621 belastung}
+{21 1,27 1,84 1,273 1,433 1,467 1,543 1,583 1,835 2,890 1,902 1,997 2,1028 1,1172 1,1486 1,1613 1,1614 1,1666 2,1722 1,1808 1,1930 1,1961 1,2004 1,2008 1,2337 1,2546 1,2621 grenzübergang}
+{22 1,523 1,545 1,595 1,861 1,1160 1,1470 1,1481 1,1631 1,1709 1,1829 1,1890 2,2218 1,2244 1,2261 1,2286 1,2621 koordinationsmethode}
+{356 2,437 2,538 1,548 1,1486 2,2275 1,2281 1,2621 militärrat}
+{26 1,252 1,285 1,296 1,436 1,750 1,1220 1,1382 1,1570 1,1679 1,1979 1,2022 1,2259 1,2426 1,2621 posten}
+{137 1,540 1,548 1,1435 1,1620 1,1890 1,2621 planstelle}
+{26 1,433 1,789 1,1014 1,1211 1,1603 1,2267 1,2487 1,2621 kernziele}
+{42 2,548 1,802 1,877 1,1185 1,1301 1,1461 1,2621 stellen}
+{123 1,200 1,540 1,763 1,831 1,850 1,1036 1,1313 1,1386 1,1436 1,1470 2,1829 1,2168 1,2244 1,2372 1,2493 1,2494 1,2621 abhörstation}
+{51 1,538 1,1295 1,1456 1,1769 1,2621 stellen}
+{839 1,2621 stellen}
+{141 1,295 1,434 1,1015 1,1500 1,1580 1,1600 1,1651 1,1730 1,1815 1,1890 1,1955 1,2010 1,2237 1,2621 stellen}
+{10 2,440 1,522 1,597 1,848 1,1096 1,1561 1,1741 1,1758 1,1779 1,2472 1,2552 1,2598 1,2621 entscheidungszentrum}
+{122 1,649 1,800 1,854 1,861 1,1998 1,2170 1,2255 2,2621 oktroyierte}
+{17 1,223 1,540 2,1160 1,1619 1,1774 1,2132 1,2384 1,2621 postfiliale}
+{545 1,548 1,586 1,1428 1,1691 1,1771 1,1821 1,2621 stelle}
+{51 1,109 1,334 1,832 1,837 1,874 2,1071 1,1281 2,1347 4,1455 1,1461 1,1470 2,1472 1,1551 1,1594 1,1694 1,1714 1,1744 1,1769 1,1933 1,2024 1,2070 1,2439 1,2598 1,2621 gleichwertigen}
+{73 1,521 1,1182 1,1557 1,1600 1,1890 1,2161 1,2621 stellen}
+{193 1,295 1,437 1,486 1,548 1,653 1,766 1,769 1,819 1,883 1,1012 1,1207 1,1630 1,1640 1,2188 1,2320 1,2439 1,2621 stellen}
+{17 1,629 1,871 1,1094 1,1364 1,1436 1,1612 1,1769 1,1955 1,2040 1,2121 1,2598 1,2621 posten}
+{825 1,1046 1,1600 1,2122 1,2269 1,2290 1,2621 stellen}
+{42 1,1651 1,1917 1,1997 1,2000 1,2237 1,2300 1,2546 1,2621 stellen}
+{16 2,22 2,36 1,112 2,380 1,433 1,434 1,464 1,613 1,685 1,825 1,876 1,1133 1,1381 1,1401 1,1448 2,1519 1,1741 1,1831 1,1950 3,2035 1,2262 2,2300 1,2318 1,2479 1,2512 1,2543 1,2600 1,2621 posten}
+{582 1,720 1,773 1,1176 1,1235 1,1685 1,1755 1,1962 1,1967 1,2481 1,2621 spendeneinnahme}
+{72 1,147 1,331 1,428 1,439 2,548 1,969 2,1012 1,1490 1,1695 1,1753 1,1815 1,2111 1,2318 1,2621 agens}
+{295 1,437 2,573 1,847 1,1487 1,1512 1,1859 1,2000 1,2621 stellenkürzung}
+{483 1,538 1,810 1,877 1,935 1,1600 1,1749 1,1943 1,2621 posten}
+{238 1,334 1,548 1,810 1,870 1,1220 1,1301 1,2621 stellen}
+{136 1,341 1,872 1,1470 1,1647 1,1829 1,1869 2,1933 1,2132 2,2244 1,2495 1,2527 1,2621 post}
+{446 1,570 1,1254 1,1774 1,1803 1,1873 1,2276 1,2323 1,2621 post}
+{59 1,433 1,475 1,672 1,673 1,674 1,1248 1,1251 1,1535 1,2621 funktion}
+{309 1,433 2,497 1,522 1,2317 1,2621 posten}
+{108 1,1187 1,1416 1,1606 1,1801 1,1803 1,1912 1,1925 1,1933 1,1948 1,2061 1,2621 kandidieren}
+{25 1,245 1,309 1,434 1,535 1,727 1,994 1,997 1,1104 1,1226 1,1267 1,1300 1,1336 1,1435 1,1592 1,1967 1,1990 1,2111 1,2144 1,2621 amt}
+{1476 1,1769 1,2165 1,2621 Ämter}
+{47 1,159 1,247 1,288 1,434 1,538 1,1174 1,1250 1,1298 1,1612 1,1801 1,1945 1,2010 3,2297 1,2366 1,2452 1,2621 posten}
+{138 1,434 1,557 1,844 1,890 1,981 1,1138 1,2008 1,2621 posten}
+{172 2,295 4,522 1,766 1,773 1,798 1,874 1,877 1,960 1,991 1,1014 1,1039 2,1155 1,1206 1,1220 1,1232 1,1456 1,1716 1,1771 1,1821 1,1942 1,1997 2,2007 2,2237 2,2317 2,2349 1,2546 1,2621 dauerplanstellen}
+{486 1,540 1,548 1,1096 1,1160 1,1323 1,1374 1,1872 1,2082 1,2110 1,2132 1,2188 1,2223 1,2521 1,2621 stellen}
+{273 1,331 1,393 1,540 3,572 1,584 1,623 1,849 1,862 1,874 1,962 1,992 1,1000 1,1217 1,1298 1,1375 1,1490 1,1568 1,1619 1,1640 1,1818 1,1859 1,2374 1,2530 1,2621 grenzposten}
+{1730 1,2156 1,2281 1,2599 1,2621 ortstafel}
+{433 1,538 1,679 1,1337 1,1741 1,2243 1,2621 stellen}
+{514 1,850 1,1007 1,1419 1,1627 1,2439 1,2524 1,2621 stelle}
+{23 1,285 1,873 1,879 1,880 1,942 1,981 1,1551 1,1627 2,1644 1,1775 1,2048 1,2085 1,2336 1,2621 stellen}
+{331 1,746 1,876 1,925 1,1010 1,1060 1,1130 1,2621 amt}
+{320 1,1430 1,1975 1,2133 1,2546 1,2621 sitze}
+{34 1,337 1,741 1,937 1,1233 1,1585 1,1632 1,2110 1,2137 1,2361 1,2621 finanzmakler}
+{30 2,109 1,118 1,141 1,295 1,315 1,334 1,433 1,445 1,476 1,850 1,967 1,1182 2,1220 1,1226 2,1347 1,1444 1,1600 1,1644 1,1649 1,1708 1,1753 1,1780 2,1821 1,2010 1,2165 1,2236 1,2381 1,2397 2,2493 1,2554 1,2621 jahresurlaube}
+{326 2,591 1,1100 1,1521 1,1803 1,1891 1,1917 1,1991 1,2073 1,2621 post}
+{522 1,2621 amt}
+{50 1,235 1,587 1,677 1,1016 1,1061 1,1414 1,1803 1,1907 1,1992 1,2008 1,2412 1,2621 amt}
+{368 1,718 1,947 1,1801 1,1909 1,2621 inlandsendungen}
+{142 1,331 1,402 1,747 1,1086 1,1230 1,1730 2,2452 1,2534 1,2621 unverfälschtes}
+{393 1,761 1,1021 1,1780 1,1803 1,1971 1,2340 1,2605 1,2621 position}
+{220 1,285 1,349 1,550 1,743 1,850 1,879 1,1281 1,1375 1,1803 1,2589 1,2621 amt}
+{433 1,518 1,519 1,549 1,839 1,1220 2,1223 1,1466 1,1508 1,1716 1,1741 1,1869 1,1917 1,2132 1,2363 1,2429 1,2621 planstelle}
+{16 1,96 1,191 1,297 1,433 1,538 1,546 3,549 1,558 1,863 1,877 1,937 1,1300 1,1721 1,1848 1,1869 1,1997 1,2016 1,2458 1,2621 planstelle}
+{433 1,775 1,1008 1,1975 1,2487 1,2621 stellen}
+{43 1,142 1,171 1,216 1,751 1,828 1,902 1,1028 1,1270 1,1284 1,1551 2,1890 1,2108 2,2216 1,2342 1,2494 2,2510 1,2621 funktion}
+{501 1,778 1,835 1,1160 1,1254 1,1394 1,1619 1,1742 1,1749 1,2048 1,2621 postamt}
+{319 1,433 1,476 1,538 1,728 1,850 1,1135 1,1579 1,1803 2,2210 1,2308 1,2614 1,2621 amt}
+{277 1,937 1,1436 1,1653 1,1892 1,2621 stellen}
+{310 1,686 1,920 1,1235 1,1312 1,1475 1,1859 1,2118 1,2132 1,2621 post}
+{47 1,75 1,402 1,445 1,850 1,877 1,936 2,1220 1,1264 1,1470 1,1679 1,1718 1,1955 1,2197 1,2249 1,2621 stellen}
+{152 1,217 2,395 1,446 2,527 1,890 1,997 2,1205 2,1235 2,1371 1,1397 1,1620 1,1812 1,2185 1,2361 1,2621 post}
+{16 1,896 1,1624 1,2067 1,2270 1,2621 planstelle}
+{276 1,367 1,395 1,445 1,554 1,595 1,652 1,879 1,1156 1,1339 1,1394 1,1408 1,1857 1,1920 1,2621 Ämter}
+{76 2,567 1,628 1,909 1,954 1,1317 1,1470 1,1490 1,1537 2,1643 1,1667 2,1701 1,1929 1,1967 1,2121 2,2285 2,2342 1,2621 kennenlernte}
+{47 1,138 1,475 1,902 1,911 1,934 1,1042 1,1165 1,1220 1,1248 1,1310 1,1456 1,1589 1,1643 1,1656 1,1780 1,1830 1,2493 1,2621 herausgehobenen}
+{42 1,47 1,295 1,447 1,483 1,490 1,684 1,691 1,850 1,937 1,1679 1,1815 1,2614 1,2621 stellen}
+{24 2,188 1,372 1,433 1,868 1,1063 1,1129 1,1324 1,1529 1,2008 1,2598 1,2621 posten}
+{7 1,66 1,791 1,1027 1,1049 1,1160 1,1197 1,1769 1,1807 1,2121 1,2436 1,2598 2,2600 1,2621 präsidentenämtern}
+{47 1,138 1,334 1,632 1,919 1,1058 1,1111 1,1165 1,1351 1,1679 1,1742 1,1894 1,2002 1,2048 1,2158 1,2244 1,2274 1,2621 stellen}
+{51 1,172 1,433 1,490 1,596 1,674 1,773 1,790 1,815 1,832 1,1003 1,1115 1,1470 1,1477 1,1551 1,1769 1,1798 1,1868 1,1885 1,1993 1,2121 1,2621 generaldirektor}
+{585 1,2121 1,2621 position}
+{2458 1,2598 1,2621 bekleiden}
+{238 1,436 2,672 1,800 1,898 1,1519 1,1592 1,1670 1,1789 1,2133 1,2274 1,2295 1,2303 1,2341 1,2450 1,2585 1,2621 talentierten}
+{448 1,839 1,1620 1,1679 1,1714 1,1946 1,2073 1,2412 1,2621 stellen}
+{512 1,540 1,904 1,997 1,1323 1,1336 1,1614 1,1839 1,1854 1,1982 1,2128 1,2495 1,2621 position}
+{42 1,295 1,731 1,750 1,1155 1,1628 1,1643 1,1859 1,1943 1,2022 1,2089 1,2621 stellenbedarf}
+{32 1,548 1,573 1,934 1,1182 1,1572 1,2621 stellen}
+{591 1,613 1,647 1,1872 1,1992 1,2621 postweg}
+{33 1,138 1,434 1,793 1,841 1,962 1,1116 1,1398 1,1923 1,2016 1,2056 1,2293 1,2443 1,2600 1,2614 1,2621 funktion}
+{137 1,369 1,422 1,461 1,467 1,783 1,1354 1,1516 1,1592 1,1652 1,1872 1,2246 1,2561 1,2601 1,2621 Ämter}
+{60 1,345 1,360 1,423 1,434 2,606 1,829 1,965 1,1470 3,1600 1,1771 1,1898 1,2015 1,2054 1,2060 1,2133 1,2244 2,2343 1,2621 rotation}
+{334 1,545 1,606 1,854 1,1331 1,2621 nachbereitung}
+{209 1,584 1,598 1,1491 1,1534 1,1551 1,1598 1,1618 1,1634 1,2621 ministerposten}
+{185 1,199 1,265 1,445 1,732 1,1220 1,1619 1,1749 1,2363 1,2493 1,2621 hilfskraft}
+{433 1,793 1,1028 1,1220 1,1470 1,1604 1,1619 1,1719 1,1823 1,1830 1,1890 1,2116 1,2521 1,2621 besetzen}
+{288 1,421 1,487 1,1474 1,1478 1,1619 1,1825 1,1979 1,2443 1,2621 post}
+{27 1,452 1,1012 1,1056 1,1244 1,2188 1,2579 1,2621 postdienst}
+{9 1,540 1,709 1,850 1,914 1,2493 1,2621 auslandsbriefe}
+{446 1,651 1,652 2,654 1,715 1,902 1,1488 1,1771 1,1894 1,2048 1,2110 1,2256 1,2357 1,2370 1,2621 post}
+{347 1,1446 1,2139 1,2329 1,2330 1,2621 post}
+{22 1,169 1,510 1,1189 1,1281 1,1369 1,1619 2,1774 1,2132 1,2287 1,2329 1,2332 1,2523 1,2621 postamt}
+{104 1,791 1,1160 1,1619 1,2063 1,2132 1,2317 1,2495 1,2621 poststelle}
+{21 1,133 1,137 1,245 1,279 1,533 1,534 1,546 1,613 1,615 1,726 1,819 1,1094 1,1136 1,1154 1,1289 1,1352 1,1362 1,1423 1,1470 1,1619 1,1803 1,1823 1,1857 1,1893 1,1982 1,2211 1,2283 1,2319 1,2402 1,2433 1,2518 1,2621 postfach}
+{16 1,217 1,805 1,1091 1,1369 1,1528 1,1744 1,1902 1,2110 1,2359 1,2621 post}
+{935 1,1430 1,1457 1,2238 1,2325 1,2435 1,2621 aufenthaltsort}
+{81 1,263 1,363 1,452 1,467 1,596 2,781 1,850 1,955 1,1020 1,1022 1,1369 1,1433 1,1456 1,1619 1,1693 1,1755 1,1920 1,1978 1,1998 1,2016 1,2421 1,2614 1,2621 postwesen}
+{83 1,805 1,1158 1,1369 1,1456 1,1902 1,1906 1,2110 1,2300 1,2621 post}
+{548 1,810 1,905 1,1475 1,1796 1,1829 1,1933 1,2621 planstelle}
+{26 1,797 1,835 1,876 1,1011 1,1028 1,1110 1,1364 1,1389 1,1411 1,1838 2,1884 1,1949 1,2598 2,2600 1,2617 1,2621 posten}
+{104 1,144 1,301 1,319 1,357 1,395 1,412 1,482 1,608 1,620 1,689 1,718 1,762 1,997 1,1104 1,1110 1,1138 1,1148 1,1221 1,1378 1,1470 1,1537 1,1679 1,1685 2,1737 1,1809 1,1909 1,1982 2,2119 1,2199 1,2281 1,2284 1,2440 1,2456 1,2457 1,2470 1,2485 1,2546 1,2552 1,2593 1,2598 2,2621 parteivorsitz}
+{143 1,196 1,260 1,524 1,662 1,715 1,756 1,859 1,902 1,1433 1,1624 1,1632 1,1651 1,1904 1,1923 1,2349 2,2488 1,2587 1,2621 stellen}
+{104 1,326 1,402 1,433 1,536 2,609 1,705 1,790 1,837 1,1066 1,1174 1,1247 1,1362 1,1457 1,1461 1,1469 1,1950 1,1997 1,2126 1,2181 1,2270 1,2283 1,2621 stellen}
+{295 1,538 1,573 1,715 1,881 1,1859 1,2283 1,2600 1,2621 stellen}
+{22 1,149 1,445 1,938 1,984 1,1013 1,1102 1,1110 1,1137 1,2158 1,2621 position}
+{131 1,396 1,907 1,1264 1,1512 1,1969 1,2621 stellen}
+{548 1,2614 1,2621 stellen}
+{433 1,1045 1,1264 1,2621 stellen}
+{2000 1,2007 1,2621 stellen}
+{190 1,331 1,2621 post}
+{183 1,644 1,652 1,1061 1,1160 1,1251 1,2621 post}
+{142 1,217 1,393 1,595 2,691 1,802 1,849 1,1130 2,1220 1,1433 1,1456 1,1510 1,1769 1,1831 1,1857 1,1968 1,2024 1,2439 1,2563 1,2577 1,2621 stelle}
+{559 1,582 1,746 1,850 1,865 1,908 1,1039 1,1356 1,1380 1,1438 1,1555 1,1663 1,1700 1,1828 1,2095 1,2124 1,2312 1,2621 planstelle}
+{104 1,115 1,122 1,136 1,363 1,570 1,902 1,1214 1,1251 1,1524 1,1998 1,2078 1,2172 1,2621 post}
+{499 1,876 1,1619 1,1700 1,1923 1,2293 1,2351 1,2621 beraterposten}
+{546 1,850 1,905 1,1166 1,1218 1,1289 1,1749 1,1947 1,2132 1,2218 1,2432 1,2493 1,2507 1,2520 1,2621 rechtsreferent}
+{839 1,1012 1,1121 1,1160 1,1281 1,1627 1,1650 1,2048 1,2621 posten}
+{143 1,455 1,521 1,783 1,1950 2,2621 stellen}
+{363 2,936 1,1049 2,1104 1,1160 1,1490 1,1967 1,2048 1,2270 1,2381 2,2621 posten}
+{76 1,96 1,148 1,433 1,452 1,1013 1,1329 1,1619 1,1624 1,1872 1,1955 1,2132 1,2275 1,2621 stellen}
+{26 1,797 1,1515 1,1548 1,2268 1,2594 1,2621 zurückstellung}
+{1691 1,2156 1,2404 1,2584 1,2621 abgezeichnet}
+{284 1,297 1,410 1,434 1,652 1,716 1,849 1,1041 1,1151 1,1216 1,1234 1,1326 1,1340 1,1541 1,1689 1,1803 1,2057 1,2126 1,2196 1,2225 1,2294 1,2373 1,2513 1,2590 1,2602 1,2621 mitreißenden}
+{344 1,538 1,570 1,629 1,779 1,850 1,873 1,902 1,1000 2,1177 1,1336 1,1438 1,1470 1,1679 1,1739 1,1803 1,1875 1,2170 1,2259 1,2554 1,2621 amt}
+{318 1,862 1,944 2,1329 1,2108 1,2132 1,2557 1,2621 betreuer}
+{88 1,316 1,356 1,472 1,480 1,538 1,642 1,732 1,740 1,744 1,783 1,837 1,839 1,850 1,871 1,898 1,1012 1,1121 1,1142 1,1177 1,1198 1,1281 1,1340 1,1438 1,1551 1,1803 1,1955 1,1982 1,2014 1,2443 1,2493 1,2621 amt}
+{196 1,538 1,549 1,862 1,936 1,1354 1,1490 1,1492 1,1668 1,1818 1,1950 1,2255 1,2317 1,2621 amt}
+{235 1,433 2,538 1,610 1,811 1,839 1,1679 1,1741 1,1997 1,2013 1,2349 1,2579 1,2586 1,2621 planstelle}
+{138 1,452 1,1104 1,1266 1,1362 1,1929 1,2094 1,2495 1,2621 sollten}
+{308 1,513 1,805 1,1619 1,1661 1,1707 1,1852 1,1872 2,1902 1,2110 1,2129 1,2335 1,2359 1,2614 1,2621 post}
+{574 1,669 1,843 1,1285 1,1428 1,1619 1,1663 1,1829 1,1897 1,2057 2,2120 1,2197 1,2570 2,2621 hauptpostamt}
+{70 1,138 1,185 1,331 1,536 1,773 1,797 1,1016 1,1436 1,1679 1,1700 1,2060 1,2349 1,2434 1,2479 1,2621 stellenbesetzung}
+{136 1,446 1,590 1,1315 1,1604 1,1774 1,2132 1,2527 1,2621 post}
+{51 1,71 1,145 1,439 2,598 1,652 1,718 1,876 1,1160 1,1341 1,1741 1,1950 1,1960 1,2238 1,2308 1,2621 innenpolitische}
+{137 1,162 2,823 1,967 1,1160 1,1576 1,2238 1,2439 2,2621 markstein}
+{42 1,47 1,136 1,183 1,228 1,433 1,442 1,810 2,877 1,1028 1,1510 1,1755 1,1821 1,1907 1,1949 1,1965 1,2244 1,2621 stellen}
+{4 1,42 1,46 1,225 1,493 1,545 1,575 1,811 1,841 1,877 1,962 1,1310 1,1329 2,1519 1,1641 1,1646 1,1674 1,1683 2,1769 1,1948 1,2074 1,2242 1,2369 1,2577 3,2600 1,2621 gehaltsanpassung}
+{526 1,1250 1,1598 1,1679 1,1681 2,2216 1,2238 1,2308 1,2614 2,2621 einluden}
+{275 1,481 1,779 1,850 1,1679 1,1803 2,2621 borrell}
+{478 1,973 1,1679 1,2010 1,2407 1,2621 bestätigt}
+{62 1,395 1,434 1,437 1,669 1,756 1,850 1,1123 1,1136 1,1300 1,1371 1,1375 1,2241 1,2247 1,2248 1,2621 posten}
+{143 1,204 1,235 1,433 1,545 1,876 1,1182 2,1480 1,1679 1,1834 1,2007 1,2621 stellenzuwächse}
+{196 1,1017 1,1062 1,1124 1,1680 1,2370 1,2621 amt}
+{433 1,1097 1,1104 1,1121 1,1537 1,1745 1,1826 1,1940 1,1993 1,2402 1,2621 amt}
+{26 1,507 1,548 1,797 1,969 1,988 1,1401 1,1490 1,1803 1,2269 1,2311 1,2439 1,2458 1,2621 eu-außenministers}
+{220 2,293 1,538 1,765 1,850 1,1050 1,1297 1,1480 1,1579 1,1803 2,1993 1,2452 1,2596 1,2602 1,2621 amt}
+{12 1,148 1,291 1,299 1,319 1,540 1,927 1,953 1,1410 1,1436 1,1470 1,1474 1,1486 1,1612 1,1640 1,1979 1,2170 1,2266 1,2402 1,2405 1,2457 1,2621 militärposten}
+{21 1,42 1,483 2,596 1,810 3,815 1,877 1,1220 1,1640 1,1716 1,1859 1,1917 2,1997 1,2057 1,2237 1,2294 1,2317 1,2621 dauerplanstellen}
+{75 1,162 1,378 1,433 1,436 1,537 1,538 1,619 1,691 1,832 1,1138 1,1264 1,1755 1,1877 1,2045 1,2479 1,2621 scheck}
+{36 1,709 1,849 1,1254 1,1619 1,2063 2,2370 1,2469 1,2621 postamt}
+{110 1,207 1,331 1,422 1,437 1,687 1,1138 1,1203 1,1438 1,1867 1,1970 1,1992 1,2363 1,2454 1,2569 1,2571 1,2621 post}
+{230 1,288 2,291 1,1094 1,1619 1,1773 1,1889 1,2240 1,2544 1,2614 1,2621 post}
+{1194 1,1431 1,1975 1,2132 1,2161 1,2495 1,2621 post}
+{16 1,413 1,538 3,570 1,1354 1,1646 1,1830 1,1859 1,1872 1,2107 1,2255 1,2546 1,2563 1,2576 1,2621 internetseite}
+{340 1,655 1,773 1,1078 1,1602 1,1640 1,2621 diabetes-pflegepersonal}
+{308 1,1036 1,1067 1,1086 1,1733 1,1740 1,1893 1,2133 1,2381 1,2402 1,2577 1,2621 pilatus}
+{492 1,522 1,536 1,875 1,974 1,1544 1,1994 1,2016 1,2621 stellen}
+{42 1,60 1,230 1,296 1,491 1,496 1,521 1,835 1,874 1,1302 1,1488 1,1997 1,2223 1,2621 planstelle}
+{41 1,47 1,348 1,442 1,548 1,643 1,737 2,850 1,1516 1,1620 1,1829 1,1859 1,1962 1,2203 1,2269 1,2621 beamtenposten}
+{42 1,141 1,433 1,465 1,538 1,610 1,1302 1,1437 1,1845 1,2621 stellen}
+{1701 1,1929 1,2074 1,2614 1,2621 gehaltszahlung}
+{1424 1,1425 1,1700 1,2621 stellen}
+{17 1,544 1,577 1,851 1,945 1,967 1,989 1,1204 1,1542 1,1569 1,1823 1,2110 1,2171 1,2621 post}
+{1194 1,1412 1,1426 2,1428 1,1535 1,1619 1,1771 2,1816 1,1872 1,2130 1,2132 1,2242 1,2349 1,2621 post}
+{767 1,1151 1,1612 1,1631 1,2521 1,2621 nachbesetzt}
+{565 1,829 1,1160 1,1243 1,1312 1,1769 1,1895 2,2121 1,2438 1,2598 1,2621 position}
+{93 1,477 1,766 1,862 1,1049 1,1310 1,1612 1,1803 1,1818 1,2621 vertraute}
+{106 1,467 1,476 1,709 1,850 1,1001 1,1030 1,1473 1,1598 1,1611 1,1735 1,2334 1,2611 1,2621 überrumpelt}
+{540 1,572 1,1487 1,1632 1,2402 1,2614 1,2621 zollstelle}
+{71 1,850 1,1061 1,1432 1,1557 1,1720 1,1729 1,1760 1,1801 1,1821 1,1924 1,1942 1,1984 1,1992 1,2161 1,2310 1,2349 2,2407 1,2481 1,2621 stellen}
+{98 1,187 1,492 1,652 1,1196 1,1433 1,1517 1,1727 1,1774 1,1975 1,2132 1,2357 1,2621 post}
+{44 1,308 1,331 1,691 1,1875 1,1890 1,2010 1,2161 1,2435 1,2621 post}
+{16 1,607 1,1073 1,1817 1,2621 post}
+{75 1,430 1,510 1,561 1,1166 1,1870 1,1964 1,2040 1,2132 1,2348 1,2621 post}
+{47 1,142 1,276 1,295 1,467 1,664 1,779 1,780 1,850 1,1110 1,1350 1,1436 1,1525 1,1668 1,1993 1,2494 1,2621 amt}
+{296 1,343 1,548 1,736 1,890 1,1130 1,1594 1,1672 1,1830 1,1846 1,2546 1,2579 1,2621 stelle}
+{13 1,138 1,255 1,874 1,1121 1,1160 1,1401 1,1609 1,2402 1,2405 1,2536 1,2621 amtsträger}
+{138 1,220 1,252 1,349 1,353 1,433 1,491 1,850 1,892 1,1249 1,1510 1,1537 1,1803 1,2449 1,2621 monsieur}
+{34 1,554 1,974 1,2359 1,2361 1,2420 1,2621 briefpost}
+{341 1,647 1,656 1,692 1,885 1,984 1,1524 1,1696 1,2621 tiefschürfenden}
+{47 1,871 1,1174 1,1281 1,1289 1,1490 1,1619 1,1752 1,1872 1,2621 leiter}
+{433 1,513 1,1029 1,1058 1,1312 1,1456 1,1600 1,1679 1,1716 1,2005 1,2237 1,2621 stellen}
+{433 1,652 1,815 1,826 1,850 1,1160 1,1194 1,1714 1,1741 1,1831 1,1848 1,1859 1,1863 1,2043 1,2063 1,2089 1,2415 1,2431 1,2621 umweltschutzprogramm}
+{433 1,434 1,967 1,1160 1,1251 1,1481 1,1557 1,1755 1,1827 1,1859 1,1970 1,2621 posten}
+{452 1,651 1,652 1,825 1,862 1,1369 1,1632 1,1774 1,1869 1,2132 1,2621 post-ag}
+{1016 1,1445 1,1890 1,2621 amt}
+{425 1,433 1,434 1,815 1,840 1,902 1,1104 1,1110 2,1130 1,1619 1,1780 1,1802 2,2621 amt}
+{148 1,445 1,511 1,652 1,767 1,793 1,1028 1,1389 1,1394 1,1619 1,1872 1,2517 1,2600 1,2621 postamt}
+{0 1,238 1,473 1,577 1,715 1,800 1,809 1,1088 1,1561 2,1636 1,1678 1,1749 1,1771 1,1872 1,2016 1,2294 1,2366 1,2434 1,2621 condicio}
+{395 1,548 1,774 1,850 1,1436 1,1830 1,1986 1,2132 1,2161 1,2621 leitungsverfahren}
+{36 1,368 1,782 1,920 1,1181 1,1299 2,1426 2,1929 1,1931 1,2361 1,2621 post}
+{270 1,862 1,1619 1,2324 1,2621 post}
+{358 1,481 1,779 1,1423 1,1803 1,2621 amt}
+{325 1,1110 1,1471 1,1640 1,1685 1,1834 1,2563 1,2621 amt}
+{111 1,129 1,193 1,221 1,501 1,603 1,910 1,1032 1,1095 1,1105 1,1136 1,1192 1,1193 1,1332 1,1486 2,1710 1,1874 1,1917 1,2048 1,2398 1,2402 1,2423 1,2444 1,2496 1,2569 2,2621 post}
+{42 1,43 1,138 1,548 1,673 1,1045 1,1362 1,1624 2,1890 1,2621 stellen}
+{437 1,587 1,726 1,1264 1,1423 1,1679 1,1746 1,1803 1,1933 1,1970 1,1998 1,2621 amt}
+{42 1,433 1,724 1,800 1,1438 1,1858 1,2121 1,2273 1,2598 1,2621 führungskraft}
+{21 1,424 1,507 1,1069 1,1112 1,1138 1,1251 1,1451 1,1486 3,1675 1,1933 1,1982 1,1993 1,2010 1,2371 1,2425 1,2488 1,2571 1,2621 enthoben}
+{226 1,793 1,1558 1,1716 1,1771 1,2363 1,2621 stellen}
+{405 1,1199 1,1369 1,1619 1,1758 1,1774 1,1841 1,1959 1,1962 1,2063 1,2132 1,2621 postamt}
+{453 1,1191 1,1254 1,1619 1,1664 1,1823 1,2188 1,2580 1,2621 postamt}
+{148 1,445 1,591 1,835 1,1619 1,1679 1,1742 1,1870 1,1930 1,1946 1,2048 1,2063 2,2098 1,2132 1,2328 1,2621 postamt}
+{173 1,299 1,433 1,515 1,799 1,893 1,1049 1,1203 1,1369 1,1395 1,1506 1,1569 1,1619 2,1648 2,1869 1,1872 1,2001 1,2132 1,2317 1,2334 1,2476 1,2546 1,2621 postamt}
+{65 1,416 1,613 1,631 1,849 1,1362 1,1816 1,2196 1,2240 1,2383 1,2621 hinschicken}
+{445 1,900 1,1394 1,1619 1,1971 1,2091 1,2146 1,2323 1,2621 postamt}
+{392 1,402 1,613 1,711 1,884 1,1045 1,1426 1,1475 1,1619 1,1770 1,1776 1,1957 1,2048 1,2191 1,2416 1,2621 postamt}
+{17 1,149 1,175 1,229 1,393 1,402 1,421 1,434 1,538 1,540 1,597 1,922 1,927 1,1017 1,1423 1,1470 1,1679 1,1755 1,1780 1,1806 1,2036 1,2110 1,2190 1,2317 1,2621 entscheidungsposition}
+{494 1,546 2,1086 1,1289 1,1679 1,1686 1,1955 1,2116 1,2244 1,2621 verfassungsrichter}
+{55 1,2621 stelle}
+{121 1,434 1,439 1,709 1,933 1,1472 1,1803 1,1997 1,2153 1,2598 2,2621 anteile}
+{104 1,175 1,295 1,296 1,433 1,437 1,773 1,797 1,1310 1,1362 1,1432 1,1461 1,1619 1,1679 1,1749 1,1997 2,2283 1,2356 1,2526 1,2614 1,2621 stellen}
+{42 1,104 1,115 1,226 1,273 1,432 1,489 1,672 1,951 1,1131 2,1166 1,1214 1,1439 1,1461 1,1690 1,1714 1,1863 2,1869 1,2011 1,2435 1,2493 1,2498 1,2621 grenzkontrollstelle}
+{122 1,200 1,334 1,513 1,595 1,1714 1,2214 1,2370 1,2431 1,2621 stellen}
+{172 1,176 1,553 1,584 1,739 1,849 1,1045 1,1082 2,1083 3,1093 1,1260 1,1330 1,1533 1,1620 1,1719 1,1815 1,1957 1,1981 2,2024 1,2114 1,2124 1,2473 1,2556 1,2600 1,2621 funktion}
+{20 1,172 1,296 1,449 1,937 1,1016 1,1385 1,1721 1,1859 1,1955 1,2621 stellenplan}
+{148 1,295 1,433 1,773 1,775 1,850 1,871 1,961 1,1158 1,1436 1,1663 1,1753 1,1946 1,1950 1,1997 1,2218 1,2294 1,2621 planstelle}
+{1268 1,1382 1,1997 1,2621 planstelle}
+{127 1,433 1,456 1,538 1,587 1,663 1,1436 1,1829 1,1830 1,1845 1,2198 1,2621 planstelle}
+{339 1,657 1,1046 1,1130 1,1174 1,1264 1,1377 1,1573 1,1929 1,2000 1,2387 1,2621 stellen}
+{433 1,833 1,835 1,1323 1,1566 1,1937 1,1955 1,2132 1,2363 1,2403 1,2434 1,2621 arbeitsverhältnis}
+{73 1,428 1,433 1,473 1,750 1,1950 1,2022 1,2089 1,2244 1,2281 1,2317 1,2621 stellen}
+{404 1,548 1,555 1,766 1,924 1,991 1,1005 1,1090 1,1110 1,1247 1,1352 1,1557 1,1597 1,1623 1,1816 1,1938 1,2065 1,2111 1,2170 1,2621 sicherheitsrahmens}
+{287 1,589 1,825 1,1322 1,1479 1,1490 1,1576 1,1619 1,1670 1,1685 1,1829 1,1835 1,1967 1,2010 1,2063 2,2163 1,2227 1,2585 1,2621 poststelle}
+{102 1,548 1,850 1,1192 1,2344 1,2621 eu-botschafter}
+{148 1,427 1,441 1,634 1,862 1,900 1,1430 2,1503 1,1619 1,1757 1,1872 1,2006 1,2007 1,2063 1,2091 1,2132 3,2188 1,2435 1,2621 post}
+{418 1,825 1,1893 1,1923 1,2383 1,2501 1,2621 kalten}
+{138 1,433 2,652 1,674 1,675 1,689 1,800 1,898 1,1060 1,1435 1,1603 1,2032 1,2600 1,2621 stelle}
+{306 1,591 1,652 1,850 1,865 1,894 1,1155 1,1230 1,1559 1,1749 1,2402 1,2621 belastung}
+{595 1,849 1,892 1,1036 1,1067 1,1080 1,1517 1,1619 1,2621 postmonopol}
+{854 1,1049 1,1090 1,1094 1,1423 1,1690 1,1753 1,1806 1,2004 1,2244 1,2275 1,2621 evaluieren}
+{142 1,143 1,649 1,850 1,1220 1,1226 1,1557 1,1620 1,1679 1,1700 2,2074 1,2112 1,2621 stelle}
+{513 1,594 1,879 1,932 1,937 1,995 1,1017 1,1160 1,1259 1,1638 1,1962 1,1982 1,2322 1,2575 1,2621 nachkontrollen}
+{554 1,1235 1,1454 1,1774 1,2010 1,2132 1,2433 1,2621 postweg}
+{488 1,1394 1,1398 1,1714 1,1975 1,2237 1,2302 1,2364 1,2487 1,2621 stellen}
+{34 1,393 1,437 1,1010 1,1386 1,1723 1,1744 1,2048 1,2621 ansprechpartner}
+{296 1,431 1,437 1,513 1,902 1,1052 1,1258 1,1620 1,1624 1,1633 1,2214 1,2218 1,2402 1,2621 stellen}
+{20 1,104 1,433 1,536 1,714 1,797 1,846 1,940 1,1010 1,1362 1,1487 1,1604 1,1632 1,1753 1,2133 1,2621 stellen}
+{76 1,446 1,540 1,564 1,793 1,871 1,1432 1,1551 1,1836 1,2121 1,2382 1,2621 führungsposition}
+{323 1,433 1,473 1,815 1,902 1,1174 1,1480 1,1890 1,1946 1,1969 1,2000 2,2370 1,2520 1,2614 1,2621 planstelle}
+{12 1,545 1,609 1,1394 1,1950 1,2621 personal}
+{14 1,1036 1,2352 1,2478 1,2598 1,2621 akademischen}
+{773 1,849 1,2352 1,2365 1,2384 1,2487 1,2621 lehrerstelle}
+{75 1,376 1,405 1,522 1,657 1,1251 2,1398 1,1688 1,1893 1,1963 1,2238 1,2621 kontrollpunkt}
+{179 1,538 1,698 1,890 2,937 1,984 1,1508 1,1859 1,1869 1,1955 1,1970 1,1991 1,2132 1,2621 eilpost}
+{861 1,1584 1,1749 1,1903 1,2621 nicht-dauerplanstellen}
+{226 1,295 2,296 1,433 1,437 1,513 1,570 1,662 1,683 1,782 1,854 1,933 1,984 1,1151 1,1158 1,1203 1,1235 1,1268 1,1749 1,1830 1,1845 1,1946 1,1992 1,2577 1,2621 implementierungszahlen}
+{402 1,993 1,1033 1,1324 1,1470 1,1679 1,2008 1,2214 1,2443 1,2621 amt}
+{184 1,494 1,522 1,538 1,540 1,681 1,969 1,1062 1,1330 1,1753 1,1803 2,1955 1,2014 1,2111 1,2125 1,2139 1,2317 1,2621 posten}
+{73 1,1749 1,2016 1,2621 stellen}
+{42 1,433 1,455 1,647 1,876 1,1206 1,1226 1,1619 1,1801 1,1950 1,1975 1,2000 1,2153 1,2396 1,2614 1,2621 stellen}
+{101 1,295 1,433 1,810 1,1679 1,1682 1,2007 1,2070 1,2614 1,2621 stellen}
+{42 2,295 2,545 1,701 1,810 2,825 1,941 1,1158 1,1796 1,2016 1,2389 1,2563 1,2621 stellen}
+{63 1,148 1,273 1,433 1,540 1,881 1,1006 1,1147 1,1152 1,1295 1,1428 1,1470 1,1498 1,1635 1,2244 1,2280 1,2556 1,2621 grenzposten}
+{564 1,619 1,850 1,1627 1,2621 amt}
+{316 1,334 2,486 1,488 1,715 1,779 1,1177 2,1354 1,1438 1,1890 1,2621 amt}
+{538 1,691 1,758 1,839 1,1033 1,1141 1,1253 1,1324 1,1336 1,1375 1,1484 1,1796 1,1803 1,1806 1,1863 1,2069 1,2170 1,2567 1,2614 1,2621 krieg}
+{17 1,829 1,1635 1,1679 1,1753 1,2121 1,2598 1,2621 posten}
+{26 1,217 1,829 1,934 1,1436 1,1477 1,1790 1,2335 1,2598 1}
+{3 1,387 1,433 1,434 1,466 1,540 1,739 1,1058 1,1504 1,1673 1,1679 1,1803 3,1814 1,1869 1,2112 1,2269 1,2412 1,2621 einräumen}
+{439 1,494 1,548 2,715 1,1753 1,1846 1,2484 1,2621 funktion}
+{140 1,177 1,295 1,673 1,902 1,1028 1,1600 1,1944 2,2236 1,2621 stellen}
+{355 1,538 1,850 1,1803 1,1946 1,2123 1,2621 posten}
+{540 1,902 1,1012 1,1285 1,1331 1,1428 1,1619 1,1857 1,2136 1,2253 1,2621 hauptpostamt}
+{21 1,1364 1,1929 1,2074 1,2095 1,2621 amt}
+{273 1,1215 1,1600 2,1890 1,1967 1,2621 inspektor}
+{235 2,433 1,663 1,800 1,849 2,957 1,1039 1,1069 1,1094 1,1117 1,1118 1,1438 1,1679 1,1749 1,1755 1,2228 1,2430 1,2474 1,2600 1,2614 1,2621 amt}
+{170 1,231 1,297 1,433 1,636 1,850 2,1016 1,1046 1,1115 1,1220 1,2059 1,2068 1,2621 Ämter}
+{395 1,467 1,514 1,522 1,689 1,898 1,932 1,1264 1,1752 1,1951 1,2010 1,2124 1,2373 1,2621 posten}
+{331 1,434 1,436 1,507 1,925 1,962 1,1033 1,1071 1,1167 1,1324 1,1695 1,1955 1,2157 1,2579 1,2600 1,2621 amt}
+{853 1,933 1,1104 1,1210 1,1332 1,1470 1,1716 1,2244 1,2281 1,2485 1,2598 2,2600 1,2621 stellen}
+{138 1,309 1,433 1,1603 1,2621 aufgabenbereich}
+{138 1,309 1,433 1,1603 1,2621 aufgabenbereich}
+{47 1,239 1,405 1,444 1,659 1,815 1,1187 2,1551 1,1998 1,2237 1,2504 1,2621 nomenklatur}
+{494 1,837 1,1160 1,1190 1,2238 2,2621 etappe}
+{53 1,62 1,494 1,549 1,850 1,969 2,1490 1,1618 1,1771 1,2132 1,2621 ernennung}
+{44 1,393 1,462 1,1254 1,1364 2,1551 1,1569 1,1618 1,1619 2,2063 1,2132 1,2181 1,2385 1,2621 poststelle}
+{51 1,831 1,1338 1,1771 1,1920 1,1962 1,2290 1,2425 1,2511 1,2621 vorbereitungszeit}
+{474 1,813 1,1004 1,1115 1,1138 1,1342 1,1364 1,1640 1,1803 1,2033 1,2106 1,2569 1,2571 1,2621 post}
+{73 1,433 1,1664 1,1679 1,1845 1,2000 1,2133 1,2600 1,2621 kommissionsposten}
+{104 1,455 1,486 1,900 1,1028 1,1234 1,1369 1,1383 1,1446 2,1603 1,1619 2,1665 1,1774 3,1823 1,1872 1,1946 1,1992 1,2132 2,2139 1,2515 1,2601 1,2606 1,2621 postamt}
+{80 1,735 1,941 1,1044 1,1374 1,2621 zielpunkt}
+{663 1,902 1,1608 1,1999 1,2161 1,2598 2,2621 position}
+{27 1,104 1,196 1,549 1,715 1,1380 1,1636 1,1780 1,1933 1,2464 1,2579 1,2621 posten}
+{405 1,1619 1,2452 1,2621 postamt}
+{1336 1,1428 1,1619 1,1962 1,2349 1,2621 post}
+{44 1,393 1,1180 1,1870 1,2132 1,2621 post}
+{395 1,793 1,860 1,864 1,907 1,1078 1,1281 1,1470 1,1803 1,1884 1,1975 1,2010 1,2016 1,2121 1,2132 1,2226 1,2244 1,2471 1,2560 1,2598 1,2600 1,2621 führungsposition}
+{316 1,549 1,662 1,2000 1,2008 1,2070 1,2110 1,2132 1,2359 1,2495 1,2621 post}
+{592 1,781 1,1264 1,1392 1,1633 1,1683 1,1872 1,2124 1,2359 1,2621 post}
+{433 1,644 1,948 1,1129 1,2003 1,2621 funktion}
+{111 1,121 1,238 1,333 1,382 1,395 1,604 1,767 1,877 1,962 1,965 1,1062 1,1182 4,1281 1,1311 1,1600 2,1829 1,1836 1,1872 2,1890 1,2132 2,2166 1,2203 1,2402 1,2407 1,2485 1,2514 1,2621 beamtenstelle}
+{148 1,194 1,540 1,864 1,1281 1,1553 1,2621 Ämtern}
+{1092 1,1504 1,1690 1,1733 1,2057 1,2381 2,2443 1,2621 herumreichen}
+{1414 1,1537 1,1883 1,2621 péry}
+{294 1,433 1,445 1,587 1,1206 1,1640 1,1821 1,1829 1,1997 1,2621 stellen}
+{42 1,104 1,295 1,467 1,488 1,1160 1,1236 1,1479 2,1690 1,1890 1,2112 1,2120 1,2315 1,2402 1,2581 1,2613 1,2621 stellen}
+{65 1,422 1,500 1,603 1,614 1,1230 1,1362 1,1398 1,1426 1,1470 1,1619 1,1774 2,1816 1,1819 1,1869 1,1975 1,2000 1,2120 1,2132 1,2203 1,2244 1,2435 1,2495 1,2601 1,2621 postamt}
+{61 1,238 1,546 1,850 1,1300 1,1336 1,1744 1,1769 1,1810 1,2493 1,2621 posten}
+{133 1,502 1,546 1,850 1,1300 1,1312 1,1422 1,1435 1,1640 1,1755 1,1939 1,1955 1,2034 1,2156 1,2621 spitzenmandat}
+{1619 1,1915 1,2621 postverwaltung}
+{433 1,467 1,595 1,810 1,823 1,1206 1,1561 1,1755 1,1796 1,1890 1,2000 1,2156 1,2243 1,2621 a-stellen}
+{7 1,338 1,467 1,530 1,572 1,737 1,1147 1,1182 1,1312 1,2103 1,2422 1,2547 1,2582 1,2621 zollbeamte}
+{138 1,420 1,439 1,488 1,761 1,796 2,866 1,951 1,1251 1,1636 1,1719 1,1815 1,1848 2,1909 1,1925 1,2242 1,2523 1,2621 position}
+{51 1,387 1,845 1,1189 1,1272 1,1273 1,1492 2,1501 1,1510 1,1916 1,2242 2,2359 1,2621 miti-ministerium}
+{850 1,1160 1,1627 1,1803 1,1925 1,2621 amt}
+{12 1,222 1,352 1,359 1,450 1,590 2,624 1,834 1,916 1,1022 1,1103 1,1264 1,1278 1,1279 1,1436 1,1547 1,1556 2,1738 1,1741 1,1925 1,1967 1,2542 1,2621 todesschein}
+{148 1,433 1,752 1,839 1,877 1,1845 1,2237 1,2381 1,2621 stellen}
+{331 1,1331 1,1657 1,1960 1,2100 1,2621 bewertungsbericht}
+{23 1,1177 1,1619 1,1680 1,2563 1,2621 funktion}
+{80 1,452 1,915 1,943 1,1470 1,1551 1,1643 1,1925 1,2116 1,2154 1,2218 1,2244 1,2621 beamtenstelle}
+{1456 1,1908 1,1929 1,1930 1,2577 1,2621 post}
+{175 1,492 1,584 1,607 1,887 1,1098 1,1212 1,1381 1,1470 1,1662 1,1724 1,1748 1,1863 1,1869 1,2380 1,2621 scheinarbeitsverhältnissen}
+{5 1,51 1,433 1,467 1,538 1,596 1,862 1,934 1,936 1,1679 1,1685 1,1852 1,1857 1,1992 1,2455 1,2621 stellenbesetzung}
+{433 1,934 1,1314 1,2521 1,2621 stellen}
+{36 1,196 1,296 1,433 1,548 1,815 1,1226 1,1512 2,2152 1,2224 3,2381 1,2583 1,2621 klemmt}
+{196 1,370 1,470 1,597 1,663 1,732 1,1281 1,1643 1,1679 1,2102 1,2274 1,2384 1,2621 stellen}
+{434 1,538 1,1423 1,1469 1,1686 1,1698 1,1803 2,2449 1,2621 amtsübernahme}
+{138 1,148 1,439 1,548 1,551 1,766 1,839 1,849 1,876 1,969 1,1110 2,1470 1,1601 1,1753 1,1872 1,1993 1,2111 1,2247 1,2417 1,2621 amt}
+{235 1,295 4,296 1,437 1,513 2,839 1,932 1,995 1,1624 1,1830 1,1907 1,1923 1,1949 2,2392 1,2579 1,2614 2,2621 haushaltskontrollverfahren}
+{183 1,185 1,1182 1,1436 1,1485 1,1858 1,2216 1,2598 1,2621 führungsebenen}
+{319 2,423 1,929 1,1434 1,1790 1,2005 1,2121 1,2597 1,2621 führungsposition}
+{478 2,1160 1,1624 1,2621 dienstposten}
+{197 1,437 1,887 1,888 1,1160 1,1489 1,1491 1,1618 1,1803 1,1927 1,2621 ministerposten}
+{129 1,138 1,156 1,195 1,237 1,434 1,472 1,535 2,546 1,588 1,619 2,788 1,850 2,936 1,1049 1,1339 1,1361 1,1685 2,1929 1,2621 mitglied}
+{85 1,230 1,291 2,662 1,1104 1,1121 1,1274 2,1312 1,1488 1,1554 1,1719 1,2193 2,2402 1,2621 amt}
+{448 1,570 1,815 1,902 1,1116 1,1122 1,1144 1,1433 1,1771 1,1846 1,1890 1,1955 1,1993 1,2122 1,2170 1,2218 1,2249 1,2438 1,2621 Ämter}
+{279 1,422 1,540 1,584 1,1394 1,1619 1,2549 1,2621 briefkasten}
+{26 2,149 1,175 1,229 1,238 2,363 1,455 1,475 1,542 1,597 1,927 1,1017 1,1755 1,1780 1,2010 1,2621 posten}
+{647 1,696 1,839 1,930 1,1174 1,1769 1,1955 1,1976 1,1992 1,2621 stellen}
+{42 1,136 1,200 1,402 1,436 2,592 1,595 1,1046 1,1230 1,1401 1,1640 1,1930 1,2099 1,2175 1,2621 stellen}
+{36 1,402 1,540 1,773 1,850 1,1019 1,1771 1,1838 1,1888 1,1893 1,1980 2,1993 2,2370 1,2493 1,2600 1,2621 professioneller}
+{205 1,896 1,1703 1,1992 1,2479 1,2621 stellen}
+{104 1,122 1,190 1,232 1,467 1,475 1,513 2,902 1,937 1,1160 1,1234 2,1921 1,1962 1,2132 1,2621 post-kontrolle}
+{175 1,220 1,324 1,334 1,1049 1,1313 1,1619 1,1859 1,1957 1,2089 1,2494 1,2495 1,2528 1,2621 risikokapitalprogramme}
+{21 1,117 1,143 1,226 1,902 1,1358 1,1378 1,1477 1,1679 1,1852 2,2031 1,2132 1,2434 1,2621 stelle}
+{42 1,200 1,295 1,546 1,548 1,850 1,1013 1,1300 1,1557 1,1917 1,1934 1,2621 stellen}
+{11 1,202 1,810 1,930 1,1090 1,1532 1,1739 1,1907 1,2000 1,2221 1,2238 1,2546 1,2621 stellen}
+{47 2,319 1,445 1,497 1,689 1,1067 1,1542 1,1551 1,2327 1,2558 1,2621 stellen}
+{42 1,96 1,600 1,609 2,895 1,900 1,937 1,1218 1,1620 1,2010 1,2132 1,2507 1,2621 stellen}
+{42 1,73 1,433 1,862 1,1158 1,1166 1,1691 1,1845 1,2600 1,2621 stellen}
+{709 1,2329 1,2621 postzustellung}
+{43 1,393 1,402 1,467 1,485 1,672 1,1016 1,1470 1,1569 1,1619 1,1920 1,2122 1,2538 1,2621 poststellennetz}
+{110 1,148 1,200 1,405 1,582 1,587 1,687 1,1061 1,1139 1,1458 1,1533 1,1619 1,1828 1,2384 1,2621 postamt}
+{452 1,548 1,726 1,889 1,1255 1,1400 1,1774 1,2026 1,2132 1,2537 1,2621 post}
+{319 1,387 1,433 1,488 1,1840 1,1890 1,1967 1,2349 1,2621 aufgabenprofil}
+{306 1,433 1,467 1,1189 1,1749 1,2394 1,2600 1,2621 aufwand}
+{47 1,316 1,468 1,1082 1,1182 1,1433 1,1583 1,1601 1,1753 1,1895 1,2186 1,2237 1,2321 1,2621 planstelle}
+{260 1,295 1,355 1,437 1,483 1,1557 1,2111 1,2132 1,2244 1,2269 1,2540 1,2621 stellen}
+{876 1,905 1,921 1,1097 1,1576 2,2621 post-nizza}
+{197 1,433 1,483 1,533 1,545 1,548 2,664 1,934 1,1086 1,1165 1,1258 2,1966 1,2161 1,2370 1,2621 stellen}
+{280 1,433 3,538 1,902 1,937 1,1010 1,1094 1,1136 1,1380 2,1721 1,1859 1,1950 1,1997 1,2133 1,2251 1,2475 1,2481 1,2561 1,2614 1,2621 stellen}
+{263 1,800 1,820 1,832 1,978 1,1015 1,1281 1,1347 2,1455 2,1714 1,2024 1,2597 1,2621 gleichwertigen}
+{42 1,172 1,226 1,433 1,487 1,1600 1,1998 1,2165 1,2237 1,2621 mitarbeiter}
+{80 1,122 1,1589 1,1726 1,1771 1,1892 1,2160 1,2370 1,2431 1,2621 post}
+{148 1,433 1,662 1,835 1,839 1,1094 1,1428 1,1741 1,1845 1,1950 1,2317 1,2621 stellen}
+{220 3,285 1,308 1,349 2,364 1,393 1,432 1,433 1,511 1,850 2,925 1,1049 1,1117 1,1465 1,1470 1,1551 1,1619 1,1679 2,1866 1,2018 1,2244 1,2294 1,2621 postamt}
+{709 1,2028 1,2621 Ämter}
+{65 1,849 1,864 1,1430 1,1618 1,1619 1,1816 1,2132 1,2153 1,2495 1,2538 1,2621 lebensfähiger}
+{549 1,570 1,582 1,746 1,852 1,868 1,1222 1,1284 1,1380 1,1733 1,1741 1,1863 1,2090 1,2095 1,2107 1,2312 1,2621 datenschutzinstrumente}
+{374 1,513 1,1015 1,1461 1,1752 1,1769 1,1801 1,1988 1,1995 1,2058 1,2435 1,2621 kontrollposten}
+{285 1,545 1,667 1,766 1,767 2,849 1,850 1,864 1,902 1,1070 3,1130 1,1382 1,1530 1,1557 1,1656 1,1690 1,1777 1,1859 1,1950 1,2017 1,2243 1,2308 2,2485 1,2600 1,2614 1,2621 wiederingangsetzung}
+{455 1,773 1,1203 1,1925 1,1929 1,1950 1,1969 1,2000 1,2238 1,2621 stellen}
+{22 1,433 1,538 1,546 1,755 1,810 1,850 2,894 1,902 1,1300 1,1470 1,1679 1,2014 1,2244 1,2493 1,2621 stellen}
+{433 1,436 1,596 1,1815 1,1869 1,1997 1,2220 1,2614 1,2621 stellen}
+{96 2,433 1,538 1,1796 1,2584 1,2621 stellen}
+{411 1,596 1,708 1,850 2,1230 2,1470 1,1690 1,1733 1,1814 1,2145 1,2244 1,2571 1,2609 1,2621 spielball}
+{526 1,810 1,1045 1,1821 1,2621 kopenhagen}
+{279 1,651 1,862 1,1036 1,1600 1,1982 1,2252 1,2621 briefkästen}
+{316 1,350 1,711 1,780 1,1134 1,1774 1,1869 1,2132 1,2620 1,2621 post}
+{279 1,1149 1,1545 1,1655 1,1982 1,2087 1,2621 briefkästen}
+{51 1,62 1,138 1,516 1,745 1,850 2,895 1,1049 1,1490 2,1537 1,1704 1,1859 1,2218 1,2300 1,2460 1,2621 amt}
+{73 1,96 1,185 1,233 1,295 1,393 1,412 1,433 2,434 1,475 1,862 1,863 1,869 1,1158 1,1470 1,1600 1,1619 1,1633 1,1671 1,1955 1,2008 1,2244 1,2370 1,2521 1,2621 stellen}
+{17 1,51 1,163 1,326 1,385 1,488 1,619 1,689 2,707 1,901 1,996 2,1034 1,1115 1,1354 1,1461 1,1462 1,1477 1,1616 1,1755 1,1769 2,1852 1,2041 1,2060 1,2598 2,2621 Ämtern}
+{136 1,334 1,433 2,545 1,862 1,1160 1,1187 1,1220 1,1624 1,2143 1,2237 2,2600 1,2621 bewerben}
+{319 1,540 1,662 1,664 1,1290 1,1470 1,1474 1,1606 1,1700 1,1755 1,1903 1,1955 1,1967 1,2084 1,2621 posten}
+{14 1,136 1,244 1,996 1,1618 1,1803 1,2495 1,2614 1,2616 1,2621 stelle}
+{51 1,494 1,538 1,566 1,766 1,809 1,849 1,850 2,991 1,1070 1,1118 1,1190 1,1310 1,1846 1,1882 1,2222 1,2230 1,2238 1,2417 1,2621 gipfelpunkt}
+{174 1,839 1,1078 1,1251 1,1329 1,2132 1,2621 stellen}
+{266 1,507 2,538 1,637 1,1012 1,1274 1,1650 1,1731 1,1801 1,2108 2,2193 1,2621 amt}
+{481 1,779 1,1803 1,2621 amt}
+{433 1,1470 1,1890 1,2621 posten}
+{21 1,75 1,224 1,319 1,433 1,481 1,538 1,1203 1,1250 1,1284 1,1470 1,1805 1,1830 1,1859 1,2060 2,2621 Ämter}
+{34 1,331 1,672 1,1049 1,1082 1,1266 1,1340 1,1637 1,1640 1,1755 1,1790 1,1810 1,2621 amt}
+{319 1,434 1,520 1,580 1,890 1,902 1,1028 1,1488 1,1872 1,1925 1,1974 1,2258 1,2621 kommissarskandidat}
+{402 1,459 1,488 1,549 1,1301 1,1717 1,1782 1,2282 1,2621 dienstposten}
+{143 1,937 1,1382 1,1456 1,1721 1,1890 1,2621 stellen}
+{334 1,434 3,452 1,559 1,890 1,1097 1,1213 1,1470 1,1679 1,1680 1,1702 1,1804 1,1882 1,1890 1,1967 1,2010 1,2019 1,2170 1,2321 1,2370 1,2621 posten}
+{212 1,246 1,423 1,433 1,434 1,435 1,620 1,715 1,850 1,865 1,925 1,1046 1,1170 1,1224 1,1238 1,1281 1,1340 1,1565 1,1603 1,1644 1,1679 1,1814 1,1819 1,1869 1,2621 amt}
+{850 1,1016 1,1130 1,1337 1,1685 1,1756 1,2241 1,2621 amt}
+{155 1,1679 1,1930 1,2281 1,2621 standort}
+{481 1,957 1,1618 1,1803 1,2621 amt}
+{273 1,392 1,560 1,572 1,734 1,1048 1,1266 1,1267 1,1328 1,1402 1,2178 1,2216 1,2447 1,2614 1,2621 zollstation}
+{273 1,278 1,584 1,623 1,773 1,825 1,1551 1,1559 1,1769 1,2262 1,2621 schlagbaum}
+{467 1,498 1,522 1,652 2,800 1,819 1,1470 1,1632 1,1714 1,1741 1,1796 1,1848 1,2049 1,2244 1,2621 systemeinführung}
+{66 1,540 1,1444 1,1630 1,1711 1,1759 1,1846 1,1993 1,2238 1,2558 1,2602 1,2621 etappe}
+{16 1,538 1,810 1,1220 1,1432 1,1785 1,1997 1,2349 1,2526 1,2621 planstelle}
+{47 1,434 1,488 1,1203 1,1670 1,1769 1,1890 1,1929 1,1930 1,2218 1,2577 1,2621 planstelle}
+{446 2,806 1,1022 1,1549 3,1623 1,1753 1,1960 1,2004 1,2358 1,2393 1,2621 post}
+{273 2,535 1,572 2,697 1,1195 1,1600 1,1619 1,1752 1,1967 1,2050 1,2121 1,2482 1,2600 1,2621 stellen}
+{397 1,431 1,433 2,434 1,596 1,1618 1,1967 1,2132 1,2621 post}
+{378 1,759 1,849 1,1130 1,1512 1,2201 1,2621 post}
+{75 1,362 1,467 2,497 1,505 1,535 1,850 1,1022 1,1035 1,1039 1,1473 1,1590 1,1608 1,1736 1,1755 1,2040 1,2621 posten}
+{51 1,433 1,709 1,1049 1,1508 1,1639 1,1769 1,1890 1,2060 1,2621 postverteilung}
+{75 1,273 1,1262 1,1350 1,1462 1,1612 1,1631 1,1742 1,1900 1,2048 1,2372 1,2431 1,2493 1,2621 grenzposten}
+{295 1,839 1,1903 1,1992 1,2153 1,2621 stellen}
+{172 1,348 4,406 1,522 1,621 1,652 1,673 1,850 3,862 1,934 1,1016 1,1182 1,1201 1,1220 1,1516 1,1679 2,1741 1,2255 1,2546 1,2600 3,2621 position}
+{27 1,157 1,196 1,331 1,398 1,437 1,596 1,855 1,1139 1,1234 1,1248 1,1769 1,2003 1,2194 1,2399 1,2553 1,2579 1,2621 zusammenstieß}
+{433 1,675 1,998 1,2621 stellen}
+{22 1,47 1,96 1,433 1,434 1,877 1,1182 1,1226 1,1461 1,1470 1,2237 1,2244 1,2621 beamtenstelle}
+{53 1,65 1,80 1,442 1,1389 1,1619 1,1713 1,1774 1,1816 1,1818 1,1841 1,1872 2,2132 1,2351 1,2495 1,2558 1,2621 postbehörde}
+{368 1,561 1,709 1,907 1,988 1,1160 1,1749 1,2621 post}
+{73 1,540 2,774 1,925 1,1046 1,1088 1,1619 1,1774 2,1812 1,1853 1,1892 1,2132 2,2214 1,2515 2,2523 1,2600 1,2601 1,2621 post}
+{596 1,723 1,800 1,1337 1,1398 1,1423 1,1536 1,1712 1,1755 1,1803 1,1907 1,2452 1,2614 1,2621 postdienst}
+{104 1,446 1,540 1,570 1,669 1,774 1,1619 1,1869 1,1872 1,2016 1,2132 1,2495 1,2563 1,2600 1,2621 post}
+{17 1,494 1,598 1,603 1,622 1,779 1,837 1,869 1,873 1,1049 1,1257 1,1336 1,1491 1,1551 4,1649 1,1755 1,1790 1,1925 1,2000 1,2241 1,2493 1,2563 1,2621 ministeramt}
+{22 1,33 1,230 1,238 1,291 1,477 1,850 1,1016 1,1071 1,1201 1,1206 1,1220 1,1243 1,1627 1,1679 1,1771 1,1800 1,1869 1,1913 1,2154 1,2550 1,2621 rechenschaftsbericht}
+{285 1,822 1,849 2,1364 1,1706 1,1743 1,2096 1,2182 1,2187 1,2250 1,2296 1,2621 treffer}
+{77 1,100 1,120 1,189 1,311 1,538 1,545 1,776 1,1255 1,1346 1,1635 1,1803 2,1806 1,2051 1,2230 1,2294 1,2621 erdenklich}
+{63 1,196 1,652 1,839 1,1034 1,1119 1,1220 1,1436 1,1741 1,1753 2,1844 1,2621 posten}
+{117 1,507 1,829 1,1052 1,1334 1,1617 1,1744 1,2189 1,2598 1,2600 1,2621 a-laufbahngruppen}
+{42 1,148 1,296 1,684 1,691 1,847 1,958 1,960 1,991 1,1016 1,1211 1,1417 1,1428 1,1470 1,1649 1,1771 1,1967 1,2238 1,2244 1,2531 1,2621 zwischenstation}
+{898 1,903 1,1160 1,1174 1,1314 1,1381 1,1569 1,1609 1,1890 2,1902 1,2412 1,2428 1,2621 post}
+{507 1,623 1,1178 1,1620 1,2161 1,2621 posten}
+{78 1,139 1,368 1,467 1,473 1,499 1,545 1,643 1,662 1,808 1,890 1,935 1,998 1,1045 1,1398 1,1436 2,1726 1,1848 2,1885 1,2390 1,2621 stellen}
+{16 1,726 1,1518 1,2621 mondengwo}
+{96 1,433 1,633 1,1121 1,1138 1,1228 1,1234 1,1271 1,1747 1,1780 1,1997 2,2007 1,2016 1,2095 1,2112 1,2218 1,2389 1,2468 1,2563 1,2613 1,2621 beantragten}
+{16 1,128 1,308 1,341 1,467 1,538 1,545 1,676 1,806 1,912 1,916 1,1227 1,1260 1,1323 1,1364 1,1368 1,1446 1,1533 1,1581 1,1619 1,1643 1,1714 1,1769 1,1774 1,1823 1,1841 1,1859 1,1863 1,1869 1,1870 1,1872 3,1909 1,1953 1,1957 1,1962 1,2014 1,2132 3,2491 1,2621 postorganisation}
+{331 1,470 1,1220 1,1284 1,1998 1,2278 1,2621 planstelle}
+{386 1,514 1,591 1,1049 1,1470 1,1579 1,1665 1,1719 1,1973 1,2621 amt}
+{17 1,122 1,136 1,177 1,505 1,513 2,540 1,819 1,937 1,1461 1,1551 1,1820 1,1845 1,1859 1,1907 1,2010 1,2110 1,2621 post}
+{83 1,180 1,273 1,395 1,402 1,540 1,849 1,892 1,980 1,984 1,1182 1,1470 1,1615 1,1644 1,1772 1,2113 1,2131 1,2244 1,2621 grenzposten}
+{73 1,439 1,538 1,611 1,646 1,902 1,968 1,1264 1,1614 1,1679 2,1769 1,1774 1,1803 1,1953 1,2132 1,2621 postfrage}
+{47 1,136 1,536 1,547 1,709 2,715 1,746 1,1364 1,1470 1,1644 1,1774 1,2621 post}
+{76 1,587 1,662 1,1013 1,1303 1,1368 1,1456 1,1569 1,1619 1,1901 1,1946 2,2275 1,2411 1,2621 postwesen}
+{185 1,570 1,587 1,713 2,732 1,812 1,865 1,956 1,1121 1,1600 1,1696 1,2495 1,2621 lehrstuhl}
+{115 1,273 1,962 1,1160 1,1214 1,1391 1,1402 1,1446 1,1551 1,1765 1,1829 1,2168 1,2173 1,2429 1,2533 1,2621 grenzkontrollposten}
+{148 1,488 1,547 1,652 1,1183 1,1220 1,1231 1,1507 1,1627 1,1714 1,1859 1,2147 1,2526 1,2600 2,2621 temporären}
+{109 1,205 1,437 1,538 1,617 1,663 1,862 1,993 1,1182 1,1220 1,1507 1,1749 1,1953 1,1957 1,2010 1,2158 1,2383 1,2439 1,2479 1,2484 1,2621 planstelle}
+{207 1,317 1,319 1,385 1,433 1,616 1,779 1,780 1,850 2,933 1,1160 1,1269 1,1643 1,1685 1,1755 3,1801 1,1803 1,1845 1,1859 1,1872 1,2088 1,2317 1,2621 amt}
+{433 2,570 1,784 1,850 1,1470 2,1619 1,1679 1,2317 1,2535 1,2621 funktion}
+{738 1,789 1,1575 1,1619 1,1872 1,1902 1,2132 2,2558 1,2621 post}
+{107 1,368 1,561 2,996 1,1161 1,1271 1,1365 1,1415 1,1417 1,1499 1,1619 1,1815 1,2165 1,2429 2,2621 post}
+{401 1,488 1,522 1,697 1,1557 1,1632 1,1762 1,1803 1,1996 2,2154 1,2233 2,2558 1,2621 poplasen}
+{124 1,296 1,312 1,437 1,513 1,523 1,715 2,1339 1,1470 1,1619 1,1624 1,1753 1,1864 1,1907 1,2003 1,2189 2,2321 2,2563 1,2621 koordinatorin}
+{538 1,609 1,757 1,794 1,952 1,955 1,1213 1,2034 1,2289 1,2621 anstellung}
+{97 1,117 1,538 1,941 1,1561 1,1679 1,1769 1,1771 1,2057 1,2266 1,2297 1,2621 zielgerade}
+{185 1,319 2,715 1,732 1,779 1,863 1,934 1,987 1,1218 1,1473 1,1510 1,1600 2,1859 1,2104 1,2467 1,2540 1,2621 posten}
+{80 1,433 1,850 1,1045 1,1600 1,1679 1,1943 1,2482 1,2521 1,2614 1,2621 stellen}
+{21 1,233 1,437 1,1145 1,1182 1,1624 2,1821 1,1934 1,1992 1,2067 1,2130 1,2313 1,2600 1,2621 stellen}
+{42 1,1309 1,1344 1,1624 1,2321 1,2342 1,2621 stellen}
+{104 1,295 1,1624 1,1644 1,1869 1,2412 1,2621 stellen}
+{295 1,296 1,437 2,513 1,1039 1,1059 1,1456 1,2317 1,2486 1,2621 stellen}

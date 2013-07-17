@@ -1,0 +1,57 @@
+@relation mood-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {ripongo,umore,clima,atmosfera,antieuropei,acquietamento,animo,ottimista,sedersi,vivo,accomiatiamo,malumore,ottimismo,nazionalistica,collocazione,riformatore,ritraggono,assecondata,pessimismo,atteggiamento,rivoluzionario,diffama,banale,spirito,discoteca,riporterò,regnava,circoscritta,litigare,crea,predisposizione,bastasse,noordwijk,belligerante,tenda,barcelona,impresso,rassegnazione,sensazione,ascoltare,raro,capito,predomina,comprensivo,vena,alacri,emergono,celebrativo,orientamento,esattamene,inclinazione,volontà,appello,voglia,consumiamo,compiaciute,fomentino,trarrò,studiarlo,speranzosi,temporeggiare}
+
+@data
+1,When:split:realli:piss:hadnt:achiev:lot:thing:come:record:depress,?
+2,After:hour:bang:rave:tune:consign:illeg:drug:theyr:parti,?
+3,upper:end:social:econom:scale:protest:captur:effect:respect:Republican:Parti,?
+4,civil:walk:brief:Afternoon:stop,?
+5,But:princip:aim:help:creat:individu:teacher:keen:push:chang:effect,?
+6,Easi:Rider:happen:film:moment:reflect:moment,?
+7,appar:afford:lamb:rice:friend:tabl:despair,?
+8,Her:natur:passiv:encourag:religion:fact:pregnant:commit:accept:sweet:hermet:selfish,?
+9,stop:continu:past:thought:want:film,?
+10,enjoy:faint:yard:far:bad:tell:colleagu:slow:wait,?
+11,contrast:pervad:fear:uncertainti:year:atmospher:June:year:resign:crisi:there:end:sight,?
+12,tentat:contrast:simpli:claim:approach:leav:scope:matter:debat,?
+13,tune:Local:Govern:Act:proceed:abolish:GLC:metropolitan:counti:council,?
+14,display:endless:varieti:lone:majest:danger:fickl:seren,?
+15,occas:everybodi:look:staff:queue:set:day:week,?
+16,Just:releas:music:press:appear:turn:slight:band:record:reaffirm:status:press:darl,?
+17,Last:Monday:night:deep:depress:sit:open:window:pray:peac:happi:dark:life,?
+18,She:pour:tea:kept:silent:anxious:disturb:present,?
+19,She:admir:redol:happi:domest:home:welcom:aura:surround:sharpen:unhappi,?
+20,The:Labour:campaign:team:swung:opinion:poll,?
+21,The:heavi:tragedi:congeni:good:know:far:away:long:felt:miser:did,?
+22,The:indic:glean:instant:huge:poster:recept:offic:wall:blow-up:French:student:riot,?
+23,The:music:final:chosen:help:great:creat:sombr:John:did:interest:easi:work,?
+24,The:public:organ:mean:bureaucraci:complex:expens,?
+25,There:extraordinarili:vivid:exuber:pictur:counter:penitenti,?
+26,There:perpetu:nervous:insecur,?
+27,mass:steel:wood:feel:understood:fit,?
+28,Tweed:shook:resign:lean:shoulder:studi:map,?
+29,Under:threat:current:industri:requir:consist:set:requir:open,?
+30,When:low:accus:hurl:search:scapegoat:problem:rationalis,?
+31,crazi:today:let:vers:word,?
+32,Cheltenham:Borough:Council:employe:sombr:file:Town:Hall:mass:meet,?
+33,happi:dont:tonsil:twist,?
+34,And:fact:truth:mere:psycholog:specul:interest:contempl,?
+35,Convers:possibl:physic:influenc:behaviour:pattern:extrem:case:saniti,?
+36,Convers:principl:use:pretext:ignor:compet:given:Union:twist:principl:rule:set:Treati:order:match:polit:hour:sensit:file,?
+37,Donald:Jean:disappear:Mari:black:stride:make:old:Donald:gasp,?
+38,Even:aromatherapi:massag:mainstay:art:essenti:oil:use:varieti:way:heal:aesthet:purpos:bath:steam:inhal:enhanc:perfum:exampl,?
+39,Get:Christma:Oxford:Bach:Choir:perform:late:night:shopper:Blackwel:Music:shop:Broad:Street,?
+40,amiabl:day:Leonard:remark:friend:taught:dress:taught:live:forev,?
+41,Mani:women:notic:swing:weight:chang:menopaus,?
+42,Meal:suit:self-servic:snack:cafe:societi:fare:serv:eleg:luxuri,?
+43,Moreov:EESC:feel:current:reflect:role:destini:European:Union:Commiss:urg:Member:State:communic:clear:citizen:decis:taken:European:level:reason,?
+44,Musician:sensit:congreg:adapt:materi:servic:proceed,?
+45,Nevertheless:did:general:Whitehal:senior:civil:servant:perfect:come:fair:radic:chang,?
+46,Poor:manag:restructur:result:loss:imag:compani:entir:sector:creat:general:resist:chang,?
+47,Such:concern:exist:decad:mirror:uncertainti:role:occur:societi,?
+48,The:Eurobaromet:survey:includ:question:design:assess:general:European,?
+49,Tourism:incom:Jordan:ebb:flow:polit:Middl:East:hit:particular:hard:recent:turmoil,?
+50,Who:touch:public:tabloid:editor:broadsheet:pundit,?

@@ -1,0 +1,2514 @@
+@relation 'execution-weka.filters.unsupervised.attribute.NominalToString-C2-weka.filters.unsupervised.attribute.StringToWordVector-R2-W100000-prune-rate-1.0-C-N0-S-stemmerweka.core.stemmers.NullStemmer-M1-O-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.unsupervised.attribute.Reorder-R3-last,2-weka.filters.MultiFilter-Fweka.filters.unsupervised.attribute.StringToWordVector -R 2 -W 100000 -prune-rate -1.0 -C -N 0 -S -stemmer weka.core.stemmers.NullStemmer -M 1 -O -tokenizer \"weka.core.tokenizers.WordTokenizer -delimiters \\\" \\\\r\\\\n\\\\t.,;:\\\\\\\'\\\\\\\"()?!\\\"\"-Fweka.filters.unsupervised.attribute.Reorder -R 3-last,2'
+
+@attribute -year-old numeric
+@attribute abacha numeric
+@attribute abandon numeric
+@attribute abba numeric
+@attribute abduct numeric
+@attribute abdul numeric
+@attribute abdullah numeric
+@attribute aberr numeric
+@attribute abil numeric
+@attribute abnorm numeric
+@attribute abolish numeric
+@attribute abolit numeric
+@attribute abroad numeric
+@attribute absenc numeric
+@attribute absolut numeric
+@attribute absorpt numeric
+@attribute abu numeric
+@attribute abu-jam numeric
+@attribute abus numeric
+@attribute acced numeric
+@attribute accept numeric
+@attribute access numeric
+@attribute accid numeric
+@attribute accompani numeric
+@attribute accord numeric
+@attribute account numeric
+@attribute accredit numeric
+@attribute accus numeric
+@attribute achiev numeric
+@attribute achmin numeric
+@attribute acknowledg numeric
+@attribute acqui numeric
+@attribute acquiesc numeric
+@attribute act numeric
+@attribute action numeric
+@attribute activ numeric
+@attribute activist numeric
+@attribute actual numeric
+@attribute adapt numeric
+@attribute add numeric
+@attribute addit numeric
+@attribute address numeric
+@attribute adelaid numeric
+@attribute adequ numeric
+@attribute adjust numeric
+@attribute administr numeric
+@attribute admit numeric
+@attribute adopt numeric
+@attribute advisor numeric
+@attribute advisori numeric
+@attribute advoc numeric
+@attribute affair numeric
+@attribute affect numeric
+@attribute affirm numeric
+@attribute afflict numeric
+@attribute afghanistan numeric
+@attribute afraid numeric
+@attribute african numeric
+@attribute age numeric
+@attribute agenc numeric
+@attribute agenda numeric
+@attribute agent numeric
+@attribute aglietta numeric
+@attribute agre numeric
+@attribute agreement numeric
+@attribute ahead numeric
+@attribute ahmadinejad numeric
+@attribute aid numeric
+@attribute aim numeric
+@attribute akbar numeric
+@attribute ala numeric
+@attribute alarm numeric
+@attribute albanian numeric
+@attribute albeit numeric
+@attribute albert numeric
+@attribute ale numeric
+@attribute alexi numeric
+@attribute algeria numeric
+@attribute algerian numeric
+@attribute ali numeric
+@attribute alik numeric
+@attribute all-clear numeric
+@attribute alleg numeric
+@attribute allevi numeric
+@attribute alli numeric
+@attribute alloc numeric
+@attribute alongsid numeric
+@attribute alter numeric
+@attribute altern numeric
+@attribute altogeth numeric
+@attribute ambul numeric
+@attribute amend numeric
+@attribute america numeric
+@attribute american numeric
+@attribute amnesti numeric
+@attribute amount numeric
+@attribute amput numeric
+@attribute amsterdam numeric
+@attribute analys numeric
+@attribute analysi numeric
+@attribute anniversari numeric
+@attribute announc numeric
+@attribute answer numeric
+@attribute anticip numeric
+@attribute anybodi numeric
+@attribute apathi numeric
+@attribute appal numeric
+@attribute appar numeric
+@attribute appeal numeric
+@attribute appli numeric
+@attribute applic numeric
+@attribute appoint numeric
+@attribute appreci numeric
+@attribute approach numeric
+@attribute appropri numeric
+@attribute approv numeric
+@attribute approxim numeric
+@attribute april numeric
+@attribute arabia numeric
+@attribute arafat numeric
+@attribute arbitrari numeric
+@attribute area numeric
+@attribute argu numeric
+@attribute argument numeric
+@attribute ariel numeric
+@attribute aris numeric
+@attribute arm numeric
+@attribute armi numeric
+@attribute aros numeric
+@attribute arrang numeric
+@attribute arrest numeric
+@attribute arriv numeric
+@attribute art numeric
+@attribute articl numeric
+@attribute artifici numeric
+@attribute artm numeric
+@attribute asean numeric
+@attribute asheri numeric
+@attribute asid numeric
+@attribute aslan numeric
+@attribute asleep numeric
+@attribute aspect numeric
+@attribute aspir numeric
+@attribute assassin numeric
+@attribute assault numeric
+@attribute assembl numeric
+@attribute assert numeric
+@attribute assess numeric
+@attribute asset numeric
+@attribute assign numeric
+@attribute assist numeric
+@attribute associ numeric
+@attribute assum numeric
+@attribute atlant numeric
+@attribute atroc numeric
+@attribute attach numeric
+@attribute attack numeric
+@attribute attempt numeric
+@attribute attent numeric
+@attribute attitud numeric
+@attribute audit numeric
+@attribute auditor numeric
+@attribute author numeric
+@attribute authoris numeric
+@attribute authorit numeric
+@attribute autonom numeric
+@attribute autonomi numeric
+@attribute autumn numeric
+@attribute avail numeric
+@attribute averag numeric
+@attribute avert numeric
+@attribute avoid numeric
+@attribute await numeric
+@attribute awar numeric
+@attribute award numeric
+@attribute ayoubi numeric
+@attribute backlog numeric
+@attribute bad numeric
+@attribute balanc numeric
+@attribute baltic numeric
+@attribute ban numeric
+@attribute bank numeric
+@attribute barbar numeric
+@attribute barcelona numeric
+@attribute barnabei numeric
+@attribute base numeric
+@attribute basi numeric
+@attribute basic numeric
+@attribute battl numeric
+@attribute bear numeric
+@attribute beat numeric
+@attribute beatriz numeric
+@attribute begin numeric
+@attribute behalf numeric
+@attribute behaviour numeric
+@attribute beij numeric
+@attribute belgium numeric
+@attribute believ numeric
+@attribute belong numeric
+@attribute belorussian numeric
+@attribute benefit numeric
+@attribute bennasar numeric
+@attribute berend numeric
+@attribute berg numeric
+@attribute betray numeric
+@attribute bey numeric
+@attribute biggest numeric
+@attribute bilater numeric
+@attribute birth numeric
+@attribute blame numeric
+@attribute blind numeric
+@attribute block numeric
+@attribute blockad numeric
+@attribute bloodi numeric
+@attribute board numeric
+@attribute boat numeric
+@attribute bodi numeric
+@attribute bogus numeric
+@attribute bomb numeric
+@attribute book numeric
+@attribute border numeric
+@attribute born numeric
+@attribute bosnia-herzegovina numeric
+@attribute boumediene-thieri numeric
+@attribute boycott numeric
+@attribute brand numeric
+@attribute brave numeric
+@attribute brazilian numeric
+@attribute breach numeric
+@attribute break numeric
+@attribute bring numeric
+@attribute british numeric
+@attribute broad numeric
+@attribute broker numeric
+@attribute brought numeric
+@attribute brussel numeric
+@attribute brutal numeric
+@attribute buddhist numeric
+@attribute budget numeric
+@attribute budgetari numeric
+@attribute build numeric
+@attribute bulk numeric
+@attribute bunia numeric
+@attribute bureaucrat numeric
+@attribute burka numeric
+@attribute burma numeric
+@attribute burmes numeric
+@attribute burn numeric
+@attribute burundi numeric
+@attribute bush numeric
+@attribute busi numeric
+@attribute busquin numeric
+@attribute butt numeric
+@attribute cabinda numeric
+@attribute call numeric
+@attribute camp numeric
+@attribute campaign numeric
+@attribute camus numeric
+@attribute canadian numeric
+@attribute candid numeric
+@attribute cap numeric
+@attribute capac numeric
+@attribute capit numeric
+@attribute car numeric
+@attribute carri numeric
+@attribute case numeric
+@attribute cash numeric
+@attribute cast numeric
+@attribute castro numeric
+@attribute categori numeric
+@attribute caus numeric
+@attribute ceas numeric
+@attribute ceil numeric
+@attribute celebr numeric
+@attribute censorship numeric
+@attribute censur numeric
+@attribute centr numeric
+@attribute central numeric
+@attribute centralis numeric
+@attribute centuri numeric
+@attribute certainti numeric
+@attribute chamber numeric
+@attribute chanc numeric
+@attribute chang numeric
+@attribute channel numeric
+@attribute charg numeric
+@attribute charl numeric
+@attribute charter numeric
+@attribute chastiti numeric
+@attribute chechnya numeric
+@attribute check numeric
+@attribute children numeric
+@attribute china numeric
+@attribute chines numeric
+@attribute chirac numeric
+@attribute choic numeric
+@attribute chosen numeric
+@attribute chris numeric
+@attribute christian numeric
+@attribute church numeric
+@attribute circumst numeric
+@attribute citizen numeric
+@attribute civil numeric
+@attribute civilian numeric
+@attribute civilis numeric
+@attribute claim numeric
+@attribute claimabl numeric
+@attribute clarifi numeric
+@attribute claus numeric
+@attribute clear numeric
+@attribute clearer numeric
+@attribute clemenc numeric
+@attribute client numeric
+@attribute climat numeric
+@attribute clinton numeric
+@attribute close numeric
+@attribute closer numeric
+@attribute closur numeric
+@attribute cns numeric
+@attribute code numeric
+@attribute codecid numeric
+@attribute codecis numeric
+@attribute coher numeric
+@attribute cohes numeric
+@attribute coin numeric
+@attribute coincident numeric
+@attribute collabor numeric
+@attribute colleagu numeric
+@attribute collect numeric
+@attribute columbia numeric
+@attribute combin numeric
+@attribute comment numeric
+@attribute commiss numeric
+@attribute commission numeric
+@attribute commit numeric
+@attribute committe numeric
+@attribute common numeric
+@attribute communism numeric
+@attribute communist numeric
+@attribute communiti numeric
+@attribute commut numeric
+@attribute compani numeric
+@attribute compar numeric
+@attribute compat numeric
+@attribute compens numeric
+@attribute compet numeric
+@attribute competit numeric
+@attribute complet numeric
+@attribute complex numeric
+@attribute compli numeric
+@attribute complianc numeric
+@attribute complic numeric
+@attribute compon numeric
+@attribute compos numeric
+@attribute comprehens numeric
+@attribute compromis numeric
+@attribute concentr numeric
+@attribute concept numeric
+@attribute concern numeric
+@attribute concili numeric
+@attribute conclud numeric
+@attribute conclus numeric
+@attribute condemn numeric
+@attribute condit numeric
+@attribute conduct numeric
+@attribute confer numeric
+@attribute confid numeric
+@attribute confidenti numeric
+@attribute confirm numeric
+@attribute confisc numeric
+@attribute conflict numeric
+@attribute confus numeric
+@attribute congo numeric
+@attribute congratul numeric
+@attribute congress numeric
+@attribute congressmen numeric
+@attribute conjug numeric
+@attribute connect numeric
+@attribute conquest numeric
+@attribute conscienc numeric
+@attribute conscript numeric
+@attribute consensus numeric
+@attribute consent numeric
+@attribute consequ numeric
+@attribute conserv numeric
+@attribute consid numeric
+@attribute consist numeric
+@attribute conspiraci numeric
+@attribute constant numeric
+@attribute constitu numeric
+@attribute constitut numeric
+@attribute construct numeric
+@attribute consult numeric
+@attribute consum numeric
+@attribute contact numeric
+@attribute content numeric
+@attribute contest numeric
+@attribute context numeric
+@attribute continu numeric
+@attribute contract numeric
+@attribute contradict numeric
+@attribute contrari numeric
+@attribute contravent numeric
+@attribute contribut numeric
+@attribute control numeric
+@attribute controversi numeric
+@attribute conven numeric
+@attribute convent numeric
+@attribute convict numeric
+@attribute cooper numeric
+@attribute coordin numeric
+@attribute corrupt numeric
+@attribute cost numeric
+@attribute costa numeric
+@attribute council numeric
+@attribute count numeric
+@attribute countless numeric
+@attribute countri numeric
+@attribute courag numeric
+@attribute cours numeric
+@attribute court numeric
+@attribute cover numeric
+@attribute creat numeric
+@attribute creation numeric
+@attribute credit numeric
+@attribute creditor numeric
+@attribute crime numeric
+@attribute crimin numeric
+@attribute crisi numeric
+@attribute criteria numeric
+@attribute critic numeric
+@attribute criticis numeric
+@attribute croatia numeric
+@attribute crocodil numeric
+@attribute cruel numeric
+@attribute cruelti numeric
+@attribute cuba numeric
+@attribute cuban numeric
+@attribute cultur numeric
+@attribute curfew numeric
+@attribute current numeric
+@attribute cut numeric
+@attribute cycl numeric
+@attribute daili numeric
+@attribute dalai numeric
+@attribute damag numeric
+@attribute damn numeric
+@attribute danger numeric
+@attribute daniel numeric
+@attribute danish numeric
+@attribute daphn numeric
+@attribute darfur numeric
+@attribute data numeric
+@attribute date numeric
+@attribute day numeric
+@attribute dead numeric
+@attribute deal numeric
+@attribute dealer numeric
+@attribute dealt numeric
+@attribute death numeric
+@attribute debat numeric
+@attribute debtor numeric
+@attribute deceiv numeric
+@attribute decemb numeric
+@attribute decentr numeric
+@attribute decid numeric
+@attribute decis numeric
+@attribute decision-mak numeric
+@attribute declar numeric
+@attribute decommit numeric
+@attribute deduc numeric
+@attribute deduct numeric
+@attribute deepest numeric
+@attribute deepli numeric
+@attribute defeat numeric
+@attribute defenc numeric
+@attribute defend numeric
+@attribute defens numeric
+@attribute defin numeric
+@attribute definit numeric
+@attribute degre numeric
+@attribute delay numeric
+@attribute deleg numeric
+@attribute delek numeric
+@attribute delet numeric
+@attribute delic numeric
+@attribute delight numeric
+@attribute deliv numeric
+@attribute dell numeric
+@attribute demand numeric
+@attribute democraci numeric
+@attribute democrat numeric
+@attribute demolit numeric
+@attribute demonstr numeric
+@attribute den numeric
+@attribute deni numeric
+@attribute denial numeric
+@attribute depart numeric
+@attribute depend numeric
+@attribute deplor numeric
+@attribute deploy numeric
+@attribute deport numeric
+@attribute derek numeric
+@attribute describ numeric
+@attribute deserv numeric
+@attribute design numeric
+@attribute desir numeric
+@attribute desiré numeric
+@attribute despic numeric
+@attribute despit numeric
+@attribute destin numeric
+@attribute destroy numeric
+@attribute destruct numeric
+@attribute detach numeric
+@attribute detail numeric
+@attribute detain numeric
+@attribute detect numeric
+@attribute detent numeric
+@attribute determin numeric
+@attribute detriment numeric
+@attribute develop numeric
+@attribute devis numeric
+@attribute dhondup numeric
+@attribute diabol numeric
+@attribute dialogu numeric
+@attribute dictat numeric
+@attribute dictatorship numeric
+@attribute die numeric
+@attribute differ numeric
+@attribute difficult numeric
+@attribute difficulti numeric
+@attribute digniti numeric
+@attribute dimens numeric
+@attribute diplomat numeric
+@attribute direct numeric
+@attribute directorates-gener numeric
+@attribute disabl numeric
+@attribute disappear numeric
+@attribute disappoint numeric
+@attribute disburs numeric
+@attribute discharg numeric
+@attribute discov numeric
+@attribute discoveri numeric
+@attribute discreet numeric
+@attribute discrimin numeric
+@attribute discuss numeric
+@attribute diseas numeric
+@attribute disengag numeric
+@attribute disgrac numeric
+@attribute dismal numeric
+@attribute dispers numeric
+@attribute displac numeric
+@attribute disput numeric
+@attribute disregard numeric
+@attribute disrupt numeric
+@attribute dissid numeric
+@attribute distinct numeric
+@attribute distinguish numeric
+@attribute disturb numeric
+@attribute divers numeric
+@attribute divid numeric
+@attribute dna numeric
+@attribute doctor numeric
+@attribute document numeric
+@attribute doe numeric
+@attribute doubl numeric
+@attribute doubt numeric
+@attribute dozen numeric
+@attribute draft numeric
+@attribute dramat numeric
+@attribute draw numeric
+@attribute drawn numeric
+@attribute dread numeric
+@attribute drew numeric
+@attribute drug numeric
+@attribute duti numeric
+@attribute duty-fre numeric
+@attribute dwell numeric
+@attribute dynam numeric
+@attribute e-auct numeric
+@attribute earli numeric
+@attribute earlier numeric
+@attribute earmark numeric
+@attribute easier numeric
+@attribute east numeric
+@attribute eastern numeric
+@attribute ecb numeric
+@attribute ecevit numeric
+@attribute echo numeric
+@attribute econom numeric
+@attribute ecu numeric
+@attribute educ numeric
+@attribute effect numeric
+@attribute effici numeric
+@attribute effort numeric
+@attribute egregi numeric
+@attribute egypt numeric
+@attribute eib numeric
+@attribute eighty-f numeric
+@attribute elaps numeric
+@attribute elect numeric
+@attribute elector numeric
+@attribute element numeric
+@attribute eliahou numeric
+@attribute elimin numeric
+@attribute elisardo numeric
+@attribute elliott numeric
+@attribute eloqu numeric
+@attribute emerg numeric
+@attribute emin numeric
+@attribute emphasis numeric
+@attribute employ numeric
+@attribute employe numeric
+@attribute enabl numeric
+@attribute encompass numeric
+@attribute encount numeric
+@attribute end numeric
+@attribute endem numeric
+@attribute energi numeric
+@attribute enforc numeric
+@attribute enhanc numeric
+@attribute enlarg numeric
+@attribute enorm numeric
+@attribute enshrin numeric
+@attribute ensur numeric
+@attribute entail numeric
+@attribute enterpris numeric
+@attribute entir numeric
+@attribute environment numeric
+@attribute envoy numeric
+@attribute equal numeric
+@attribute equip numeric
+@attribute equival numeric
+@attribute error numeric
+@attribute escal numeric
+@attribute escap numeric
+@attribute especi numeric
+@attribute essenti numeric
+@attribute establish numeric
+@attribute estim numeric
+@attribute estonian numeric
+@attribute ethic numeric
+@attribute ethnic numeric
+@attribute eu-usa numeric
+@attribute eur numeric
+@attribute euro numeric
+@attribute euro-latin numeric
+@attribute euro-mediterranean numeric
+@attribute eurocontrol numeric
+@attribute europ numeric
+@attribute european numeric
+@attribute europol numeric
+@attribute evalu numeric
+@attribute eve numeric
+@attribute event numeric
+@attribute eventu numeric
+@attribute ever-increas numeric
+@attribute everyday numeric
+@attribute evid numeric
+@attribute examin numeric
+@attribute exampl numeric
+@attribute exceed numeric
+@attribute excess numeric
+@attribute exchang numeric
+@attribute exclud numeric
+@attribute exclus numeric
+@attribute execut numeric
+@attribute exemplifi numeric
+@attribute exempt numeric
+@attribute exercis numeric
+@attribute exert numeric
+@attribute exil numeric
+@attribute exist numeric
+@attribute exoner numeric
+@attribute expand numeric
+@attribute expect numeric
+@attribute expenditur numeric
+@attribute expens numeric
+@attribute experi numeric
+@attribute experienc numeric
+@attribute expert numeric
+@attribute expir numeric
+@attribute explain numeric
+@attribute explan numeric
+@attribute explanatori numeric
+@attribute expos numeric
+@attribute express numeric
+@attribute extend numeric
+@attribute extens numeric
+@attribute extent numeric
+@attribute extra numeric
+@attribute extra-judici numeric
+@attribute extradit numeric
+@attribute extrajudici numeric
+@attribute extraordinari numeric
+@attribute extraordinarili numeric
+@attribute extrem numeric
+@attribute eyadema numeric
+@attribute eye numeric
+@attribute face numeric
+@attribute facil numeric
+@attribute facilit numeric
+@attribute fact numeric
+@attribute factor numeric
+@attribute fail numeric
+@attribute fair numeric
+@attribute faith numeric
+@attribute fall numeric
+@attribute fallen numeric
+@attribute falun numeric
+@attribute famili numeric
+@attribute farmer numeric
+@attribute fast numeric
+@attribute fate numeric
+@attribute fatwa numeric
+@attribute fault numeric
+@attribute favour numeric
+@attribute fear numeric
+@attribute featur numeric
+@attribute februari numeric
+@attribute feder numeric
+@attribute feel numeric
+@attribute fell numeric
+@attribute ferrero-waldn numeric
+@attribute ferri numeric
+@attribute field numeric
+@attribute fight numeric
+@attribute figur numeric
+@attribute final numeric
+@attribute financ numeric
+@attribute financi numeric
+@attribute fine-tun numeric
+@attribute finger numeric
+@attribute firearm numeric
+@attribute firm numeric
+@attribute fit numeric
+@attribute flagrant numeric
+@attribute flee numeric
+@attribute flexibl numeric
+@attribute flight numeric
+@attribute flog numeric
+@attribute flow numeric
+@attribute focus numeric
+@attribute focuss numeric
+@attribute follow numeric
+@attribute food numeric
+@attribute forc numeric
+@attribute forecast numeric
+@attribute foregon numeric
+@attribute foreign numeric
+@attribute forest numeric
+@attribute forget numeric
+@attribute form numeric
+@attribute formal numeric
+@attribute format numeric
+@attribute forthcom numeric
+@attribute fortun numeric
+@attribute forward numeric
+@attribute fought numeric
+@attribute foundat numeric
+@attribute four-year numeric
+@attribute fourteen numeric
+@attribute fourth numeric
+@attribute framework numeric
+@attribute franc numeric
+@attribute francisco numeric
+@attribute fratricid numeric
+@attribute fraud numeric
+@attribute free numeric
+@attribute freedom numeric
+@attribute freez numeric
+@attribute french numeric
+@attribute frequenc numeric
+@attribute frequent numeric
+@attribute friend numeric
+@attribute frontier numeric
+@attribute frustrat numeric
+@attribute fulli numeric
+@attribute function numeric
+@attribute fund numeric
+@attribute fundament numeric
+@attribute furi numeric
+@attribute furthermor numeric
+@attribute futur numeric
+@attribute gain numeric
+@attribute gandji numeric
+@attribute gaza numeric
+@attribute general numeric
+@attribute generat numeric
+@attribute geneva numeric
+@attribute genocid numeric
+@attribute gentlemen numeric
+@attribute genuin numeric
+@attribute georg numeric
+@attribute german numeric
+@attribute gestur numeric
+@attribute ghraib numeric
+@attribute girl numeric
+@attribute give numeric
+@attribute global numeric
+@attribute gloria numeric
+@attribute goal numeric
+@attribute gong numeric
+@attribute good numeric
+@attribute govern numeric
+@attribute governor numeric
+@attribute gradual numeric
+@attribute grant numeric
+@attribute grate numeric
+@attribute grave numeric
+@attribute great numeric
+@attribute greater numeric
+@attribute greatest numeric
+@attribute greek numeric
+@attribute green numeric
+@attribute greg numeric
+@attribute gross numeric
+@attribute ground numeric
+@attribute group numeric
+@attribute growth numeric
+@attribute guantanamo numeric
+@attribute guantánamo numeric
+@attribute guarante numeric
+@attribute guererro numeric
+@attribute guidanc numeric
+@attribute guidelin numeric
+@attribute guilt numeric
+@attribute guilti numeric
+@attribute habyarimana numeric
+@attribute half numeric
+@attribute half-year numeric
+@attribute halfway numeric
+@attribute hama numeric
+@attribute hamper numeric
+@attribute hand numeric
+@attribute handbook numeric
+@attribute handicap numeric
+@attribute hansen numeric
+@attribute happen numeric
+@attribute harass numeric
+@attribute hard numeric
+@attribute harm numeric
+@attribute harmoni numeric
+@attribute hatr numeric
+@attribute head numeric
+@attribute health numeric
+@attribute healthcar numeric
+@attribute heard numeric
+@attribute heart numeric
+@attribute heighten numeric
+@attribute held numeric
+@attribute helsinki numeric
+@attribute henceforth numeric
+@attribute hide numeric
+@attribute hierarchis numeric
+@attribute high numeric
+@attribute higher numeric
+@attribute highlight numeric
+@attribute hijack numeric
+@attribute hinder numeric
+@attribute hint numeric
+@attribute histori numeric
+@attribute hitch-hik numeric
+@attribute hold numeric
+@attribute home numeric
+@attribute homeless numeric
+@attribute homosexu numeric
+@attribute hong numeric
+@attribute honour numeric
+@attribute hope numeric
+@attribute horizont numeric
+@attribute horrend numeric
+@attribute horror numeric
+@attribute hostag numeric
+@attribute hostil numeric
+@attribute hour numeric
+@attribute hous numeric
+@attribute houston numeric
+@attribute human numeric
+@attribute humanist numeric
+@attribute humanitarian numeric
+@attribute hundr numeric
+@attribute hunger numeric
+@attribute huntsvill numeric
+@attribute husseini numeric
+@attribute hypocrit numeric
+@attribute idea numeric
+@attribute identif numeric
+@attribute identifi numeric
+@attribute ignomini numeric
+@attribute ignor numeric
+@attribute ill numeric
+@attribute illeg numeric
+@attribute imagin numeric
+@attribute immedi numeric
+@attribute immigr numeric
+@attribute immin numeric
+@attribute impact numeric
+@attribute impend numeric
+@attribute imperialist numeric
+@attribute implement numeric
+@attribute implic numeric
+@attribute import numeric
+@attribute impos numeric
+@attribute imposit numeric
+@attribute impress numeric
+@attribute imprison numeric
+@attribute improv numeric
+@attribute impun numeric
+@attribute in-depth numeric
+@attribute inact numeric
+@attribute inadequ numeric
+@attribute inappropri numeric
+@attribute incapac numeric
+@attribute incid numeric
+@attribute includ numeric
+@attribute incompat numeric
+@attribute inconveni numeric
+@attribute incorpor numeric
+@attribute increas numeric
+@attribute incurs numeric
+@attribute indefinit numeric
+@attribute independ numeric
+@attribute india numeric
+@attribute indign numeric
+@attribute indirect numeric
+@attribute individu numeric
+@attribute indonesian numeric
+@attribute industri numeric
+@attribute ineffici numeric
+@attribute inflict numeric
+@attribute influenc numeric
+@attribute influenti numeric
+@attribute inform numeric
+@attribute infrastructur numeric
+@attribute inhabit numeric
+@attribute inherit numeric
+@attribute inhuman numeric
+@attribute initi numeric
+@attribute inject numeric
+@attribute injur numeric
+@attribute innoc numeric
+@attribute input numeric
+@attribute insert numeric
+@attribute insist numeric
+@attribute inspect numeric
+@attribute instanc numeric
+@attribute instig numeric
+@attribute institut numeric
+@attribute instruct numeric
+@attribute instrument numeric
+@attribute insuffici numeric
+@attribute integr numeric
+@attribute intellectu numeric
+@attribute intend numeric
+@attribute intensifi numeric
+@attribute intent numeric
+@attribute inter-american numeric
+@attribute inter-institut numeric
+@attribute interamwé numeric
+@attribute interest numeric
+@attribute intergovernment numeric
+@attribute intern numeric
+@attribute internet numeric
+@attribute interparliamentari numeric
+@attribute interpret numeric
+@attribute interven numeric
+@attribute intervent numeric
+@attribute interview numeric
+@attribute intimid numeric
+@attribute intransig numeric
+@attribute introduc numeric
+@attribute invent numeric
+@attribute invest numeric
+@attribute investig numeric
+@attribute investor numeric
+@attribute invit numeric
+@attribute involuntari numeric
+@attribute involv numeric
+@attribute iran numeric
+@attribute iranian numeric
+@attribute iraq numeric
+@attribute iraqi numeric
+@attribute iraqis numeric
+@attribute irish numeric
+@attribute irreconcil numeric
+@attribute irregular numeric
+@attribute irrevers numeric
+@attribute irrevoc numeric
+@attribute islam numeric
+@attribute isol numeric
+@attribute isolationist numeric
+@attribute isra numeric
+@attribute israel numeric
+@attribute issu numeric
+@attribute italian numeric
+@attribute item numeric
+@attribute iveco numeric
+@attribute jacki numeric
+@attribute jacqu numeric
+@attribute jail numeric
+@attribute januari numeric
+@attribute jeopardi numeric
+@attribute jerusalem numeric
+@attribute jew numeric
+@attribute jewish numeric
+@attribute join numeric
+@attribute joint numeric
+@attribute jong numeric
+@attribute joseph numeric
+@attribute jospin numeric
+@attribute journalist numeric
+@attribute judg numeric
+@attribute judgement numeric
+@attribute judgment numeric
+@attribute judici numeric
+@attribute juli numeric
+@attribute junctur numeric
+@attribute june numeric
+@attribute junta numeric
+@attribute jurisdict numeric
+@attribute justic numeric
+@attribute justif numeric
+@attribute justifi numeric
+@attribute juvenil numeric
+@attribute kabila numeric
+@attribute kabul numeric
+@attribute kaleidoscop numeric
+@attribute karen numeric
+@attribute karenni numeric
+@attribute karmapa numeric
+@attribute keen numeric
+@attribute ken numeric
+@attribute key numeric
+@attribute khanbiev numeric
+@attribute khatami numeric
+@attribute kidnap numeric
+@attribute kill numeric
+@attribute kind numeric
+@attribute king numeric
+@attribute kingdom numeric
+@attribute kjer numeric
+@attribute kong numeric
+@attribute korea numeric
+@attribute korean numeric
+@attribute kosovar numeric
+@attribute kurdish numeric
+@attribute kvm numeric
+@attribute labour numeric
+@attribute lack numeric
+@attribute ladi numeric
+@attribute laid numeric
+@attribute lama numeric
+@attribute land numeric
+@attribute languag numeric
+@attribute lao numeric
+@attribute laogai numeric
+@attribute large-scal numeric
+@attribute larrañaga numeric
+@attribute late numeric
+@attribute latest numeric
+@attribute laudabl numeric
+@attribute laurent numeric
+@attribute law numeric
+@attribute lay numeric
+@attribute lead numeric
+@attribute leader numeric
+@attribute learn numeric
+@attribute leav numeric
+@attribute led numeric
+@attribute left numeric
+@attribute legal numeric
+@attribute legisl numeric
+@attribute legitim numeric
+@attribute lengthi numeric
+@attribute lesser numeric
+@attribute lesson numeric
+@attribute lethal numeric
+@attribute letter numeric
+@attribute level numeric
+@attribute liber numeric
+@attribute liberia numeric
+@attribute lie numeric
+@attribute life numeric
+@attribute lift numeric
+@attribute light numeric
+@attribute likewis numeric
+@attribute limit numeric
+@attribute line numeric
+@attribute link numeric
+@attribute lionel numeric
+@attribute list numeric
+@attribute listen numeric
+@attribute live numeric
+@attribute llah numeric
+@attribute lobsang numeric
+@attribute local numeric
+@attribute london numeric
+@attribute long numeric
+@attribute long-held numeric
+@attribute long-term numeric
+@attribute longer numeric
+@attribute loom numeric
+@attribute loss numeric
+@attribute lost numeric
+@attribute lot numeric
+@attribute loud numeric
+@attribute love numeric
+@attribute lower numeric
+@attribute lynch numeric
+@attribute macapagal-arroyo numeric
+@attribute madam numeric
+@attribute mahmoud numeric
+@attribute maintain numeric
+@attribute majesti numeric
+@attribute major numeric
+@attribute make numeric
+@attribute maltreat numeric
+@attribute manag numeric
+@attribute mandat numeric
+@attribute manner numeric
+@attribute map numeric
+@attribute march numeric
+@attribute marinho numeric
+@attribute marit numeric
+@attribute mark numeric
+@attribute market numeric
+@attribute marta numeric
+@attribute maryam numeric
+@attribute maskhadov numeric
+@attribute mass numeric
+@attribute massacr numeric
+@attribute materi numeric
+@attribute matter numeric
+@attribute maîtr numeric
+@attribute meant numeric
+@attribute meantim numeric
+@attribute measur numeric
+@attribute mechan numeric
+@attribute med numeric
+@attribute meda numeric
+@attribute media numeric
+@attribute mediat numeric
+@attribute mediterranean numeric
+@attribute medium-s numeric
+@attribute meet numeric
+@attribute member numeric
+@attribute memori numeric
+@attribute men numeric
+@attribute mental numeric
+@attribute mention numeric
+@attribute mep numeric
+@attribute merci numeric
+@attribute mere numeric
+@attribute messag numeric
+@attribute messeng numeric
+@attribute met numeric
+@attribute metaphor numeric
+@attribute method numeric
+@attribute middl numeric
+@attribute mifid numeric
+@attribute militari numeric
+@attribute million numeric
+@attribute mind numeric
+@attribute minefield numeric
+@attribute minimum numeric
+@attribute minist numeric
+@attribute minor numeric
+@attribute minsk numeric
+@attribute misdemeanour numeric
+@attribute miser numeric
+@attribute miss numeric
+@attribute mission numeric
+@attribute mistak numeric
+@attribute mistaken numeric
+@attribute mix numeric
+@attribute mobilis numeric
+@attribute modif numeric
+@attribute modifi numeric
+@attribute moment numeric
+@attribute monasteri numeric
+@attribute money numeric
+@attribute monitor numeric
+@attribute monk numeric
+@attribute month numeric
+@attribute moratorium numeric
+@attribute morillon numeric
+@attribute mother numeric
+@attribute moumia numeric
+@attribute mount numeric
+@attribute move numeric
+@attribute movement numeric
+@attribute mrs numeric
+@attribute mtfs numeric
+@attribute mukata numeric
+@attribute multilater numeric
+@attribute mumia numeric
+@attribute murder numeric
+@attribute muster numeric
+@attribute mutual numeric
+@attribute myanmar numeric
+@attribute nam numeric
+@attribute nasser numeric
+@attribute nation numeric
+@attribute nativ numeric
+@attribute natur numeric
+@attribute necessari numeric
+@attribute negat numeric
+@attribute negoti numeric
+@attribute neighbour numeric
+@attribute network numeric
+@attribute neve numeric
+@attribute news numeric
+@attribute newspap numeric
+@attribute ngos numeric
+@attribute nigeria numeric
+@attribute nigerian numeric
+@attribute night numeric
+@attribute nineteen numeric
+@attribute non-compli numeric
+@attribute non-discrimin numeric
+@attribute nonetheless numeric
+@attribute normal numeric
+@attribute north numeric
+@attribute northern numeric
+@attribute nos numeric
+@attribute notabl numeric
+@attribute note numeric
+@attribute novemb numeric
+@attribute nuclear numeric
+@attribute number numeric
+@attribute numer numeric
+@attribute object numeric
+@attribute oblig numeric
+@attribute observ numeric
+@attribute obstacl numeric
+@attribute obstruct numeric
+@attribute obtain numeric
+@attribute obvious numeric
+@attribute occas numeric
+@attribute occup numeric
+@attribute occupi numeric
+@attribute occur numeric
+@attribute occurr numeric
+@attribute octob numeric
+@attribute offenc numeric
+@attribute offend numeric
+@attribute offens numeric
+@attribute offer numeric
+@attribute offic numeric
+@attribute offici numeric
+@attribute ogoni numeric
+@attribute oil numeric
+@attribute olaf numeric
+@attribute on-go numeric
+@attribute one-third numeric
+@attribute onward numeric
+@attribute open numeric
+@attribute oper numeric
+@attribute opinion numeric
+@attribute opportun numeric
+@attribute oppos numeric
+@attribute opposit numeric
+@attribute oppress numeric
+@attribute opt numeric
+@attribute optimum numeric
+@attribute option numeric
+@attribute order numeric
+@attribute organ numeric
+@attribute organis numeric
+@attribute orient numeric
+@attribute osc numeric
+@attribute osvaldo numeric
+@attribute outcom numeric
+@attribute outlin numeric
+@attribute outset numeric
+@attribute outsid numeric
+@attribute outstand numeric
+@attribute over-hasti numeric
+@attribute overal numeric
+@attribute overse numeric
+@attribute packag numeric
+@attribute paco numeric
+@attribute pact numeric
+@attribute page numeric
+@attribute paid numeric
+@attribute paint numeric
+@attribute palestinian numeric
+@attribute paper numeric
+@attribute paragraph numeric
+@attribute parallel numeric
+@attribute paramilitari numeric
+@attribute pardon numeric
+@attribute pari numeric
+@attribute parliament numeric
+@attribute parliamentari numeric
+@attribute part-tim numeric
+@attribute parti numeric
+@attribute particip numeric
+@attribute partner numeric
+@attribute pass numeric
+@attribute past numeric
+@attribute patent numeric
+@attribute path numeric
+@attribute patriot numeric
+@attribute patten numeric
+@attribute pay numeric
+@attribute payment numeric
+@attribute payá numeric
+@attribute peac numeric
+@attribute peace-mak numeric
+@attribute penal numeric
+@attribute penalis numeric
+@attribute penalti numeric
+@attribute pend numeric
+@attribute pennsylvania numeric
+@attribute peopl numeric
+@attribute percent numeric
+@attribute perfect numeric
+@attribute perform numeric
+@attribute period numeric
+@attribute perman numeric
+@attribute permit numeric
+@attribute perpetr numeric
+@attribute perplex numeric
+@attribute persecut numeric
+@attribute person numeric
+@attribute perspect numeric
+@attribute persuad numeric
+@attribute pervers numeric
+@attribute phare numeric
+@attribute phase numeric
+@attribute phenomenon numeric
+@attribute philippin numeric
+@attribute philosophi numeric
+@attribute photograph numeric
+@attribute physic numeric
+@attribute pictur numeric
+@attribute piec numeric
+@attribute pilot numeric
+@attribute pinheiro numeric
+@attribute piti numeric
+@attribute place numeric
+@attribute plan numeric
+@attribute platform numeric
+@attribute play numeric
+@attribute plead numeric
+@attribute pleas numeric
+@attribute plunder numeric
+@attribute point numeric
+@attribute poland numeric
+@attribute polic numeric
+@attribute polici numeric
+@attribute polish numeric
+@attribute polit numeric
+@attribute ponder numeric
+@attribute poor numeric
+@attribute popul numeric
+@attribute portray numeric
+@attribute portugues numeric
+@attribute posit numeric
+@attribute possibl numeric
+@attribute post numeric
+@attribute post-trial numeric
+@attribute postpon numeric
+@attribute poverti numeric
+@attribute power numeric
+@attribute powerless numeric
+@attribute ppe-d numeric
+@attribute practic numeric
+@attribute practis numeric
+@attribute pragmat numeric
+@attribute pre-empt numeric
+@attribute pre-trial numeric
+@attribute preced numeric
+@attribute precis numeric
+@attribute prefer numeric
+@attribute preliminari numeric
+@attribute prelud numeric
+@attribute prepar numeric
+@attribute preparatori numeric
+@attribute prerog numeric
+@attribute presenc numeric
+@attribute present numeric
+@attribute presid numeric
+@attribute presidency-in-offic numeric
+@attribute president-in-offic numeric
+@attribute presidenti numeric
+@attribute press numeric
+@attribute pressur numeric
+@attribute pretext numeric
+@attribute prevail numeric
+@attribute prevent numeric
+@attribute previous numeric
+@attribute price numeric
+@attribute pride numeric
+@attribute prime numeric
+@attribute princip numeric
+@attribute principl numeric
+@attribute prior numeric
+@attribute prioriti numeric
+@attribute prison numeric
+@attribute privat numeric
+@attribute probabl numeric
+@attribute problem numeric
+@attribute procedur numeric
+@attribute proceed numeric
+@attribute process numeric
+@attribute produc numeric
+@attribute product numeric
+@attribute profound numeric
+@attribute program numeric
+@attribute programm numeric
+@attribute progress numeric
+@attribute prohibit numeric
+@attribute project numeric
+@attribute prolifer numeric
+@attribute prolong numeric
+@attribute promis numeric
+@attribute promot numeric
+@attribute pronounc numeric
+@attribute proof numeric
+@attribute proper numeric
+@attribute properti numeric
+@attribute proportion numeric
+@attribute propos numeric
+@attribute prosecut numeric
+@attribute prospect numeric
+@attribute protect numeric
+@attribute protest numeric
+@attribute protocol numeric
+@attribute proven numeric
+@attribute provid numeric
+@attribute provis numeric
+@attribute provoc numeric
+@attribute pse numeric
+@attribute public numeric
+@attribute punctuat numeric
+@attribute punish numeric
+@attribute punit numeric
+@attribute purchas numeric
+@attribute puriti numeric
+@attribute purs numeric
+@attribute pursu numeric
+@attribute pursuit numeric
+@attribute push numeric
+@attribute put numeric
+@attribute qualif numeric
+@attribute qualifi numeric
+@attribute quantiti numeric
+@attribute quecedo numeric
+@attribute question numeric
+@attribute quick numeric
+@attribute quiet numeric
+@attribute quit numeric
+@attribute quo numeric
+@attribute quot numeric
+@attribute racist numeric
+@attribute rais numeric
+@attribute ral numeric
+@attribute random numeric
+@attribute rape numeric
+@attribute rapid numeric
+@attribute rapporteur numeric
+@attribute rare numeric
+@attribute rate numeric
+@attribute ratif numeric
+@attribute rationalis numeric
+@attribute rawhani numeric
+@attribute raze numeric
+@attribute raúl numeric
+@attribute re-establish numeric
+@attribute re-examin numeric
+@attribute reach numeric
+@attribute react numeric
+@attribute reaction numeric
+@attribute read numeric
+@attribute readmiss numeric
+@attribute real numeric
+@attribute realis numeric
+@attribute realiti numeric
+@attribute realli numeric
+@attribute reason numeric
+@attribute recal numeric
+@attribute receipt numeric
+@attribute receiv numeric
+@attribute recent numeric
+@attribute recept numeric
+@attribute reciproc numeric
+@attribute recogn numeric
+@attribute recognis numeric
+@attribute recognit numeric
+@attribute reconcili numeric
+@attribute reconsid numeric
+@attribute reconstruct numeric
+@attribute record numeric
+@attribute recruit numeric
+@attribute redress numeric
+@attribute reduc numeric
+@attribute reduct numeric
+@attribute refer numeric
+@attribute referenda numeric
+@attribute reform numeric
+@attribute refuge numeric
+@attribute refus numeric
+@attribute regard numeric
+@attribute regim numeric
+@attribute region numeric
+@attribute regret numeric
+@attribute regrett numeric
+@attribute regul numeric
+@attribute regular numeric
+@attribute reinforc numeric
+@attribute reintegr numeric
+@attribute reintroduc numeric
+@attribute reiter numeric
+@attribute reject numeric
+@attribute relat numeric
+@attribute relationship numeric
+@attribute releas numeric
+@attribute relentless numeric
+@attribute reli numeric
+@attribute reliabl numeric
+@attribute relianc numeric
+@attribute religi numeric
+@attribute religion numeric
+@attribute reloc numeric
+@attribute reluct numeric
+@attribute remain numeric
+@attribute remedi numeric
+@attribute rememb numeric
+@attribute remind numeric
+@attribute remov numeric
+@attribute renew numeric
+@attribute reorganis numeric
+@attribute reorient numeric
+@attribute repeat numeric
+@attribute replac numeric
+@attribute repli numeric
+@attribute report numeric
+@attribute repres numeric
+@attribute represent numeric
+@attribute repress numeric
+@attribute republ numeric
+@attribute repudi numeric
+@attribute request numeric
+@attribute requir numeric
+@attribute research numeric
+@attribute resolut numeric
+@attribute resolv numeric
+@attribute resourc numeric
+@attribute respect numeric
+@attribute respit numeric
+@attribute respond numeric
+@attribute respons numeric
+@attribute rest numeric
+@attribute restor numeric
+@attribute restrict numeric
+@attribute restructur numeric
+@attribute result numeric
+@attribute result-ori numeric
+@attribute resum numeric
+@attribute retain numeric
+@attribute retent numeric
+@attribute retribut numeric
+@attribute return numeric
+@attribute reveal numeric
+@attribute revenu numeric
+@attribute revers numeric
+@attribute review numeric
+@attribute revis numeric
+@attribute revisit numeric
+@attribute reviv numeric
+@attribute revok numeric
+@attribute ridg numeric
+@attribute rifl numeric
+@attribute rinpoch numeric
+@attribute rio numeric
+@attribute rise numeric
+@attribute risen numeric
+@attribute risk numeric
+@attribute rivero numeric
+@attribute rocco numeric
+@attribute role numeric
+@attribute roqu numeric
+@attribute rot numeric
+@attribute round numeric
+@attribute rout numeric
+@attribute row numeric
+@attribute ruhu numeric
+@attribute rule numeric
+@attribute ruler numeric
+@attribute run numeric
+@attribute russia numeric
+@attribute russian numeric
+@attribute ruthless numeric
+@attribute rwandan numeric
+@attribute sabiin numeric
+@attribute sacrific numeric
+@attribute sad numeric
+@attribute safeguard numeric
+@attribute safeti numeric
+@attribute safiya numeric
+@attribute sanction numeric
+@attribute saro-wiwa numeric
+@attribute satisfactori numeric
+@attribute satisfi numeric
+@attribute saturday numeric
+@attribute saudi numeric
+@attribute savag numeric
+@attribute save numeric
+@attribute scenario numeric
+@attribute schedul numeric
+@attribute scientif numeric
+@attribute scope numeric
+@attribute scrupul numeric
+@attribute scrutini numeric
+@attribute scrutinis numeric
+@attribute sea numeric
+@attribute secret numeric
+@attribute section numeric
+@attribute sector numeric
+@attribute secur numeric
+@attribute seek numeric
+@attribute seiz numeric
+@attribute select numeric
+@attribute semant numeric
+@attribute seminar numeric
+@attribute send numeric
+@attribute sensit numeric
+@attribute sentenc numeric
+@attribute separ numeric
+@attribute septemb numeric
+@attribute seri numeric
+@attribute servic numeric
+@attribute set numeric
+@attribute settlement numeric
+@attribute sexual numeric
+@attribute shadow numeric
+@attribute shame numeric
+@attribute shan numeric
+@attribute share numeric
+@attribute sharia numeric
+@attribute sharon numeric
+@attribute sharp numeric
+@attribute shed numeric
+@attribute sheik numeric
+@attribute sheikh numeric
+@attribute shibarghan numeric
+@attribute shield numeric
+@attribute shock numeric
+@attribute shop numeric
+@attribute short numeric
+@attribute shortcom numeric
+@attribute shot numeric
+@attribute show numeric
+@attribute shrine numeric
+@attribute sign numeric
+@attribute signal numeric
+@attribute signific numeric
+@attribute silenc numeric
+@attribute similar numeric
+@attribute simpler numeric
+@attribute simpli numeric
+@attribute simplifi numeric
+@attribute sincer numeric
+@attribute singl numeric
+@attribute sis numeric
+@attribute situat numeric
+@attribute sixth numeric
+@attribute size numeric
+@attribute slight numeric
+@attribute slow numeric
+@attribute smes numeric
+@attribute so-cal numeric
+@attribute social numeric
+@attribute societi numeric
+@attribute socio-econom numeric
+@attribute socrat numeric
+@attribute sole numeric
+@attribute solid numeric
+@attribute solut numeric
+@attribute solv numeric
+@attribute sommer numeric
+@attribute son numeric
+@attribute sort numeric
+@attribute sought numeric
+@attribute soulier numeric
+@attribute sound numeric
+@attribute sourc numeric
+@attribute south numeric
+@attribute sovereignti numeric
+@attribute space numeric
+@attribute spain numeric
+@attribute spanish numeric
+@attribute speak numeric
+@attribute speaker numeric
+@attribute special numeric
+@attribute specialis numeric
+@attribute specif numeric
+@attribute spectacular numeric
+@attribute spectrum numeric
+@attribute speech numeric
+@attribute speed numeric
+@attribute spent numeric
+@attribute spiral numeric
+@attribute spirit numeric
+@attribute spiritu numeric
+@attribute sponsor numeric
+@attribute spread numeric
+@attribute spring numeric
+@attribute squad numeric
+@attribute stabil numeric
+@attribute stabilis numeric
+@attribute stadium numeric
+@attribute staff numeric
+@attribute stage numeric
+@attribute stagger numeric
+@attribute stamp numeric
+@attribute stanc numeric
+@attribute stand numeric
+@attribute standard numeric
+@attribute start numeric
+@attribute starting-point numeric
+@attribute state numeric
+@attribute state-sponsor numeric
+@attribute statement numeric
+@attribute status numeric
+@attribute statut numeric
+@attribute stay numeric
+@attribute stem numeric
+@attribute step numeric
+@attribute sterilis numeric
+@attribute stocktak numeric
+@attribute stone numeric
+@attribute stop numeric
+@attribute strasbourg numeric
+@attribute strateg numeric
+@attribute strategi numeric
+@attribute strengthen numeric
+@attribute strict numeric
+@attribute strike numeric
+@attribute strip numeric
+@attribute strong numeric
+@attribute strongest numeric
+@attribute stronghold numeric
+@attribute strož numeric
+@attribute structur numeric
+@attribute stubborn numeric
+@attribute studi numeric
+@attribute sub-contract numeric
+@attribute subject numeric
+@attribute submiss numeric
+@attribute submit numeric
+@attribute subordin numeric
+@attribute subsequ numeric
+@attribute subsidiar numeric
+@attribute substanti numeric
+@attribute succeed numeric
+@attribute success numeric
+@attribute sudanes numeric
+@attribute suffer numeric
+@attribute suffici numeric
+@attribute suggest numeric
+@attribute suicid numeric
+@attribute suitabl numeric
+@attribute summari numeric
+@attribute summit numeric
+@attribute sunset numeric
+@attribute suppli numeric
+@attribute support numeric
+@attribute suppress numeric
+@attribute suprem numeric
+@attribute surplus numeric
+@attribute surrend numeric
+@attribute surround numeric
+@attribute suspend numeric
+@attribute sustain numeric
+@attribute sweden numeric
+@attribute swift numeric
+@attribute swoboda numeric
+@attribute syria numeric
+@attribute system numeric
+@attribute systemat numeric
+@attribute sánchez numeric
+@attribute tabl numeric
+@attribute taci numeric
+@attribute tackl numeric
+@attribute taliban numeric
+@attribute talk numeric
+@attribute tamper numeric
+@attribute tangibl numeric
+@attribute target numeric
+@attribute task numeric
+@attribute taylor numeric
+@attribute tear numeric
+@attribute technic numeric
+@attribute teheran numeric
+@attribute televis numeric
+@attribute templ numeric
+@attribute temporarili numeric
+@attribute ten-t numeric
+@attribute tenzin numeric
+@attribute term numeric
+@attribute termin numeric
+@attribute terrifi numeric
+@attribute territori numeric
+@attribute terror numeric
+@attribute terrorist numeric
+@attribute test numeric
+@attribute testifi numeric
+@attribute texa numeric
+@attribute text numeric
+@attribute thing numeric
+@attribute thoma numeric
+@attribute thousand numeric
+@attribute threat numeric
+@attribute threaten numeric
+@attribute three-quart numeric
+@attribute threshold numeric
+@attribute tibet numeric
+@attribute tibetan numeric
+@attribute tighten numeric
+@attribute time numeric
+@attribute timet numeric
+@attribute tocquevill numeric
+@attribute today numeric
+@attribute told numeric
+@attribute toler numeric
+@attribute tom numeric
+@attribute tomorrow numeric
+@attribute tone numeric
+@attribute torch numeric
+@attribute tortur numeric
+@attribute total numeric
+@attribute tourism numeric
+@attribute track numeric
+@attribute trade numeric
+@attribute tradit numeric
+@attribute tragedi numeric
+@attribute tragic numeric
+@attribute train numeric
+@attribute trampl numeric
+@attribute trans-european numeric
+@attribute transact numeric
+@attribute transfer numeric
+@attribute transit numeric
+@attribute translat numeric
+@attribute transnat numeric
+@attribute transpar numeric
+@attribute transport numeric
+@attribute treat numeric
+@attribute treati numeric
+@attribute treatment numeric
+@attribute tremend numeric
+@attribute trend numeric
+@attribute tri numeric
+@attribute trial numeric
+@attribute trichet numeric
+@attribute troop numeric
+@attribute tropic numeric
+@attribute troubl numeric
+@attribute truck numeric
+@attribute true numeric
+@attribute truli numeric
+@attribute trust numeric
+@attribute tuesday numeric
+@attribute turkey numeric
+@attribute turkish numeric
+@attribute turkmenistan numeric
+@attribute turn numeric
+@attribute two-year numeric
+@attribute type numeric
+@attribute typic numeric
+@attribute unabl numeric
+@attribute unaccept numeric
+@attribute unambigu numeric
+@attribute unbound numeric
+@attribute uncertainti numeric
+@attribute uncontest numeric
+@attribute uncov numeric
+@attribute undeni numeric
+@attribute underfund numeric
+@attribute undergo numeric
+@attribute underlin numeric
+@attribute understand numeric
+@attribute understood numeric
+@attribute undertak numeric
+@attribute undertaken numeric
+@attribute underus numeric
+@attribute underway numeric
+@attribute undoubt numeric
+@attribute unequivoc numeric
+@attribute unfair numeric
+@attribute unfortun numeric
+@attribute union numeric
+@attribute unionist numeric
+@attribute unit numeric
+@attribute univers numeric
+@attribute unlaw numeric
+@attribute unlik numeric
+@attribute unnecessari numeric
+@attribute unparallel numeric
+@attribute unpreced numeric
+@attribute unsatisfactori numeric
+@attribute unstabl numeric
+@attribute untrain numeric
+@attribute unus numeric
+@attribute unusu numeric
+@attribute unworthi numeric
+@attribute uproot numeric
+@attribute urg numeric
+@attribute urgenc numeric
+@attribute urgent numeric
+@attribute usa numeric
+@attribute usual numeric
+@attribute utmost numeric
+@attribute vain numeric
+@attribute valu numeric
+@attribute valuabl numeric
+@attribute van numeric
+@attribute vast numeric
+@attribute vehement numeric
+@attribute verb numeric
+@attribute verbal numeric
+@attribute verdict numeric
+@attribute verif numeric
+@attribute verifi numeric
+@attribute vert numeric
+@attribute veterinari numeric
+@attribute victim numeric
+@attribute victori numeric
+@attribute vietnam numeric
+@attribute vietnames numeric
+@attribute vietnamese-canadian numeric
+@attribute view numeric
+@attribute viewpoint numeric
+@attribute vigor numeric
+@attribute villag numeric
+@attribute vindic numeric
+@attribute violat numeric
+@attribute violenc numeric
+@attribute virginia numeric
+@attribute virtual numeric
+@attribute vision numeric
+@attribute visit numeric
+@attribute voic numeric
+@attribute volum numeric
+@attribute voluntari numeric
+@attribute vote numeric
+@attribute wait numeric
+@attribute wake numeric
+@attribute wall numeric
+@attribute wallet numeric
+@attribute war numeric
+@attribute warfar numeric
+@attribute wari numeric
+@attribute warlord numeric
+@attribute warm numeric
+@attribute warn numeric
+@attribute warrant numeric
+@attribute wast numeric
+@attribute watch numeric
+@attribute wave numeric
+@attribute wear numeric
+@attribute week numeric
+@attribute weight numeric
+@attribute welcom numeric
+@attribute well-found numeric
+@attribute well-known numeric
+@attribute western numeric
+@attribute whilst numeric
+@attribute wide numeric
+@attribute wide-rang numeric
+@attribute widespread numeric
+@attribute wijkman numeric
+@attribute wipe numeric
+@attribute wise numeric
+@attribute wit numeric
+@attribute withdraw numeric
+@attribute woman numeric
+@attribute women numeric
+@attribute word numeric
+@attribute work numeric
+@attribute worker numeric
+@attribute workplac numeric
+@attribute world numeric
+@attribute worldwid numeric
+@attribute worri numeric
+@attribute worst numeric
+@attribute wreck numeric
+@attribute write numeric
+@attribute written numeric
+@attribute xxiii numeric
+@attribute yassin numeric
+@attribute year numeric
+@attribute yesterday numeric
+@attribute young numeric
+@attribute zaarmeena numeric
+@attribute zair numeric
+@attribute zairean numeric
+@attribute zairian numeric
+@attribute zarafshan numeric
+@attribute Öçalan numeric
+@attribute classes {haushaltsausführung,umsetzung,steinigung,hinrichtung,durchführung,grenzlinie,ausführung,lionel,mittelausführung,ausführungszielen,zarafshan,haushaltsvollzug,beschreitet,exekution,vollstreckung,hingerichtet,vollstreckungsaufschub,ausführungszahlen,haushaltsdurchführung,todesstrafe,ausführungsinstrumente,erfüllung,kurdenproblem,vornahme,meisternden,programmdurchführung,kinderschutzbestimmungen,jackie,ausübung,hungermärsche,ignorierte,galgenfrist,umsetzungsgrad,angedroht,vollzug,realisiert,außergerichtlich,befehl,push,fahndungsliste,tötung,abwicklung,durchführungsmodalitäten,unumstrittenes,hinrichtungsbefehl,finanzvermittlern,überwachenden,vollstreckt,gefolterten,liquidierung,massenhinrichtung,strafvollstreckung,umzusetzen,berichtigungsund,durchführungsrate,durchführungsberichte,wots-abkommen,angeschnittenen,massenerschießung,rassenhaß,bevorzustehen,vollstreckten,durchführungsausschüssen,haushaltsvollzugs,basisinstrumente,maschadows,vermögensverwaltungsgeschäfts,schwerwiegende,einsatz,laogai,amputation,gesetzesgrundlage,geldbeutel,trägheit,inanspruchnahme,massenexekution,umwidmungen,ausgeführt,handelsplattformen,nordkoreanischer,steinigen,ausführungsraten,auzuführenden,abwicklungssätze,umweltverträglichkeitsvermerk,hinrichtungsmoratoriums,turkmenistans,verhaftung,endgültig,bundesebene,verschwindenlassen,bedeutungswandel,unterminierend,argwöhnischen,organentnahme,zwangsverfahren,schatten,geschädigten,programmausführung,todeszelle,totenwache,us-präsident,üblich,rückführungsabkommen,exekutivgewalt,realisierung,ten-programms,geiselerschießung,bewährungsfrist,durchführungsprobleme,ausführungsstandes,durchsetzenden,schafott,massengrab,woraufhin}
+
+@data
+{13 1,166 1,173 1,238 1,239 1,381 1,398 1,594 1,730 1,994 1,1049 1,1199 1,1356 1,1467 1,1549 1,1550 1,1803 1,1913 1}
+{377 1,534 1,803 1,978 1,1031 1,1343 1,1412 1,1731 1,1981 1,2004 umsetzung}
+{388 1,459 1,554 1,878 1,962 1,1163 1,1206 1,1313 1,1412 1,1520 1,1528 1,1710 1,1734 1,1798 1,1940 1,2004 steinigung}
+{118 1,292 1,372 1,417 1,491 1,598 1,979 1,1317 1,1384 1,1543 1,1608 1,1724 1,1897 1,2004 hinrichtung}
+{162 1,164 1,173 1,198 1,265 1,388 1,404 1,459 1,513 1,571 1,702 1,712 1,890 1,970 1,1104 1,1105 1,1269 1,1401 5,1539 1,1620 1,1625 1,1668 1,1689 1,1766 1,1856 1,1868 2,1941 1,2004 hinrichtung}
+{421 1,582 1,644 2,1230 1,1412 1,1494 1,1699 1,1722 1,1724 1,2004 durchführung}
+{336 1,383 1,559 2,672 1,948 2,1087 1,1119 1,1154 1,1551 1,1583 1,1699 1,1763 1,1936 1,2004 grenzlinie}
+{192 1,466 1,518 1,545 1,568 1,783 1,822 1,825 1,1238 1,1256 1,1259 1,1267 1,1412 2,1539 1,1614 1,1975 1,2004 ausführung}
+{292 1,1989 1,1995 1,2004 hinrichtung}
+{197 1,1294 1,1392 1,1856 1,2004 hinrichtung}
+{70 1,333 1,358 1,368 1,545 1,616 1,779 1,791 1,1050 1,1320 2,1384 1,1411 1,1505 2,1539 1,1747 1,2004 ausführung}
+{254 1,294 1,600 1,771 1,999 1,1010 1,1090 1,1387 1,1540 1,1729 1,1861 1,2004 lionel}
+{132 1,342 1,371 1,1153 1,1163 1,1409 1,1634 1,1983 1,2004 ausführung}
+{24 1,68 1,114 1,592 1,779 1,900 1,1265 1,1369 1,1415 2,1560 1,1747 1,1824 1,2004 umsetzung}
+{284 1,534 1,716 1,768 1,779 1,804 1,1151 1,1203 1,1345 1,1507 1,1583 1,2004 mittelausführung}
+{33 2,209 1,362 1,512 1,662 1,690 1,732 1,746 1,804 1,991 1,1015 1,1054 1,1137 1,1287 2,1349 1,1434 1,1486 1,1517 1,1595 1,1643 1,1699 1,1705 1,1764 1,1808 1,1902 1,1935 1,1941 1,1965 1,2004 hinrichtung}
+{763 1,1354 1,1356 1,1577 1,1688 1,2004 umsetzung}
+{333 1,459 1,699 1,744 1,884 1,962 1,1083 1,1122 1,1187 1,1216 1,1384 1,1602 1,1610 1,1650 1,1734 1,1759 1,1817 1,1980 1,1995 1,2004 hinrichtung}
+{9 1,114 1,197 1,333 1,334 1,343 1,358 1,414 1,441 1,564 1,637 1,644 1,1162 1,1232 1,1277 1,1307 1,1404 1,1451 1,1459 1,1505 1,1641 1,1682 1,1995 1,2004 ausführungszielen}
+{60 1,79 1,303 1,537 1,562 2,718 1,994 2,1034 1,1379 1,1517 1,1767 1,1833 1,1894 1,2004 hinrichtung}
+{36 1,48 1,333 1,454 1,477 1,504 1,710 1,791 1,804 2,850 1,878 1,915 2,979 1,1001 1,1035 1,1050 1,1073 1,1158 1,1202 1,1208 1,1384 3,1401 1,1428 1,1630 1,1632 1,1734 1,1918 1,1980 2,1995 1,2002 1,2004 zarafshan}
+{238 1,239 1,322 1,1063 1,1849 1,2004 haushaltsvollzug}
+{26 1,59 1,332 1,359 1,370 1,971 1,1146 2,1306 1,1307 1,1549 1,1554 1,1635 1,1724 2,2004 ausführung}
+{162 1,420 1,523 1,1021 1,1474 1,1720 1,1724 1,1811 1,2004 hinrichtung}
+{309 1,386 1,398 1,675 1,744 1,783 1,1088 1,1133 1,1293 1,1590 1,1695 1,1858 1,2004 beschreitet}
+{240 1,309 1,334 1,398 1,440 1,616 1,691 1,782 1,786 1,804 1,992 1,1241 1,1267 1,1352 1,1806 1,1952 1,1979 1,2004 hinrichtung}
+{28 1,68 1,226 1,254 1,268 1,271 1,379 1,436 1,524 1,555 1,637 1,768 1,769 1,894 2,990 1,1000 1,1267 1,1297 1,1354 1,1401 2,1491 1,1506 1,1519 1,1833 1,2004 hinrichtung}
+{483 1,522 1,876 1,1095 1,1366 1,1384 1,1392 1,1576 1,1802 1,1821 1,1995 1,2004 exekution}
+{91 1,239 1,309 1,1023 1,1480 1,2004 haushaltsvollzug}
+{482 1,594 1,681 1,1001 1,1052 1,1066 1,1086 1,1228 1,1392 1,1576 1,1707 1,1729 1,1802 1,1871 1,2004 vollstreckung}
+{237 1,459 1,869 1,924 1,932 1,950 1,1052 1,1294 1,1313 1,1354 2,1392 1,1482 1,1551 1,1701 1,1965 1,2004 hinrichtung}
+{0 1,106 1,241 1,301 1,398 1,417 1,475 1,524 1,575 1,797 1,878 1,979 1,1169 1,1428 1,1486 1,1495 1,1548 1,1637 1,1807 1,1836 1,1967 1,2004 hingerichtet}
+{127 1,246 1,334 1,642 1,816 1,915 1,1167 1,1461 1,1766 1,1833 1,1940 1,2004 hinrichtung}
+{53 1,420 1,459 1,1387 1,1630 1,1729 1,1735 1,1772 1,2004 vollstreckungsaufschub}
+{37 1,459 1,1539 1,1630 1,2004 vollstreckung}
+{11 1,103 1,162 1,180 1,332 1,414 1,459 2,650 1,1065 1,1230 1,1245 1,1313 2,1346 2,1498 1,1834 1,1895 1,1933 1,2004 exekution}
+{239 1,699 1,1146 1,1294 1,1354 1,1404 1,1517 1,1540 1,1995 1,2004 ausführung}
+{85 1,110 1,114 1,239 1,339 1,470 1,704 1,727 1,728 1,1146 1,1412 1,1724 1,1949 1,1995 1,2004 ausführungszahlen}
+{315 1,332 1,698 1,1412 1,2004 ausführung}
+{21 1,130 1,358 1,414 1,686 1,769 2,919 2,933 1,1156 1,1230 1,1460 1,1525 1,1557 1,1702 1,1822 1,1940 1,2004 hinrichtung}
+{81 1,238 1,675 1,811 1,907 1,1125 1,1307 1,1482 1,1688 1,1703 1,2004 haushaltsdurchführung}
+{498 1,728 1,778 1,1412 1,1422 1,1993 1,2004 durchführung}
+{55 1,106 1,193 1,264 1,654 1,686 1,735 1,872 1,878 1,893 1,1111 1,1384 1,1506 1,1718 1,1742 1,1766 1,1788 1,1864 1,1981 1,2004 hinrichtung}
+{411 1,479 1,662 1,1012 1,1073 1,1325 1,1400 1,1537 2,1894 1,1941 4,1976 1,1995 1,2004 hinrichtung}
+{37 1,64 1,230 1,238 2,265 1,1088 1,1158 1,1361 1,1521 1,1845 1,2004 durchführung}
+{558 1,919 1,1230 1,1294 1,1914 1,2004 hinrichtung}
+{27 1,40 1,265 3,280 1,336 1,358 1,488 1,561 1,658 1,673 1,721 1,826 1,1009 1,1206 1,1392 1,1517 1,1623 1,1724 1,1809 1,1897 1,1927 1,1968 1,2004 todesstrafe}
+{332 1,346 1,347 1,363 1,534 1,900 1,962 1,1126 1,1206 1,1237 1,1267 1,1935 1,2004 durchführung}
+{332 1,386 1,404 2,410 1,423 1,534 1,650 1,707 1,1259 1,1294 2,1319 1,1793 2,1874 1,2004 ausführungsinstrumente}
+{130 1,192 1,264 1,400 1,491 1,516 1,714 1,747 1,795 1,803 1,860 1,874 1,879 1,894 1,1038 1,1080 1,1174 1,1205 1,1410 1,1506 1,1797 1,1918 1,2004 hinrichtung}
+{47 1,49 1,162 1,199 1,302 1,423 1,485 1,520 1,616 1,675 1,719 1,725 1,945 1,1119 1,1122 1,1133 1,1168 1,1271 1,1343 1,1361 1,1398 2,1412 1,1676 1,1786 1,2004 erfüllung}
+{34 1,238 1,333 1,358 1,481 1,506 1,749 1,750 1,1031 1,1088 3,1294 1,1340 1,1517 1,1777 1,1860 1,2004 ausführung}
+{168 1,270 1,301 1,328 1,396 1,459 1,567 1,650 1,667 2,702 1,733 1,827 1,834 1,855 1,941 2,1315 1,1342 1,1349 1,1774 2,1905 1,1906 1,1925 1,1941 2,1995 1,2004 hinrichtung}
+{80 1,106 1,804 1,906 1,1161 1,1209 1,1223 1,1258 1,1316 1,1495 1,1542 1,1595 1,1690 1,1760 1,1807 1,1833 1,2004 hinrichtung}
+{459 1,1158 1,1230 1,1619 1,1630 1,1851 1,2004 hinrichtung}
+{235 1,482 1,1182 1,1203 1,1366 1,2004 ausführung}
+{360 1,650 1,756 1,1072 1,1412 1,1561 1,1634 1,1652 1,1948 1,1995 1,2004 durchführung}
+{12 1,114 1,119 1,283 1,339 1,430 2,456 1,756 1,810 1,864 1,869 1,1072 1,1287 1,1328 1,1770 1,1946 1,2004 exekution}
+{93 1,184 1,254 1,264 1,340 1,459 1,502 1,807 1,1244 1,1384 1,1582 1,1630 1,1729 1,1942 1,2004 hinrichtung}
+{178 1,309 1,801 1,808 1,1384 1,1539 1,1635 1,1780 1,1831 1,1833 1,1867 1,2004 hinrichtung}
+{279 1,309 1,566 1,608 1,861 1,878 2,1217 1,1355 1,1374 1,1384 1,1395 1,1437 1,1451 1,1571 1,1678 1,2004 hinrichtung}
+{10 1,17 1,47 1,459 1,518 1,686 1,1007 1,1196 1,1313 1,1392 1,1548 1,1610 1,1743 1,1770 1,2004 hinrichtung}
+{91 1,201 1,335 1,450 1,978 1,1192 1,1214 1,1412 1,1770 1,1966 1,1981 1,2004 ausführung}
+{349 1,420 1,650 1,876 1,878 1,916 1,1013 1,1867 1,2003 1,2004 hinrichtung}
+{192 1,368 1,395 1,466 1,804 1,808 1,1046 1,1186 1,1364 1,1451 1,1539 1,1628 1,1658 1,1681 1,1729 1,1743 1,1789 1,1868 1,1967 1,2004 kurdenproblem}
+{114 1,133 1,332 1,358 1,676 1,1234 1,1294 1,1546 1,1731 1,1852 1,2004 vornahme}
+{67 1,254 1,616 1,650 1,1182 1,1343 1,1548 1,1554 1,1679 1,1895 1,2004 durchführung}
+{120 1,292 1,417 1,419 1,459 1,490 1,592 1,636 1,669 1,810 1,981 1,1048 1,1098 1,1176 1,1185 2,1259 1,1313 1,1392 1,1395 1,1436 1,1486 1,1671 1,1724 1,1748 1,1815 1,1897 1,1995 1,2004 exekution}
+{11 1,262 1,440 1,454 1,459 1,716 1,764 1,938 1,948 1,1185 1,1203 1,1218 1,1313 1,1898 1,1995 1,2004 todesstrafe}
+{245 1,297 1,309 1,327 1,362 1,388 1,417 1,619 1,746 1,768 1,778 1,859 1,876 1,878 1,881 1,904 1,1048 1,1096 1,1161 1,1200 1,1297 1,1305 1,1354 2,1357 1,1401 2,1505 1,1506 1,1857 1,1910 1,1940 1,1974 1,2004 hinrichtung}
+{238 1,1349 1,1458 1,2004 haushaltsvollzug}
+{162 1,238 1,239 1,398 1,466 1,636 1,725 1,749 1,857 1,1230 1,1352 2,1653 1,1696 1,1791 1,1847 1,2004 haushaltsvollzug}
+{59 1,309 1,332 1,540 2,589 1,1082 1,1294 1,1422 1,1554 1,1751 1,1793 1,1845 1,2004 ausführung}
+{345 1,399 1,651 1,707 1,946 1,1133 1,1634 1,2004 ausführung}
+{24 1,173 1,186 1,238 1,254 1,332 1,440 1,520 1,564 1,677 1,678 1,1071 1,1146 1,1258 1,1377 1,1380 1,1481 1,1517 1,1546 1,1590 1,1667 2,1724 1,2004 ausführung}
+{28 1,40 1,68 1,93 1,121 1,183 1,287 1,336 1,370 1,409 1,419 1,529 2,584 1,632 1,646 1,647 1,900 1,1061 1,1150 1,1159 1,1232 2,1259 1,1309 2,1361 1,1473 1,1505 1,1657 1,1682 1,1686 1,1712 1,1738 1,1793 1,2004 meisternden}
+{91 1,308 1,358 2,399 1,1072 2,1225 1,1234 1,1433 1,1517 1,1675 1,1750 1,2004 ausführung}
+{419 1,538 1,566 1,599 1,682 1,683 1,727 1,938 1,1412 1,1482 1,1635 1,2004 programmdurchführung}
+{277 1,332 1,357 1,398 1,650 1,1345 1,1352 1,2004 umsetzung}
+{28 1,362 1,459 1,604 1,1185 1,1388 1,1399 1,1630 2,2004 exekution}
+{110 1,332 1,417 1,435 1,1063 1,1230 1,1370 1,1438 1,1642 1,1895 1,1988 1,2004 hinrichtung}
+{332 1,907 1,1331 2,1380 1,1782 1,1983 1,2004 ausführung}
+{55 1,93 1,123 1,255 1,291 1,357 1,407 1,650 1,789 1,1015 1,1021 1,1167 1,1224 1,1246 1,1392 1,1401 1,1600 1,1648 1,1767 1,1788 1,1811 1,1853 1,1940 1,2004 kinderschutzbestimmungen}
+{60 1,354 1,434 1,524 1,752 1,830 1,855 1,878 1,979 1,994 1,1145 1,1354 1,1699 1,1734 1,2004 hinrichtung}
+{75 1,193 1,223 1,979 1,1192 1,1734 1,1928 1,2004 hinrichtung}
+{182 1,309 1,358 1,434 1,459 1,686 1,979 1,1007 1,1148 1,1301 1,1313 1,1369 1,1464 1,1578 1,1644 1,1734 1,1981 1,1995 1,2004 exekution}
+{410 1,648 1,799 1,834 2,1699 1,1724 1,2004 ausführung}
+{537 1,657 1,691 1,1243 1,1461 1,1833 1,2004 hinrichtung}
+{37 1,122 1,404 1,482 1,707 1,804 1,978 1,1146 1,1276 1,1294 1,1331 3,1724 1,1863 1,2004 ausführung}
+{231 1,249 1,301 1,408 1,426 1,459 1,509 1,606 1,658 1,805 1,939 1,941 1,998 1,1077 1,1189 1,1267 1,1349 1,1384 2,1429 1,1588 1,1811 1,1965 1,1991 1,1995 1,2004 jackie}
+{109 1,313 1,489 1,501 1,616 1,650 1,746 1,827 1,908 1,1048 1,1506 1,1833 1,1895 1,1899 1,2004 hinrichtung}
+{141 1,332 2,336 1,414 1,637 1,702 1,895 1,950 1,1119 1,1352 1,1383 1,1425 2,1790 1,2004 ausübung}
+{52 1,64 1,92 1,133 1,150 3,186 1,310 1,377 1,385 1,459 2,568 3,692 1,700 1,780 1,960 1,1015 2,1146 1,1199 1,1267 1,1313 2,1349 1,1436 1,1500 1,1504 1,1505 1,1545 2,1622 1,1691 1,1724 2,1897 1,2004 ausführung}
+{130 1,162 1,207 1,394 1,437 1,1146 1,1429 1,1724 1,1743 1,2004 hinrichtung}
+{34 1,120 1,130 1,162 1,362 1,414 1,437 1,555 1,662 1,903 1,1057 1,1226 1,1486 1,1630 1,1857 1,1893 1,2004 hinrichtung}
+{112 2,174 1,269 1,348 1,399 2,405 1,505 1,712 1,840 1,994 1,1007 1,1349 1,1590 1,1699 1,2004 ausführung}
+{34 1,114 1,115 1,133 1,187 1,677 1,730 1,948 2,950 1,1064 1,1258 2,1339 1,1380 1,1381 1,1415 1,1510 1,1517 1,1546 1,1995 1,2004 ausführung}
+{120 1,162 1,293 1,417 1,769 1,780 1,906 1,1167 1,1242 1,1551 1,1833 1,1940 1,1986 1,2004 hinrichtung}
+{15 1,238 1,261 1,1551 1,1826 1,1854 1,1943 1}
+{300 1,301 1,527 1,871 1,881 1,882 1,894 1,978 1,1122 1,1781 1,1815 1,2004 hungermärsche}
+{264 1,292 1,309 1,316 1,397 1,622 1,698 1,838 3,844 1,997 1,1126 1,1230 1,1257 1,1342 1,1540 1,1714 1,1766 1,1862 1,1972 1,2004 exekution}
+{331 1,518 1,528 1,649 1,674 1,801 2,804 1,844 1,1007 1,1326 1,1327 1,1558 1,1944 1,2004 umsetzung}
+{195 1,254 1,876 1,890 1,1429 1,1548 1,1986 1,2004 ignorierte}
+{83 1,308 1,1404 1,1432 1,1600 1,1682 1,1697 1,1729 1,2004 galgenfrist}
+{172 1,363 1,440 1,534 1,845 1,850 1,937 1,1184 1,1356 1,1417 1,1559 1,1833 1,2004 hinrichtung}
+{10 1,219 1,417 2,459 1,592 1,1528 2,1630 1,1728 1,1995 1,2004 hinrichtung}
+{87 1,186 1,239 1,332 1,616 1,727 1,779 1,1146 1,1212 1,1228 1,1473 1,1546 1,1724 1,1773 1,1870 1}
+{20 1,25 1,307 1,312 1,332 1,456 1,734 1,973 1,1177 1,1233 1,1324 1,1686 1,2004 ausführung}
+{4 1,64 1,302 1,332 1,537 1,592 1,691 1,701 1,876 1,878 1,922 2,962 1,974 1,978 1,1098 1,1172 1,1182 1,1297 1,1486 1,1536 1,1548 1,1652 1,1803 2,1913 1,1954 1,1971 1,1973 1,2004 hinrichtung}
+{599 1,652 1,1393 1,1696 1,1885 1,1900 1,2004 ausführung}
+{109 1,160 1,200 1,420 1,534 1,541 1,563 1,616 1,666 1,669 1,767 1,1146 1,1267 1,1465 1,1664 1,1724 1,1733 1,1803 1,1995 1,2004 umsetzungsgrad}
+{491 1,953 1,979 1,1325 1,1506 1,1833 1,1897 1,1911 1,1986 1,2004 hinrichtung}
+{35 1,162 1,176 1,216 1,315 1,417 1,464 1,659 1,730 1,835 1,900 1,915 1,952 1,1091 1,1118 1,1137 1,1230 1,1254 1,1299 1,1330 1,1412 4,1498 1,1499 1,1570 1,1703 1,1935 1,2004 durchführung}
+{114 1,238 1,616 1,661 1,1079 1,1307 1,1393 1,1505 1,1632 1,1995 1,2004 ausführung}
+{856 1,1079 1,1140 1,1383 1,1412 2,1670 1,1995 1,2004 ausführung}
+{301 1,325 1,650 1,722 1,1107 1,1817 1,1980 1,2004 angedroht}
+{107 1,408 1,420 1,459 1,926 1,980 1,1184 1,1250 1,1734 1,2004 exekution}
+{634 1,1503 1,1668 1,1766 1,2004 exekution}
+{77 1,120 1,254 1,580 1,691 1,701 1,1203 1,1463 1,1697 1,1766 1,1833 1,1897 1,1945 1,2004 hinrichtung}
+{24 1,94 1,919 1,962 1,1401 1,2004 hinrichtung}
+{41 1,45 1,363 1,397 1,398 1,459 1,524 1,783 1,804 1,1071 1,1313 1,1451 1,1458 1,2004 vollzug}
+{332 1,398 1,466 1,590 1,659 1,1016 1,1555 1,1561 1,2004 ausführung}
+{11 1,117 1,254 1,332 1,347 1,459 1,782 1,1185 1,1313 1,1548 1,1935 1,2004 hinrichtung}
+{265 1,401 1,453 1,568 1,1548 1,1635 2,1763 1,1826 1,2004 hinrichtung}
+{114 1,277 1,417 1,585 1,649 1,1079 1,1143 1,1330 1,1412 1,1605 1,1655 1,1786 1,2004 realisiert}
+{238 1,592 1,1590 1,2004 ausführung}
+{45 1,460 1,581 1,594 1,638 1,1322 1,1510 1,1546 1,1605 1,1747 1,1826 1,2004 umsetzung}
+{10 1,11 1,47 1,109 1,117 1,254 1,332 1,417 1,459 2,878 1,1185 1,1313 2,1548 1,1935 1,1967 1,2004 vollstreckung}
+{86 1,334 1,340 1,474 1,876 1,994 1,1505 1,1699 1,1729 1,1759 1,2004 vollstreckung}
+{18 1,537 1,664 1,693 1,746 1,946 1,1063 1,1637 1,2004 hinrichtung}
+{24 1,238 1,498 1,529 1,593 1,650 1,730 1,792 1,842 2,900 1,948 1,1327 1,1352 1,1884 1,2004 durchführung}
+{93 1,172 1,362 1,1401 1,1995 1,2004 hinrichtung}
+{265 1,720 1,902 1,2004 hinrichtung}
+{249 1,256 1,264 1,459 1,543 1,600 1,601 1,885 1,994 1,1313 1,1364 1,1532 1,1758 1,2004 vollstreckung}
+{303 1,309 1,358 1,473 1,630 1,992 1,1037 1,1287 2,1486 1,2004 exekution}
+{127 1,143 1,162 1,264 1,300 1,992 1,1037 1,1287 1,1352 1,1875 1,2004 hinrichtung}
+{40 1,162 1,480 1,660 1,856 1,878 1,1287 1,1401 1,1551 1,1803 1,1853 1,2004 hinrichtung}
+{188 1,291 1,305 1,334 1,583 1,1287 2,1358 1,1807 1,2004 hinrichtung}
+{8 2,21 1,35 1,38 1,259 1,536 1,612 1,659 1,703 1,738 1,787 1,875 1,913 1,1137 1,1250 1,1296 1,1405 1,1436 1,1498 1,1500 1,1534 1,1563 1,1699 1,1715 1,1761 1,1809 1,1841 1,1983 3,2004 ausführung}
+{274 1,290 1,293 1,417 1,660 1,963 1,1141 1,1261 1,1325 1,1357 1,1506 1,1833 1,1856 1,1935 1,2004 hinrichtung}
+{130 1,417 1,701 1,1361 1,1425 1,1513 1,1623 1,1630 1,1676 1,1759 1,2004 vollstreckung}
+{19 1,260 2,459 1,462 1,649 2,699 1,702 2,711 1,1006 1,1101 1,1237 1,1256 1,1313 1,1350 1,1353 1,1729 1,2004 ausführung}
+{24 1,114 1,155 1,174 2,341 1,399 2,505 1,666 1,953 1,1007 1,1072 1,1391 1,1432 1,1448 1,1634 1,2004 ausführung}
+{157 1,162 1,171 1,234 1,264 1,385 1,594 1,728 1,757 1,962 1,1197 1,1389 1,1392 1,1607 1,2004 hinrichtung}
+{131 1,175 1,459 1,577 1,740 1,884 1,903 1,980 1,1051 1,1087 1,1109 1,1128 1,1215 1,1335 1,1392 1,1405 1,1436 1,1559 1,1590 1,1602 1,1630 1,1734 2,1981 2,1995 1,2004 hinrichtung}
+{180 1,635 1,709 1,802 1,919 1,923 1,1030 1,1052 1,1163 1,1191 1,1230 1,1354 1,1486 1,1710 1,1821 1,2004 hinrichtung}
+{91 1,292 1,293 1,555 1,592 1,650 1,686 1,804 1,919 1,924 1,1167 1,1230 1,1289 1,1294 1,1325 1,1483 1,1532 1,1660 1,1783 1,1833 1,1982 1,2004 hinrichtung}
+{238 1,907 1,1500 1}
+{25 2,37 2,95 1,162 1,238 4,239 1,266 1,290 1,342 1,465 1,639 1,676 2,900 1,1484 1,1546 1,1567 1,1838 1,2004 vollzug}
+{11 2,118 1,292 1,372 1,459 2,616 1,894 1,902 1,971 1,976 1,979 1,994 1,1185 1,1313 2,1515 1,1545 1,1548 1,1608 1,1708 1,1724 2,1787 1,1834 1,1935 1,2004 exekution}
+{256 1,264 1,292 2,398 1,569 1,658 1,696 1,840 1,919 1,951 1,1230 1,1505 1,1523 1,1741 1,1766 1,1857 1,1988 1,2004 hinrichtung}
+{82 1,138 1,237 1,254 1,362 1,426 1,459 1,483 1,522 1,894 1,1001 1,1052 1,1095 1,1354 1,1630 1,1635 1,1744 1,1802 1,1803 1,1821 1,2004 hinrichtung}
+{34 1,120 1,130 1,162 1,362 1,414 1,437 1,555 1,662 1,903 1,1057 1,1226 1,1486 1,1630 1,1857 1,1893 1,2004 hinrichtung}
+{537 1,691 1,753 1,804 1,878 1,915 1,927 1,1037 1,1262 1,1384 1,1495 1,1833 1,1899 1,1940 1,2004 exekution}
+{492 1,693 1,864 1,1439 1,1735 1,2004 hinrichtung}
+{197 1,265 1,332 1,661 1,701 1,1267 1,1366 1,1405 1,1665 1,1703 1,2004 ausführung}
+{182 1,623 1,950 1,1071 1,1185 1,1234 1,1383 1,1615 1,1734 1,2004 steinigung}
+{264 1,362 1,892 1,993 1,1294 1,2004 hinrichtung}
+{156 1,254 1,287 1,460 1,512 1,604 1,751 2,844 1,947 1,993 1,1004 1,1071 1,1191 1,1336 1,1647 1,1764 1,1986 1,1989 1,1994 1,2004 hinrichtung}
+{240 2,693 1,878 1,890 1,1166 1,1241 1,1287 1,1396 1,1548 1,1636 1,1643 1,1806 1,1940 1,1952 1,2004 außergerichtlich}
+{309 1,954 1,1066 1,1267 1,1287 1,1643 1,2004 befehl}
+{291 1,459 1,1313 1,1828 1,2004 hinrichtung}
+{100 1,522 1,1001 1,1095 1,1183 1,1384 1,2004 hinrichtung}
+{138 1,292 1,293 1,459 1,564 1,641 1,649 1,878 1,1066 2,1115 1,1146 1,1398 1,1445 1,1453 1,1630 1,1724 1,1735 1,1945 1,1986 1,2004 hinrichtung}
+{64 1,452 1,660 1,702 1,1007 1,1087 1,1220 1,1360 1,1361 1,1398 1,1445 1,1488 1,1569 1,1635 1,1661 1,1845 1,1887 1,1914 1,1967 1,2004 push}
+{197 1,869 1,1067 1,1076 1,1995 1,2004 ausführung}
+{453 1,2004 hinrichtung}
+{197 1,323 1,479 1,650 1,665 1,967 1,1079 1,1332 1,1352 1,1392 1,1419 1,1436 1,1507 1,1675 1,1935 1,2004 umsetzung}
+{118 1,317 1,327 1,417 1,447 1,501 1,506 1,596 1,696 1,699 1,782 1,821 2,850 1,864 1,876 1,894 1,926 1,1099 1,1100 1,1146 1,1151 1,1203 1,1261 1,1361 1,1486 1,1565 1,1608 1,1622 1,1724 1,1808 1,1816 1,1833 1,1935 1,1939 1,1945 1,2004 fahndungsliste}
+{89 1,186 1,528 1,664 1,965 1,1205 1,1343 1,1354 1,1420 1,1451 1,1528 1,1613 1,1929 1,2004 durchführung}
+{110 1,323 1,589 1,779 1,1012 1,1082 1,1232 1,1334 1,1345 1,1390 1,1444 1,1454 1,1481 1,1583 1,1675 1,1747 1,1875 1,1983 1,1995 1,2004 umsetzung}
+{46 1,117 1,264 1,693 1,725 1,1021 1,1083 1,1166 1,1894 1,2004 tötung}
+{147 1,158 1,570 1,628 1,764 1,897 1,933 1,1242 1,1284 1,1415 1,1433 1,1436 1,1505 1,1539 1,1716 1,2004 abwicklung}
+{51 1,64 1,129 1,332 1,335 1,458 1,504 1,1425 1,1539 1,1675 1,1803 1,2004 durchführungsmodalitäten}
+{332 1,339 2,404 1,676 1,792 1,948 1,966 1,1146 1,1171 1,1181 1,1489 1,1550 1,1592 1,1724 1,1806 1,1881 1,1895 2,2004 unumstrittenes}
+{275 1,881 2,902 1,1231 1,1384 1,1548 1,1995 1,2004 hinrichtung}
+{39 1,561 1,575 1,650 1,658 2,699 1,721 1,805 1,938 1,1146 1,1294 1,1406 1,1580 1,1926 1,1942 1,2004 hinrichtung}
+{238 1,332 1,398 1,616 1,675 1,856 1,900 1,1255 1,1486 1,1855 1,1995 1,2004 ausführung}
+{506 1,592 1,804 1,838 1,876 1,1066 1,1364 2,1429 1,1724 1,1970 1,1995 1,2004 hinrichtung}
+{17 1,489 1,616 1,878 2,1196 1,1725 1,1735 1,1826 1,1941 1,2004 hinrichtung}
+{120 1,130 1,271 1,292 1,459 1,1111 1,1268 1,1384 1,1532 1,1611 1,1630 1,1805 1,1912 1,1916 1,2004 exekution}
+{10 1,11 1,110 1,264 1,334 1,459 3,728 1,806 1,903 1,933 1,1087 1,1185 1,1230 1,1245 1,1313 4,1436 1,1456 1,1548 1,1724 1,1935 1,2004 exekution}
+{151 1,277 1,417 1,438 2,520 1,585 1,649 1,650 1,768 1,948 1,978 1,1027 1,1146 1,1320 1,1415 1,1432 1,1724 1,1770 1,1837 1,2004 durchführung}
+{45 1,74 1,100 1,113 1,182 1,257 1,273 1,339 1,398 1,468 1,503 1,792 1,878 1,929 1,962 1,1158 1,1197 1,1724 1,1897 1,1898 1,2004 hinrichtung}
+{34 1,162 1,165 1,185 1,238 1,239 1,466 1,557 1,1339 1,1380 1,1432 1,1522 1,1879 1,2004 durchführung}
+{172 1,814 1,1401 2,1729 1,2004 hinrichtung}
+{11 1,34 1,91 1,115 1,197 1,238 1,256 1,332 1,335 1,459 1,460 1,716 1,902 1,1098 1,1185 1,1313 1,1384 1,1770 1,1803 1,2004 vollzug}
+{900 1,962 1,1018 1,1176 1,1259 1,1267 1,1294 1,1366 1,1392 1,1408 1,1436 1,1559 1,1650 1,1657 1,2004 hinrichtungsbefehl}
+{417 2,459 1,1227 1,1630 1,2004 hinrichtung}
+{20 1,104 1,108 1,258 1,265 1,385 1,420 1,435 1,622 1,666 2,829 1,875 1,891 1,1401 1,1805 1,1872 1,1995 1,2004 exekution}
+{20 1,265 1,420 1,650 1,659 1,878 1,1349 1,1384 1,1545 1,1729 1,1736 1,1971 1,1996 1,2003 1,2004 vollstreckung}
+{55 1,544 1,650 1,660 1,699 1,812 1,878 1,910 1,1294 1,1436 1,1528 1,1629 1,1761 1,1783 1,1826 1,1840 1,1940 1,1941 1,1981 1,1998 1,2004 hinrichtung}
+{694 1,987 1,1116 1,2004 vollstreckung}
+{37 1,45 1,113 1,200 1,233 1,392 1,626 1,730 1,734 1,1144 1,1412 1,1462 1,1662 1,1737 1,2004 finanzvermittlern}
+{68 1,262 1,347 1,363 1,417 1,459 2,604 1,638 1,650 1,878 1,950 1,962 1,1113 1,1185 1,1313 2,1413 1,1438 1,1551 1,1557 1,1614 1,1635 1,1740 1,1895 1,2004 vollstreckung}
+{37 1,45 1,149 1,221 1,238 1,332 1,339 1,412 1,1182 1,1413 1,2004 durchführung}
+{121 1,358 1,638 1,974 1,1071 1,1245 1,1426 1,1630 1,1666 1,1857 1,1872 1,2004 vollstreckung}
+{197 1,1483 1,1724 1,1897 1,1995 1,2004 hingerichtet}
+{162 1,326 1,430 1,563 1,630 1,1171 1,1287 1,1436 1,1674 1,1831 1,2004 hinrichtung}
+{1012 1,1063 1,1280 1,1546 1,1630 1,2004 überwachenden}
+{39 1,45 1,59 1,540 1,650 1,666 1,807 1,1258 1,1294 1,1550 1,2004 ausführung}
+{254 1,457 1,459 1,574 1,1313 1,1514 1,1808 1,1995 1,2004 hinrichtung}
+{172 1,374 1,468 1,926 1,941 1,1190 1,1382 1,1704 1,1810 1,1885 1,1919 1,1995 1,2004 hinrichtung}
+{339 1,481 1,907 1,938 1,1412 1,1465 1,1661 1,2004 durchführung}
+{43 1,109 1,399 1,429 1,624 1,728 1,1405 1,1569 1,2004 durchführung}
+{332 1,505 1,903 1,1261 1,1631 1,1983 1,2004 ausführung}
+{18 1,127 1,190 1,246 1,303 1,398 1,512 1,537 1,642 1,691 1,745 1,746 2,816 1,818 1,878 1,915 1,1048 1,1323 1,1461 1,1526 1,1766 1,1769 1,1833 1,2004 hinrichtung}
+{91 1,114 1,238 1,333 1,460 1,546 1,617 1,1307 1,1369 1,1384 1,1402 1,1451 1,1566 1,1590 1,1724 1,1789 1,1826 1,2004 ausführung}
+{10 1,417 1,459 2,919 1,1069 1,1185 1,1294 1,1313 2,1369 1,1384 1,1486 2,1530 1,1548 1,1995 2,2004 vollstreckt}
+{185 1,332 1,410 1,442 1,825 1,1033 1,1150 1,1270 1,1349 2,1352 1,1354 1,1425 1,1747 1,2004 ausführung}
+{377 1,482 1,509 1,650 1,878 1,1436 1,1632 1,1945 1,2004 hinrichtung}
+{127 1,291 1,370 1,380 1,527 1,550 1,619 1,766 1,818 1,829 2,935 1,1037 1,1161 1,1162 1,1365 1,1384 1,1461 1,1766 1,1954 1,2004 hinrichtung}
+{35 1,391 1,1622 1,1636 1,1639 1,1674 1,1735 1,1775 1,1776 1,1952 1,2004 hinrichtung}
+{68 2,234 1,365 1,440 1,663 1,757 1,807 1,1088 1,1253 1,1412 1,1425 1,1539 1,1627 1,1698 1,1715 1,1717 1,1755 1,1770 1,1796 1,1841 1,2004 durchführung}
+{362 1,414 1,419 1,650 1,832 1,993 1,1066 1,1384 1,1646 1,1899 1,1994 1,2004 hinrichtung}
+{59 1,91 1,414 1,545 1,700 1,779 1,780 1,844 1,863 1,870 1,907 1,956 1,1319 1,1517 1,1838 1,2004 ausführung}
+{476 1,838 1,941 1,1147 1,1197 1,1530 1,1766 1,1815 1,1833 1,1995 1,2004 gefolterten}
+{2 1,24 1,264 1,292 1,705 1,822 1,962 1,1071 1,1133 1,1343 1,1721 1,1857 1,1912 1,2004 hinrichtung}
+{192 1,238 2,323 1,368 1,386 1,409 1,430 1,440 1,525 1,589 1,611 1,621 1,628 1,636 1,725 1,729 1,730 1,763 1,779 1,819 1,951 1,1049 2,1116 1,1283 1,1393 1,1400 1,1404 1,1412 1,1516 1,1610 1,1675 2,1712 1,1754 1,1765 1,1785 1,1849 1,1882 1,1995 1,2004 ausführung}
+{180 1,283 1,319 1,900 1,911 1,1311 1,1414 1,1734 1,2004 steinigung}
+{3 1,34 1,101 1,124 1,500 1,533 1,746 2,786 1,992 1,1112 1,1145 1,1185 1,1287 1,1471 1,1517 1,1622 1,1643 1,1700 1,1742 1,1792 1,1808 1,1826 1,1965 1,2004 liquidierung}
+{699 1,773 1,917 1,976 1,994 1,1119 1,1236 1,1463 1,1697 1,1720 1,1724 1,2004 ausübung}
+{213 1,236 1,286 1,302 1,417 1,456 1,525 1,616 1,671 1,746 1,1081 1,1142 1,1215 1,1310 1,1461 1,1590 1,1603 1,1766 1,1794 1,1954 1,1957 1,1995 1,2004 massenhinrichtung}
+{120 1,906 1,1416 1,1735 1,1833 1,2004 hinrichtung}
+{4 1,1240 1,2004 hinrichtung}
+{94 1,429 1,459 1,636 1,878 2,919 2,962 2,979 1,1024 1,1146 1,1167 1,1184 1,1246 1,1490 1,1505 1,1539 2,1630 1,1721 1,1940 2,1962 1,2004 hinrichtung}
+{18 1,33 1,66 1,107 1,218 1,225 1,288 1,334 1,382 1,426 1,518 1,857 1,866 1,878 1,915 1,979 1,993 1,1121 1,1229 1,1260 1,1384 1,1506 1,1511 1,1548 1,1557 1,1614 1,1637 1,1961 1,1974 1,1976 1,1986 1,2004 hinrichtung}
+{31 1,332 1,783 1,900 1,945 1,1865 1,2004 durchführung}
+{696 1,898 1,906 1,933 1,1008 1,1201 1,1659 1,1684 1,1908 1,1947 1,2004 hinrichtung}
+{147 1,239 1,323 1,332 2,334 1,383 1,468 1,469 1,779 2,900 1,915 1,1007 1,1294 1,1320 1,1379 1,1383 1,1411 1,1545 1,1590 1,1747 1,2004 ausführung}
+{408 1,466 1,517 1,614 1,660 1,672 1,897 1,931 1,1226 1,1363 1,1373 2,1393 1,1630 1,1716 2,2004 strafvollstreckung}
+{64 1,332 1,716 1,791 1,1050 1,1384 1,1779 1,1949 1,2004 umzusetzen}
+{91 1,211 1,238 3,265 1,333 1,335 1,358 1,557 1,560 1,568 1,611 1,666 1,761 1,956 1,978 2,1088 2,1145 2,1146 2,1264 1,1377 1,1425 1,1430 1,1540 3,1675 1,1699 1,1724 2,1848 1,1984 1,1995 1,2004 berichtigungsund}
+{278 1,521 1,592 1,678 1,811 1,938 1,1079 1,1096 2,1118 2,1258 1,1412 1,1465 1,1635 1,1655 1,2004 durchführungsrate}
+{64 1,151 1,158 1,179 1,332 1,336 1,352 1,355 1,618 1,647 1,650 1,730 1,822 1,854 1,915 1,918 1,1178 1,1210 1,1294 1,1306 1,1360 1,1415 1,1425 1,1427 1,1518 1,1618 1,1621 1,1622 1,1659 1,1697 1,2004 ausführung}
+{67 1,358 1,409 1,466 1,520 1,705 1,762 1,799 1,880 1,1259 1,1343 1,1349 1,1412 1,1473 1,1947 1,1995 1,2004 durchführung}
+{464 1,482 1,811 1,825 1,915 1,1118 1,1182 1,1343 1,1412 1,1432 1,1502 1,1539 1,1664 1,1793 1,1845 1,2004 durchführungsberichte}
+{162 1,264 1,332 2,564 1,624 1,1079 3,1415 1,1418 1,1481 1,1554 1,1663 1,1856 1,1885 1,2004 durchführung}
+{430 1,1394 1,1506 1,2004 hinrichtung}
+{264 1,468 1,728 1,804 1,979 1,1331 1,1393 1,2004 hinrichtung}
+{207 1,360 1,377 1,407 1,409 1,417 2,620 1,731 1,902 1,1013 1,1015 1,1195 1,1267 1,1276 2,1349 1,1517 1,1539 1,1657 1,1845 1,1852 1,1895 1,2004 wots-abkommen}
+{78 1,82 1,120 2,162 1,358 1,414 1,517 1,994 1,1497 1,1551 1,1833 1,1911 1,2004 hinrichtung}
+{37 1,459 1,900 1,1630 1,2004 exekution}
+{10 1,246 1,265 1,459 1,744 1,804 1,1313 1,1630 1,1735 1,1911 1,2004 hinrichtung}
+{869 1,900 1,907 1,1150 1,1227 1,1415 2,1539 1,2004 angeschnittenen}
+{111 1,127 1,134 1,205 1,229 1,417 1,422 1,631 1,850 1,919 2,1059 1,1134 1,1142 1,1148 1,1161 1,1190 1,1203 1,1252 1,1309 1,1449 1,1482 1,1496 1,1611 1,1657 1,1759 1,1766 1,1859 1,1885 1,1897 1,1954 1,1997 1,2004 hinrichtung}
+{82 1,135 1,307 1,332 1,399 1,465 1,702 1,894 1,986 1,1139 1,1267 1,1412 1,1775 1,1776 1,2004 durchführung}
+{332 1,358 1,810 1,1230 1,1578 1,1724 1,1897 1,2004 hinrichtung}
+{189 1,238 1,332 1,726 1,767 1,1279 1,1354 1,1554 1,2004 durchführung}
+{72 1,126 1,255 1,512 1,551 1,746 1,794 1,876 1,968 2,1045 1,1047 1,1130 1,1203 2,1271 1,1286 1,1326 1,1337 1,1348 1,1423 1,1461 1,1540 1,1650 1,1783 1,1897 1,2004 massenerschießung}
+{172 1,256 1,335 1,362 1,454 1,459 1,815 1,1078 1,1083 1,1384 1,1485 1,1610 1,1635 1,1683 1,1770 1,2004 vollstreckung}
+{130 1,265 1,388 1,697 1,787 1,878 1,1366 1,1624 1,1833 1,1940 1,2004 hinrichtung}
+{281 1,460 1,805 1,994 1,1179 1,1267 1,1315 1,1403 1,1574 1,1657 1,1814 1,2004 hinrichtungsbefehl}
+{414 1,595 1,838 1,843 1,844 1,876 1,1021 1,1083 1,1176 1,1237 1,1259 1,1301 1,1329 1,1366 1,1436 1,1457 1,1610 1,1729 1,1930 1,1986 1,2004 rassenhaß}
+{64 1,313 1,365 1,417 1,594 1,900 1,1473 2,1688 1,1886 1,2004 durchführung}
+{303 1,1036 1,1156 1,1197 1,1461 1,1766 1,1827 1,1833 1,1857 1,1978 1,2004 hinrichtung}
+{265 1,332 1,453 1,878 1,957 1,994 1,1259 1,1472 1,1482 1,1635 1,2004 hinrichtung}
+{265 1,311 1,314 1,720 1,807 1,1185 1,1384 1,1911 1,2004 hinrichtung}
+{414 1,466 1,896 1,1729 1,2004 bevorzustehen}
+{264 1,459 1,1313 1,1562 1,1724 1,1995 1,2004 hinrichtung}
+{234 1,264 1,329 1,334 1,633 1,1085 1,1465 1,1749 1,1898 1,1995 1,2004 vollstreckten}
+{76 1,114 1,273 1,279 1,417 1,490 1,607 1,695 1,855 1,1230 3,1401 1,1724 1,1803 1,1825 1,1897 1,2004 hinrichtung}
+{115 1,160 1,163 1,230 1,278 1,332 1,334 1,404 1,423 1,616 1,730 2,907 1,919 1,922 1,946 1,962 1,1033 1,1064 1,1088 1,1118 1,1249 1,1259 1,1307 1,1399 1,1425 1,1546 1,1554 1,1634 1,1844 1,2004 ausführung}
+{14 1,136 1,245 1,453 1,616 1,658 1,746 1,768 2,907 1,1048 1,1146 1,1191 1,1230 1,1655 1,1702 1,1771 1,1995 1,2004 hinrichtung}
+{192 1,300 1,301 1,408 1,1505 1,1770 1,1775 1,1891 1,1934 1,1995 1,2004 hinrichtung}
+{317 1,534 1,616 1,630 1,650 1,691 1,746 1,768 1,934 1,993 1,1066 1,1084 1,1161 1,1258 1,1287 2,1557 1,1636 1,1735 1,1895 1,1979 1,2004 hinrichtung}
+{186 1,265 1,285 1,412 1,644 2,900 2,1014 1,1023 1,1165 2,1398 1,1425 1,1635 1,1819 1,1845 1,1885 1,2004 vollstreckung}
+{145 1,332 1,335 2,365 1,414 2,491 1,650 1,670 2,961 1,1203 1,1294 2,1361 1,1540 2,1553 1,1583 1,1616 3,1621 1,1739 2,2004 durchführungsausschüssen}
+{91 1,309 1,332 1,392 1,393 1,624 1,818 1,928 1,933 1,1435 1,1546 1,1785 1,1876 1,1983 1,2004 umsetzung}
+{47 1,186 1,414 1,434 1,459 1,468 1,752 1,938 1,1313 1,1632 1,2004 hinrichtung}
+{309 1,414 1,459 1,468 1,610 1,1313 1,1544 1,1734 1,1876 1,2004 hinrichtung}
+{64 1,265 1,459 1,568 1,643 1,692 2,904 1,1313 1,1414 1,1433 1,2004 vollstreckung}
+{242 1,454 1,744 1,853 1,1131 1,1301 1,1539 1,2004 exekution}
+{20 1,64 1,91 1,174 1,295 1,346 1,399 2,505 1,524 1,528 1,578 1,579 1,763 1,1007 1,1440 1,1517 1,1527 1,1631 1,1706 1,1751 1,1782 1,1983 1,2004 ausführung}
+{238 1,900 1,1227 1,1505 1,1995 2,2004 haushaltsvollzugs}
+{115 1,187 1,309 1,564 1,616 1,687 1,950 1,1001 1,1087 1,1137 1,1846 1,2004 basisinstrumente}
+{51 1,215 1,228 1,459 1,555 1,669 1,724 1,769 1,858 1,900 1,903 1,962 1,1074 1,1165 1,1230 1,1298 1,1313 1,1401 1,1436 1,1462 1,1630 1,1702 1,1721 1,1766 2,1857 2,2004 hingerichtet}
+{47 1,64 1,109 1,117 1,124 1,133 1,151 1,193 1,332 1,414 1,763 1,804 1,876 1,878 1,944 1,962 1,992 1,1060 1,1063 1,1068 1,1203 1,1219 1,1266 1,1276 1,1360 1,1515 1,1533 1,1536 1,1548 2,1643 1,1740 1,1897 1,1940 1,2004 exekution}
+{24 1,386 1,414 1,468 1,650 1,693 1,1261 1,1895 1,2004 tötung}
+{50 1,130 2,191 1,197 1,256 1,437 1,440 1,524 1,555 1,605 1,650 1,804 1,878 1,922 1,1011 1,1127 1,1272 1,1308 1,1309 1,1352 2,1369 1,1384 1,1401 1,1470 1,1581 1,1584 1,1585 1,1784 1,1895 1,1990 1,2004 hinrichtung}
+{218 1,328 1,524 1,649 1,874 1,993 1,1354 1,1438 1,1546 1,1552 1,1565 1,1625 1,1764 1,2004 exekution}
+{237 1,463 1,483 1,486 1,580 1,705 1,826 1,876 1,896 1,1007 1,1052 1,1137 1,1262 1,1421 1,1553 1,1576 1,1612 1,1802 1,1857 1,1913 1,2004 hinrichtung}
+{47 1,332 1,1063 1,1072 1,1294 1,1314 1,1338 1,1539 1,1630 1,1658 1,1669 1,1868 1,2004 vollstreckung}
+{139 1,154 1,289 1,430 1,473 1,693 1,915 1,1129 1,1528 1,1974 1,2004 maschadows}
+{263 1,330 1,660 1,886 1,972 1,1302 1,1601 1,1681 1,1782 1,1796 1,2004 umsetzung}
+{236 1,288 1,362 1,777 1,878 1,915 1,979 1,1167 1,1245 1,1495 1,1548 1,1637 1,1770 1,1836 1,2004 hinrichtung}
+{459 1,702 1,941 1,1431 1,1519 1,1630 1,1659 1,2004 vollzug}
+{10 1,1101 1,1724 1,2004 vollstreckt}
+{20 1,148 1,250 1,328 1,377 1,534 1,728 1,730 1,902 1,950 1,973 1,1118 1,1126 1,1160 1,1267 1,1510 1,1887 1,1982 1,2004 vermögensverwaltungsgeschäfts}
+{60 1,158 1,414 1,570 1,650 1,876 1,948 1,1146 1,1206 1,1345 1,1352 1,1415 1,1436 1,1554 1,1583 1,1757 1,2004 durchführung}
+{534 1,592 1,594 1,619 1,624 1,955 1,1146 1,1422 1,1617 1,1724 1,2004 vollzug}
+{377 1,432 1,465 1,491 1,1115 1,1294 1,1352 1,1404 1,1995 1,2004 schwerwiegende}
+{189 1,332 1,730 1,787 1,901 1,950 1,1096 1,1163 1,1299 1,1361 1,1695 1,1739 1,2004 einsatz}
+{162 1,303 1,505 1,547 1,744 1,834 1,962 1,1019 1,1244 1,1251 1,1349 1,1366 1,1389 1,1412 1,1418 1,2004 hinrichtung}
+{14 3,250 2,255 1,283 1,292 2,333 1,415 1,443 1,454 1,545 1,649 1,774 1,775 1,791 1,878 1,902 1,962 1,1048 1,1050 1,1056 1,1126 1,1260 1,1367 1,1384 1,1599 1,1826 2,1830 1,1921 1,1940 1,2004 laogai}
+{40 1,239 1,334 1,404 1,728 1,907 2,1140 1,1322 1,1330 1,1412 1,1786 1,1849 1,2004 durchführung}
+{18 1,96 1,271 1,340 1,517 1,613 1,717 1,740 1,804 1,864 1,894 1,1261 1,1277 1,1503 1,1519 1,1564 1,1565 1,1630 1,1731 1,1776 1,2004 amputation}
+{67 2,115 1,261 1,315 1,332 1,350 1,539 1,624 1,1182 1,1267 1,1343 1,1409 1,1425 1,1505 1,1557 1,1558 1,1699 1,1803 1,2004 umsetzung}
+{150 1,255 1,303 1,417 1,507 1,526 1,584 1,650 1,728 1,771 1,804 1,828 1,873 1,959 1,1025 1,1062 1,1161 1,1354 1,1357 1,1361 1,1400 1,1403 1,1503 3,1554 1,1596 2,1713 1,1761 1,1857 1,1895 1,1999 1,2000 1,2001 1,2004 durchführung}
+{215 1,255 1,337 1,378 1,459 1,739 1,1037 1,1130 1,1162 1,1933 1,1954 1,2004 massenhinrichtung}
+{13 1,97 1,107 1,346 1,620 1,759 1,833 1,928 1,1071 1,1412 1,1419 1,1570 1,1590 1,1621 1,1623 1,1834 1,1835 1,1852 2,2004 gesetzesgrundlage}
+{18 1,120 1,245 1,246 1,330 1,332 1,499 1,512 1,517 1,745 1,746 1,878 1,915 1,1028 1,1029 1,1161 1,1354 1,1401 1,1503 1,1505 1,1526 1,1640 2,1769 1,1783 1,1938 2,1974 1,2004 hinrichtung}
+{324 1,576 1,611 1,645 1,1227 1,1383 1,1442 1,1651 1,1668 1,1729 1,1913 1,1953 1,2004 geldbeutel}
+{10 1,162 1,459 2,894 1,1185 1,1313 1,1630 1,1657 1,1724 1,1811 1,1897 1,1987 1,2004 vollstreckung}
+{152 1,466 1,636 1,988 1,2003 1,2004 hingerichtet}
+{37 1,105 1,1156 1,1412 1,1475 1,1505 1,1982 1,2004 trägheit}
+{459 1,805 1,1071 1,1152 1,1188 1,1267 1,1315 1,1588 1,1657 1,1704 1,1995 1,2004 hinrichtungsbefehl}
+{35 2,56 1,64 1,625 1,654 1,668 1,915 1,1119 1,1146 2,1182 1,1184 1,1205 1,1278 1,1290 1,1294 1,1375 1,1406 1,1451 1,1486 1,1505 1,1528 1,1583 1,1685 1,1731 1,1751 1,1878 1,2004 ausübung}
+{10 1,204 1,262 1,300 1,367 1,466 1,564 1,784 1,804 1,905 1,1406 2,1438 1,1736 2,1738 1,1867 1,1868 1,2004 vollstreckung}
+{332 1,373 1,404 1,652 1,822 1,1083 1,1182 1,1412 1,1415 1,1432 1,1482 1,1505 1,1625 1,1634 1,2004 ausführung}
+{20 1,91 1,332 2,335 1,409 1,414 2,480 1,520 1,705 1,779 1,803 1,822 1,855 1,1079 1,1113 1,1118 1,1135 1,1231 1,1294 1,1328 1,1393 2,1405 1,1412 2,1425 1,1463 1,1490 1,1559 1,1716 1,1759 1,1762 1,1770 1,2004 inanspruchnahme}
+{180 1,262 1,334 1,426 1,867 1,926 1,1042 1,1438 1,1559 1,2004 hingerichtet}
+{264 1,928 1,1449 1,1724 1,2004 hinrichtung}
+{42 1,62 1,254 1,465 1,650 1,1115 1,1122 1,1185 1,1192 1,1294 1,1383 1,1539 1,2004 vollstreckung}
+{5 1,17 1,29 1,362 1,981 1,1597 1,1867 1,1914 1,2003 1,2004 hinrichtung}
+{171 1,232 1,238 1,398 1,633 1,725 1,767 1,907 1,1157 1,1164 1,1481 1,1498 1,1870 1,2004 haushaltsvollzugs}
+{20 1,91 1,133 1,332 1,484 1,529 1,1412 1,1623 1,2004 ausführung}
+{133 1,238 1,332 1,1447 1,1554 1,1562 1,1852 1,2004 ausführung}
+{47 1,51 1,148 1,193 1,196 1,301 1,318 1,335 1,414 1,466 1,650 1,658 1,763 1,769 1,770 1,771 1,804 1,864 1,938 1,996 1,1021 1,1040 2,1123 1,1267 1,1539 1,1543 1,1778 1,1895 1,2004 vollstreckung}
+{65 1,130 1,152 1,355 1,564 1,565 1,915 1,1002 1,1091 1,1190 1,1245 1,1360 1,1384 1,1425 1,1546 1,1926 1,1960 1,2004 vollstreckung}
+{309 1,505 1,556 1,666 1,953 1,1634 2,2004 ausführung}
+{91 2,174 2,186 1,309 1,399 2,478 1,505 1,666 1,728 1,1022 1,1116 1,1135 1,1175 1,1288 3,1361 1,1377 1,1408 1,1415 3,1546 1,1631 1,1983 1,2004 ausführung}
+{243 1,779 1,900 1,929 1,1672 1,1747 1,2004 durchführung}
+{34 1,71 1,110 1,162 1,197 1,239 1,308 1,333 1,335 1,933 1,1294 1,1352 1,1384 1,1458 1,1507 1,1511 1,1747 1,1768 1,1803 1,1835 1,1850 1,1890 1,2004 ausführung}
+{121 1,220 1,301 1,427 1,593 1,624 1,650 1,684 1,744 1,769 1,915 1,974 1,1021 1,1248 1,1313 1,1426 1,1539 1,1622 1,1726 1,1982 1,2004 vollstreckung}
+{22 1,90 1,162 1,208 1,290 1,439 1,510 1,512 1,798 1,906 1,1053 1,1173 1,1287 2,1349 1,1392 1,1473 1,1624 1,1636 1,1709 1,1766 1,1938 1,1981 1,2004 hinrichtung}
+{18 1,24 1,94 1,292 1,330 1,398 1,417 1,878 1,962 1,1354 1,1771 1,1995 1,2004 hinrichtung}
+{1118 1,1356 2,1789 1,2004 ausführung}
+{110 1,162 1,298 1,311 1,333 1,334 1,362 1,459 2,475 2,491 1,531 3,769 1,780 1,834 1,878 2,889 1,989 1,1063 1,1065 1,1083 2,1267 1,1368 1,1384 1,1392 1,1540 1,1546 1,1554 1,1630 1,1734 1,1740 1,1911 1,1918 1,1937 1,1940 1,2004 vollstreckung}
+{140 1,158 1,264 1,570 1,627 1,702 1,712 1,1022 1,1403 1,1594 1,1766 1,1789 1,1808 1,1859 1,2004 massenexekution}
+{315 1,443 1,919 1,1213 1,1230 1,1231 1,1659 1,1894 1,2004 hinrichtung}
+{804 1,1216 1,1479 1,2004 exekution}
+{264 1,301 1,362 1,417 1,437 1,459 1,616 1,686 1,744 1,1185 1,1313 1,1486 1,1508 1,1586 1,1766 1,1857 1,2004 hinrichtung}
+{147 1,200 1,209 1,332 1,410 1,466 1,481 1,779 1,888 1,911 1,1049 1,1146 1,1343 1,1356 1,1412 1,1415 1,1482 1,1724 1,1752 1,1846 1,1889 1,2004 umwidmungen}
+{47 1,238 1,393 1,902 1,1115 1,1352 1,1476 1,1823 1,2004 ausgeführt}
+{10 1,63 1,142 1,250 1,332 1,346 1,356 1,663 1,666 1,734 1,962 1,973 1,1193 1,1257 1,1279 1,1344 1,1590 1,1641 1,1837 1,2004 handelsplattformen}
+{63 1,250 1,330 1,332 1,346 1,364 1,370 1,975 1,1428 1,1590 3,1743 1,1849 1,2004 ausführung}
+{47 1,113 1,224 1,251 1,296 1,358 1,418 1,650 1,704 1,869 1,995 1,1017 1,1185 1,1198 1,1360 1,1384 1,1425 2,1547 1,1551 1,1613 1,1895 2,2004 vollstreckung}
+{292 1,430 1,699 1,937 1,1044 1,1223 1,1503 1,1833 1,1853 1,2004 nordkoreanischer}
+{293 1,309 1,339 1,424 1,444 1,445 1,483 1,629 1,784 1,795 1,804 1,962 1,1052 1,1207 1,1486 2,1576 1,1628 1,1658 1,1697 1,1802 1,1820 1,1945 1,1958 1,1967 1,2004 hinrichtung}
+{264 1,368 1,459 1,836 1,1024 1,1149 1,1301 1,1454 1,1572 1,1630 1,1734 1,1875 1,2004 steinigen}
+{238 1,283 1,332 1,535 1,869 1,971 1,1065 1,1258 1,1269 1,1318 1,1565 1,1634 1,2004 ausführung}
+{453 1,511 1,527 1,882 1,1162 1,1180 1,1559 1,1656 1,1783 1,1799 1,1818 1,1821 1,1833 1,2004 exekution}
+{358 1,414 1,636 1,1024 1,1230 1,1246 1,1486 1,1965 1,2004 hinrichtung}
+{58 1,69 1,130 1,363 1,430 1,459 1,656 1,702 1,741 1,785 1,1000 1,1024 1,1539 1,1630 1,1995 1,2004 hinrichtung}
+{109 1,172 1,417 1,459 1,491 1,1120 1,1313 1,1401 1,1659 1,1724 1,1897 1,2004 hinrichtung}
+{63 1,91 1,114 1,238 1,334 1,414 1,675 1,779 1,915 1,948 1,1007 1,1206 1,1306 1,1307 1,1383 1,1726 1,1747 1,2004 ausführung}
+{481 1,618 1,650 2,1210 1,1267 1,1392 1,1415 1,1480 1,1901 1,2004 ausführung}
+{148 1,233 1,332 1,335 1,440 1,556 1,650 2,900 1,1118 1,1137 1,1294 1,1490 1,1546 1,1569 1,1622 1,2004 ausführung}
+{27 1,338 1,448 1,468 1,640 1,1005 1,1130 1,1384 1,1746 1,1954 1,1986 1,1992 1,2004 massenexekution}
+{59 1,63 1,133 1,147 1,447 1,650 1,730 1,760 1,922 1,933 1,1051 1,1267 1,1294 1,1392 1,1511 1,1550 1,2004 inanspruchnahme}
+{239 1,1088 1,1140 1,1723 1,1995 1,2004 durchführung}
+{30 1,332 1,333 2,339 2,497 1,594 1,763 1,779 1,1075 1,1108 1,1407 1,1465 1,1554 1,1703 2,1770 1,1813 1,1885 1,2004 ausführungsraten}
+{787 1,1343 1,1967 1,1995 1,2004 auzuführenden}
+{15 1,114 1,146 1,238 1,239 1,323 1,335 2,356 1,358 2,475 1,530 2,589 1,661 1,679 1,730 1,825 1,857 1,869 1,890 1,952 1,1232 1,1259 1,1360 2,1425 1,1465 1,1490 1,1539 1,1675 1,1904 1,2004 abwicklungssätze}
+{38 1,98 1,115 1,147 1,192 1,440 1,520 2,791 1,804 1,831 1,1050 1,1294 1,1343 1,1359 1,1361 1,1383 1,1384 1,1480 1,1507 1,1531 1,1539 1,1677 1,1995 1,2004 umsetzung}
+{24 1,332 1,368 1,463 1,590 1,592 2,628 2,841 1,897 1,1078 1,1162 1,1227 1,1415 3,1451 1,1529 1,1918 1,2004 umweltverträglichkeitsvermerk}
+{145 1,292 1,401 1,459 1,466 1,787 1,789 1,878 1,1115 2,1146 1,1185 1,1203 1,1237 1,1273 1,1313 1,1360 2,1419 1,1425 1,1451 1,1531 1,1687 1,1719 1,1724 1,1759 1,1894 1,1895 1,1897 1,2004 hinrichtungsmoratoriums}
+{158 1,285 1,402 1,465 1,541 1,825 1,938 1,945 1,951 1,1137 1,1146 2,1306 1,1510 1,1888 1,1904 1,2004 umsetzung}
+{162 1,238 1,239 1,332 1,358 1,368 1,452 1,933 1,1016 1,1274 1,1279 1,1486 1,2004 ausführung}
+{404 1,417 1,715 1,772 1,919 1,1072 1,1242 1,1404 1,1850 1,1915 1,2004 durchführung}
+{33 1,111 2,309 1,922 1,952 1,1012 1,1119 1,1232 1,1366 2,1631 2,2004 ausübung}
+{54 1,161 1,306 1,363 1,420 1,430 1,636 1,837 1,1023 1,1041 1,1192 1,1283 1,1404 1,1412 1,1606 1,1822 1,2004 durchführung}
+{87 1,264 1,459 1,838 1,1043 1,1301 1,1369 1,1486 1,1630 1,1789 1,1894 1,1995 1,2004 hinrichtung}
+{238 1,339 1,420 1,1021 1,1384 1,1451 1,1458 1,1486 1,1590 1,2004 ausführung}
+{168 1,185 1,238 2,295 1,332 1,420 2,659 1,666 1,1071 1,1085 1,1088 1,1361 1,1452 1,1590 2,1668 1,1776 1,1800 1,2004 ausführung}
+{332 1,336 1,637 1,1259 1,1983 1,2004 ausführung}
+{104 1,121 1,185 1,206 1,217 1,252 1,303 1,416 1,455 1,622 1,1021 1,1063 1,1116 1,1162 1,1357 1,1503 1,1551 1,1575 1,1591 1,1598 1,1766 1,2004 hinrichtung}
+{10 1,108 1,118 1,340 1,417 1,459 1,466 1,804 1,894 1,1313 1,1608 1,1869 1,2004 turkmenistans}
+{10 1,11 1,64 1,308 1,332 1,360 1,414 1,417 2,459 2,589 1,650 1,655 1,728 1,894 1,943 1,944 1,1185 1,1313 2,1354 1,1419 1,1697 1,1986 1,1987 1,2004 hinrichtung}
+{493 1,876 1,1300 1,1392 1,1548 1,1720 1,2004 hinrichtung}
+{120 1,156 1,282 1,440 1,686 1,769 1,1352 1,1360 1,1466 1,1505 1,1867 1,1931 1,1949 1,2004 verhaftung}
+{37 1,150 1,216 1,222 1,300 1,332 1,345 1,414 1,520 1,610 1,868 1,915 1,933 1,1146 1,1221 1,1294 1,1354 1,1383 1,1391 1,1412 1,1511 1,1675 1,2004 durchführung}
+{247 1,537 1,657 1,718 1,865 1,906 1,1162 1,1503 1,1815 1,1833 1,1868 1,1938 1,1955 1,2004 hinrichtung}
+{1729 1,2004 hinrichtung}
+{479 1,1267 1,1573 1,1623 1,2004 endgültig}
+{456 1,489 1,670 1,810 1,818 1,1297 1,1389 1,1676 1,1867 1,1868 1,2003 1,2004 hinrichtung}
+{82 1,130 2,180 1,459 1,537 1,619 1,823 1,892 1,915 1,1291 1,1711 1,1732 1,1741 1,1783 1,1833 1,1837 1,1896 1,1940 1,2004 hinrichtung}
+{666 1,720 1,1015 1,1914 1,1963 1,2004 bundesebene}
+{193 1,454 1,721 1,805 1,876 1,902 1,1111 1,1384 1,1545 1,1629 1,1632 1,1729 1,1942 1,1969 1,1991 1,2004 vollstreckung}
+{121 1,238 1,332 1,592 1,594 1,650 1,743 1,900 1,1118 1,1281 1,1352 1,1362 1,1500 1,1502 1,1545 1,1699 1,1759 1,2004 durchführung}
+{20 1,475 1,490 1,531 1,633 1,878 2,2004 hinrichtung}
+{358 1,398 1,530 1,534 1,544 1,769 1,1167 1,1227 1,1505 1,1524 1,1557 1,1833 1,1981 1,2004 todesstrafe}
+{508 1,537 1,693 1,752 1,878 1,946 1,1374 1,1486 1,1833 1,1940 1,2004 verschwindenlassen}
+{94 1,253 1,303 1,512 1,693 1,962 1,1197 1,1539 1,1761 1,1783 1,1833 1,1938 1,2004 exekution}
+{385 1,491 1,548 1,660 1,776 1,781 1,849 1,869 1,919 1,992 1,1287 2,1622 1,1634 1,1738 2,1759 1,1909 1,2004 exekution}
+{127 1,212 1,347 1,362 1,688 1,693 1,892 1,920 1,992 1,1241 1,1636 1,1806 1,2004 tötung}
+{59 1,151 1,193 1,238 1,332 2,339 2,478 1,666 1,763 1,900 1,915 1,922 1,948 1,1118 1,1258 1,1412 1,1510 1,1550 1,1634 1,1793 1,2004 ausführung}
+{47 1,145 1,309 1,787 1,1185 1,1203 1,1361 1,1379 1,1548 1,1716 1,1897 1,2004 hinrichtung}
+{104 1,283 1,292 1,334 1,376 1,495 1,658 1,1238 1,1626 1,1764 1,1846 1,1923 2,2004 bedeutungswandel}
+{116 1,121 1,130 1,309 1,638 2,692 1,702 1,857 1,902 1,1015 1,1071 1,1072 1,1137 1,1165 1,1203 1,1351 1,1360 1,1425 1,1491 1,1539 1,1548 1,1721 1,1960 1,2004 vollstreckung}
+{20 1,99 1,194 1,385 1,478 1,479 1,531 1,534 2,839 1,912 1,925 1,926 1,984 1,1023 1,1205 1,1297 2,1326 1,1336 1,1392 1,1536 1,1924 1,1940 1,1983 3,1985 1,2004 unterminierend}
+{64 1,151 1,624 1,807 1,1713 1,1762 1,1770 1,2004 umsetzung}
+{238 1,335 1,339 1,540 1,938 1,1232 2,2004 inanspruchnahme}
+{177 1,238 1,272 1,403 1,414 2,431 1,441 1,644 1,661 1,730 1,747 1,787 1,819 1,915 1,1162 1,1327 1,1352 1,2004 ausführung}
+{332 1,417 1,434 1,616 1,989 1,1369 1,1436 1,1443 1,1623 1,2004 hinrichtung}
+{495 1,919 1,979 1,1230 1,1301 1,1384 1,1599 1,1903 1,1995 1,2004 hinrichtung}
+{369 2,449 1,456 1,466 1,650 2,763 1,938 2,1123 1,1199 1,1267 2,1491 1,1895 2,2004 vollstreckung}
+{170 1,197 1,265 1,315 1,332 1,398 1,447 1,658 1,705 1,744 1,822 1,894 1,1433 1,1505 1,1680 1,1857 1,2004 hinrichtung}
+{65 1,108 2,162 1,420 1,427 1,509 1,702 1,847 1,1033 1,1071 1,1230 1,1388 1,1612 1,1811 2,2004 hinrichtung}
+{264 1,301 1,362 1,417 1,437 1,459 1,616 1,686 1,744 1,1185 1,1313 1,1486 1,1508 1,1586 1,1766 1,1857 1,2004 hinrichtung}
+{32 1,61 1,210 1,433 1,436 1,437 1,443 1,526 1,549 1,698 1,713 1,790 1,899 1,915 1,993 1,1285 1,1354 1,1401 1,1645 1,1770 1,1795 1,1815 1,1870 1,1914 1,2004 hinrichtung}
+{14 1,91 1,113 1,602 1,650 1,915 1,1232 1,1294 1,1347 1,1371 1,1424 1,1433 1,1476 1,1490 1,1721 2,2004 ausführung}
+{20 1,309 1,430 1,431 1,524 2,774 1,979 1,980 1,1092 1,1117 1,1208 1,1263 1,1734 1,1813 1,1981 1,2004 hinrichtung}
+{302 1,417 1,425 1,461 1,528 1,657 1,710 1,907 1,936 1,1063 2,1093 1,1203 1,1267 1,1307 1,1349 1,1404 1,1549 1,1681 1,2004 vollstreckung}
+{57 1,67 1,218 1,336 1,428 1,451 1,1037 1,1102 1,1130 1,1461 1,1735 1,1832 1,1895 1,1913 1,1938 1,2004 massenexekution}
+{685 1,1349 1,1436 1,1501 1,1633 1,1852 1,1935 1,1977 1,2004 hinrichtung}
+{24 1,108 1,696 1,800 1,1058 1,1063 1,1110 1,1282 1,1292 1,1333 1,1361 1,1384 1,1392 1,1549 1,1592 1,1668 1,2004 hinrichtung}
+{459 2,746 1,915 1,1055 1,1301 1,1313 1,1539 1,1630 1,1980 1,1995 1,2004 exekution}
+{454 1,459 1,1509 1,1556 1,1630 1,1724 1,1897 1,2004 hinrichtung}
+{239 1,283 1,300 1,414 1,702 1,869 1,890 1,907 2,1113 1,1258 1,1267 1,1384 1,1385 1,1425 1,1455 1,1487 1,1590 1,1727 1,1956 1,2004 argwöhnischen}
+{18 1,102 1,265 1,292 1,878 1,977 1,1089 1,1092 1,1268 1,1386 1,1401 1,1531 1,1532 1,1837 1,2004 organentnahme}
+{309 1,407 1,466 1,552 1,956 1,978 1,1020 1,1064 1,1124 1,1146 1,1275 1,1405 1,1551 1,1590 1,2004 zwangsverfahren}
+{248 1,398 1,553 1,878 1,1098 1,1131 1,1320 1,1766 1,1815 1,1834 1,1839 1,2004 massenexekution}
+{96 1,852 1,1105 1,1155 1,1441 1,1734 1,1753 1,2004 hinrichtung}
+{24 1,94 1,130 1,398 1,565 1,962 1,1088 1,1167 1,1230 1,1252 1,1325 1,1524 1,1731 1,1741 1,1984 1,2004 hinrichtung}
+{24 1,44 1,64 1,114 1,133 1,186 1,269 1,424 1,676 1,834 1,848 1,958 1,1104 1,1133 1,1425 1,1747 1,1907 1,2004 ausführung}
+{238 1,696 1,902 1,1535 1,1995 2,2004 ausführung}
+{267 1,314 1,1384 1,1638 1,2004 schatten}
+{110 1,265 1,285 1,339 1,358 1,825 2,1063 1,1146 1,1510 1,1724 1,2004 durchführung}
+{34 1,67 1,109 1,186 1,332 1,344 1,390 1,420 1,454 1,466 3,534 1,563 1,613 1,666 1,769 1,910 1,940 1,1103 1,1138 1,1146 2,1191 1,1203 1,1235 1,1297 1,1489 1,1505 1,1554 1,1559 1,1661 1,1692 1,1724 1,1777 1,2004 geschädigten}
+{45 1,243 1,534 1,660 1,677 2,1415 1,1518 1,2004 ausführung}
+{93 1,162 1,340 1,1630 1,1729 1,1811 1,2004 vollstreckung}
+{340 1,624 1,1630 1,1729 1,1980 1,2004 vollstreckung}
+{216 1,650 1,949 1,1072 1,1294 1,1554 1,1796 1,2004 ausführung}
+{445 1,564 1,702 1,803 1,811 1,930 1,1356 1,1412 2,1454 1,1568 1,1804 1,1894 1,2004 programmausführung}
+{358 1,609 1,763 1,926 1,1354 1,1412 2,1451 1,1583 1,1673 1,2004 durchführung}
+{11 1,51 1,68 1,265 1,414 1,419 1,459 2,466 1,518 1,650 1,728 1,742 1,787 1,919 1,926 1,962 1,1185 2,1203 1,1273 1,1313 2,1722 1,1724 1,1739 1,1895 1,1897 2,1911 1,2004 hinrichtung}
+{332 1,473 1,782 1,1016 1,1094 1,1468 1,1508 1,1589 1,2004 hinrichtung}
+{238 1,276 1,309 1,454 1,545 1,627 1,704 1,878 1,994 1,1352 1,1762 1,1789 1,1965 1,2004 ausführung}
+{638 1,921 1,938 1,1185 1,1446 1,1898 1,1995 1,2004 hinrichtung}
+{193 1,236 1,291 1,1026 1,1111 1,1187 1,1384 1,1429 1,1436 1,1506 1,1609 1,1788 1,1866 1,1922 1,2004 hinrichtung}
+{24 1,94 1,666 1,962 1,1401 2,1724 1,1897 1,1950 1,1995 1,2004 todeszelle}
+{133 1,332 1,404 1,676 1,730 1,933 1,1206 1,1258 1,1294 1,1546 1,1753 1,1782 1,1852 1,2004 vornahme}
+{93 1,115 1,144 1,459 2,531 1,638 1,650 1,672 1,774 1,810 1,878 2,919 1,1230 1,1239 1,1294 1,1313 2,1341 1,1384 1,1509 1,1812 1,2004 hinrichtung}
+{102 1,333 1,652 1,763 1,978 1,1294 1,1393 1,1404 1,1412 2,1517 1,1641 1,1935 1,2004 umsetzung}
+{11 1,28 1,256 1,262 1,398 1,459 1,505 1,655 1,1136 1,1185 1,1313 1,1438 1,1770 1,1986 1,2004 vollstreckung}
+{118 1,292 1,372 1,417 1,491 1,981 1,1543 1,1608 1,1724 1,1897 1,2004 hinrichtung}
+{171 1,264 1,468 1,686 1,924 2,1482 1,1870 1,1951 1,2004 totenwache}
+{249 1,600 1,793 1,1384 1,1387 1,1657 1,1724 1,1897 1,1960 1,1965 1,2004 us-präsident}
+{162 1,332 1,345 1,481 1,813 1,1259 1,1415 1,1451 1,1505 1,2004 ausführung}
+{712 1,1405 1,1412 1,1664 1,2004 umsetzung}
+{18 1,255 1,309 1,356 1,362 1,537 1,686 1,769 1,990 1,1106 1,1263 1,1294 1,1593 1,1603 1,1745 1,1783 1,1817 1,2004 hinrichtung}
+{7 1,203 1,265 1,362 1,459 1,494 1,536 1,941 1,1150 1,1167 1,1336 1,1789 1,1920 1,2004 hinrichtung}
+{121 1,130 1,440 1,471 1,517 1,619 1,650 1,666 1,692 1,834 1,907 1,1238 1,1401 1,1405 1,1485 1,1630 1,1960 1,2004 vollstreckung}
+{234 1,417 1,440 1,757 1,1176 1,1607 1,2004 hinrichtung}
+{404 1,456 1,1222 1,1294 1,1384 1,1405 1,1412 1,2004 üblich}
+{88 1,238 1,239 1,332 1,413 1,907 1,1146 1,1211 1,1425 1,1478 1,1539 1,1559 1,1724 1,1995 1}
+{94 1,162 1,332 1,509 1,702 1,962 1,980 1,1538 1,1724 1,1734 1,1981 1,1995 1,2004 hinrichtung}
+{82 1,475 1,691 1,746 1,878 1,978 1,992 1,1649 1,2004 hinrichtung}
+{64 1,156 1,283 1,299 1,902 1,994 2,1184 1,1194 1,1204 1,1404 1,1681 1,1766 1,1863 2,2004 exekution}
+{23 1,64 1,729 1,1137 1,1477 1,2004 rückführungsabkommen}
+{162 1,231 1,384 1,409 1,482 1,636 1,649 1,777 1,811 1,1014 1,1015 1,1071 1,1634 1,1770 1,2004 vollstreckung}
+{20 1,25 1,91 1,163 1,660 1,1225 1,1249 2,1482 1,1554 1,1641 1,2004 exekutivgewalt}
+{167 1,419 1,490 1,493 1,716 1,878 1,979 1,1057 1,1185 1,1633 1,1734 2,2004 hinrichtung}
+{110 1,114 1,133 1,220 1,335 1,420 1,520 1,568 1,728 1,804 1,978 1,1298 1,1331 2,1352 1,1361 1,1398 1,1500 1,1507 4,1728 1,1756 1,1940 1,2004 umsetzung}
+{116 1,427 1,650 1,814 1,1288 1,1412 1,1491 1,1603 1,1895 1,1983 1,1995 1,2004 vollstreckung}
+{94 1,264 1,705 1,881 1,962 1,1000 1,1117 1,1780 1,1789 1,1803 1,1815 1,1833 1,1857 1,1917 1,1950 1,1995 1,2004 vollstreckten}
+{20 1,114 2,115 1,321 1,409 1,440 1,519 1,520 1,650 1,707 1,729 1,730 1,779 1,819 1,982 1,1281 1,1294 1,1303 1,1307 2,1312 1,1412 1,1494 1,1499 1,1507 1,1509 1,1652 1,1747 1,1986 1,2004 ausführung}
+{264 1,414 1,437 1,804 1,1205 1,1386 1,1770 1,2004 exekution}
+{779 1,810 1,1049 1,1210 1,1415 1,1761 1,1843 1,1850 1,2004 realisierung}
+{93 1,363 1,417 1,426 1,436 1,443 1,627 1,660 1,878 3,981 1,1066 1,1269 1,1304 1,1551 2,1789 1,1808 1,1842 1,1873 1,1875 1,1880 1,1914 1,1986 1,2004 hinrichtung}
+{264 1,1436 1,1506 1,1950 1,2004 hinrichtung}
+{16 1,84 1,156 1,157 1,358 1,454 1,572 1,717 1,796 1,820 1,850 1,873 2,941 1,981 1,1023 1,1184 1,1301 1,1372 1,1383 1,1741 1,1808 1,1833 1,1877 1,1941 1,2004 hinrichtung}
+{207 1,459 1,489 1,636 1,649 1,746 1,755 1,763 1,787 1,903 1,1084 1,1185 1,1630 1,1767 1,1802 1,1803 1,2004 todesstrafe}
+{326 1,332 1,524 1,723 1,787 1,825 1,863 1,909 1,1192 1,1415 1,1624 1,1982 1,2004 umsetzung}
+{320 1,358 1,389 1,479 1,481 2,542 1,779 1,887 1,951 1,1397 1,1415 1,1659 1,1730 1,1801 1,2004 ten-programms}
+{177 1,406 1,414 1,886 2,1761 1,1894 1,2004 durchführung}
+{650 1,765 1,791 1,938 1,954 1,1050 1,1058 1,1203 1,1333 1,1384 1,1392 1,1694 1,1997 1,2004 hinrichtung}
+{109 1,417 1,459 1,569 1,708 1,1230 2,1313 1,1579 1,2004 hinrichtung}
+{292 1,979 1,1724 1,1897 1,1932 1,2004 hinrichtung}
+{227 1,744 1,914 1,978 1,1097 1,1184 1,1203 1,1894 1,2004 exekution}
+{28 1,161 1,239 1,404 1,420 1,592 1,676 1,857 1,907 2,942 1,1146 1,1267 1,1294 1,1360 1,1412 1,1512 1,1554 1,1569 1,1724 1,1726 1,2004 ausführung}
+{115 1,200 1,202 1,309 1,417 1,532 1,779 2,803 1,956 2,1115 3,1116 1,1294 3,1450 1,1480 1,1507 1,1516 1,1539 2,1541 1,1724 1,1870 1,1982 1,2004 umsetzung}
+{301 1,417 1,657 1,672 1,706 1,769 1,969 1,1150 1,1170 1,1436 1,1524 1,1557 1,1702 1,1833 1,2004 hinrichtung}
+{120 1,363 1,417 1,475 1,517 1,672 1,822 1,906 1,919 1,937 1,1068 1,1071 1,1230 1,1231 1,1369 1,1503 1,1539 1,1766 1,1833 1,1959 1,2004 hinrichtung}
+{67 1,128 1,150 1,198 1,276 1,390 1,408 1,472 1,491 1,616 1,623 1,754 1,769 1,804 1,868 1,985 1,1039 1,1114 1,1132 1,1260 1,1297 1,1354 1,1415 1,1492 1,1554 1,1676 1,1693 1,1694 2,1770 1,1846 1,1892 1,1895 1,1918 1,2004 durchführung}
+{0 1,104 1,137 1,358 1,370 1,388 1,603 1,840 1,844 1,862 1,873 1,983 1,1003 1,1036 1,1150 1,1361 1,1507 1,1654 1,1685 1,1883 1,2004 geiselerschießung}
+{197 1,410 1,592 1,1049 1,1352 1,1412 1,2004 durchführung}
+{264 1,332 1,637 1,1184 1,1502 1,1505 1,1685 1,1729 1,2004 bewährungsfrist}
+{332 1,366 1,417 1,489 1,650 1,804 1,878 1,1111 1,1145 1,1146 1,1185 1,1294 2,1384 1,1482 1,1531 1,1548 1,1898 1,2004 hinrichtung}
+{159 1,301 1,387 1,430 1,524 1,528 1,564 1,878 1,919 1,979 2,980 1,1093 1,1352 1,1354 1,1493 1,1551 1,1569 1,1657 1,1833 1,2004 hinrichtung}
+{15 1,690 1,779 1,938 1,1309 1,1404 1,1587 1,2004 durchführungsprobleme}
+{64 1,315 1,481 1,573 1,1135 1,1146 1,1232 1,1465 1,1724 1,2004 ausführungsraten}
+{64 1,151 1,189 1,660 1,915 1,1163 1,1185 1,1208 1,1635 1,2004 hinrichtung}
+{332 1,514 1,545 1,592 1,1227 1,1294 1,1322 1,1454 1,1826 1,2004 ausführungsstandes}
+{169 1,351 1,358 1,404 1,529 1,696 1,1098 1,1330 1,1415 1,2004 ausführung}
+{51 1,178 1,214 1,335 1,611 1,680 1,705 1,763 1,976 1,1148 1,1343 1,1412 1,1425 1,1675 1,1981 1,2004 durchsetzenden}
+{256 1,763 1,1185 1,1635 1,1898 1,1983 1,2004 hinrichtung}
+{1 1,14 1,235 1,362 1,398 1,454 1,490 1,553 1,650 1,746 1,788 1,876 1,878 1,1032 2,1215 1,1294 1,1384 1,1398 1,1506 1,1565 1,1604 1,1684 1,1770 1,1834 1,1995 1,2004 hinrichtung}
+{639 1,1184 1,1436 1,1965 1,2004 hinrichtung}
+{214 1,285 1,353 1,467 1,575 1,597 1,729 1,744 1,787 1,805 1,900 1,1146 1,1166 1,1352 2,1724 1,1747 1,1895 2,2004 ausübung}
+{73 1,93 1,153 1,234 1,262 1,361 1,375 1,482 1,663 1,666 1,744 1,748 1,877 1,878 1,883 1,915 1,964 1,1018 1,1145 1,1295 1,1361 1,1811 1,1914 1,1980 1,2004 schafott}
+{181 1,277 1,278 1,315 1,466 1,586 1,627 1,689 1,698 1,824 1,1070 1,1079 1,1203 1,1962 1,2004 umsetzung}
+{10 1,254 1,332 1,459 2,878 1,903 1,1185 1,1300 1,1313 2,1384 1,1548 1,1724 1,1759 1,1935 1,1995 2,2004 hinrichtung}
+{17 1,459 1,805 1,1078 1,1122 1,1196 1,1300 1,1315 1,1343 1,1384 1,1574 1,1630 1,1829 1,2004 hinrichtung}
+{102 1,125 1,171 1,588 1,615 1,624 1,1115 1,1139 1,1404 1,1412 1,1661 1,1668 1,1747 1,1782 1,2004 ausführung}
+{94 1,368 1,379 1,417 1,446 1,515 1,962 1,1230 1,1337 1,1401 1,1539 1,1833 1,1899 1,2004 hinrichtung}
+{11 1,1146 1,1185 1,1203 1,1378 1,1548 1,1770 2,1897 1,1898 1,1911 1,2004 hinrichtung}
+{262 1,332 1,420 1,427 1,650 1,749 1,789 1,994 1,1033 1,1185 1,1203 2,1321 1,1352 2,1413 1,1466 1,1517 1,1545 1,1695 1,1728 1,1895 1,1897 2,1949 1,2004 hinrichtung}
+{4 1,236 1,737 1,809 1,817 1,1130 1,1247 1,1469 1,1503 1,1766 1,1788 1,1938 1,1981 1,2004 massengrab}
+{17 1,463 1,962 1,1176 1,1196 1,1259 1,1392 1,1612 1,2004 hinrichtung}
+{108 1,184 1,188 2,262 1,304 1,332 1,414 1,502 1,758 1,1116 1,1206 1,1260 1,1294 1,1361 1,1384 2,1438 1,1582 1,1724 1,1776 1,1897 1,1913 1,2004 vollstreckung}
+{6 1,108 1,110 1,162 1,347 1,368 1,397 1,414 1,420 2,459 1,465 1,468 1,487 1,587 1,650 3,653 1,744 1,851 1,878 1,915 1,1006 1,1071 1,1166 1,1361 1,1376 1,1396 1,1545 1,1630 1,1729 1,1772 1,1867 1,1868 2,1895 1,2003 1,2004 woraufhin}
+{244 1,334 1,417 1,496 1,591 1,660 1,736 1,846 1,878 1,1233 1,1436 1,1940 1,1964 1,1981 1,1998 1,2004 hinrichtung}

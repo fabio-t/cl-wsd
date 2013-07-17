@@ -1,0 +1,57 @@
+@relation strain-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {belasten,impfstoff,typ,belastet,neutralitätsgebot,arbeitsbedingte,vorkommenden,seuchenstamm,belastung,anspannung,textilquoten,überschatten,gruppengemeinschaften,sorte,strapaziert,grippevirus,immun,strapazieren,psychisch,stamm,abschwächung,westsaharakonflikt,belasteter,geflügelbestand,verkehrsströmen,traurigkeit,liquiditätsbelastungen,lachsgehirn,saatgutsorte,resistenz,salmonellenstämmen,schwerverkehr,verbleib,minimale,umweltbelastung,überfordert,landesteilen,vogelgrippenerreger,verkraften,budgetsituation,seltsame,resistenten,mausproblemen,sonniger,höchstgrenze,angesehene,personifiziert,virenstämme,erregerstämme,wackligen,zerreißprobe,allfällige,ertragen,bakterienstamm,führungsrolle,verfügungstellen,augenwischerei,belastbar,spannung,entlasten,konjunkturbedingungen,wohlfahrtssystem,standardsaatgutsorten,milchverarbeitung,termin,erwehren,druck,dauerbelastung,superprofiten,Überbeanspruchung,vientiane,strain,seuchenstammes,irakfrage,virusstamm,vogelgrippestamm,virusarten,sozialbetrug,influenzastamm,waise,verlockung,überstrapazieren,wieweit,einstand,sprengen,drangsalieren,abverlangt,medikamentenresistenten,aufgaben,einzelstaat,reissorte,infrastrukturbenutzungsgebühren,gebeutelten,rückschlag,wertberichtigung,überfordern,probe,vogelgrippevirus,vorbelastet,anforderung,streßbewältigerinnen,störung}
+
+@data
+1,They:communic:Commiss:characterist:use:product:vaccin:avian:influenza:Newcastl:diseas,?
+2,test:case:aim:set:new:standard:compens:journalist:suffer:repetit:injuri:launch:Financi:Time,?
+3,Again:rate:RNA:replic:drop:test-tub:transfer:RNA:evolv:immun:higher:concentr:poison,?
+4,Also:attorney:put:huge:amount:emot:know:client:stand:lose:liberti,?
+5,inbr:mous:headstrainhead:maintain:sib:mate:brother:sister:outbr:maintain:way:inbreed:minim,?
+6,Nicaea:bishop:priest:Western:empir:priest:attend:call:emperor:theolog:disput:put:uniti:strive:achiev,?
+7,But:perfect:art:crisi:manag:long:necess:face:addit:year,?
+8,Care:requir:set:rocket:year:number:old:rise:public:privat:purs:increas:number:area:requir:research,?
+9,Experiment:hop:cours:develop:identifi:number,?
+10,Exposur:work:life:everyday:live:differ:set:valu:assumpt:expect:behaviour:pattern:place:sever:individu,?
+11,The:stress:job:have:money:altern:blame:alcohol:drug:addict:addict:diseas:despit:fact:problem:widespread:societi,?
+12,First:maintain:Martin:Luther:King:advic:turn:cheek:great:bear:face:continu:attack:insult,?
+13,Follow:outbreak:avian:influenza:caus:high:pathogen:virus:south-eastern:Asia:start:Decemb:Commiss:adopt:protect:measur:relat:diseas,?
+14,Grant:rich:divers:phenomena:biolog:world:disagr:result:general:differ:anim:speci:differ:instanc:subtl:alter:experiment:condit:fudg:ignor,?
+15,took:anchor-man:rope:push:hard:backward:pull:power:leg:power:arm:face:rictus:effort:lip:drawn:endur:pain,?
+16,How:technic:solut:help:reliev:carer:famili:member:profession:imping:integr:digniti:care,?
+17,marri:demand:household:medic:practic:prove,?
+18,stake:goe:ground:level:weak:spot:plant:stem:bend:sharpli:trap:firmly-held:root:tie,?
+19,Unite:Kingdom:record:outbreak:classic:swine:fever:caus:virus:previous:isol:Commun,?
+20,convey:effort:psycholog:render:concentr:separ:moment:feel:moment:recover:memori:strobe-lik:stop-mot:logic:provok:laughter:distract:break:concentr:stori:final:suggest:rapid:slow:perceiv,?
+21,Mani:abroad:happi:let:tour:oper:send:holiday:organ,?
+22,Most:Marin:experienc:combat:combat:fear:enemi:tell:pale:face,?
+23,Night:worker:work:involv:special:hazard:heavi:physic:mental:work:hour:period:hour:perform:night:work,?
+24,One:result:attitud:place:warfar:economi:European:State:mere:number:men:engag:fight:indic:drawn:larg:product:element:societi,?
+25,Preserv:animal-health:welfar:base:foremost:prevent:thank:measur:appropri:select:breed:appropri:balanc:diet,?
+26,Some:tell:Mobi:tight:lead:walk:place:tell:let:lead:bone:arent:strong:tell:relax:hope:grow,?
+27,Soon:recogn:feminist:theori:approach:languag:common:approach:develop:number:year,?
+28,Suffer:crippl:condit:known:Repetit:Injuri:furious:judg:say:there,?
+29,The:packag:fasten:strong:solid:ensur:loosen:safe:meet:normal:stress:handl,?
+30,The:requir:product:recommend:live:live:strain:Rev:vaccin:bovin:brucellosi:includ:Manual:Standard:Diagnost:Test:Vaccin:Office:Internat:des:Epizooti:Edition:publish:August,?
+31,The:school:experiment:farm:produc:special:rice:commune,?
+32,The:voic:realis:held:emot:tight:rein:dark:eye:roam:hungrili:undress:soft:lamplight,?
+33,The:care:disturb:relat:consider:need:understand:reliabl:friend:talk:share:anxieti:great,?
+34,The:live:lofti:concept:marriag:invent:tire:time:busi:woman,?
+35,There:new:standard:offic:furnitur:guidelin:prolong:screen:work:HSC:hope:cut:incid:repetit:injuri:eyesight:problem,?
+36,There:environment:sensit:approach:clear:nation:intern:regulatori:hurdl:clear:use,?
+37,Therefor:Commun:financi:assist:annual:work:plan:CRL:increas:cover:addit:cost:ring:trial:mous:type,?
+38,This:cooper:supplier:antigen:refer:laboratori:identif:foot-and-mouth:diseas:virus:review:headstrainshead:store:Commun:reserv:assist:select:suitabl:new:adapt:tissu:cultur:futur:vaccin:product,?
+39,This:procedur:use:extens:analys:CAAT:repeat:region:differ:lic:loci:deriv:varieti:influenza:prove:high:reproduc,?
+40,This:propos:test:rat:experi:Brunsson:show:fluid:secret:evok:invas:Salmonella:typhimurium:turn:absorpt:give:intraven:hexamethonium:expos:intestin:serosa:lidocain:local:anaesthet,?
+41,This:stop:hip:move:proper:twist:pelvi:sudden:sharp:place:sacroiliac:joint:base:spine,?
+42,This:type:question:goe:generat:children:answer:freeli:effort,?
+43,This:imposs:use:simpl:cut:diseas:resist:obvious:advantag:farm:system:Africa:cassava:major:crop:especi:diseas:resist:combin:high:product,?
+44,This:reduc:hospit:clinic:stimul:expertis:diabet:communiti:ensur:diabet:patient:regular:review:specialist:clinic,?
+45,Thus:breach:class:statutori:requir:organ:trace:latitud:left:surveyor:organ:rule:procedur:context:heavi:resourc,?
+46,Wherea:air:transport:Europ:present:consider:owe:air:traffic:congest,?
+47,Wherea:appropri:divid:equal:bank:strain:store:bank:relat:geograph:like:area:risk,?
+48,Wherea:desir:level:intracerebr:pathogen:index:virus:use:vaccin:product:clear:defin,?
+49,Whether:plan:parti:wed:recept:home:inform:barbecu:relax:let:expert:pound:head,?
+50,You:bull:long:herd:weaken:in-breed:regular:turnov:quit:farm:loan:bull:Dale:sell:area,?

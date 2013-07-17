@@ -1,0 +1,57 @@
+@relation mission-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {doelwitten,werkbezoek,missie,team,waarnemersmissie,missiehoofden,ovse-missie,delegatie,inspectiereis,hoc-commissie,vertegenwoordiging,inspectie,eu-missie,vredesmissie,trojka,waarnemingsmissie,nmd,beoordelingsmissies,opdracht,vijandig,onderzoeksmissie,taak,afgezant,eu-missiehoofden,politiemissie,offensieve,verkiezingswaarnemingsmissie,eu-verkiezingswaarnemingsmissie,inspectiemissie,inspectiemissies,verkenningsmissies,hulpmissie,zending,reis,onderhandelingsdelegatie,onproductieve,roeping,deskundigenmissie,vredestaak,rechtsstaatmissie,althea,stuur,verkiezingswaarnemingsmissies,cohesiebeleid,hübner,opvoedende,eu-rechtsstaatmissie,unmik,eu-missies,vn-missie,bureau,langetermijnmissie,ad-hocmissie,unifil,unifil-missie,onderhandelingsmissies,afgesproken,medisch,ovse-land,bezoek,vn-delegatie,verkiezingswaarnemingen,petersberg-taken,scholastiek,mission,nederzettingsactiviteiten,belast,kvm,terugkwamen,rampsituaties,ovse-waarnemersmissie,hulpverlening,regenboogactie,verificatiemissie,ovse-delegatie,bestuurbaarheid,delegatieleider,eu-delegatie,vredesherstel,vredesinitiatief,onderzoeksmissies,waarnemer,zendingsbewustzijn,observatiemissie,zinni,najaagt,dienstreis,navo-missie,toer,handelsbarrières,uiterste,basisregel,beeld,plan,inspectiebezoeken,relex,verkiezingswaarnemer,eerbiediging,lex-missie,isaf-missie,fact,expertise,onaangekondigde,trojkamissie,minuut,vn-vredesmissie,vredesondersteuningsmissie,trojka-missie,zaïre,waarschuwingseenheid,vn-onderzoekscommissie,felipe,taakomschrijving,ministersbijeenkomst,streven,vredesmacht,toetrekken,werkveld,unie,behoefteonderzoek,pagode,verkiezingsmissie,waarnemingsmissies,missieteam,ovse,sfor-operaties,aanspraak,crisismissies,eu-waarnemingsmissie,controlemissie,evdb-missie,operatie,vn-vredesmacht,capaciteitsopbouw,meegebracht,missiebegroting,ad-hocmissies,commissie,zelfmoordmissie,verkiezingsmissies,overheidsbemoeiing,controlebureau,essentie,annan,strafexpeditie,waarnemersmissies,weu-missie,amerikaan,onderhouden,bemiddelingsmissie,verheft,trojka-bezoek,reddingsactie,onderhandelingsmissie,evaluatiemissie,missions,ontwikkelingsstrijd,troïka-missie,omroep,verkenningsoperatie,vvb-rapport,onderzoeksopdracht,avontuur,vn-beoordelingsmissie,zelfmoordacties,bespeurde,financieren,politiemacht,vvb-missie,eu-politiemissie,nalatende,aardappelproductie,crisisgebieden,controlebezoek,verkiezingswaarnemersmissie,proportionaliteitsregel,anti-fraudepatrouilles,odihr-fonds,defensievermogen,doelstelling,toegekend,verkenningsmissie,véronique,aangaat,manilla,vn-troepen,zelfmoordaanslagen,politiebijstandsmissie,harmonisatieopdracht,waarnemingstaken,raadsbesluit,petersbergtaken,vredeshandhavingstaken,onderzoeksdelegatie,wit-rusland,dienstverlening,situ,gambiaanse,hulpverlener,vredesbewakingsopdracht,waarnemersteam,dezer,ingoesjië,opgeheven,fact-finding,harare,overheidsdienstverlening,overgangsbesturen,peoples,minurso,beleidsverklaringen,moment,spionage-inval,onderweg,ovse-missies,takenpakket,navo-operaties,militair,blix,reisverzekering,missieposten,samenvatten,vijandelijkheid,ovse-onderzoeksmissie,pacificatiemissie,hopelijk,grensbijstandsmissie,eu-vredesmissies,eu-grensmissie,bijstandsmissie,waarnemingsopdracht,verkenningsdiensten,adviseur,gezonden,onderzoeksteam,verkiezingswaarneming,versterkt,kdom,eu-waarnemersmissie,trojkadelegatie,missie-hume,dienstweigeraar,ten-beleid,prijscompensatie,deskundigenmissies,subjectieve,vn-politiekorps,zoötechnische,eu-vertegenwoordigingen,informatiemissie,verzaakt,inspectiereizen,delegatiereis,onderzoeksreis,bank,hoofdtaak,investeringsmissie,politiemissies,veiligheidsmissies,hulpmissies,vn-hoofdkwartier,façade,waarnemingspost,voorbaat,eufor-missie,walesa,tact,onderzoekscommissie,verkiezingswaarnemingszendingen,aanboden,eucopps-missie,mandaat,televisie-aanbod,missie-gonzález,petersberg-missies,toevertrouwde,vredestaken,echo-missie,taakstelling,schori,terugtrekkingsstrategie,vvb,landsteun,amg-missie,vn-missies,verrichting,grenspost,burgermissies,topgun,onherroepelijke,petersberg-operaties,sfor-missie,vredesoperatie,delegatiehoofden,vn-vredesmissies,omkwam,evdb-operatie,ovse-regio,zakenmissies,handelsmissies,vn-vredesoperatie,bot,relativeren,unifil-vredesmissie,vaandel,roberto,riberto,denktashverklaringen,programmeringsmissies,gehanteerde,schitterende,trojkabezoek,dienstverlenende,grappig,echo-evaluatiemissies,zoiets,waarnemersdelegatie,donderkoppen,stemregels,ep-missie,projectidentificatiemissie,richtlijnmissies,gedetineerde,commissieverslag,indieners,waarneembaar,betuigt,animator,politiemis-sie,duivel,synoniem,militaire,sfor-mandaat,missiewerk,kluwen,identificatiemissies,staat,auditmissies,odihr-verkiezingswaarnemingsmissie,informatiemissies,teweeggebracht,vojvodina,vredesinterventie,afvaardiging,evdb-missies,masudi,leergierig,bemiddelingspoging,vredesmotieven,afgevaardigd,chirurgie,kostenvergoeding,toestel,volbrengen}
+
+@data
+1,day:later:Georg:Kennan:chief:American:embassi:Moscow:foremost:American:expert:USSR:submit:detail:analysi:Soviet:aim:Long:Telegram,?
+2,Although:scale:allianc:Patriot:missil:continu:destroy:incom:Scud:fear:remain:Iraq:replac:convent:warhead:chemic,?
+3,ambassador:expect:end:receiv:ruler:accredit:farewel:present:particular:special:ambassador:high:social:rank:consider:valu,?
+4,Befor:left:compil:inform:detain:alleg:detain:said:miss,?
+5,But:increas:unusu:individu:ambassador:envoy:lead:control:member:clear:subordin:establish:norm,?
+6,Dure:night:insid:Iraq:laser:shine:belli:bomber:kept:target:pilot:weapon:offic:help:electron:compens:aircraft:movement,?
+7,For:minor:member:foreign:ambassador:secretari:import:gold:chain:continu:seventeenth:centuri:common:gift:Europ,?
+8,For:UNESCO:unabl:send:cultur:Iraq:investig:situat:team:expert:line:Juli:year,?
+9,From:British:secretari:embassi:Pari:Madrid:accredit:minist:plenipotentiari:carri:busi:quit:effect:absenc:head,?
+10,Harri:Poat:left:Stirl:split:remain:forc:group:travel:independ:rendezv:Bir:Soltan:mile:Mareth:line,?
+11,Have:recent:return:fact-find:organis:Gulf:Centr:Strateg:Studi:Marlow:attack:Gulf:Report:vocifer:unrepres:minor:effect:sic:believ:way:life:govern:measur:countri:measur,?
+12,said:Egyptian:troop:remain:Gulf:complet:describ:aid:Kuwait:joint:Arab:defenc:agreement,?
+13,think:apart:corpor:plan:strategi:statement:realli:need:vision:futur:compani:vision:work:share,?
+14,soon:learn:theme:angel:popular:paint:produc:indigen:artist:complex:iconograph:programm:church:establish:Spanish:conquest,?
+15,remain:work:complet:Dutch:prison:war:Vermuyden:direct:servic:thanksgiv:held:Eli:Cathedr:year:Vermuyden:employ:earlier:adversari:lord:protector:diplomat:Netherland,?
+16,Informat:avail:export:market:world:practic:support:compani:particip:trade:exhibit:undertak:market:research,?
+17,hard:recognis:India:countri:world:proven:capabl:undertak:orbit:deton:nuclear:devic,?
+18,cours:secret:diplomat:oper:massiv:communic:use:local:telephon:telex:line:direct:radio:contact:foreign:ministri,?
+19,midst:preliminari:discuss:lordship:entrust:suffici:unusu:remain:memori:day:alongsid:obvious:unforgett:occurr:remark:week,?
+20,Just:adopt:Resolut:concern:establish:UNIKOM:Iraq-Kuwait:frontier:Observat:demilitar:zone:came:critic:import:vote:April,?
+21,Lumumba:attempt:appeal:public:radio:turn:away:Ghanaian:troop:act:order:head:Ralph:Bunch,?
+22,Moreov:secretari:attach:legat:embassi:individu:minist:ambassador:remain:post:fair:long:period:valuabl:sourc:inform:local:condit:great:help:new:head:come:strang:countri:knew,?
+23,Nasa:took:deliveri:yesterday:report:commiss:timet:Presid:Bush:vagu:plan:man:Mar:planet,?
+24,Nowher:previous:-odd:page:shown:doubt:account:war:fought:Alli:balanc:previous:version:sanit:romantic:recognit:sentiment:looni:patriot:ignor:bloodthirsti,?
+25,One:sensit:natur:arrog:power:nation:fault:power:nation:suffer:disastr:effect:German:conscious:have:past,?
+26,Peopl:frequent:motiv:occup:prospect:intrins:satisfact:job:altruist:motiv:give:servic:feel:social:duti:sens:motiv:frequent:unconnect:materi:wealth:status:power,?
+27,Present:kind:resid:head:standardis:govern:tradit:glamor:extraordinari:ambassador:duti:length:stay:extrem:variabl,?
+28,Recruit:tricki:pinion:German:plane:crash:dam:flood:German:base:goe:blaze:glori:have:save:British:fleet:like:destruct,?
+29,Russian:foreign:minist:Andrei:Kozyrev:Belgrad:new:Balkan:peac:European:Commun:insist:remain:commit:Vance-Owen:plan,?
+30,She:trodden:distinct:path:guid:The:Bodi:Shop:honest:cosmet:compani:world:shine:exampl:retail:industri:draw:inspir,?
+31,She:wait:month:year:interview:Entri:Clearanc:Officer:British:diplomat:Indian:subcontin:endless:interrog:subject:colour:famili:goat:number:room:hous:live:guest:wed:happen:wed:night,?
+32,Some:church:leader:fear:polit:commit:church:undermin:valu:spiritu:dimens:Christian:faith:threaten:salvat,?
+33,The:Review:cover:continu:need:contribut:collect:secur:valu:Britain:remain:extra-European:commit:potenti:increas:contribut:peacekeep,?
+34,The:busi:ICI:Paint:Europ:win:custom:rang:superior:surfac:coat:system:custom:servic:core:valu:grow:return:net:asset:approach,?
+35,The:raid:Wimbledon:Lendl:explain:suicid:Against:player:feel:confid:move:net,?
+36,The:rumour:German:raider:inspir:best-sel:thriller:The:Eagl:Has:Land:paratroop:dress:Alli:Polish:troop:captur:mythic:Norfolk:villlag:snatch:Winston:Churchil,?
+37,Their:report:comment:head:seen:imperi:chancellor:formal:respons:conduct:German:foreign:polici,?
+38,Then:spring:came:disast:rescu:agonis:pictur:wreck:helicopt:char:bodi:page:newspap:televis:channel,?
+39,There:broad:area:address:natur:institut:compani:sector:charact:vision:extens:clariti:busi,?
+40,What:import:relat:signific:attribut:task:extent:leadership:concern:minutia:institut:administr:vision:school,?
+41,Follow:Commiss:veterinari:inspect:Peru:health:situat:appear:satisfactori:control:veterinari:servic:movement:equida:part:territori:rest:countri:appear:control,?
+42,British:expertis:work:practic:help:modernis:bank:Soviet:republ:follow:fact-find:Liverpool:Ukrainian,?
+43,His:main:life:year:chief:execut:organ:call:Busi:Commun:BitC:cut:unemploy:regener:inner:citi,?
+44,Canada:shall:inform:civilian:crisi:manag:oper:Head:Gener:Secretariat:Council:European:Union:chang:contribut:civilian:crisi:manag:oper,?
+45,Daili:subsist:allow:staff:member:shall:amend:line:payabl:offici:Commun:determin:Council,?
+46,For:ant:verif:seri:similar:individu:transact:relat:routin:expenditur:salari:pension:reimburs:expens:medic:expens:consid:authoris:offic:respons:constitut:singl:oper,?
+47,Member:State:shall:kept:inform:Commiss:meet:Stand:Veterinari:Committe:situat:countri:includ:matter:residu:check:health:plan,?
+48,Nation:author:shall:transfer:oper:control:civilian:crisi:manag:oper:Head:shall:exercis:author:hierarch:structur:command:control,?
+49,This:shall:ground:normal:cours:oper:includ:polic:headquart,?
+50,Without:prejudic:agreement:status:forc:refer:paragraph:Articl:Canada:shall:respons:answer:claim:link:particip:crisi:manag:oper:concern:personnel,?

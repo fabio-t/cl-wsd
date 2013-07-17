@@ -1,0 +1,57 @@
+@relation soil-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {suolo,territorio,terreno,terra,convivialità,ecologizzazione,impoverisce,sottoterra,estremismo,condizionano,perimetro,razzolano,addentrarmi,strato,geologiche,acquisite,geotermica,giace,nutritive,minata,fertilizzante,coltivazione,coltiva,carbon,falde,sabbioso,rilocalizzazione,riscontro,approdare,fungo,stoccati,pio,boschive,islamismo,argillosi,stoccano,spandere,sorgevano,geoclimatiche,località,smettetela,posseduta,avo,parrebbe,trasferisce,modificano,pedologiche,situati,allergia}
+
+@data
+1,And:Tillich:point:principl:ident:Hinduism:natur:expect:given:Buddhism:origin:Hinduism,?
+2,And:Mobuto:kill:American:prove:sever:embarrass:Presid,?
+3,talk:Thatcher:play:previous:insist:updat:NATOs:ground-launch:short-rang:Lanc:missil:want:NATO:retain:nuclear:capac:German:shape:modern:air-launch:nuclear:missil,?
+4,For:wonder:resent:Hugo:famili:subsequ:betray:long:root:old:envi,?
+5,For:long:say:Ward:persist:Henri:Ford:myth:genet:privileg:joined-up:think:rest:fit:manual:task:simplifi:produc:brand:mind-numb:tedium:fertil:industri:unrest,?
+6,God:answer:prayer:taught:ministri:offer:return:set:foot:African,?
+7,Historian:trick:believ:surviv:vast:quantiti:data:provid:fertil:write:histori,?
+8,apolog:repeat:fact:farmer:live:come:crop:livestock:grow:build:machineri:equip,?
+9,April:opposit:condemn:idea:accept:nuclear:weapon:German:join:SPD:religi:scientif:group:oppos:Adenauer:pro-nuclear:polici,?
+10,contrast:trust:precious:relationship:grow:secur:root,?
+11,custom:foreign:invad:step:French:relic:Deni:companion:set:altar:person:conduct:defenc:realm,?
+12,King:Hassan:declar:Feb:troop:sent:Saudi:Arabia:defend:fratern:Arab:commit:aggress:fratern:Arab,?
+13,Not:patriot:finish:enemi:left:did:speak:truth:happen,?
+14,One:factor:Baghdad:planner:fail:reckon:contribut:enemi:perform:simpl:patriot:forc:impel:fight:defend:nativ:invad:say:way:thing:run:home,?
+15,Shakespear:Hamlet:equal:root:incest-complex:better:disguis,?
+16,Simultan:concern:idea:citi:necessari:evil:life:draw:strength:urban:cultur:lose:sourc:strength:rejuvenesc,?
+17,Soviet:leader:sought:exploit:Indian:hostil:Pakistan:Indian:influenc:Non-Align:persuad:denounc:American:base:Pakistani,?
+18,Tear:burst:eye:leav:South:American:step:aboard:cargo:ship:deliv:Panama,?
+19,That:increas:product:short:medium:run:doubt:unless:employ:knowledg:land:potenti:life:soon:lead:diminish:return,?
+20,The:Soviet:content:militari:base:Third:World:generat:danger:East-West:tension:forcibl:unexpect:underlin:crisi:initi:Soviet:attempt:establish:nuclear:missil:base:Cuban,?
+21,The:mainten:partial:tree:cover:particular:advantag:guarante:suppli:nutrient:litter:fall:afford:protect:eros,?
+22,The:new:nation:America:root:confront:hidden:myth:repar:survivor:holocaust:began:centuri,?
+23,The:number:occas:heavi:machineri:driven:land:reduc:compact:pan:problem:heavi:clay:prone:wind:eros,?
+24,The:respons:inhuman:prevent:dead:Filipino:citizen:come:home:etern:repos:nativ:answer:maker,?
+25,The:plant:beneath:help:ensur:right:condit:cover:surfac:reduc:evapor:keep:moist:workabl,?
+26,There:inevit:assert:rais:great:armi:defeat:insuffer:Edward:dare:set:foot:Scottish:earl:promis:thousand:outdo,?
+27,These:drop:fall:mind:pearl:narcissi,?
+28,confirm:fear:drive:Tangier:dock:late:night:have:just:arriv:African:men:tri:stop,?
+29,tri:rejuven:fade:presid:Reagan:want:seen:prime-tim:network:televis:America:greet:hostag:turn:step:safe:American,?
+30,When:Oriental:market:share:justifi:build:factori:gradual:way:life:come:home,?
+31,Rehabilit:mean:treatment:land:affect:wast:facil:way:restor:land:satisfactori:regard:wild:life:natur:habitat:freshwat:system:landscap:appropri:benefici:use,?
+32,Primari:agricultur:product:mean:product:stock-farm:fisheri:exclud:product:undergon:initi:process,?
+33,assess:carri:light:avail:scientif:technic:knowledg:show:detriment:effect:immedi:delay:underground:water:atmospher,?
+34,two-pip:hous:drainag:system:design:wast:water:water:complet:separ:enter:underground:drain:prevent:drain:air:enter:hous:Victorian:time:thought:respons:manner:ill,?
+35,Climat:chang:expect:lead:drought:south:wetter:ground:condit:northern:region:impli:need:develop:forest:machin:perform:effect:have:major:impact:surfac:exampl:machin:oper:invest:basic:biolog:research,?
+36,For:centuri:breed:associ:Slav:end:centuri:Polish:Red:Cow:common:breed:Polish,?
+37,Forest-environ:payment:introduc:voluntari:commit:enhanc:biodivers:preserv:high-valu:forest:ecosystem:reinforc:protect:valu:forest:respect:eros:mainten:water:resourc:water:natur:hazard,?
+38,necessari:permit:shall:includ:appropri:requir:ensur:protect:ground:water:measur:concern:manag:wast:generat:instal,?
+39,order:provid:element:regard:manag:grassland:farm:derog:appli:achiev:level:optimis:manag:report:fertilis:yield:shall:prepar:annual:differ:type:crop:compet:author:submit:Commiss,?
+40,Internat:protest:lodg:earli:August:deploy:Turkish:troop:Iraqi:engag:Aug:cross-bord:activ:alleg:militia:camp:belong:ban:Kurdish:Worker:Parti:PKK,?
+41,assess:report:size:natur:plot:use:comparison:way:potenti:contamin:taken:account:independ:natur:expert:mean:specif:refer:infrastructur:link:type:method:use:calcul:final:result,?
+42,appropri:establish:Commun:framework:Member:State:adopt:standard:take:account:specif:characterist:area:concern:includ:climat:condit:exist:farm:system:land:crop:rotat:farm:practic:farm:structur,?
+43,Member:State:adopt:maintain:nation:rule:restrict:organ:fertil:improv:envisag:Regul:pend:adopt:Commun:rule:accord:Articl,?
+44,Moreov:livestock:product:fundament:organis:agricultur:product:organic-product:hold:far:provid:necessari:organ:matter:nutrient:cultiv:land:accord:contribut:improv:develop:sustain:agricultur,?
+45,The:given:pepper:cultiv:loami:textur:deep:light:porous:fair:drain,?
+46,The:wast:facil:suitabl:construct:manag:maintain:ensur:physic:stabil:prevent:pollut:contamin:air:surfac:water:groundwat:short:long-term:perspect:minimis:far:possibl:damag:landscap,?
+47,Transboundari:pollut:contribut:acidif:eutroph:ground-level:ozon:format:abat:requir:coordin:Commun,?
+48,Undertak:collect:andor:dispos:wast:oil:carri:oper:way:avoid:risk:water:air:pollut,?
+49,Whenev:methyl:bromid:use:fumig:virtual:imperm:film:suffici:techniqu:ensur:level:environment:protect:shall:mandatori,?
+50,Where:grievous:excess:physic:suffer:bred:part:yield:evil:kind,?

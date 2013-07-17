@@ -1,0 +1,939 @@
+@relation 'coach-weka.filters.unsupervised.attribute.NominalToString-C2-weka.filters.unsupervised.attribute.StringToWordVector-R2-W100000-prune-rate-1.0-C-N0-S-stemmerweka.core.stemmers.NullStemmer-M1-O-tokenizerweka.core.tokenizers.WordTokenizer -delimiters \" \\r\\n\\t.,;:\\\'\\\"()?!\"-weka.filters.unsupervised.attribute.Reorder-R3-last,2-weka.filters.MultiFilter-Fweka.filters.unsupervised.attribute.StringToWordVector -R 2 -W 100000 -prune-rate -1.0 -C -N 0 -S -stemmer weka.core.stemmers.NullStemmer -M 1 -O -tokenizer \"weka.core.tokenizers.WordTokenizer -delimiters \\\" \\\\r\\\\n\\\\t.,;:\\\\\\\'\\\\\\\"()?!\\\"\"-Fweka.filters.unsupervised.attribute.Reorder -R 3-last,2'
+
+@attribute -metre-long numeric
+@attribute abil numeric
+@attribute abolit numeric
+@attribute abroad numeric
+@attribute absolut numeric
+@attribute accept numeric
+@attribute access numeric
+@attribute accid numeric
+@attribute accord numeric
+@attribute account numeric
+@attribute achiev numeric
+@attribute aconib numeric
+@attribute actual numeric
+@attribute addit numeric
+@attribute address numeric
+@attribute adopt numeric
+@attribute agre numeric
+@attribute agreement numeric
+@attribute aid numeric
+@attribute aim numeric
+@attribute air numeric
+@attribute albanian numeric
+@attribute alongsid numeric
+@attribute alp numeric
+@attribute altern numeric
+@attribute ambiti numeric
+@attribute amend numeric
+@attribute ana numeric
+@attribute announc numeric
+@attribute appal numeric
+@attribute appli numeric
+@attribute approach numeric
+@attribute approv numeric
+@attribute arm numeric
+@attribute armi numeric
+@attribute aros numeric
+@attribute arrang numeric
+@attribute arriv numeric
+@attribute assist numeric
+@attribute associ numeric
+@attribute athlet numeric
+@attribute attack numeric
+@attribute attent numeric
+@attribute austrian numeric
+@attribute author numeric
+@attribute automot numeric
+@attribute avail numeric
+@attribute avoid numeric
+@attribute awar numeric
+@attribute axl numeric
+@attribute background numeric
+@attribute bad numeric
+@attribute ball numeric
+@attribute ban numeric
+@attribute bankruptci numeric
+@attribute bar numeric
+@attribute barg numeric
+@attribute base numeric
+@attribute basi numeric
+@attribute basic numeric
+@attribute bbc numeric
+@attribute bear numeric
+@attribute beauti numeric
+@attribute behalf numeric
+@attribute believ numeric
+@attribute belong numeric
+@attribute belt numeric
+@attribute benefit numeric
+@attribute better-rest numeric
+@attribute birmingham numeric
+@attribute bit numeric
+@attribute board numeric
+@attribute bobsleigh numeric
+@attribute box numeric
+@attribute break-down numeric
+@attribute bring numeric
+@attribute britain numeric
+@attribute british numeric
+@attribute bulk numeric
+@attribute bus numeric
+@attribute buse numeric
+@attribute busi numeric
+@attribute busiest numeric
+@attribute cabotag numeric
+@attribute campaign numeric
+@attribute car numeric
+@attribute care numeric
+@attribute carri numeric
+@attribute carriag numeric
+@attribute carrier numeric
+@attribute case numeric
+@attribute categori numeric
+@attribute caus numeric
+@attribute caveri numeric
+@attribute chairman numeric
+@attribute challeng numeric
+@attribute chang numeric
+@attribute charg numeric
+@attribute child numeric
+@attribute children numeric
+@attribute chosen numeric
+@attribute citi numeric
+@attribute citizen numeric
+@attribute civil numeric
+@attribute class numeric
+@attribute clear numeric
+@attribute closer numeric
+@attribute club numeric
+@attribute cohes numeric
+@attribute colleagu numeric
+@attribute combust numeric
+@attribute comfort numeric
+@attribute commiss numeric
+@attribute commission numeric
+@attribute committe numeric
+@attribute common numeric
+@attribute communiti numeric
+@attribute compani numeric
+@attribute compar numeric
+@attribute compart numeric
+@attribute compet numeric
+@attribute competit numeric
+@attribute complet numeric
+@attribute complianc numeric
+@attribute compulsori numeric
+@attribute conceptu numeric
+@attribute concern numeric
+@attribute conclus numeric
+@attribute condit numeric
+@attribute conduc numeric
+@attribute confus numeric
+@attribute congratul numeric
+@attribute consensus numeric
+@attribute consequ numeric
+@attribute consid numeric
+@attribute constant numeric
+@attribute constern numeric
+@attribute constitu numeric
+@attribute constitut numeric
+@attribute construct numeric
+@attribute consult numeric
+@attribute contin numeric
+@attribute continu numeric
+@attribute contrari numeric
+@attribute control numeric
+@attribute conveni numeric
+@attribute corner numeric
+@attribute correct numeric
+@attribute cosi numeric
+@attribute cost numeric
+@attribute council numeric
+@attribute count numeric
+@attribute countri numeric
+@attribute coupl numeric
+@attribute cours numeric
+@attribute cover numeric
+@attribute crash numeric
+@attribute creat numeric
+@attribute creation numeric
+@attribute current numeric
+@attribute custom numeric
+@attribute cutback numeric
+@attribute damag numeric
+@attribute data numeric
+@attribute date numeric
+@attribute date-bas numeric
+@attribute day numeric
+@attribute deal numeric
+@attribute dealt numeric
+@attribute death numeric
+@attribute debat numeric
+@attribute debt numeric
+@attribute decad numeric
+@attribute decid numeric
+@attribute delay numeric
+@attribute demand numeric
+@attribute demonstr numeric
+@attribute derog numeric
+@attribute design numeric
+@attribute despit numeric
+@attribute destin numeric
+@attribute detail numeric
+@attribute die numeric
+@attribute differ numeric
+@attribute differenti numeric
+@attribute difficulti numeric
+@attribute dimens numeric
+@attribute direct numeric
+@attribute disabl numeric
+@attribute divis numeric
+@attribute doctor numeric
+@attribute document numeric
+@attribute doe numeric
+@attribute double-deck numeric
+@attribute doubt numeric
+@attribute draw numeric
+@attribute drawn numeric
+@attribute drive numeric
+@attribute driven numeric
+@attribute driver numeric
+@attribute drug numeric
+@attribute dump numeric
+@attribute durabl numeric
+@attribute dutch numeric
+@attribute easter numeric
+@attribute ecbo numeric
+@attribute econom numeric
+@attribute economi numeric
+@attribute educ numeric
+@attribute effect numeric
+@attribute elder numeric
+@attribute elector numeric
+@attribute embargo numeric
+@attribute emerg numeric
+@attribute emphas numeric
+@attribute enabl numeric
+@attribute encourag numeric
+@attribute end numeric
+@attribute endeavour numeric
+@attribute endors numeric
+@attribute enforc numeric
+@attribute england numeric
+@attribute enjoy numeric
+@attribute ensur numeric
+@attribute enter numeric
+@attribute entir numeric
+@attribute environ numeric
+@attribute environment numeric
+@attribute epic numeric
+@attribute equal numeric
+@attribute equatori numeric
+@attribute era numeric
+@attribute escolapia numeric
+@attribute especi numeric
+@attribute ethnic numeric
+@attribute europ numeric
+@attribute europe-wid numeric
+@attribute european numeric
+@attribute event numeric
+@attribute exact numeric
+@attribute exampl numeric
+@attribute exhaust numeric
+@attribute exist numeric
+@attribute expect numeric
+@attribute experi numeric
+@attribute expert numeric
+@attribute exploit numeric
+@attribute export numeric
+@attribute express-coach numeric
+@attribute extend numeric
+@attribute extens numeric
+@attribute extra numeric
+@attribute extrem numeric
+@attribute face numeric
+@attribute facil numeric
+@attribute fact numeric
+@attribute factor numeric
+@attribute fair numeric
+@attribute famili numeric
+@attribute familiar numeric
+@attribute famous numeric
+@attribute fast numeric
+@attribute fast-track numeric
+@attribute faster numeric
+@attribute fastidi numeric
+@attribute fatal numeric
+@attribute fatigu numeric
+@attribute feder numeric
+@attribute ferri numeric
+@attribute field numeric
+@attribute fifa numeric
+@attribute fight numeric
+@attribute fill numeric
+@attribute final numeric
+@attribute fire numeric
+@attribute fit numeric
+@attribute flexibl numeric
+@attribute flight numeric
+@attribute floor numeric
+@attribute folk numeric
+@attribute fond numeric
+@attribute footbal numeric
+@attribute forc numeric
+@attribute foreign numeric
+@attribute foremost numeric
+@attribute forget numeric
+@attribute form numeric
+@attribute forward numeric
+@attribute fourth numeric
+@attribute franc numeric
+@attribute freedom numeric
+@attribute freeli numeric
+@attribute french numeric
+@attribute friend numeric
+@attribute frontier numeric
+@attribute fulli numeric
+@attribute furthermor numeric
+@attribute futur numeric
+@attribute gain numeric
+@attribute galleri numeric
+@attribute game numeric
+@attribute gave numeric
+@attribute general numeric
+@attribute generat numeric
+@attribute glasgow numeric
+@attribute goal numeric
+@attribute goalkeep numeric
+@attribute good numeric
+@attribute govern numeric
+@attribute great numeric
+@attribute greater numeric
+@attribute greec numeric
+@attribute green numeric
+@attribute group numeric
+@attribute growth numeric
+@attribute guarante numeric
+@attribute guinea numeric
+@attribute gunshot numeric
+@attribute hand numeric
+@attribute happen numeric
+@attribute hard numeric
+@attribute harmon numeric
+@attribute hatzidaki numeric
+@attribute health numeric
+@attribute hear numeric
+@attribute heartach numeric
+@attribute heater numeric
+@attribute heavi numeric
+@attribute heavy-duti numeric
+@attribute high numeric
+@attribute higher numeric
+@attribute highest numeric
+@attribute hire numeric
+@attribute histor numeric
+@attribute hit numeric
+@attribute hitch numeric
+@attribute hold numeric
+@attribute home numeric
+@attribute honest numeric
+@attribute hope numeric
+@attribute hors numeric
+@attribute horseless numeric
+@attribute host numeric
+@attribute hotel numeric
+@attribute hour numeric
+@attribute hous numeric
+@attribute hugh numeric
+@attribute hungari numeric
+@attribute idea numeric
+@attribute iii numeric
+@attribute illog numeric
+@attribute imag numeric
+@attribute imagin numeric
+@attribute implement numeric
+@attribute import numeric
+@attribute improv numeric
+@attribute includ numeric
+@attribute inclus numeric
+@attribute inconsist numeric
+@attribute increas numeric
+@attribute individu numeric
+@attribute industri numeric
+@attribute inform numeric
+@attribute infring numeric
+@attribute injuri numeric
+@attribute inn numeric
+@attribute instal numeric
+@attribute institut numeric
+@attribute intent numeric
+@attribute intern numeric
+@attribute introduc numeric
+@attribute invest numeric
+@attribute involv numeric
+@attribute ireland numeric
+@attribute irreproach numeric
+@attribute isabel numeric
+@attribute issu numeric
+@attribute itali numeric
+@attribute item numeric
+@attribute iveco numeric
+@attribute job numeric
+@attribute join numeric
+@attribute jospin numeric
+@attribute journey numeric
+@attribute judg numeric
+@attribute juli numeric
+@attribute justic numeric
+@attribute justifi numeric
+@attribute kill numeric
+@attribute kilometr numeric
+@attribute kind numeric
+@attribute kingdom numeric
+@attribute kinnock numeric
+@attribute knock-on numeric
+@attribute knowledg numeric
+@attribute lack numeric
+@attribute larger numeric
+@attribute larissa numeric
+@attribute late numeric
+@attribute law numeric
+@attribute lay numeric
+@attribute lead numeric
+@attribute leagu numeric
+@attribute learn numeric
+@attribute led numeric
+@attribute legisl numeric
+@attribute leisur numeric
+@attribute lengthi numeric
+@attribute level numeric
+@attribute liber numeric
+@attribute licenc numeric
+@attribute life numeric
+@attribute lift numeric
+@attribute light numeric
+@attribute limit numeric
+@attribute link numeric
+@attribute lisbon numeric
+@attribute live numeric
+@attribute load numeric
+@attribute local numeric
+@attribute locomot numeric
+@attribute london numeric
+@attribute long-dist numeric
+@attribute longer numeric
+@attribute lorri numeric
+@attribute loss numeric
+@attribute lost numeric
+@attribute low numeric
+@attribute low-cost numeric
+@attribute low-floor numeric
+@attribute lunnon numeric
+@attribute luxembourg numeric
+@attribute m-categori numeric
+@attribute macedonian numeric
+@attribute mad numeric
+@attribute madam numeric
+@attribute main numeric
+@attribute mainland numeric
+@attribute make numeric
+@attribute man numeric
+@attribute manag numeric
+@attribute mandatori numeric
+@attribute manufactur numeric
+@attribute market numeric
+@attribute marriag numeric
+@attribute match numeric
+@attribute matter numeric
+@attribute measur numeric
+@attribute meath numeric
+@attribute medic numeric
+@attribute medium numeric
+@attribute meet numeric
+@attribute member numeric
+@attribute mental numeric
+@attribute mention numeric
+@attribute merger numeric
+@attribute metamorphos numeric
+@attribute michel numeric
+@attribute miller numeric
+@attribute million numeric
+@attribute mind numeric
+@attribute mini-bus numeric
+@attribute minibus numeric
+@attribute minimum numeric
+@attribute minor numeric
+@attribute misionera numeric
+@attribute mobil numeric
+@attribute modif numeric
+@attribute molsheim numeric
+@attribute monday numeric
+@attribute monopol numeric
+@attribute morn numeric
+@attribute mortal numeric
+@attribute mother numeric
+@attribute motor numeric
+@attribute motorway numeric
+@attribute movement numeric
+@attribute mugab numeric
+@attribute murphi numeric
+@attribute nation numeric
+@attribute necess numeric
+@attribute necessari numeric
+@attribute neck numeric
+@attribute needless numeric
+@attribute newer numeric
+@attribute newfangl numeric
+@attribute news numeric
+@attribute non-align numeric
+@attribute nonresid numeric
+@attribute nos numeric
+@attribute note numeric
+@attribute novemb numeric
+@attribute number numeric
+@attribute numer numeric
+@attribute object numeric
+@attribute oblig numeric
+@attribute obligatori numeric
+@attribute observ numeric
+@attribute obvious numeric
+@attribute occupi numeric
+@attribute occur numeric
+@attribute offer numeric
+@attribute offici numeric
+@attribute open numeric
+@attribute oper numeric
+@attribute opinion numeric
+@attribute opportun numeric
+@attribute oppress numeric
+@attribute optim numeric
+@attribute option numeric
+@attribute oral numeric
+@attribute order numeric
+@attribute organis numeric
+@attribute outset numeric
+@attribute overrid numeric
+@attribute overtir numeric
+@attribute overturn numeric
+@attribute pace numeric
+@attribute paid numeric
+@attribute parent numeric
+@attribute parliament numeric
+@attribute parti numeric
+@attribute pass numeric
+@attribute passeng numeric
+@attribute passenger-kilometr numeric
+@attribute past numeric
+@attribute penalti numeric
+@attribute pension numeric
+@attribute period numeric
+@attribute permit numeric
+@attribute person numeric
+@attribute perspect numeric
+@attribute phenomena numeric
+@attribute phenomenon numeric
+@attribute philosoph numeric
+@attribute pick numeric
+@attribute pigeon numeric
+@attribute pitch numeric
+@attribute place numeric
+@attribute plan numeric
+@attribute play numeric
+@attribute player numeric
+@attribute pleas numeric
+@attribute polici numeric
+@attribute portfolio numeric
+@attribute posit numeric
+@attribute possibl numeric
+@attribute power numeric
+@attribute practic numeric
+@attribute pragmat numeric
+@attribute preposter numeric
+@attribute present numeric
+@attribute presid numeric
+@attribute pressur numeric
+@attribute prevent numeric
+@attribute primarili numeric
+@attribute prioriti numeric
+@attribute privat numeric
+@attribute problem numeric
+@attribute proceed numeric
+@attribute produc numeric
+@attribute product numeric
+@attribute programm numeric
+@attribute progress numeric
+@attribute project numeric
+@attribute promis numeric
+@attribute proport numeric
+@attribute propos numeric
+@attribute protect numeric
+@attribute protest numeric
+@attribute provid numeric
+@attribute provis numeric
+@attribute pse numeric
+@attribute public numeric
+@attribute pupil numeric
+@attribute pure numeric
+@attribute purport numeric
+@attribute pushchair numeric
+@attribute question numeric
+@attribute quick numeric
+@attribute quit numeric
+@attribute quot numeric
+@attribute quota numeric
+@attribute radic numeric
+@attribute rail numeric
+@attribute railway numeric
+@attribute rais numeric
+@attribute rapporteur numeric
+@attribute rate numeric
+@attribute reach numeric
+@attribute read numeric
+@attribute realis numeric
+@attribute reason numeric
+@attribute recal numeric
+@attribute receiv numeric
+@attribute recent numeric
+@attribute recommend numeric
+@attribute reduc numeric
+@attribute reduct numeric
+@attribute refere numeric
+@attribute reform numeric
+@attribute regard numeric
+@attribute region numeric
+@attribute regul numeric
+@attribute regular numeric
+@attribute relat numeric
+@attribute relationship numeric
+@attribute relev numeric
+@attribute reli numeric
+@attribute remain numeric
+@attribute remark numeric
+@attribute remind numeric
+@attribute remov numeric
+@attribute renault numeric
+@attribute report numeric
+@attribute repres numeric
+@attribute request numeric
+@attribute requir numeric
+@attribute research numeric
+@attribute resort numeric
+@attribute respect numeric
+@attribute rest numeric
+@attribute restraint numeric
+@attribute restrict numeric
+@attribute result numeric
+@attribute review numeric
+@attribute rise numeric
+@attribute risk numeric
+@attribute road numeric
+@attribute robert numeric
+@attribute role numeric
+@attribute roll-ov numeric
+@attribute rome numeric
+@attribute round numeric
+@attribute rout numeric
+@attribute rule numeric
+@attribute sad numeric
+@attribute safe numeric
+@attribute safer numeric
+@attribute safeti numeric
+@attribute satisfi numeric
+@attribute scheme numeric
+@attribute scholar numeric
+@attribute school numeric
+@attribute scotland numeric
+@attribute scrutinis numeric
+@attribute sea numeric
+@attribute season numeric
+@attribute seat numeric
+@attribute seat-belt numeric
+@attribute seatbelt numeric
+@attribute sector numeric
+@attribute secur numeric
+@attribute seek numeric
+@attribute send numeric
+@attribute sens numeric
+@attribute servic numeric
+@attribute set numeric
+@attribute sever numeric
+@attribute share numeric
+@attribute ship-build numeric
+@attribute shortest numeric
+@attribute shout numeric
+@attribute shown numeric
+@attribute side-fac numeric
+@attribute sidefac numeric
+@attribute sightse numeric
+@attribute similar numeric
+@attribute simon numeric
+@attribute simpli numeric
+@attribute simplifi numeric
+@attribute singl numeric
+@attribute situat numeric
+@attribute skopj numeric
+@attribute so-cal numeric
+@attribute social numeric
+@attribute socialist numeric
+@attribute societi numeric
+@attribute sort numeric
+@attribute spain numeric
+@attribute spanish numeric
+@attribute spare numeric
+@attribute special numeric
+@attribute specif numeric
+@attribute speed numeric
+@attribute spend numeric
+@attribute spite numeric
+@attribute sponsor numeric
+@attribute sport numeric
+@attribute sportsman numeric
+@attribute spot numeric
+@attribute spread numeric
+@attribute stabilis numeric
+@attribute staff numeric
+@attribute stage numeric
+@attribute standard numeric
+@attribute start numeric
+@attribute state numeric
+@attribute step numeric
+@attribute stop numeric
+@attribute stori numeric
+@attribute strasbourg numeric
+@attribute stress numeric
+@attribute strike numeric
+@attribute striker numeric
+@attribute strong numeric
+@attribute studi numeric
+@attribute subject numeric
+@attribute submit numeric
+@attribute success numeric
+@attribute sudden numeric
+@attribute suggest numeric
+@attribute sum numeric
+@attribute summit numeric
+@attribute suppli numeric
+@attribute support numeric
+@attribute system numeric
+@attribute sánchez numeric
+@attribute tackl numeric
+@attribute talk numeric
+@attribute tangibl numeric
+@attribute teacher numeric
+@attribute team numeric
+@attribute tembi numeric
+@attribute temporari numeric
+@attribute term numeric
+@attribute terribl numeric
+@attribute test numeric
+@attribute tetovo numeric
+@attribute theoret numeric
+@attribute thessaloniki numeric
+@attribute thing numeric
+@attribute thought-out numeric
+@attribute thousand numeric
+@attribute threepoint numeric
+@attribute time numeric
+@attribute titley numeric
+@attribute today numeric
+@attribute toll numeric
+@attribute tonight numeric
+@attribute torralba numeric
+@attribute total numeric
+@attribute tourism numeric
+@attribute tourist numeric
+@attribute tow numeric
+@attribute town numeric
+@attribute tradit numeric
+@attribute tragedi numeric
+@attribute tragic numeric
+@attribute train numeric
+@attribute transport numeric
+@attribute travel numeric
+@attribute treat numeric
+@attribute tri numeric
+@attribute tribut numeric
+@attribute trip numeric
+@attribute truck numeric
+@attribute true numeric
+@attribute turin numeric
+@attribute turm numeric
+@attribute turn numeric
+@attribute twenty-four numeric
+@attribute type numeric
+@attribute uefa numeric
+@attribute unaccept numeric
+@attribute undermin numeric
+@attribute understand numeric
+@attribute uniform numeric
+@attribute union numeric
+@attribute unit numeric
+@attribute univers numeric
+@attribute unpaid numeric
+@attribute urban numeric
+@attribute urgent numeric
+@attribute user numeric
+@attribute utter numeric
+@attribute vain numeric
+@attribute variat numeric
+@attribute vehicl numeric
+@attribute viabl numeric
+@attribute view numeric
+@attribute vip numeric
+@attribute vision numeric
+@attribute visit numeric
+@attribute visitor numeric
+@attribute voluntari numeric
+@attribute vote numeric
+@attribute war numeric
+@attribute weak numeric
+@attribute wear numeric
+@attribute weight numeric
+@attribute welcom numeric
+@attribute well-known numeric
+@attribute wheelchair numeric
+@attribute widespread numeric
+@attribute wit numeric
+@attribute woman numeric
+@attribute wood numeric
+@attribute work numeric
+@attribute worker numeric
+@attribute wors numeric
+@attribute year numeric
+@attribute yesterday numeric
+@attribute young numeric
+@attribute zimbabwean numeric
+@attribute classes {seniorentourismus,autobusherstellern,kutsche,bussen,busse,waggon,busreise,bustransport,reisebus,trainer,wahlreform,omnibusse,einzuhaltende,bustourismus,fußballtrainer,gröblichst,scheinehe,reisebusse,mehrtägige,gemeinschaftslizenz,Überlandbusnetz,bus,dreitagesfahrt,linienbus,sporttrainer,reisenbussen,linienverkehrsdienstes,omnibusdienste,vip-reisebusse,busrichtlinie,bussicherheit,omnibussen,busunfall,verkehrender,kraftomnibus,schulklasse,autobus,niedrigflugbussen,busunternehmer,busreisende,personenkilometer,busreiseanbieter,sportlehrer,nationaltrainer,busverkehrsunternehmer,ausflug,fremdenverkehrsbusse,hauptverwendungszwecke,tetovo,busverkehr,omnibusunternehmen,ausgeruhtere,schert,busfahrer,coach,besichtigen,busunternehmen,bus-richtlinie,fremdenverkehrszwecke}
+
+@data
+{0 1,1 1,80 1,94 1,114 1,149 1,210 1,237 2,245 1,322 1,336 1,377 1,490 1,521 1,523 1,527 1,542 1,552 1,597 1,603 1,610 1,614 1,615 1,628 1,701 1,750 1,751 4,768 1,786 1}
+{37 1,79 1,132 1,313 1,356 1,367 1,372 1,442 1,466 1,504 1,521 1,523 1,573 1,597 1,615 1,750 1,774 1,805 autobusherstellern}
+{56 1,70 1,89 1,92 1,174 1,231 1,352 1,536 1,580 1,744 1,805 kutsche}
+{7 1,66 2,85 1,99 1,124 1,169 1,187 1,199 1,364 1,424 1,438 1,462 1,492 1,523 1,567 1,568 1,597 1,624 1,639 2,714 1,805 bussen}
+{152 1,229 1,275 1,414 1,498 1,592 1,684 1,757 1,805 busse}
+{20 1,136 1,156 1,289 1,295 1,376 1,431 1,544 1,605 1,659 1,748 1,750 1,759 1,805 waggon}
+{268 1,369 2,383 2,805 busreise}
+{80 1,164 1,227 1,280 1,293 1,312 1,638 1,751 1,805 bustransport}
+{78 1,146 1,148 1,192 1,650 1,655 1,669 1,674 1,789 2,805 reisebus}
+{5 1,44 1,244 1,257 1,269 1,354 1,445 1,540 1,541 1,565 1,591 1,788 1,805 trainer}
+{32 1,66 1,79 1,80 1,98 1,156 1,187 1,238 1,275 1,353 1,356 1,373 1,417 1,426 1,447 1,448 1,546 1,563 1,579 2,595 1,622 1,639 1,643 2,748 1,773 1,780 1,803 1,805 reisebus}
+{16 1,17 1,39 1,152 1,211 1,237 1,295 1,322 1,600 1,601 1,692 1,695 1,805 wahlreform}
+{80 1,237 1,357 1,447 1,481 1,639 1,649 1,768 1,791 1,805 omnibusse}
+{125 1,197 1,340 1,348 1,558 1,582 1,620 1,805 einzuhaltende}
+{79 1,199 1,227 1,236 1,269 1,315 1,372 1,515 1,523 1,592 1,627 1,635 1,750 2,791 1,805 bustourismus}
+{203 1,260 1,281 2,284 1,309 1,435 1,457 1,534 1,552 1,581 1,787 1,805 fußballtrainer}
+{77 1,128 1,165 1,187 1,197 1,218 1,237 1,247 1,340 1,370 1,382 1,550 1,641 1,805 gröblichst}
+{6 1,32 1,36 1,80 1,112 1,187 1,237 1,466 1,558 1,567 1,682 2,778 1,793 1,805 reisebus}
+{420 1,423 1,749 1,805 waggon}
+{6 1,67 1,80 1,115 1,116 1,120 1,187 1,215 1,237 2,361 1,517 1,560 1,573 1,635 1,637 1,657 1,702 1,750 1,774 1,805 busse}
+{145 1,187 1,197 1,202 1,216 2,224 2,338 1,340 1,368 1,444 1,606 1,805 scheinehe}
+{86 1,112 1,139 1,192 1,205 1,273 1,356 1,447 1,560 1,562 1,564 1,596 1,614 1,618 1,683 1,706 1,805 reisebus}
+{25 1,54 1,107 1,152 1,171 1,213 1,233 1,237 1,270 1,333 1,339 1,404 1,493 1,533 1,539 1,541 1,589 1,685 1,763 1,771 1,776 1,792 1,801 1,805 trainer}
+{112 1,237 1,343 1,365 1,695 1,805 reisebusse}
+{166 1,181 1,509 1,538 1,623 1,691 1,751 1,805 mehrtägige}
+{26 1,47 1,116 1,130 1,144 1,158 1,191 2,318 1,410 1,490 1,551 1,587 1,670 1,672 1,767 1,805 gemeinschaftslizenz}
+{113 1,218 1,223 1,392 1,518 1,546 1,637 1,736 1,754 1,805 reisebusse}
+{12 1,69 1,80 2,82 1,153 1,193 1,235 2,278 1,344 1,381 1,427 1,451 1,504 1,634 1,681 1,695 1,805 Überlandbusnetz}
+{26 1,80 1,178 1,188 1,278 1,592 1,737 1,786 1,805 reisebus}
+{60 1,221 1,281 1,454 1,599 1,722 1,805 trainer}
+{38 1,398 1,452 1,569 1,798 1,805 bus}
+{186 1,322 1,356 1,474 1,552 1,614 1,628 1,778 1,805 busse}
+{75 1,88 1,166 1,261 1,279 1,283 1,341 1,430 1,475 1,482 1,485 1,694 1,731 2,797 1,805 dreitagesfahrt}
+{63 1,93 1,112 1,114 1,126 1,378 1,510 1,543 1,578 1,602 1,639 1,742 1,750 1,805 reisebus}
+{32 1,85 1,112 1,282 1,296 1,297 1,424 1,496 1,539 1,557 1,567 1,667 1,778 1,805 reisebus}
+{11 1,27 1,33 1,133 1,182 1,230 1,232 1,274 1,282 1,316 1,317 1,375 1,452 1,465 1,511 1,680 1,717 1,740 1,751 1,785 1,798 1,799 1,805 linienbus}
+{15 1,16 1,30 1,80 1,328 1,413 1,447 1,450 1,462 1,567 1,778 1,805 reisebusse}
+{14 1,50 1,129 1,157 1,200 1,208 1,226 1,269 1,449 1,532 1,533 1,553 1,630 1,687 1,688 1,709 1,805 sporttrainer}
+{140 1,178 1,394 1,440 2,452 1,541 1,722 1,805 trainer}
+{126 1,250 1,555 1,805 reisebusse}
+{7 1,92 1,197 1,199 1,266 1,354 1,424 1,492 1,528 1,603 1,621 1,805 reisenbussen}
+{87 1,199 1,376 1,424 1,514 1,628 1,639 2,702 1,753 1,774 1,805 bussen}
+{79 1,89 1,128 1,321 1,400 1,452 1,479 1,488 1,494 1,504 1,567 1,587 1,656 1,697 1,805 linienverkehrsdienstes}
+{79 2,117 1,127 1,157 1,207 1,226 1,262 1,307 1,447 1,504 1,523 1,542 1,656 1,676 1,715 1,805 omnibusdienste}
+{41 1,468 1,784 1,802 1,805 bus}
+{5 1,31 1,64 1,71 1,80 1,95 1,106 1,112 2,122 1,126 1,168 1,319 1,337 1,443 1,473 1,479 1,583 1,602 1,620 1,671 1,678 1,696 1,700 1,745 1,777 1,778 1,803 1,805 reisebus}
+{79 1,113 1,131 1,187 1,188 1,219 1,240 1,372 1,502 1,512 1,606 1,798 1,805 reisebus}
+{24 1,26 1,110 1,119 1,326 1,462 1,489 1,501 1,523 1,545 1,805 bussen}
+{75 1,80 1,149 1,161 1,209 1,242 1,251 1,276 1,393 1,395 1,401 1,567 1,608 1,656 1,693 1,805 busse}
+{49 1,80 1,87 1,138 1,140 1,160 1,173 1,175 1,240 1,290 1,363 1,418 1,442 1,451 1,505 1,617 1,639 1,695 1,725 1,781 1,790 1,805 vip-reisebusse}
+{61 1,79 1,126 1,187 1,339 1,376 1,458 1,460 1,614 1,737 1,786 1,805 busrichtlinie}
+{80 1,112 1,243 1,288 1,556 1,562 1,567 1,628 1,639 2,708 1,805 bussicherheit}
+{79 1,299 1,359 1,383 1,638 1,663 1,751 1,784 1,805 bustransport}
+{53 1,65 1,104 1,163 1,296 1,349 1,387 1,432 1,627 1,683 1,711 1,741 1,805 reisebus}
+{16 1,108 1,151 1,189 1,217 1,223 1,330 1,540 1,647 1,722 2,760 1,761 1,805 trainer}
+{46 1,53 1,66 2,159 1,366 1,441 1,495 1,501 1,508 1,523 1,568 1,648 4,665 1,762 1,805 reisebus}
+{4 1,112 1,123 1,124 1,177 1,187 2,275 1,353 1,415 1,463 1,570 1,616 1,645 1,650 1,724 1,789 1,805 reisebus}
+{72 1,456 1,477 1,629 1,722 1,751 1,758 1,804 1,805 trainer}
+{16 1,18 1,66 1,76 1,223 1,235 1,269 1,275 1,339 1,345 1,381 1,401 1,408 1,461 1,540 1,612 1,639 1,646 1,648 1,805 omnibussen}
+{16 1,42 1,156 1,195 1,324 1,500 1,552 1,802 1,805 busunfall}
+{289 1,416 1,421 1,523 1,529 1,535 1,679 1,751 1,805 verkehrender}
+{79 1,88 1,100 1,150 1,225 1,269 1,369 1,435 1,520 1,523 1,552 1,640 1,805 kraftomnibus}
+{92 1,154 1,310 1,364 1,405 1,559 1,570 1,631 1,652 1,805 bussen}
+{80 1,96 1,103 1,112 1,135 1,263 1,298 1,339 1,353 1,355 1,376 1,520 1,625 1,652 1,794 1,805 kraftomnibus}
+{520 1,521 1,701 1,783 1,805 schulklasse}
+{5 1,45 1,80 1,291 1,354 1,361 1,443 1,561 1,671 1,695 1,805 reisebusse}
+{80 1,139 1,170 1,187 1,194 1,301 1,372 1,407 1,567 1,590 1,593 1,626 1,805 autobus}
+{6 1,59 1,79 1,80 2,142 1,178 1,185 1,187 1,223 1,233 1,235 1,242 1,254 1,429 1,442 1,463 1,466 2,504 1,519 1,523 1,577 1,597 1,617 1,639 1,652 1,695 1,774 1,793 1,805 niedrigflugbussen}
+{180 1,237 1,295 1,304 1,346 1,353 1,437 1,504 2,567 1,601 1,644 1,780 1,805 busunternehmer}
+{30 1,417 1,426 1,483 1,523 1,635 1,805 busreisende}
+{9 1,59 1,80 2,85 1,115 1,118 1,162 1,169 1,351 1,459 1,524 1,557 1,585 1,637 1,705 1,712 1,733 1,750 1,805 personenkilometer}
+{80 1,170 1,187 1,196 1,376 1,491 1,601 1,611 1,639 1,707 1,805 kraftomnibus}
+{53 1,111 2,112 1,143 1,187 1,259 1,286 1,313 1,350 1,360 1,390 1,567 1,648 3,653 1,664 1,669 1,703 1,762 1,775 1,805 reisebus}
+{91 3,327 1,329 1,413 2,447 1,462 1,472 1,588 1,609 1,628 1,639 1,698 1,756 1,778 2,805 omnibussen}
+{40 1,627 1,766 1,805 trainer}
+{149 1,256 1,277 1,320 1,334 1,359 1,361 1,428 1,522 1,523 1,553 1,570 1,656 1,751 1,805 busreiseanbieter}
+{55 1,66 2,80 1,214 1,233 1,275 2,354 1,461 1,631 1,639 1,648 2,734 1,760 1,805 omnibussen}
+{7 1,63 1,112 1,126 1,235 1,329 1,408 1,424 1,552 1,587 1,614 1,764 1,791 1,798 1,805 reisebus}
+{128 1,307 1,688 1,721 1,749 1,805 sportlehrer}
+{43 1,237 1,479 1,497 1,531 1,580 1,642 1,683 1,688 2,805 nationaltrainer}
+{79 1,303 1,361 1,380 1,501 1,504 1,506 1,656 1,750 1,760 1,780 1,805 busverkehrsunternehmer}
+{13 1,67 1,149 1,242 1,272 1,369 1,504 1,648 1,656 1,805 busunternehmer}
+{74 1,79 1,90 1,183 1,264 1,275 1,619 1,643 1,650 1,747 1,778 1,805 ausflug}
+{80 1,122 1,443 1,805 bussen}
+{104 2,349 1,356 1,462 1,696 1,706 1,778 2,805 reisebusse}
+{6 1,26 1,80 2,104 2,188 1,193 1,215 1,249 1,478 1,571 1,668 1,715 1,743 1,805 fremdenverkehrsbusse}
+{32 1,80 3,91 1,112 1,226 1,302 1,379 1,436 1,455 1,573 1,613 1,743 1,745 1,750 1,772 1,805 hauptverwendungszwecke}
+{39 1,107 1,190 1,229 1,239 1,267 1,285 1,411 1,526 1,661 1,689 3,707 1,796 3,798 1,805 trainer}
+{21 1,37 1,127 1,183 1,234 1,418 1,433 1,464 1,546 1,673 1,728 1,745 1,752 1,799 2,805 tetovo}
+{8 1,116 1,187 1,385 1,648 1,656 1,727 1,778 1,805 reisebus}
+{113 1,268 1,273 1,287 1,369 1,383 1,584 1,594 1,611 1,635 1,667 1,805 busverkehr}
+{210 1,237 1,459 1,751 1,805 bus}
+{10 1,34 1,152 4,190 1,206 1,212 1,246 1,314 1,331 1,342 1,476 1,487 1,499 1,507 1,525 1,552 1,654 1,657 1,686 1,688 1,713 1,721 1,733 1,801 1,805 trainer}
+{115 1,258 1,323 1,434 1,452 1,453 1,632 1,701 1,725 1,799 1,801 1,805 bus}
+{28 1,112 1,176 1,238 1,243 1,252 1,355 1,446 1,447 1,506 1,636 1,639 1,750 1,773 1,802 1,805 busreise}
+{117 1,307 1,486 1,751 1,805 omnibusunternehmen}
+{7 2,29 1,80 1,105 1,112 1,141 1,220 1,237 1,358 1,372 1,417 1,424 1,426 1,498 1,539 1,547 1,554 1,580 1,628 1,718 1,738 1,768 1,801 1,805 reisebus}
+{67 1,504 1,545 1,567 1,720 1,805 busunternehmer}
+{105 1,113 1,192 1,223 2,237 1,319 1,403 1,506 1,625 1,636 1,638 1,690 1,747 1,768 1,791 1,805 reisebus}
+{92 1,166 1,167 1,309 1,312 1,325 1,390 1,409 1,438 1,567 1,572 1,655 1,755 1,805 schulklasse}
+{30 1,35 1,38 1,71 1,75 1,179 1,255 1,335 1,343 1,470 1,471 1,525 1,548 1,552 1,554 1,558 1,710 1,801 1,805 bus}
+{66 2,112 1,187 1,249 1,282 1,356 1,366 1,467 1,496 1,511 1,567 1,595 1,605 1,639 1,778 1,805 reisebusse}
+{7 1,10 1,19 1,80 1,139 1,240 1,282 1,355 1,372 1,511 1,516 1,564 1,567 2,568 1,603 1,635 1,638 1,695 1,805 reisebus}
+{68 1,199 1,241 1,344 1,355 1,628 1,798 1,805 ausgeruhtere}
+{112 1,179 1,366 1,567 1,587 1,648 1,664 1,715 1,805 reisebus}
+{344 1,389 1,475 1,719 1,751 1,805 reisebusse}
+{113 1,198 1,290 1,308 1,340 1,386 1,399 1,576 1,635 1,652 1,714 1,805 schert}
+{51 1,90 1,199 2,201 1,228 1,422 1,424 1,454 1,566 1,595 1,651 1,672 1,675 1,795 1,800 1,801 1,805 busfahrer}
+{80 1,91 1,97 1,805 reisebusse}
+{22 1,48 1,58 1,86 1,281 1,300 1,307 1,374 1,384 1,539 1,549 1,575 1,624 1,655 1,669 1,729 1,732 1,782 1,798 1,805 trainer}
+{30 1,64 1,75 1,79 1,112 1,369 1,409 1,523 1,567 1,590 1,635 1,651 1,656 1,670 1,697 1,791 1,805 kraftomnibus}
+{2 1,79 1,83 1,144 1,249 1,294 1,356 1,447 1,454 1,504 1,604 1,656 2,716 1,750 1,805 busunternehmer}
+{23 1,48 1,109 1,113 1,137 1,156 1,289 1,292 1,332 1,372 1,376 1,388 1,411 1,419 1,425 1,469 1,586 1,650 1,736 1,748 1,803 1,805 bus}
+{7 1,80 1,265 1,372 1,391 1,628 1,769 1,805 linienbus}
+{51 1,281 1,307 1,402 1,589 1,722 1,805 coach}
+{6 1,71 1,80 1,102 1,223 1,396 1,466 1,530 1,566 1,571 1,573 1,597 1,601 1,750 1,805 bussen}
+{62 1,101 1,210 1,222 1,235 1,307 1,323 1,527 1,666 1,690 1,751 1,783 1,805 besichtigen}
+{79 1,309 1,480 1,527 1,666 1,751 1,805 reisebus}
+{1 1,3 1,96 1,117 1,197 1,206 1,501 1,588 1,597 1,617 1,621 1,643 1,658 1,735 1,755 1,779 1,805 busunternehmen}
+{7 2,204 1,289 1,311 1,347 1,397 1,417 1,426 1,552 1,574 1,643 1,723 1,726 1,730 1,755 1,805 reisebus}
+{13 1,96 1,147 1,155 1,439 1,481 1,537 1,545 1,570 1,654 1,805 trainer}
+{79 1,114 1,184 1,248 1,361 2,406 1,567 1,570 1,656 1,791 1,805 reisebus}
+{52 2,73 1,75 1,273 1,305 1,306 1,522 1,633 1,662 1,699 1,704 1,710 1,760 1,805 trainer}
+{80 1,112 1,126 1,134 1,140 1,167 1,187 2,188 2,271 2,362 1,376 1,405 1,412 1,513 1,520 1,677 1,805 bus-richtlinie}
+{10 1,172 1,217 1,223 1,237 1,366 1,405 1,442 1,481 1,650 1,736 1,768 1,770 1,805 reisebus}
+{80 1,102 1,235 1,354 1,520 1,607 1,660 1,719 1,805 busse}
+{6 1,14 2,80 1,84 1,187 1,188 1,235 1,253 1,376 1,459 1,573 1,727 1,739 1,750 1,805 busrichtlinie}
+{57 1,80 1,91 1,121 1,126 1,159 1,252 1,443 1,479 1,503 1,705 1,743 1,746 1,805 fremdenverkehrszwecke}
+{81 1,117 1,149 1,251 1,334 1,361 1,371 1,401 1,484 1,523 1,567 1,598 1,638 1,639 1,765 1,778 1,805 busunternehmen}

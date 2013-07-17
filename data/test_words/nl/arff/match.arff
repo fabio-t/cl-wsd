@@ -1,0 +1,57 @@
+@relation match-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {even,duizelen,begrotingskrediet,aankunnen,wedstrijd,hollywood,voetbalwedstrijd,afgestemd,supermarktketens,visserijmogendheden,ambitie,toetssteen,onderdoen,discrete,arbeidsmarktbeleid,boxwedstrijd,uiteindelijke,vergelijkbaars,frase,afstemmen,overeen,elitistische,overeenkomt,verhouding,euromed-beleid,strookt,oval,overeenstemming,aansluit,kabelplatform,gewichtslimiet,voedselreserves,overeenstemmen,optornen,openingswedstrijd,match,ondersteunt,jurk,evenaren,onderwijspraktijk,doorstaan,ozonproblematiek,boudewijn,programmacapaciteit,vermogen,nood,tegemoet,wegliep,uitvoeringsprogramma,wereldmarktprijs,onbuigzame,frontloading,beleidsinitiatieven,frans-duitse,gestalte,ingepland,nauw,melodie,samen,ontoereikend,gelijkwaardig,aangepast,goudprijs,wenen,iii-programma,chronologisch,past,beneden,indonesische,kaartverkoopsysteem,opgewassen,blaas,ambtsdragers,verlies,onduidelijke,schep,aansluiten,daad,hoognodig,bewering,voeg,overlaat,voldoende,voetbalveld,onmetelijk,beantwoordt,toeschuiven,scheldpartij,accijnsverlaging,lijdend,directeur-generaal,dramatische,eu-structuurfondsen,afdoende,heuvelachtige,pensioentoezeggingen,klimaatbeleid,stembuswinnaar,overeenstemt,emissievergunningen,voetbal,tweejarige,aanbod,oost-zaïre,verplichten,evenwicht,naargelang,gehuisveste,letter,financieringsstructuur,hernieuwde,alavanos,personeelsbehoefte,bokswedstrijd,meet,doelloze,inconsequente,dvk,voldoet,risicoprofiel,opgaan,voetbalgeweld,kwestie-turkije,omzet,medefinancieringsmogelijkheden,koningshuis,veranderde,overeenkomen,rijmen,boodschap,voldoen,parket,teamwerk,cardiff,wk-wedstrijd,retoriek,verwezenlijking,voorspoedig,onafhankelijkheidsproces,evenveel,talmt,plaatje,strook,bullmann,ketel,verkoop,europacupfinale,bedrijfsniveau,geestdrift,finale,aftekenen,begrotingvoorstelt,opvoeren,empa-bijeenkomst,eenzelfde,geluidsnormen,onvoorbereid,uitgekeerd,oplichter,dienstmeidenwerk,landenwedstrijd,overheersen,maximumbedrag,stilgelegde,kruitvat,meerjarenbedrag,weggelegd,mantelpakje,corresponderen,gedoemd,duel,vakbekwaamheid,vroegsignalering,vereisen,omkeerbare,compromisresolutie,vermanend,maximumkosten,kwaliteitsreferentie,lucifer,beleidsprioriteiten,geplaatst,tegenop,geactiveerd,geleverd,port,uitgedaagd,koerswijziging,inschat,handelsmacht,donor,vergeven,haaks,bekerwedstrijd,verenigbaar,laadbrug,tja,pretoetredingsstructuren,vervuld,quantum,daarmee,voetbalselectie,tegenspraak,ondersteunende,waarmaken,personele,wetsontwerp,groeifase,gebrachte,tennismatch,dienstenindustrie,vangstmogelijkheden,teamspel,aangaan,verre,barrot,complexere,smaaktypen,verwaarlozen,pot,terugvind,pakt,sainjon,kozen,slagvaardige,perestrojka,plaats,voorbereidt,doeltreffende,os-beleid,achterhaald,schuilt,bemiddelingsresultaat,belastinggebied,overgangswerkgroep,visserijschepen,transportcapaciteiten,voetbalinterland,voortgangstempo,evenredige,soap,kernenergieprogramma,overeenstemde,briljante,steunspectrum,milieuverdrag,wedstrijdkaartjes,kaartje,kwaliteitsbeoordeling,beroemd,geschetste,bijbenen}
+
+@data
+1,His:alibi:fell:pick:ran:DNA:test:statist:happen,?
+2,And:dusk:fall:comment:Ian:Dark:arriv:arm:encyclopaed:fact:anecdot:player,?
+3,Ibrox:home:fan:Scot:fan:expect:travel:polic:mount:huge:secur:oper:stop:tout:outsid:stadium,?
+4,far:school:concern:time:initi:perfect:stage:develop,?
+5,use:toe:expens:brogu:grind:dead:teak-wood:char:tip:smear:black:carbonis:streak:wood:bone-whit,?
+6,His:father:right:perfect,?
+7,Leather:luxuri:wonder:realli:come:cow:find:perfect:glossi:burr:walnut,?
+8,Meanwhil:Bristol:polic:night:step:secur:plan,?
+9,Perform:doe:help:systemat:discuss:languag:languag:situat:element:larger:individu:sentenc,?
+10,Search:Genbank:EMBL:PIR:databas:nucleotid:protein:sequenc:did:ident,?
+11,She:look:blank:express:Inspector:Black:face:continu:read:Its:profil:ident,?
+12,Smith:born:Down:Under:Irish:grandpar:lead:Oxford:World:rais:fund:GOAL:Irish-bas:intern:chariti:provid:financi:assist:Third:World,?
+13,Smith:lit:cigarett:discard:debri,?
+14,The:room:reflect:aggress:natur:photograph:bur:boxer:fist:held:high:victori:gun:cabinet:wall:black-and-whit:televis:blare:commentari:box:pictur:dog:corner,?
+15,Their:resid:florist:sure:headdress:bouquet:perfect,?
+16,Tragic:stori:God:wrestl:make:good:sens:tale:bear:clear:mark:primit:begin:summit:Calvari:deep:broken:heart:God,?
+17,Until:thought:sulki:wil:truth:anxious,?
+18,Ani:inform:demand:follow:consult:index:data:address:design:author:use:laid:Annex,?
+19,Swedish:Lighter:Assen:Netherland,?
+20,did:creat:condit:better:resourc:Commiss:project:offic:tool:number:project:financ:ensur:adequ:scientif:monitor:current:limit:day:project,?
+21,When:consult:index:data:equival:compet:author:result:author:issu:inform:demand:accord:Annex:send:design:author:order:obtain:inform:identifi:index:data,?
+22,The:Advisori:Forum:shall:ensur:good:general:request:contribut:Author:put:organis:list:scope:organis:respond:favour,?
+23,The:general:inform:exchang:connect:footbal:intern:dimens:shall:compris:strateg:oper:tactic:inform,?
+24,The:EESC:feel:need:trial:Concert:Action:Commiss:Member:State:order:financ:support:varieti:advanc:servic:improv:busi:perform:encourag:suppli:demand:innov:garment,?
+25,minut:away:allow:midland:claim:point:bag,?
+26,young:Paul:Gascoign:torrid:hand:opposit:leagu:footbal,?
+27,American:footbal:sort:sport:injuri:start,?
+28,inquiri:Februari:Citi:plead:tram:strike:Christma:Day:crowd:arriv:late:polic:stop:rush:ground,?
+29,Begin:think:box:upper:panel:right,?
+30,Chapman:absolut:author:team:concern:perform:field:highlight:firm:rule:laid:day,?
+31,Dure:tenni:movement:foot:gradual:loosen:lace,?
+32,Find:proper:new:book:select:stock:revis:difficult:imposs:approach:differ,?
+33,Forens:evid:show:start:place:possibl:cigarett:lighter,?
+34,Give:evid:court:said:crowd:karaok:session:start:watch:box,?
+35,say:burn:easi:way:get:rid:straw:meant:harvest:provid:follow:rule:did:minut:field:burn,?
+36,Heather:Bailey:said:husband:told:hed:cut:parachut:hangar:RAF:Hullavington:lit,?
+37,Howev:protest:prompt:round:elimin:fought,?
+38,hate:weak:wish:younger:stronger:year:old,?
+39,begin:think:stare:stop:sudden:sat:began:finger:paper:desk,?
+40,Ian:Dixey:proscut:said:boy:approach:girl:sat:pavement:demonstr:aerosol:use:flame-throw,?
+41,consult:index:data:result:request:author:issu:inform:demand:concern:data:subject:involv,?
+42,derbi:rememb:especi:your:Unite:fan:defeat:old:enemi:year,?
+43,Rosalin:Berown:challeng:moment:play:death:blown:comedi:away,?
+44,The:Committe:believ:current:breakdown:discrimin:smaller:oper:experiment:innov:like:bigger:player:secur:fund:year:capac:carri:extens:develop:work:requir,?
+45,The:new:financi:perspect:provid:opportun:better:object:resourc:simplifi:rationalis:instrument:ensur:optim:European:Union:fund,?
+46,The:prosecut:alleg:boy:deliber:thrown:lit:girl:lap:caus:T-short:catch,?
+47,The:timescal:extend:use:fell:timber:pattern:suffici:overlap:exist:chronolog:uniqu,?
+48,Then:one-al:draw:Germani:meant:finish:second:goal:differ,?
+49,This:produc:exact:converg:object:set:Commiss:legisl:propos:map:aid:region:purpos:statist:effect:region:distinguish:converg:object:region:lower:intens:aid:keep:smaller:Structur:Fund:alloc:receiv,?
+50,Though:fought:brave:train:mercenari,?

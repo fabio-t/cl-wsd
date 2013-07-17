@@ -1,0 +1,57 @@
+@relation execution-weka.filters.unsupervised.attribute.NominalToString-C2
+
+@attribute id numeric
+@attribute phrase string
+@attribute classes {beheer,vervallenverklaring,doodstraf,executie,uitvoering,vietnamees,terechtstelling,strafuitvoering,lionel,tenuitvoerlegging,delegatiefase,uitvoeringsfase,executeren,project,uitoefening,bestedingspercentage,besteding,benadeelden,hoofdzaak,huzarenstuk,voorspoedige,vonnis,dodenwake,realisering,uitvoerende,uitgevoerd,hoeseini,terdoodbrenging,asterisk,liquidatie,veroordeelde,gekoesterde,proeftijd,uitvoeringsverslagen,uitvoeringsorgaan,staak,afrekening,doodvonnis,gefunctioneerd,steniging,informatie-eisen,inwilliging,hongermarsen,deleg,dhondup,stenigen,uitvoerbaarheid,reglementeert,onvrijwillige,uitvoer,uitvoeringspercentages,initiatief-peace,dragen,nagegaan,programmapacte,vervulling,burgerdienst,nederlaag,voltrekking,kongo,houdend,rechtshandhaving,geformuleerde,uitvoeren,geëxecuteerd,massa-executies,massaexecuties,realiseren,terechtstellen,excecuties,transitief,uitvoeringsdoelstellingen,iranese,sharon,huntsville,portemonnee,executiebevel,uitstel,rechtsprocedure,uitvoeringsgraad,restrictiever,begrotingsregels,basisbesluiten,yassin,fusillade,toeziet,wots-verdrag,opgelopen,doodsvonnis,monsterlijke,verslag-morillon,vn-verband,andersoortig,uitvoeringsplatforms,basisbesluit,ten-t,braziliaan,uitgedachte,afstel,juridisch-politioneel,initiatiefprogramma,shibarghan,subsidieverlening,larrañaga,uitvoeringsbepalingen,benut,pennsylvania}
+
+@data
+1,contraven:rule:devis:admit:entertain:method:singl:combat,?
+2,militari:council:decre:princip:conspir:confirm:sentenc:death:law:Dragon:Throne:occupi,?
+3,obtain:detail:inform:specif:incid:armi:gendarmeri:kill:unarm:civilian:includ:extrajudici:soldier:worker:Roman:Cathol:seminari:Bujumbura,?
+4,state:strong:fear:refuge:popul:risk:tortur:disappear:return:Iraqi:Govern:control,?
+5,Allegat:Iraqi:armi:brutal:includ:summari:rob:civilian:gun-point:food:report:frequent:Februari,?
+6,Apart:novelti:valu:advantag:speed,?
+7,British:armi:counter-insurg:specialist:help:train:Presidenti:Guard:Philippin:accus:tortur:summari:opposit:activist,?
+8,Comment:prospect:Jim:ONeill:intern:economist:Swiss:Bank:Corp:said:Theyv:got:stay:set:trade:figur,?
+9,Consensus:cohes:polici:increas:hard:achiev,?
+10,Dure:record:death:sentenc:result,?
+11,main:program:continu:clock:interrupt:return:processor:motor:control:routin:ENTER,?
+12,Harriss:death:schedul:April:California,?
+13,His:respons:occas:brilliant:plan,?
+14,Hundr:extrajudici:widespread:tortur:dozen:disappear:report:public:enquiri:incid:held,?
+15,sat:cell:expect:call:moment,?
+16,come:hear:right:appli:court:stay,?
+17,cours:charg:convict:obstruct:polic:constabl:duti,?
+18,Polic:sourc:said:shoot:hallmark:profession:light:handgun:use:ensur:death:use:point-blank:rang,?
+19,Sever:motor:control:microprocessor:provid:motor:control:routin:suffici:short:illustr:follow:exampl,?
+20,Sharelink:client:handl:estim:percent:deal:London:Stock:Exchang:deal,?
+21,She:absolut:open:honest:integr:blaze:detail:cranki:behaviour:principl:daili:life:demand,?
+22,The:creditor:superintend:document:attempt:assur:mean:question:explan:know:commit,?
+23,The:idea:regard:graphic:present:product:addict:shoot-em-up:arcad:game:carri:highest:profession:standard,?
+24,The:sourc:report:took:year,?
+25,They:said:prepar:deed,?
+26,This:did:mean:unfortun:human:right:respect:regim:world:use:new:method:repress:disappear:extrajudici,?
+27,exchang:inform:Decis:prejudic:essenti:nation:secur:interest:jeopardis:safeti:individu:success:current:investig:specif:intellig:activ:field:State:secur,?
+28,The:correct:payment:collect:revenu:recoveri:debt,?
+29,The:ICB:sponsor:project:financ:Fund:second:account:shall:submit:Fund:detail:written:propos:specifi:durat:locat:cost:project:agenc:respons,?
+30,Avoid:forc:degre:necessari:ensur:safeti:inspector:inspector:obstruct:duti,?
+31,Ensure:proper:prompt:effici:project:programm,?
+32,reiter:general:opposit:death:penalti:strong:condemn:death:sentenc:andor:juvenil:offend:pregnant:women:mental:handicap:person,?
+33,The:Centr:manag:resourc:intend:activ:laid:Agreement:behalf:Parti,?
+34,The:Member:State:Institut:shall:oblig:reimburs:claim:aris:activ:connect:civil:disturb:protect:Mission:personnel:result:Mission,?
+35,The:custom:author:shall:waiv:claim:reimburs:cost:incur:Titl,?
+36,case:final:decis:arrest:warrant:taken:period:day:arrest:request,?
+37,Welcom:statement:Chines:author:accord:sentenc:death:suspens:commit:crime:intent:period:suspens:shall:punish:commut:life:imprison:expir:two-year:period,?
+38,The:EUPM:shall:autonom:regard:function:Agreement,?
+39,Ani:controversi:aris:parti:disput:regard:interpret:award:submit:parti:judgment:arbitr:tribun:award,?
+40,The:technic:public:campaign:entrust:Council:special:bodi:choic,?
+41,Wherea:June:European:Union:decid:impos:sanction:Cuba:follow:arrest:imprison:dissid:April:subsequ:summari:hijack,?
+42,Each:year:April:Member:State:shall:send:Commiss:report:evalu:effect:regul,?
+43,Overund:involv:main:follow:articl,?
+44,pleas:stay:propos:closur:Redmir:branch:line:remain:open:month,?
+45,end:Commun:Yugoslav:Republ:Macedonia:shall:exchang:inform:project:mutual:build:trunk:road:encourag:cooper,?
+46,Under:condit:shall:respons:correct:order:receiv:respect:administr:bank:post:offic:giro:account,?
+47,Wherea:determin:step:taken:food-aid:oper:implement:procedur:adjust:specif:natur:recipi:area:framework:common:polici:strategi,?
+48,suggest:recognit:distinct:fundament:effici:econom:design:stabil:test,?
+49,Develop:intern:aid:frequent:misguid:incept:disastr:catastroph:local,?
+50,notion:accept:magistr:respons:sentenc:judg:appoint:pronounc,?
